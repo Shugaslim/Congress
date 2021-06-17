@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <laws />
+    <cboCostEstimates />
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2316ih/xml/BILLS-116hr2316ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-12T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <amendments />
+    <introducedDate>2019-04-12</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-12T18:33:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-05-15T07:16:00Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-12</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2019-04-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-04-12</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2019-04-12</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>1180</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Urban Indian Health Parity Act</latestTitle>
+        <congress>116</congress>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-04-11</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <district>0</district>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <identifiers>
+          <lisID>1256</lisID>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+        </identifiers>
+        <bioguideId>Y000033</bioguideId>
+        <middleName>E.</middleName>
+        <party>R</party>
+        <lastName>YOUNG</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DON</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <identifiers>
+          <lisID>2423</lisID>
+          <bioguideId>H001080</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001080</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <lastName>Haaland</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Debra</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <bioguideId>C001053</bioguideId>
+        <middleName />
+        <party>R</party>
+        <lastName>Cole</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+        </identifiers>
+        <bioguideId>B000574</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>BLUMENAUER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>EARL</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>29</district>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <lisID>2107</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001097</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Cardenas</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tony</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>36</district>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <identifiers>
+          <lisID>2109</lisID>
+          <bioguideId>R000599</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000599</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Ruiz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>7</district>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <identifiers>
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>J000298</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Jayapal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Pramila</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <bioguideId>M001160</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gwen</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>7</district>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <identifiers>
+          <lisID>2226</lisID>
+          <gpoId />
+          <bioguideId>G000574</bioguideId>
+        </identifiers>
+        <bioguideId>G000574</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Gallego</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ruben</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Horn, Kendra S. [D-OK-5]</fullName>
+        <identifiers>
+          <lisID>2431</lisID>
+          <bioguideId>H001083</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001083</bioguideId>
+        <middleName>S.</middleName>
+        <party>D</party>
+        <lastName>Horn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kendra</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>17</district>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000389</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Khanna</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ro</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <identifiers>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+          <lisID>2096</lisID>
+        </identifiers>
+        <bioguideId>D000617</bioguideId>
+        <middleName>K.</middleName>
+        <party>D</party>
+        <lastName>DelBene</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Suzan</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>9</district>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <identifiers>
+          <gpoId>8213</gpoId>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+        </identifiers>
+        <bioguideId>S000510</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>SMITH</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ADAM</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <bioguideId>G000551</bioguideId>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <lastName>Grijalva</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Torres Small, Xochitl [D-NM-2]</fullName>
+        <identifiers>
+          <lisID>2424</lisID>
+          <bioguideId>T000484</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000484</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Torres Small</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Xochitl</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>10</district>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <identifiers>
+          <lisID>2170</lisID>
+          <bioguideId>H001064</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001064</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Heck</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Denny</firstName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <bioguideId>B001278</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Bonamici</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Suzanne</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>9</district>
+        <fullName>Rep. Stanton, Greg [D-AZ-9]</fullName>
+        <identifiers>
+          <lisID>2376</lisID>
+          <bioguideId>S001211</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001211</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Stanton</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Greg</firstName>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <createDate>2019-04-13T07:12:10Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>2316</billNumber>
+    <recordedVotes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LUJAN:H.R. 2316.Congress has the power to enact this legislation pursuantto the following:Article I Section VIII[Page H3266]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend title XIX of the Social Security Act to require a Federal medical assistance percentage of 100 percent for urban Indian organizations, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend title XIX of the Social Security Act to require a Federal medical assistance percentage of 100 percent for urban Indian organizations, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>To amend title XIX of the Social Security Act to require a Federal medical assistance percentage of 100 percent for urban Indian organizations, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Lujan</lastName>
+        <bioguideId>L000570</bioguideId>
+        <middleName>Ray</middleName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8058</gpoId>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <state>NM</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

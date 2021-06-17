@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>Ralph</firstName>
+        <state>LA</state>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <middleName>Lee</middleName>
+        <lastName>Abraham</lastName>
+        <byRequestType />
+        <district>5</district>
+        <identifiers>
+          <lisID>2244</lisID>
+          <bioguideId>A000374</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>A000374</bioguideId>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+          <systemCode>hsag03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition, Oversight, and Department Operations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <title>Income Verification Act</title>
+    <introducedDate>2019-03-05</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsag00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsag03</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-27T18:45:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-03-05T17:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-03-05T17:00:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-03-05T17:00:46Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <billType>HR</billType>
+    <updateDate>2019-03-30T07:15:25Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>1495</billNumber>
+    <textVersions>
+      <item>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1495ih/xml/BILLS-116hr1495ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>S</type>
+        <number>588</number>
+        <latestAction>
+          <actionDate>2019-02-27</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Income Verification Act</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <recordedVotes />
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <lastName>Gaetz</lastName>
+        <district>1</district>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <bioguideId>G000578</bioguideId>
+        <firstName>Matt</firstName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+        </identifiers>
+        <state>NC</state>
+        <lastName>Meadows</lastName>
+        <district>11</district>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <bioguideId>M001187</bioguideId>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7789</gpoId>
+          <lisID>1460</lisID>
+          <bioguideId>A000055</bioguideId>
+        </identifiers>
+        <state>AL</state>
+        <lastName>ADERHOLT</lastName>
+        <district>4</district>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <bioguideId>A000055</bioguideId>
+        <firstName>ROBERT</firstName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2329</lisID>
+          <gpoId />
+          <bioguideId>H001077</bioguideId>
+        </identifiers>
+        <state>LA</state>
+        <lastName>Higgins</lastName>
+        <district>3</district>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <bioguideId>H001077</bioguideId>
+        <firstName>Clay</firstName>
+      </item>
+      <item>
+        <middleName>Gregory</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2389</lisID>
+          <bioguideId>S001214</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <lastName>Steube</lastName>
+        <district>17</district>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <bioguideId>S001214</bioguideId>
+        <firstName>W.</firstName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <state>WI</state>
+        <lastName>Grothman</lastName>
+        <district>6</district>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <bioguideId>G000576</bioguideId>
+        <firstName>Glenn</firstName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <gpoId>7790</gpoId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <state>AL</state>
+        <lastName>Brooks</lastName>
+        <district>5</district>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <bioguideId>B001274</bioguideId>
+        <firstName>Mo</firstName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2049</lisID>
+          <bioguideId>G000563</bioguideId>
+          <gpoId>8108</gpoId>
+        </identifiers>
+        <state>OH</state>
+        <lastName>Gibbs</lastName>
+        <district>7</district>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <bioguideId>G000563</bioguideId>
+        <firstName>Bob</firstName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <state>SC</state>
+        <lastName>Norman</lastName>
+        <district>5</district>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <bioguideId>N000190</bioguideId>
+        <firstName>Ralph</firstName>
+      </item>
+      <item>
+        <middleName>L. "Buddy"</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-29</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2236</lisID>
+          <gpoId />
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <state>GA</state>
+        <lastName>Carter</lastName>
+        <district>1</district>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <bioguideId>C001103</bioguideId>
+        <firstName>Earl</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-03-27</actionDate>
+      <text>Referred to the Subcommittee on Nutrition, Oversight, and Department Operations.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Health</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <notes />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ABRAHAM:H.R. 1495.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, of the Constitution of the UnitedStates.[Page H2368]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <createDate>2019-03-06T08:12:09Z</createDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require State agencies to use Federal tax return information to verify income eligibility for Medicaid, the Temporary Assistance for Needy Families program, and the Supplemental Nutrition Assistance Program.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Income Verification Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Income Verification Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Income Verification Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

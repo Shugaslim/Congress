@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2562-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000598", 
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000592", 
+      "district": "9", 
+      "name": "Levin, Andy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-07", 
+  "number": "2562", 
+  "official_title": "To reauthorize title VI of the Higher Education Act of 1965.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s342-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Advancing International and Foreign Language Education Act", 
+  "sponsor": {
+    "bioguide_id": "P000523", 
+    "district": "4", 
+    "name": "Price, David E.", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-07", 
+  "subjects": [
+    "Area studies and international education", 
+    "Business education", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Education", 
+    "Education programs funding", 
+    "Foreign language and bilingual programs", 
+    "Higher education", 
+    "Minority education", 
+    "Policy sciences"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize title VI of the Higher Education Act of 1965.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advancing International and Foreign Language Education Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advancing International and Foreign Language Education Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Advancing International and Foreign Language Education Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-17T19:30:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2562.xml"
+}

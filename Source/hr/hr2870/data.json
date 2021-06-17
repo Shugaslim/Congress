@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-21", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2870-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-21", 
+  "number": "2870", 
+  "official_title": "To repeal the debt ceiling, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "F000454", 
+    "district": "11", 
+    "name": "Foster, Bill", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-21", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the debt ceiling, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To repeal the debt ceiling, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:17:34Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2870.xml"
+}

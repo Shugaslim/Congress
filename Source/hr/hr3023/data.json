@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3023-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001159", 
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-24", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-24", 
+  "number": "3023", 
+  "official_title": "To increase funding for the COPS Grant Program and the Secure Our Schools Grant Program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "D000614", 
+    "district": "7", 
+    "name": "Duffy, Sean P.", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-24", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To increase funding for the COPS Grant Program and the Secure Our Schools Grant Program, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To increase funding for the COPS Grant Program and the Secure Our Schools Grant Program, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-25T07:15:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3023.xml"
+}

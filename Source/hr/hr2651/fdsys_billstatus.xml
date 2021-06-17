@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>P000607</bioguideId>
+        <lastName>Pocan</lastName>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <firstName>Mark</firstName>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-05-09</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-09</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-09</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Food industry and services</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-05-10T07:12:12Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-09T14:01:50Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Child Nutrition Act of 1966 to clarify the availability and appropriateness of training for local food service personnel, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Improving Training for School Food Service Workers Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Improving Training for School Food Service Workers Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Improving Training for School Food Service Workers Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Improving Training for School Food Service Workers Act</title>
+    <latestAction>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+      <actionDate>2019-05-09</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <district>24</district>
+        <middleName />
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Katko</lastName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <bioguideId>K000386</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>9</district>
+        <middleName />
+        <fullName>Rep. Levin, Andy [D-MI-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Levin</lastName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <bioguideId>L000592</bioguideId>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000592</bioguideId>
+          <lisID>2408</lisID>
+        </identifiers>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>21</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Stefanik</lastName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <bioguideId>S001196</bioguideId>
+        <firstName>Elise</firstName>
+        <identifiers>
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <middleName>K.</middleName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <bioguideId>F000466</bioguideId>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <middleName>K.</middleName>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>DelBene</lastName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <bioguideId>D000617</bioguideId>
+        <firstName>Suzan</firstName>
+        <identifiers>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>5</district>
+        <middleName />
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Quigley</lastName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <bioguideId>Q000023</bioguideId>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <gpoId>7925</gpoId>
+          <lisID>1967</lisID>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Bonamici</lastName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <bioguideId>B001278</bioguideId>
+        <firstName>Suzanne</firstName>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <bioguideId>M000312</bioguideId>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-24T16:30:07Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-05-09</introducedDate>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2651ih/xml/BILLS-116hr2651ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-09T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. POCAN:H.R. 2651.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3The Congress shall have Power . . . To regulate Commercewith foreign Nations, and among the several States, and withthe Indian Tribes.[Page H3681]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2651</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

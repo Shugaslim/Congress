@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2019-02-06</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-06</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-06</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <updateDate>2019-05-08T07:16:03Z</updateDate>
+    <latestAction>
+      <actionDate>2019-02-06</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1027ih/xml/BILLS-116hr1027ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-02-06T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>1027</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Gohmert</lastName>
+        <middleName />
+        <state>TX</state>
+        <firstName>Louie</firstName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <identifiers>
+          <gpoId>8157</gpoId>
+          <bioguideId>G000552</bioguideId>
+          <lisID>1801</lisID>
+        </identifiers>
+        <bioguideId>G000552</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Estes</lastName>
+        <middleName />
+        <state>KS</state>
+        <firstName>Ron</firstName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>4</district>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000298</bioguideId>
+          <lisID>2358</lisID>
+        </identifiers>
+        <bioguideId>E000298</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Marshall</lastName>
+        <middleName>W.</middleName>
+        <state>KS</state>
+        <firstName>Roger</firstName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+        <bioguideId>M001198</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Hern</lastName>
+        <middleName />
+        <state>OK</state>
+        <firstName>Kevin</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Hern, Kevin [R-OK-1]</fullName>
+        <identifiers>
+          <bioguideId>H001082</bioguideId>
+          <lisID>2372</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001082</bioguideId>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Smith</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Jason</firstName>
+        <district>8</district>
+        <byRequestType />
+        <state>MO</state>
+        <bioguideId>S001195</bioguideId>
+        <identifiers>
+          <lisID>2191</lisID>
+          <gpoId />
+          <bioguideId>S001195</bioguideId>
+        </identifiers>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2019-02-06T15:04:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to terminate the credit for new qualified plug-in electric drive motor vehicles and to provide for a Federal highway user fee on alternative fuel vehicles.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Fairness for Every Driver Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Fairness for Every Driver Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Fairness for Every Driver Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-06</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-02-06T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-03-04T16:58:39Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Fairness for Every Driver Act </b></p> <p>This bill terminates and repeals the tax credit for new qualified plug-in electric drive motor vehicles. It also imposes a user fee on alternative fuel vehicles used in the United States and requires the fees to be transferred to the Highway Trust Fund. </p> <p>&quot;Alternative fuel vehicles&quot; include plug-in electric vehicles, fuel cell electric vehicles, and other motor vehicles propelled to a significant extent by an electric motor that draws power from any source that is not subject to certain fuel taxes. </p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-02-07T08:10:17Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Fairness for Every Driver Act</title>
+    <committeeReports />
+    <introducedDate>2019-02-06</introducedDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-02-06</actionDate>
+        </latestAction>
+        <latestTitle>Fairness for Every Driver Act</latestTitle>
+        <congress>116</congress>
+        <number>343</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Hybrid, electric, and advanced technology vehicles</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of Missouri:H.R. 1027.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 of the United StatesConstitution.[Page H1393]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

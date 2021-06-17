@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2984-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001112", 
+      "district": "24", 
+      "name": "Carbajal, Salud O.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001068", 
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000185", 
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-23", 
+  "number": "2984", 
+  "official_title": "To provide whistleblower protections to certain workers in the offshore oil and gas industry.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "D000623", 
+    "district": "11", 
+    "name": "DeSaulnier, Mark", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-23", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide whistleblower protections to certain workers in the offshore oil and gas industry.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To provide whistleblower protections to certain workers in the offshore oil and gas industry.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T07:31:33Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2984.xml"
+}

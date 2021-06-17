@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName>F.</middleName>
+        <state>PA</state>
+        <bioguideId>B001296</bioguideId>
+        <lastName>Boyle</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <firstName>Brendan</firstName>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Referred to the House Committee on Agriculture.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2019-05-23T07:12:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T14:02:30Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Animal Welfare Act to allow for the adoption or non-laboratory placement of certain animals used in Federal research, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To amend the Animal Welfare Act to allow for the adoption or non-laboratory placement of certain animals used in Federal research, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>To amend the Animal Welfare Act to allow for the adoption or non-laboratory placement of certain animals used in Federal research, and for other purposes.</title>
+    <latestAction>
+      <text>Referred to the House Committee on Agriculture.</text>
+      <links />
+      <actionDate>2019-05-22</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <lastName>Walorski</lastName>
+        <party>R</party>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Jackie</firstName>
+        <bioguideId>W000813</bioguideId>
+        <state>IN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>33</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Lieu</lastName>
+        <party>D</party>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <bioguideId>L000582</bioguideId>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>M001199</bioguideId>
+          <lisID>2322</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Mast</lastName>
+        <party>R</party>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <bioguideId>M001199</bioguideId>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <lastName>Gaetz</lastName>
+        <party>R</party>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <bioguideId>G000578</bioguideId>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2432</lisID>
+          <bioguideId>D000631</bioguideId>
+        </identifiers>
+        <lastName>Dean</lastName>
+        <party>D</party>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Madeleine</firstName>
+        <bioguideId>D000631</bioguideId>
+        <state>PA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName>D.</middleName>
+        <identifiers>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+        </identifiers>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>SANFORD</firstName>
+        <bioguideId>B000490</bioguideId>
+        <state>GA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001212</bioguideId>
+          <lisID>2415</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Stauber</lastName>
+        <party>R</party>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Pete</firstName>
+        <bioguideId>S001212</bioguideId>
+        <state>MN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>JANICE</firstName>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <state>TN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <middleName>F.</middleName>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <lastName>Lynch</lastName>
+        <party>D</party>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Stephen</firstName>
+        <bioguideId>L000562</bioguideId>
+        <state>MA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Dina</firstName>
+        <bioguideId>T000468</bioguideId>
+        <state>NV</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <lastName>Kuster</lastName>
+        <party>D</party>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <bioguideId>K000382</bioguideId>
+        <state>NH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2321</lisID>
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <lastName>Crist</lastName>
+        <party>D</party>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>Charlie</firstName>
+        <bioguideId>C001111</bioguideId>
+        <state>FL</state>
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-23T07:31:15Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-05-22</introducedDate>
+    <policyArea />
+    <committeeReports />
+    <textVersions />
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText />
+    <billNumber>2897</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

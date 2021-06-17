@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2486-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "W000819", 
+      "district": "6", 
+      "name": "Walker, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-02", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-02", 
+  "number": "2486", 
+  "official_title": "To reauthorize mandatory funding programs for historically Black colleges and universities and other minority-serving institutions.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1279-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fostering Undergraduate Talent by Unlocking Resources for Education Act", 
+  "sponsor": {
+    "bioguide_id": "A000370", 
+    "district": "12", 
+    "name": "Adams, Alma S.", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-02", 
+  "subjects": [
+    "Education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize mandatory funding programs for historically Black colleges and universities and other minority-serving institutions.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fostering Undergraduate Talent by Unlocking Resources for Education Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fostering Undergraduate Talent by Unlocking Resources for Education Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FUTURE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FUTURE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Fostering Undergraduate Talent by Unlocking Resources for Education Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-15T19:45:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2486.xml"
+}

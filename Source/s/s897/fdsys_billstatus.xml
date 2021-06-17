@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-27T17:45:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Commerce</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-27</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>CHARLES</firstName>
+        <lastName>GRASSLEY</lastName>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <middleName>ERNEST</middleName>
+        <state>IA</state>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <bioguideId>G000386</bioguideId>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <title>Family Farmer Relief Act of 2019</title>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+        <firstName>Amy</firstName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000293</bioguideId>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <lastName>Johnson</lastName>
+        <firstName>Ron</firstName>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>JOSEPH</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <lastName>LEAHY</lastName>
+        <firstName>PATRICK</firstName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000476</bioguideId>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Roland</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <lastName>Tillis</lastName>
+        <firstName>Thomas</firstName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001203</bioguideId>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <lastName>Smith</lastName>
+        <firstName>Tina</firstName>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000295</bioguideId>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <lastName>Ernst</lastName>
+        <firstName>Joni</firstName>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000300</bioguideId>
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+        </identifiers>
+        <lastName>Jones</lastName>
+        <firstName>Doug</firstName>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001089</bioguideId>
+        <state>MO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001089</bioguideId>
+          <lisID>2464</lisID>
+        </identifiers>
+        <lastName>Hawley</lastName>
+        <firstName>Josh</firstName>
+        <fullName>Sen. Hawley, Josh  [R-MO]</fullName>
+        <sponsorshipDate>2019-05-13</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000463</bioguideId>
+        <state>NE</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Fischer</lastName>
+        <firstName>Deb</firstName>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <sponsorshipDate>2019-05-13</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001061</bioguideId>
+        <state>ND</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <lastName>Hoeven</lastName>
+        <firstName>John</firstName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <sponsorshipDate>2019-05-13</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000250</bioguideId>
+        <state>SD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+        </identifiers>
+        <lastName>THUNE</lastName>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <sponsorshipDate>2019-05-13</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <lastName>Coons</lastName>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>897</billNumber>
+    <congress>116</congress>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2336</number>
+        <latestTitle>Family Farmer Relief Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-04-18</actionDate>
+          <text>Referred to the House Committee on the Judiciary.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <createDate>2019-03-28T04:42:08Z</createDate>
+    <updateDate>2019-05-15T09:18:12Z</updateDate>
+    <latestAction>
+      <actionDate>2019-03-27</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend title 11, United States Code, with respect to the definition of "family farmer".</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Family Farmer Relief Act of 2019</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Family Farmer Relief Act of 2019</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Family Farmer Relief Act of 2019</title>
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-03-27</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-03-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s897is/xml/BILLS-116s897is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

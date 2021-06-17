@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1237-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000141", 
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-30", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-30", 
+  "number": "1237", 
+  "official_title": "A bill to require the Secretary of Defense to modify the Certificate of Release or Discharge from Active Duty (DD Form 214) to include a specific block explicitly identified as the location in which a member of the Armed Forces may provide one or more email addresses by which the member may be contacted.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "DD-214 Modernization Act", 
+  "sponsor": {
+    "bioguide_id": "R000605", 
+    "district": null, 
+    "name": "Rounds, Mike", 
+    "state": "SD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-30", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Secretary of Defense to modify the Certificate of Release or Discharge from Active Duty (DD Form 214) to include a specific block explicitly identified as the location in which a member of the Armed Forces may provide one or more email addresses by which the member may be contacted.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DD-214 Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DD\u2013214 Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "DD-214 Modernization Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-11T09:22:25Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1237.xml"
+}

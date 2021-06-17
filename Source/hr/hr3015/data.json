@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3015-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000598", 
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001196", 
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-23", 
+  "number": "3015", 
+  "official_title": "To amend title 10, United States Code, to enhance the prevention of sexual assault and related offenses in the Armed Forces, to enhance protections of victims of such offenses, to improve the investigation and prosecution of such offenses, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "T000463", 
+    "district": "10", 
+    "name": "Turner, Michael R.", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-23", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to enhance the prevention of sexual assault and related offenses in the Armed Forces, to enhance protections of victims of such offenses, to improve the investigation and prosecution of such offenses, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to enhance the prevention of sexual assault and related offenses in the Armed Forces, to enhance protections of victims of such offenses, to improve the investigation and prosecution of such offenses, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T07:31:37Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3015.xml"
+}

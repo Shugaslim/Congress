@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-05-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Older Americans Act of 1965 to support healthy aging and age-friendly communities.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Older Americans Act of 1965 to support healthy aging and age-friendly communities.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <committeeReports />
+    <updateDate>2019-05-17T04:47:49Z</updateDate>
+    <createDate>2019-05-17T04:42:09Z</createDate>
+    <notes />
+    <amendments />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <state>AR</state>
+        <party>R</party>
+        <bioguideId>B001236</bioguideId>
+        <lastName>Boozman</lastName>
+        <middleName />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billNumber>1536</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-16T20:56:38Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <policyArea />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2019-05-16</actionDate>
+    </latestAction>
+    <title>A bill to amend the Older Americans Act of 1965 to support healthy aging and age-friendly communities.</title>
+    <introducedDate>2019-05-16</introducedDate>
+    <textVersions />
+    <sponsors>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <state>MI</state>
+        <middleName>C.</middleName>
+        <byRequestType />
+        <party>D</party>
+        <lastName>Peters</lastName>
+        <firstName>Gary</firstName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

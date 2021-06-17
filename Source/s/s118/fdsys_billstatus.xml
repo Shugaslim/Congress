@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sssb00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-05-15T18:30:00Z</date>
+              <name>Hearings by</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-01-15T17:03:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business education</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <actions>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <systemCode>sssb00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-15</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2019-01-15</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <state>DE</state>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <bioguideId>C001088</bioguideId>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <title>Innovators to Entrepreneurs Act of 2019</title>
+    <cosponsors>
+      <item>
+        <firstName>Todd</firstName>
+        <lastName>Young</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7948</gpoId>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <state>IN</state>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <bioguideId>Y000064</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>118</billNumber>
+    <congress>116</congress>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <number>539</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Innovators to Entrepreneurs Act of 2019</latestTitle>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2019-02-26</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <createDate>2019-01-16T05:40:17Z</createDate>
+    <updateDate>2019-05-16T05:31:26Z</updateDate>
+    <latestAction>
+      <actionDate>2019-05-15</actionDate>
+      <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to require the Director of the National Science Foundation to develop an I-Corps course to support commercialization-ready innovation companies, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Innovators to Entrepreneurs Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Innovators to Entrepreneurs Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Innovators to Entrepreneurs Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-01-15</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-01-15T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s118is/xml/BILLS-116s118is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDate>2019-01-15</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-15T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-26T22:50:55Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Innovators to Entrepreneurs Act of 2019</b> </p> <p>This bill expands eligibility for the Innovation Corps (I-Corps) program and requires development of an I-Corps course to support commercialization-ready participants.</p> <p> The bill requires the National Science Foundation (NSF) to allow grantees of the Small Business Innovation Research (SBIR) Program and other entities to participate in I-Corps courses. The cost of participation by such a grantee in a course may be furnished</p> <ul> <li>through I-Corps Teams grants,</li> <li>through funds awarded to grantees under the SBIR Program or the Small Business Technology Transfer (STTR) Program,</li> <li>by the grantor federal agency using funds set aside for the SBIR and STTR Programs, or </li> <li>by the participating teams.</li> </ul> <p>The NSF shall develop an I-Corps course, to be offered by I-Corps regional nodes, to support commercialization-ready participants. The course shall support participants that have completed an I-Corps course and participants that have made the decision to market an innovation.</p> <p>The Government Accountability Office shall report on the I-Corps Program, including by assessing the effects of the I-Corps on the commercialization of federally funded research and development, the higher education system, regional economies, and the national economy.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1110</billNumber>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-08</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2019-02-09T08:10:16Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-02-08T14:00:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-25T13:43:15Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <committeeReports />
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Empowering Law Enforcement to Fight Sex Trafficking Demand Act of 2019</b></p> <p>This bill allows grants under the Edward Byrne Memorial Justice Assistance Grant program to be used for programs to combat human trafficking.</p>]]></text>
+          <updateDate>2019-02-08T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-02-08</actionDate>
+          <lastSummaryUpdateDate>2019-03-07T23:55:37Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. HARTZLER:H.R. 1110.Congress has the power to enact this legislation pursuantto the following:Clauses 1 and 3 of Article I, Section 8 of the UnitedStates Constitution.[Page H1493]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>Hartzler</lastName>
+        <bioguideId>H001053</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8012</gpoId>
+          <lisID>2032</lisID>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+        <firstName>Vicky</firstName>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <district>4</district>
+        <party>R</party>
+        <state>MO</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <firstName>Karen</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001270</bioguideId>
+        <district>37</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <lastName>Bass</lastName>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+          <lisID>1996</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <state>MO</state>
+        <firstName>WM.</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001049</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <lastName>CLAY</lastName>
+        <identifiers>
+          <gpoId>8009</gpoId>
+          <lisID>1654</lisID>
+          <bioguideId>C001049</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <party>D</party>
+        <middleName>LACY</middleName>
+      </item>
+      <item>
+        <state>OH</state>
+        <firstName>STEVE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000266</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <lastName>CHABOT</lastName>
+        <identifiers>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+      </item>
+      <item>
+        <state>MN</state>
+        <firstName>Pete</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001212</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <lastName>Stauber</lastName>
+        <identifiers>
+          <bioguideId>S001212</bioguideId>
+          <lisID>2415</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1110ih/xml/BILLS-116hr1110ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Empowering Law Enforcement to Fight Sex Trafficking Demand Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Omnibus Crime Control and Safe Streets Act of 1968 to include an additional permissible use of amounts provided as grants under the Byrne JAG program, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Empowering Law Enforcement to Fight Sex Trafficking Demand Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Empowering Law Enforcement to Fight Sex Trafficking Demand Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-27T07:13:40Z</updateDate>
+    <recordedVotes />
+    <congress>116</congress>
+    <introducedDate>2019-02-08</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-03-25</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <links />
+    </latestAction>
+    <title>Empowering Law Enforcement to Fight Sex Trafficking Demand Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,151 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1147-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001205", 
+      "district": "3", 
+      "name": "Miller, Carol D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-11", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001195", 
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-11", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000483", 
+      "district": "6", 
+      "name": "Trone, David J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-11", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-11", 
+  "number": "1147", 
+  "official_title": "To establish the Appalachian Forest National Heritage Area, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Appalachian Forest National Heritage Area Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "M001180", 
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-11", 
+  "subjects": [
+    "Coal", 
+    "Economic development", 
+    "Forests, forestry, trees", 
+    "Historic sites and heritage areas", 
+    "Land use and conservation", 
+    "Mining", 
+    "Public lands and natural resources", 
+    "West Virginia"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Appalachian Forest National Heritage Area, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Appalachian Forest National Heritage Area Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Appalachian Forest National Heritage Area Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Appalachian Forest National Heritage Area Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-05T08:12:24Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1147.xml"
+}

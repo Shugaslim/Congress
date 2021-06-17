@@ -1,0 +1,100 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2306-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-12", 
+  "number": "2306", 
+  "official_title": "To amend titles XI and XIX of the Social Security Act to strengthen the Medicaid program in Puerto Rico, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Puerto Rico Medicaid Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "G000582", 
+    "district": null, 
+    "name": "Gonzalez-Colon, Jenniffer", 
+    "state": "PR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-12", 
+  "subjects": [
+    "Caribbean area", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Medicaid", 
+    "Puerto Rico", 
+    "State and local finance", 
+    "U.S. territories and protectorates"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend titles XI and XIX of the Social Security Act to strengthen the Medicaid program in Puerto Rico, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Puerto Rico Medicaid Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Puerto Rico Medicaid Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Puerto Rico Medicaid Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T16:30:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2306.xml"
+}

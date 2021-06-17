@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2952-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000377", 
+      "district": null, 
+      "name": "Armstrong, Kelly", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "ND", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000601", 
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000800", 
+      "district": null, 
+      "name": "Welch, Peter", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "VT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-23", 
+  "number": "2952", 
+  "official_title": "To amend title 10, United States Code, to authorize concurrent use of Department of Defense Tuition Assistance and Montgomery GI Bill-Selected Reserve benefits, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "R000577", 
+    "district": "13", 
+    "name": "Ryan, Tim", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-23", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to authorize concurrent use of Department of Defense Tuition Assistance and Montgomery GI Bill-Selected Reserve benefits, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to authorize concurrent use of Department of Defense Tuition Assistance and Montgomery GI Bill-Selected Reserve benefits, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T07:31:29Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2952.xml"
+}

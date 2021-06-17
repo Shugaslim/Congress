@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to improve the integrity and safety of interstate horseracing, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to improve the integrity and safety of interstate horseracing, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-05-15</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S2889-2890)</text>
+      <links />
+    </latestAction>
+    <createDate>2019-05-16T04:57:12Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S2889-2890</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2889-2890</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S2889-2890)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-05-15</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-16T14:27:09Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-15T20:07:44Z</date>
+            </item>
+          </activities>
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <version>1.0.0</version>
+    <relatedBills />
+    <policyArea />
+    <textVersions />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <title>A bill to improve the integrity and safety of interstate horseracing, and for other purposes.</title>
+    <notes />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <lastName>UDALL</lastName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <state>NM</state>
+        <bioguideId>U000039</bioguideId>
+        <firstName>TOM</firstName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <middleName />
+        <party>D</party>
+        <lastName>WYDEN</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <state>OR</state>
+        <bioguideId>W000779</bioguideId>
+      </item>
+    </cosponsors>
+    <laws />
+    <introducedDate>2019-05-15</introducedDate>
+    <billNumber>1488</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

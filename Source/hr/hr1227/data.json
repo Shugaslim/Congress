@@ -1,0 +1,170 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1227-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001257", 
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001109", 
+      "district": null, 
+      "name": "Cheney, Liz", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "WY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001078", 
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000628", 
+      "district": "2", 
+      "name": "Dunn, Neal P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-25", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000582", 
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-19", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001210", 
+      "district": "15", 
+      "name": "Spano, Ross", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-14", 
+  "number": "1227", 
+  "official_title": "To amend the Public Health Service Act to clarify liability protections regarding emergency use of automated external defibrillators.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Cardiac Arrest Survival Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "O000168", 
+    "district": "22", 
+    "name": "Olson, Pete", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-14", 
+  "subjects": [
+    "Cardiovascular and respiratory health", 
+    "Civil actions and liability", 
+    "Emergency medical services and trauma care", 
+    "Health", 
+    "Health care quality", 
+    "Health technology, devices, supplies"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to clarify liability protections regarding emergency use of automated external defibrillators.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cardiac Arrest Survival Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cardiac Arrest Survival Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Cardiac Arrest Survival Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-04T07:15:35Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1227.xml"
+}

@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1308-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001257", 
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-15", 
+  "number": "1308", 
+  "official_title": "To amend the Federal Election Campaign Act of 1971 to provide for a limitation on the time for the use of contributions or donations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Let It Go Act", 
+  "sponsor": {
+    "bioguide_id": "T000472", 
+    "district": "41", 
+    "name": "Takano, Mark", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-15", 
+  "subjects": [
+    "Charitable contributions", 
+    "Congressional elections", 
+    "Elections, voting, political campaign regulation", 
+    "Government operations and politics", 
+    "Political parties and affiliation", 
+    "Public participation and lobbying"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Election Campaign Act of 1971 to provide for a limitation on the time for the use of contributions or donations, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Let It Go Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Let It Go Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Let It Go Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-02T16:45:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1308.xml"
+}

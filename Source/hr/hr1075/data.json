@@ -1,0 +1,163 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1075-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001304", 
+      "district": "4", 
+      "name": "Brown, Anthony G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000576", 
+      "district": "2", 
+      "name": "Ruppersberger, C. A. Dutch", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001168", 
+      "district": "3", 
+      "name": "Sarbanes, John P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000483", 
+      "district": "6", 
+      "name": "Trone, David J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-07", 
+  "number": "1075", 
+  "official_title": "To amend the Higher Education Act of 1965 to amend the process by which students with certain special circumstances apply for Federal financial aid.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1346-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s416-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "FAFSA Fairness Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C000984", 
+    "district": "7", 
+    "name": "Cummings, Elijah E.", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-07", 
+  "subjects": [
+    "Education", 
+    "Government information and archives", 
+    "Government lending and loan guarantees", 
+    "Higher education", 
+    "School administration", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965 to amend the process by which students with certain special circumstances apply for Federal financial aid.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FAFSA Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FAFSA Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "FAFSA Fairness Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:15:46Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1075.xml"
+}

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1509</billNumber>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-05</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-05</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2019-03-06T08:12:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-05T17:04:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>SAFE Lending Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-05</actionDate>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>656</number>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BONAMICI:H.R. 1509.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H2369]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>Bonamici</lastName>
+        <bioguideId>B001278</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+        </identifiers>
+        <firstName>Suzanne</firstName>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <district>1</district>
+        <party>D</party>
+        <state>OR</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <state>MD</state>
+        <firstName>ELIJAH</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000984</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <lastName>CUMMINGS</lastName>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>D</party>
+        <middleName>E.</middleName>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1509ih/xml/BILLS-116hr1509ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <title>To amend the Truth in Lending Act to address certain issues relating to the extension of consumer credit, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Stopping Abuse and Fraud in Electronic Lending Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>SAFE Lending Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>SAFE Lending Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Stopping Abuse and Fraud in Electronic Lending Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>SAFE Lending Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-26T18:15:07Z</updateDate>
+    <recordedVotes />
+    <congress>116</congress>
+    <introducedDate>2019-03-05</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-03-05</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+    <title>SAFE Lending Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

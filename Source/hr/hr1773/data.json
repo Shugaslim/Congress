@@ -1,0 +1,378 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1773-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001296", 
+      "district": "2", 
+      "name": "Boyle, Brendan F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-18", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001123", 
+      "district": "39", 
+      "name": "Cisneros, Gilbert Ray, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000623", 
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000482", 
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001082", 
+      "district": "1", 
+      "name": "Hern, Kevin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001083", 
+      "district": "5", 
+      "name": "Horn, Kendra S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001068", 
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000009", 
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-18", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000389", 
+      "district": "17", 
+      "name": "Khanna, Ro", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000551", 
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000563", 
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-03", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000179", 
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000614", 
+      "district": "1", 
+      "name": "Pappas, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-03", 
+      "state": "NH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000486", 
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-08", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001201", 
+      "district": "3", 
+      "name": "Suozzi, Thomas R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000460", 
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-18", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000824", 
+      "district": "2", 
+      "name": "Watkins, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-14", 
+  "number": "1773", 
+  "official_title": "To award a Congressional Gold Medal, collectively, to the women in the United States who joined the workforce during World War II, providing the aircraft, vehicles, weaponry, ammunition and other material to win the war, that were referred to as \"Rosie the Riveter\", in recognition of their contributions to the United States and the inspiration they have provided to ensuing generations.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s892-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Rosie the Riveter Congressional Gold Medal Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S001175", 
+    "district": "14", 
+    "name": "Speier, Jackie", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-14", 
+  "subjects": [
+    "Conflicts and wars", 
+    "Congressional tributes", 
+    "District of Columbia", 
+    "Labor and employment", 
+    "Manufacturing", 
+    "Museums, exhibitions, cultural centers", 
+    "Smithsonian Institution", 
+    "Social work, volunteer service, charitable organizations", 
+    "U.S. history", 
+    "Women's employment"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To award a Congressional Gold Medal, collectively, to the women in the United States who joined the workforce during World War II, providing the aircraft, vehicles, weaponry, ammunition and other material to win the war, that were referred to as \"Rosie the Riveter\", in recognition of their contributions to the United States and the inspiration they have provided to ensuing generations.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rosie the Riveter Congressional Gold Medal Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rosie the Riveter Congressional Gold Medal Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Rosie the Riveter Congressional Gold Medal Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T07:15:52Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1773.xml"
+}

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-07T08:12:23Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-08</actionDate>
+        <committee>
+          <name>Readiness Subcommittee</name>
+          <systemCode>hsas03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committees on Energy and Commerce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-06</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committees on Energy and Commerce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-06</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committees on Energy and Commerce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-06</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-03-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-03-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>3</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-06T15:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-08T16:04:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Readiness Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-06T15:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-07T16:38:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water Resources and Environment Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-06T15:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <lastName>Haaland</lastName>
+        <middleName>A.</middleName>
+        <district>1</district>
+        <state>NM</state>
+        <bioguideId>H001080</bioguideId>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2423</lisID>
+          <bioguideId>H001080</bioguideId>
+        </identifiers>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <firstName>Debra</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Torres Small</lastName>
+        <middleName />
+        <district>2</district>
+        <state>NM</state>
+        <bioguideId>T000484</bioguideId>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000484</bioguideId>
+          <lisID>2424</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Torres Small, Xochitl [D-NM-2]</fullName>
+        <firstName>Xochitl</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LUJAN:H.R. 1567.Congress has the power to enact this legislation pursuantto the following:Article I Section VIII[Page H2505]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-03-08</actionDate>
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1567</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>675</number>
+        <latestTitle>Prompt and Fast Action to Stop Damages Act of 2019</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+          <actionDate>2019-03-06</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-12T20:00:08Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural conservation and pollution</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To authorize the Department of Defense to temporarily provide water uncontaminated with perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate (PFOS) for agricultural purposes to areas affected by contamination from military installations, and to authorize the Secretary of the Air Force to acquire real property to extend the contiguous geographic footprint of any Air Force base that has shown signs of contamination from PFOA and PFOS due to activities on the base, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Prompt and Fast Action to Stop Damages Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Prompt and Fast Action to Stop Damages Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Prompt and Fast Action to Stop Damages Act of 2019</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-03-06</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Lujan</lastName>
+        <state>NM</state>
+        <district>3</district>
+        <party>D</party>
+        <byRequestType />
+        <firstName>Ben</firstName>
+        <bioguideId>L000570</bioguideId>
+        <middleName>Ray</middleName>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <identifiers>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+          <gpoId>8058</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Prompt and Fast Action to Stop Damages Act of 2019</title>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1567ih/xml/BILLS-116hr1567ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

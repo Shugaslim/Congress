@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <bioguideId>B001288</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2019-05-07</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-07</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-05-08T04:42:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-07T19:33:20Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Higher Education Act of 1965 to require the Secretary to provide for the use of data from the second preceding tax year to carry out the simplification of applications for the estimation and determination of financial aid eligibility, to increase the income threshold to qualify for a student aid index equal to or less than zero, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Simplifying Financial Aid for Students Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Simplifying Financial Aid for Students Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Simplifying Financial Aid for Students Act of 2019</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Simplifying Financial Aid for Students Act of 2019</title>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2019-05-07</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Merkley</lastName>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Catherine</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cortez Masto</lastName>
+        <middleName />
+        <bioguideId>C001113</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kirsten</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gillibrand</lastName>
+        <middleName>E.</middleName>
+        <bioguideId>G000555</bioguideId>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-05-07</introducedDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1346is/xml/BILLS-116s1346is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-07T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <latestTitle>Early Pell Promise Act</latestTitle>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2019-05-08</actionDate>
+        </latestAction>
+        <number>1364</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+      </item>
+      <item>
+        <latestTitle>FAFSA Fairness Act of 2019</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Education and Labor.</text>
+          <actionDate>2019-02-07</actionDate>
+        </latestAction>
+        <number>1075</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+      </item>
+      <item>
+        <latestTitle>Student Aid Simplification Act</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-01-17</actionDate>
+        </latestAction>
+        <number>640</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <updateDate>2019-05-22T20:45:07Z</updateDate>
+    <billNumber>1346</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

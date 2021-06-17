@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2026-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-02", 
+  "number": "2026", 
+  "official_title": "To address the needs of individuals with disabilities within the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s984-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Safe Equitable Campus Resources and Education Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000624", 
+    "district": "12", 
+    "name": "Dingell, Debbie", 
+    "state": "MI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-02", 
+  "subjects": [
+    "Disability and paralysis", 
+    "Domestic violence and child abuse", 
+    "Education", 
+    "Government information and archives", 
+    "Hearing, speech, and vision care", 
+    "Higher education", 
+    "Law enforcement officers", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To address the needs of individuals with disabilities within the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Equitable Campus Resources and Education Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Equitable Campus Resources and Education Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Safe Equitable Campus Resources and Education Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-19T00:15:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2026.xml"
+}

@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionCode>H38800</actionCode>
+        <text>The title of the measure was amended. Agreed to without objection.</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>17:46:10</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>17:46:05</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionCode>H37300</actionCode>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2062)</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2062</url>
+            <name>H2062</name>
+          </link>
+        </links>
+        <actionTime>17:46:00</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2062)</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>17:46:00</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1235.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/1235</url>
+            <name>H.R. 1235</name>
+          </link>
+        </links>
+        <actionTime>17:35:39</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered under suspension of the rules. (consideration: CR H2062-2064)</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2062-2064</url>
+            <name>H2062-2064</name>
+          </link>
+        </links>
+        <actionTime>17:35:22</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionCode>H30300</actionCode>
+        <text>Mr. Connolly moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>17:34:26</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <generalDebate>1</generalDebate>
+        <amendingTheTitleOfAnActWithoutObjection>1</amendingTheTitleOfAnActWithoutObjection>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <createDate>2019-02-15T08:10:16Z</createDate>
+    <notes />
+    <amendments />
+    <introducedDate>2019-02-14</introducedDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>MSPB Temporary Term Extension Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Official Titles as Amended by House</titleType>
+        <title>To provide that the term of office of certain members of the Merit Systems Protection Board shall be extended by a period of  1 year, and for other purposes.</title>
+        <parentTitleType>Official Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>MSPB Temporary Term Extension Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide that the term of office of certain members of the Merit Systems Protection Board shall be extended by a period of 1 year, to limit such members from concurrently holding positions within the Federal Government, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>MSPB Temporary Term Extension Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>MSPB Temporary Term Extension Act</title>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>MSPB Temporary Term Extension Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CUMMINGS:H.R. 1235.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the Constitution of theUnited States grants Congress the power to enact this law.[Page H2033]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1235</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-26T20:39:41Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssga00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-14T15:03:45Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <identifiers>
+          <gpoId>7982</gpoId>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <bioguideId>C000984</bioguideId>
+        <byRequestType />
+        <firstName>ELIJAH</firstName>
+        <district>7</district>
+        <state>MD</state>
+        <lastName>CUMMINGS</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-04-04T22:18:41Z</updateDate>
+    <committeeReports />
+    <laws />
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2019-02-26</actionDate>
+      <links />
+    </latestAction>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-02-14T05:00:00Z</updateDate>
+          <actionDate>2019-02-14</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-03-13T14:40:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>MSPB Temporary Term Extension Act</b></p> <p>This bill extends for one year the term of office of an individual who is currently serving as a member of the Merit Systems Protection Board.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <updateDate>2019-02-25T15:04:03Z</updateDate>
+          <actionDate>2019-02-25</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2019-03-14T13:26:42Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>MSPB Temporary Term Extension Act</b></p> <p>This bill extends for one year the term of office of an individual who is currently serving as a member of the Merit Systems Protection Board.</p>]]></text>
+          <versionCode>53</versionCode>
+          <name>Passed House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2019-02-26T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1235rfs/xml/BILLS-116hr1235rfs.xml</url>
+          </item>
+        </formats>
+        <type>Referred in Senate</type>
+      </item>
+      <item>
+        <date>2019-02-25T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1235eh/xml/BILLS-116hr1235eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <date>2019-02-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1235ih/xml/BILLS-116hr1235ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+      </item>
+      <item>
+        <firstName>DON</firstName>
+        <lastName>YOUNG</lastName>
+        <bioguideId>Y000033</bioguideId>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <state>AK</state>
+        <identifiers>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+      </item>
+      <item>
+        <firstName>Elaine</firstName>
+        <lastName>Luria</lastName>
+        <bioguideId>L000591</bioguideId>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>G.</middleName>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>L000591</bioguideId>
+          <lisID>2453</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <title>MSPB Temporary Term Extension Act</title>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Merit Systems Protection Board</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

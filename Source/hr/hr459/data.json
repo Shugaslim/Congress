@@ -1,0 +1,144 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr459-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000597", 
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "ME", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-10", 
+  "number": "459", 
+  "official_title": "To clarify the boundary of Acadia National Park, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s47-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s101-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Acadia National Park Boundary Clarification Act", 
+  "sponsor": {
+    "bioguide_id": "G000592", 
+    "district": "2", 
+    "name": "Golden, Jared", 
+    "state": "ME", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-10", 
+  "subjects": [
+    "Advisory bodies", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Maine", 
+    "Marine and coastal resources, fisheries", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Solid waste and recycling"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Acadia National Park Boundary Clarification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Acadia National Park Boundary Clarification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To clarify the boundary of Acadia National Park, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Acadia National Park Boundary Clarification Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-13T17:31:43Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr459.xml"
+}

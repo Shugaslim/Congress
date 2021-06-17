@@ -1,0 +1,162 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Education and Labor, and in addition to the Committees on Ways and Means, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Education and Labor, and in addition to the Committees on Ways and Means, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Education and Labor, and in addition to the Committees on Ways and Means, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr231-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001087", 
+      "district": "25", 
+      "name": "Hill, Katie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001085", 
+      "district": "6", 
+      "name": "Houlahan, Chrissy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000248", 
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-03", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "231", 
+  "official_title": "To amend the Higher Education Act of 1965 to provide loan deferment and loan cancellation for founders and employees of small business start-ups, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Supporting America's Young Entrepreneurs Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "V000081", 
+    "district": "7", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Education", 
+    "Minority and disadvantaged businesses", 
+    "Small business", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965 to provide loan deferment and loan cancellation for founders and employees of small business start-ups, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting America's Young Entrepreneurs Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting America\u2019s Young Entrepreneurs Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Supporting America's Young Entrepreneurs Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-01T07:16:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr231.xml"
+}

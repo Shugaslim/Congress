@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links>
+          <link>
+            <name>H2004</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2004</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR H2004)</text>
+        <actionDate>2019-02-14</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <updateDate>2019-05-11T07:15:24Z</updateDate>
+    <latestAction>
+      <actionDate>2019-02-14</actionDate>
+      <text>Sponsor introductory remarks on measure. (CR H2004)</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-29T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr832ih/xml/BILLS-116hr832ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>832</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>PETERSON</lastName>
+        <state>MN</state>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <firstName>COLLIN</firstName>
+        <middleName>C.</middleName>
+        <bioguideId>P000258</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <lastName>Meuser</lastName>
+        <state>PA</state>
+        <fullName>Rep. Meuser, Daniel [R-PA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2434</lisID>
+          <bioguideId>M001204</bioguideId>
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <middleName />
+        <bioguideId>M001204</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Smucker</lastName>
+        <state>PA</state>
+        <fullName>Rep. Smucker, Lloyd [R-PA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001199</bioguideId>
+          <lisID>2346</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Lloyd</firstName>
+        <middleName />
+        <bioguideId>S001199</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Stefanik</lastName>
+        <state>NY</state>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Elise</firstName>
+        <middleName>M.</middleName>
+        <bioguideId>S001196</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Collins</lastName>
+        <state>NY</state>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001092</bioguideId>
+          <lisID>2151</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Chris</firstName>
+        <middleName />
+        <bioguideId>C001092</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Davis</lastName>
+        <state>IL</state>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Rodney</firstName>
+        <middleName />
+        <bioguideId>D000619</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Joyce</lastName>
+        <state>PA</state>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2435</lisID>
+          <bioguideId>J000302</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>J000302</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Conaway</lastName>
+        <state>TX</state>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <lisID>1805</lisID>
+          <gpoId>8167</gpoId>
+          <bioguideId>C001062</bioguideId>
+        </identifiers>
+        <firstName>K.</firstName>
+        <middleName>Michael</middleName>
+        <bioguideId>C001062</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <state>PA</state>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>16</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <middleName />
+        <bioguideId>K000376</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Reschenthaler</lastName>
+        <state>PA</state>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000610</bioguideId>
+          <lisID>2436</lisID>
+        </identifiers>
+        <firstName>Guy</firstName>
+        <middleName />
+        <bioguideId>R000610</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>King</lastName>
+        <state>IA</state>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <middleName />
+        <bioguideId>K000362</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Brindisi</lastName>
+        <state>NY</state>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>22</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2429</lisID>
+          <bioguideId>B001308</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Anthony</firstName>
+        <middleName />
+        <bioguideId>B001308</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <lastName>Marshall</lastName>
+        <state>KS</state>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+        <firstName>Roger</firstName>
+        <middleName>W.</middleName>
+        <bioguideId>M001198</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Perry</lastName>
+        <state>PA</state>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <lisID>2157</lisID>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <middleName />
+        <bioguideId>P000605</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Duffy</lastName>
+        <state>WI</state>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2072</lisID>
+          <bioguideId>D000614</bioguideId>
+          <gpoId>8220</gpoId>
+        </identifiers>
+        <firstName>Sean</firstName>
+        <middleName>P.</middleName>
+        <bioguideId>D000614</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Smith</lastName>
+        <state>NE</state>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <identifiers>
+          <gpoId>8040</gpoId>
+          <lisID>1860</lisID>
+          <bioguideId>S001172</bioguideId>
+        </identifiers>
+        <firstName>Adrian</firstName>
+        <middleName />
+        <bioguideId>S001172</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Delgado</lastName>
+        <state>NY</state>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000630</bioguideId>
+          <lisID>2428</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Antonio</firstName>
+        <middleName />
+        <bioguideId>D000630</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <lastName>Roe</lastName>
+        <state>TN</state>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <firstName>David</firstName>
+        <middleName>P.</middleName>
+        <bioguideId>R000582</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Grothman</lastName>
+        <state>WI</state>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Glenn</firstName>
+        <middleName />
+        <bioguideId>G000576</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Gallagher</lastName>
+        <state>WI</state>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+        <middleName />
+        <bioguideId>G000579</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Maloney</lastName>
+        <state>NY</state>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Sean</firstName>
+        <middleName>Patrick</middleName>
+        <bioguideId>M001185</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <lastName>Rouzer</lastName>
+        <state>NC</state>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2256</lisID>
+          <gpoId />
+          <bioguideId>R000603</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+        <middleName />
+        <bioguideId>R000603</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Hagedorn</lastName>
+        <state>MN</state>
+        <fullName>Rep. Hagedorn, Jim [R-MN-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001088</bioguideId>
+          <lisID>2411</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jim</firstName>
+        <middleName />
+        <bioguideId>H001088</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Craig</lastName>
+        <state>MN</state>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001119</bioguideId>
+          <lisID>2412</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Angie</firstName>
+        <middleName />
+        <bioguideId>C001119</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <lastName>SENSENBRENNER</lastName>
+        <state>WI</state>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <firstName>F.</firstName>
+        <middleName>JAMES</middleName>
+        <bioguideId>S000244</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Thompson</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Glenn</firstName>
+        <district>15</district>
+        <byRequestType />
+        <state>PA</state>
+        <bioguideId>T000467</bioguideId>
+        <identifiers>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <fullName>Rep. Thompson, Glenn [R-PA-15]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-01-29T15:00:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Richard B. Russell National School Lunch Act to allow schools that participate in the school lunch program under such Act to serve whole milk.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Whole Milk for Healthy Kids Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Whole Milk for Healthy Kids Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Whole Milk for Healthy Kids Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-01-30T08:10:17Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Whole Milk for Healthy Kids Act of 2019</title>
+    <committeeReports />
+    <introducedDate>2019-01-29</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H1283-H1284]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THOMPSON of Pennsylvania:H.R. 832.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8 of the United StatesConstitution which gives Congress the power ``to regulateCommerce with foreign Nations, and among the[[Page H1284]]several states, and within the Indian Tribes.''</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

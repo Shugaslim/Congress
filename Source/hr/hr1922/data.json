@@ -1,0 +1,167 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1922-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-16", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-02", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000585", 
+      "district": "18", 
+      "name": "LaHood, Darin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-27", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001188", 
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-27", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000813", 
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-27", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-27", 
+  "number": "1922", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to include certain over-the-counter medical products as qualified medical expenses.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1846-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1332-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Restoring Access to Medication Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "K000188", 
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-27", 
+  "subjects": [
+    "Health care costs and insurance", 
+    "Health technology, devices, supplies", 
+    "Income tax deductions", 
+    "Income tax exclusion", 
+    "Taxation", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-03-27T04:00:00Z", 
+    "text": "Restoring Access to Medication Act of 2019\n\nThis bill repeals provisions of the Internal Revenue Code, as added by the Patient Protection and Affordable Care Act, that limit payments for medications from health savings accounts, medical savings accounts, health flexible spending arrangements, and health reimbursement arrangements to only prescription drugs or insulin (thus allowing distributions from such accounts for over-the-counter drugs). The bill also allows the accounts to be used for menstrual care products."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to include certain over-the-counter medical products as qualified medical expenses.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restoring Access to Medication Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restoring Access to Medication Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Restoring Access to Medication Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T14:15:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1922.xml"
+}

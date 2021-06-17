@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Conservation and Forestry.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1563-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Conservation and Forestry", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-06", 
+  "number": "1563", 
+  "official_title": "To direct the Secretary of Agriculture to release certain reversionary interests of the United States in and to a parcel of land located in Henderson, Tennessee.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s644-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Chester County Reversionary Interest Release Act", 
+  "sponsor": {
+    "bioguide_id": "G000590", 
+    "district": "7", 
+    "name": "Green, Mark E.", 
+    "state": "TN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-06", 
+  "subjects": [
+    "Forests, forestry, trees", 
+    "Government buildings, facilities, and property", 
+    "Land transfers", 
+    "Public lands and natural resources", 
+    "Tennessee"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Agriculture to release certain reversionary interests of the United States in and to a parcel of land located in Henderson, Tennessee.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Chester County Reversionary Interest Release Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Chester County Reversionary Interest Release Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Chester County Reversionary Interest Release Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-29T20:15:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1563.xml"
+}

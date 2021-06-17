@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <laws />
+    <amendments />
+    <introducedDate>2019-04-11</introducedDate>
+    <notes />
+    <recordedVotes />
+    <policyArea />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-04-11T21:06:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <firstName>ROB</firstName>
+        <middleName />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <byRequestType />
+        <state>OH</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <bioguideId>P000449</bioguideId>
+        <lastName>PORTMAN</lastName>
+      </item>
+    </sponsors>
+    <congress>116</congress>
+    <title>Federal Advisory Committee Act Amendments of 2019</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Federal Advisory Committee Act to increase the transparency of Federal advisory committees, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Federal Advisory Committee Act Amendments of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Federal Advisory Committee Act Amendments of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Federal Advisory Committee Act Amendments of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <updateDate>2019-05-01T04:28:35Z</updateDate>
+    <billNumber>1220</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <lastName>Hassan</lastName>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <state>NH</state>
+        <firstName>Margaret</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>Wood</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1220is/xml/BILLS-116s1220is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-04-11</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <createDate>2019-04-12T04:57:11Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-04-11</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

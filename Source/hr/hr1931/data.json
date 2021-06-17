@@ -1,0 +1,297 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Intelligence and Counterterrorism.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-03", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1931-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Intelligence and Counterterrorism", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000754", 
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001110", 
+      "district": "46", 
+      "name": "Correa, J. Luis", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000610", 
+      "district": "22", 
+      "name": "Deutch, Theodore E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000581", 
+      "district": "15", 
+      "name": "Gonzalez, Vicente", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-27", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001083", 
+      "district": "5", 
+      "name": "Horn, Kendra S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-25", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000385", 
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-27", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001203", 
+      "district": "7", 
+      "name": "Malinowski, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000602", 
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-27", 
+  "number": "1931", 
+  "official_title": "To authorize dedicated domestic terrorism offices within the Department of Homeland Security, the Department of Justice, and the Federal Bureau of Investigation to analyze and monitor domestic terrorist activity and require the Federal Government to take steps to prevent domestic terrorism.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s894-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Domestic Terrorism Prevention Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S001190", 
+    "district": "10", 
+    "name": "Schneider, Bradley Scott", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-27", 
+  "subjects": [
+    "Congressional oversight", 
+    "Crime prevention", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Department of Homeland Security", 
+    "Department of Justice", 
+    "Emergency management", 
+    "Executive agency funding and structure", 
+    "Federal Bureau of Investigation (FBI)", 
+    "Hate crimes", 
+    "Intergovernmental relations", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Racial and ethnic relations", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize dedicated domestic terrorism offices within the Department of Homeland Security, the Department of Justice, and the Federal Bureau of Investigation to analyze and monitor domestic terrorist activity and require the Federal Government to take steps to prevent domestic terrorism.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Domestic Terrorism Prevention Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Domestic Terrorism Prevention Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Domestic Terrorism Prevention Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-10T19:00:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1931.xml"
+}

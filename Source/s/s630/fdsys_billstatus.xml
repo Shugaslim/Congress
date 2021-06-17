@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-02-28T21:00:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <type>Standing</type>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-02-28</introducedDate>
+    <createDate>2019-03-01T05:40:13Z</createDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s630is/xml/BILLS-116s630is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-28T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Consumer Financial Protection Act of 2010 with respect to arbitration.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Arbitration Fairness for Consumers Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Arbitration Fairness for Consumers Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Arbitration Fairness for Consumers Act</title>
+      </item>
+    </titles>
+    <title>Arbitration Fairness for Consumers Act</title>
+    <billNumber>630</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-28</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-28</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Richard</firstName>
+        <bioguideId>B001277</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>CT</state>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <bioguideId>M001176</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <state>OR</state>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+        <firstName>Sherrod</firstName>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+        </identifiers>
+        <lastName>Brown</lastName>
+        <byRequestType />
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative dispute resolution, mediation, arbitration</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Digital media</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <updateDate>2019-04-04T14:15:23Z</updateDate>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2019-02-28</actionDate>
+    </latestAction>
+    <amendments />
+    <billType>S</billType>
+    <notes />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

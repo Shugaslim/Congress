@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr544-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "W000825", 
+      "district": "10", 
+      "name": "Wexton, Jennifer", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-23", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-14", 
+  "number": "544", 
+  "official_title": "To amend title 5, United States Code, to provide accrual of annual and sick leave for Federal employees of an agency subject to a lapse in appropriations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Continuing Federal Employee Leave Policy Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "Y000033", 
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-14", 
+  "subjects": [
+    "Appropriations", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Continuing Federal Employee Leave Policy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Continuing Federal Employee Leave Policy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 5, United States Code, to provide accrual of annual and sick leave for Federal employees of an agency subject to a lapse in appropriations, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Continuing Federal Employee Leave Policy Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-04T18:00:16Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr544.xml"
+}

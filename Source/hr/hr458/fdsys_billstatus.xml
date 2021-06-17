@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>458</billNumber>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Department of Labor</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Internal Revenue Service (IRS)</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-01-11T08:10:16Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <title>Affordable Limited Health Coverage Act</title>
+    <updateDate>2019-03-30T07:15:32Z</updateDate>
+    <relatedBills />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Jeff</firstName>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>F000449</bioguideId>
+        <identifiers>
+          <lisID>1793</lisID>
+          <bioguideId>F000449</bioguideId>
+          <gpoId>8038</gpoId>
+        </identifiers>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <state>NE</state>
+        <byRequestType />
+        <middleName />
+        <lastName>Fortenberry</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2019-01-31</actionDate>
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr458ih/xml/BILLS-116hr458ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <cosponsors />
+    <amendments />
+    <introducedDate>2019-01-10</introducedDate>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To prohibit implementation of the revised definition of short-term, limited-duration insurance in order to permit such insurance to provide up to 12 months of coverage.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Affordable Limited Health Coverage Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Affordable Limited Health Coverage Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Affordable Limited Health Coverage Act</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FORTENBERRY:H.R. 458.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the United StatesConstitution.[Page H464]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-10T15:03:00Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-31T16:31:10Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-10T15:03:10Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-10T15:03:05Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

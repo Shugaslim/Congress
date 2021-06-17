@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1983-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001196", 
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-28", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-28", 
+  "number": "1983", 
+  "official_title": "To reauthorize and extend funding for community health centers and the National Health Service Corps.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s106-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Community Health Investment, Modernization, and Excellence Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "O000171", 
+    "district": "1", 
+    "name": "O'Halleran, Tom", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-28", 
+  "subjects": [
+    "Appropriations", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health facilities and institutions", 
+    "Health personnel", 
+    "Health programs administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Community Health Investment, Modernization, and Excellence Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Community Health Investment, Modernization, and Excellence Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize and extend funding for community health centers and the National Health Service Corps.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Community Health Investment, Modernization, and Excellence Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-22T15:30:16Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1983.xml"
+}

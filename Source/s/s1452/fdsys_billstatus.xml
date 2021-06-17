@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-14</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-05-14</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to establish a program to provide assistance for education and research harbors.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A bill to establish a program to provide assistance for education and research harbors.</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <committeeReports />
+    <updateDate>2019-05-17T09:23:00Z</updateDate>
+    <createDate>2019-05-15T04:42:16Z</createDate>
+    <notes />
+    <amendments />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MA</state>
+        <bioguideId>W000817</bioguideId>
+        <firstName>Elizabeth</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <lastName>Murkowski</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <state>AK</state>
+        <bioguideId>M001153</bioguideId>
+        <firstName>Lisa</firstName>
+      </item>
+    </cosponsors>
+    <billNumber>1452</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-14T19:04:44Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <policyArea />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+      <actionDate>2019-05-14</actionDate>
+    </latestAction>
+    <title>A bill to establish a program to provide assistance for education and research harbors.</title>
+    <introducedDate>2019-05-14</introducedDate>
+    <textVersions />
+    <sponsors>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <middleName>J.</middleName>
+        <byRequestType />
+        <party>D</party>
+        <lastName>MARKEY</lastName>
+        <firstName>EDWARD</firstName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

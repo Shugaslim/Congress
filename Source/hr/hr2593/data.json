@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2593-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000376", 
+      "district": "16", 
+      "name": "Kelly, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-08", 
+  "number": "2593", 
+  "official_title": "To require the Secretary of the Treasury to collect data and issue a report on the opportunity zone tax incentives enacted by the 2017 tax reform legislation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1344-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "K000188", 
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-08", 
+  "subjects": [
+    "Business investment and capital", 
+    "Business records", 
+    "Congressional oversight", 
+    "Department of the Treasury", 
+    "Economic development", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Right of privacy", 
+    "State and local finance", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of the Treasury to collect data and issue a report on the opportunity zone tax incentives enacted by the 2017 tax reform legislation, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of the Treasury to collect data and issue a report on the opportunity zone tax incentives enacted by the 2017 tax reform legislation, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T16:30:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2593.xml"
+}

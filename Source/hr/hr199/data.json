@@ -1,0 +1,144 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr199-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "199", 
+  "official_title": "To terminate certain lifetime benefits provided to former Members of Congress, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "SCRAP Act", 
+  "sponsor": {
+    "bioguide_id": "N000190", 
+    "district": "5", 
+    "name": "Norman, Ralph", 
+    "state": "SC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Congress", 
+    "Government employee pay, benefits, personnel management", 
+    "Health care costs and insurance", 
+    "Members of Congress", 
+    "Public participation and lobbying"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SCRAP Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SCRAP Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Congressional Retirees Accessing Perks Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Congressional Retirees Accessing Perks Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To terminate certain lifetime benefits provided to former Members of Congress, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "SCRAP Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-01-23T12:37:53Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr199.xml"
+}

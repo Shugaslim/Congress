@@ -1,0 +1,68 @@
+<bill session="116" type="h" number="1198" updated="2019-05-02T09:18:45Z">
+  <state datetime="2019-04-30T13:23:08-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-04-30T13:23:08-04:00"/>
+  </status>
+  <introduced datetime="2019-02-13"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 404 South Boulder Highway in Henderson, Nevada, as the "Henderson Veterans Memorial Post Office Building".</title>
+    <title type="display">To designate the facility of the United States Postal Service located at 404 South Boulder Highway in Henderson, Nevada, as the "Henderson Veterans Memorial Post Office Building".</title>
+  </titles>
+  <sponsor bioguide_id="L000590"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000369" joined="2019-02-13"/>
+    <cosponsor bioguide_id="H001066" joined="2019-02-13"/>
+    <cosponsor bioguide_id="T000479" joined="2019-04-29"/>
+    <cosponsor bioguide_id="T000468" joined="2019-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-02-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </action>
+    <action datetime="2019-03-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2019-03-26" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2019-04-30T13:20:17-04:00">
+      <text>Ms. Kelly (IL) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2019-04-30T13:20:31-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3320" label="consideration"/>
+    </action>
+    <action datetime="2019-04-30T13:20:32-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1198.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2019-04-30T13:23:08-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3320" label="text"/>
+    </vote>
+    <action datetime="2019-04-30T13:23:09-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-05-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Reform" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Nevada"/>
+    <term name="Postal service"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary date="2019-02-13T05:00:00Z" status="Introduced in House">Designates the facility of the United States Postal Service located at 404 South Boulder Highway in Henderson, Nevada, as the "Henderson Veterans Memorial Post Office Building."</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2162-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001187", 
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-09", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-09", 
+  "number": "2162", 
+  "official_title": "To require the Secretary of Housing and Urban Development to discount FHA single-family mortgage insurance premium payments for first-time homebuyers who complete a financial literacy housing counseling program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Housing Financial Literacy Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "B001281", 
+    "district": "3", 
+    "name": "Beatty, Joyce", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-09", 
+  "subjects": [
+    "Financial literacy", 
+    "Housing and community development", 
+    "Housing finance and home ownership", 
+    "Life, casualty, property insurance"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Housing and Urban Development to discount FHA single-family mortgage insurance premium payments for first-time homebuyers who complete a financial literacy housing counseling program.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Housing Financial Literacy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Housing Financial Literacy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Housing Financial Literacy Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-23T18:00:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2162.xml"
+}

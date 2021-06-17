@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssas00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-15T23:30:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <bioguideId>W000817</bioguideId>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <title>A bill to require the Secretary of Defense to enhance the readiness of the Department of Defense to challenges relating to climate change and to improve the energy and resource efficiency of the Department, and for other purposes.</title>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <party>D</party>
+        <state>HI</state>
+        <lastName>Schatz</lastName>
+        <firstName>Brian</firstName>
+        <middleName />
+        <bioguideId>S001194</bioguideId>
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <party>D</party>
+        <state>RI</state>
+        <lastName>Whitehouse</lastName>
+        <firstName>Sheldon</firstName>
+        <middleName />
+        <bioguideId>W000802</bioguideId>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>1498</billNumber>
+    <congress>116</congress>
+    <policyArea />
+    <version>1.0.0</version>
+    <relatedBills />
+    <calendarNumbers />
+    <createDate>2019-05-16T04:57:13Z</createDate>
+    <updateDate>2019-05-16T05:02:45Z</updateDate>
+    <latestAction>
+      <actionDate>2019-05-15</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to require the Secretary of Defense to enhance the readiness of the Department of Defense to challenges relating to climate change and to improve the energy and resource efficiency of the Department, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to require the Secretary of Defense to enhance the readiness of the Department of Defense to challenges relating to climate change and to improve the energy and resource efficiency of the Department, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-05-15</introducedDate>
+    <textVersions />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

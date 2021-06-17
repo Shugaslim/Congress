@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-12", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Research and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr378-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Research and Technology", 
+      "subcommittee_id": "15"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-09", 
+  "number": "378", 
+  "official_title": "To amend the Help America Vote Act of 2002 to require voting systems used in elections for Federal office to produce a voter-verified, auditable paper record of the votes cast in such elections, to require State election officials to audit the results of such elections prior to certifying the results, to provide grants to States to improve voting system security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Safeguarding Election Infrastructure Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000624", 
+    "district": "12", 
+    "name": "Dingell, Debbie", 
+    "state": "MI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-09", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Elections, voting, political campaign regulation", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Intergovernmental relations", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safeguarding Election Infrastructure Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safeguarding Election Infrastructure Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Help America Vote Act of 2002 to require voting systems used in elections for Federal office to produce a voter-verified, auditable paper record of the votes cast in such elections, to require State election officials to audit the results of such elections prior to certifying the results, to provide grants to States to improve voting system security, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Safeguarding Election Infrastructure Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-21T17:32:58Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr378.xml"
+}

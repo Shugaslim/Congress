@@ -1,0 +1,225 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Citizenship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2278-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001274", 
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000615", 
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000578", 
+      "district": "1", 
+      "name": "Gaetz, Matt", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000565", 
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000190", 
+      "district": "5", 
+      "name": "Norman, Ralph", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000605", 
+      "district": "10", 
+      "name": "Perry, Scott", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001214", 
+      "district": "17", 
+      "name": "Steube, W. Gregory", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-10", 
+  "number": "2278", 
+  "official_title": "To amend the Immigration and Nationality Act to establish a skills-based immigration points system, to focus family-sponsored immigration on spouses and minor children, to eliminate the Diversity Visa Program, to set a limit on the number of refugees admitted annually to the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1103-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1989-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "RAISE Act", 
+  "sponsor": {
+    "bioguide_id": "R000607", 
+    "district": "19", 
+    "name": "Rooney, Francis", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-10", 
+  "subjects": [
+    "Administrative remedies", 
+    "Athletes", 
+    "Business investment and capital", 
+    "Citizenship and naturalization", 
+    "Congressional oversight", 
+    "Debt collection", 
+    "Department of Homeland Security", 
+    "Family relationships", 
+    "Foreign labor", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Olympic games", 
+    "Refugees, asylum, displaced persons", 
+    "Research and development", 
+    "U.S. and foreign investments", 
+    "Visas and passports", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to establish a skills-based immigration points system, to focus family-sponsored immigration on spouses and minor children, to eliminate the Diversity Visa Program, to set a limit on the number of refugees admitted annually to the United States, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RAISE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RAISE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reforming American Immigration for a Strong Economy Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reforming American Immigration for a Strong Economy Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "RAISE Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:13:03Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2278.xml"
+}

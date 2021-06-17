@@ -1,0 +1,375 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1880-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001304", 
+      "district": "4", 
+      "name": "Brown, Anthony G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001090", 
+      "district": "8", 
+      "name": "Cartwright, Matt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000297", 
+      "district": "13", 
+      "name": "Espaillat, Adriano", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001080", 
+      "district": "1", 
+      "name": "Haaland, Debra A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001085", 
+      "district": "6", 
+      "name": "Houlahan, Chrissy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000298", 
+      "district": "7", 
+      "name": "Jayapal, Pramila", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000389", 
+      "district": "17", 
+      "name": "Khanna, Ro", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000397", 
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001203", 
+      "district": "7", 
+      "name": "Malinowski, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000002", 
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000173", 
+      "district": "5", 
+      "name": "Omar, Ilhan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000613", 
+      "district": "20", 
+      "name": "Panetta, Jimmy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000617", 
+      "district": "7", 
+      "name": "Pressley, Ayanna", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000482", 
+      "district": "3", 
+      "name": "Trahan, Lori", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000081", 
+      "district": "7", 
+      "name": "Velazquez, Nydia M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000826", 
+      "district": "7", 
+      "name": "Wild, Susan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-26", 
+  "number": "1880", 
+  "official_title": "To address the disparate impact of climate change on women and support the efforts of women globally to address climate change, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s868-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Women and Climate Change Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000551", 
+    "district": "13", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-26", 
+  "subjects": [
+    "Air quality", 
+    "Climate change and greenhouse gases", 
+    "Congressional oversight", 
+    "Crimes against women", 
+    "Department of State", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Ecology", 
+    "Economic development", 
+    "Environmental protection", 
+    "Executive agency funding and structure", 
+    "Food assistance and relief", 
+    "Human rights", 
+    "Infrastructure development", 
+    "International organizations and cooperation", 
+    "Marine and coastal resources, fisheries", 
+    "Racial and ethnic relations", 
+    "Sex, gender, sexual orientation discrimination", 
+    "United Nations", 
+    "Urban and suburban affairs and development", 
+    "Women's education", 
+    "Women's employment", 
+    "Women's health", 
+    "Women's rights"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-03-26T04:00:00Z", 
+    "text": "Women and Climate Change Act of 2019\n\nThis bill addresses climate change and its effects on women and girls.\n\nSpecifically, the bill establishes the Federal Interagency Working Group on Women and Climate Change within the Department of State. The bill outlines the functions of the working group, including the coordination of agencies' policies and activities relating to (1) combating the effects of climate change on women, and (2) improving the government's response to and strategy for climate change.\n\nIn addition, the Office of Global Women's Issues of the State Department must submit a strategy to prevent and respond to the effects of climate change on women."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Women and Climate Change Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Women and Climate Change Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To address the disparate impact of climate change on women and support the efforts of women globally to address climate change, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Women and Climate Change Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-11T07:15:37Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1880.xml"
+}

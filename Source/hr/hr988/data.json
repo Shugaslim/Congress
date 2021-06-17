@@ -1,0 +1,343 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-06", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-22", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-82, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "H12300", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee on Natural Resources discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "57", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 57.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr988-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-82"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Environment", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001278", 
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-06", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001115", 
+      "district": "27", 
+      "name": "Cloud, Michael", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001111", 
+      "district": "13", 
+      "name": "Crist, Charlie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-09", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000582", 
+      "district": null, 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000126", 
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001199", 
+      "district": "18", 
+      "name": "Mast, Brian J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-06", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000823", 
+      "district": "6", 
+      "name": "Waltz, Michael", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-04-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-06", 
+  "number": "988", 
+  "official_title": "To provide for a study by the Ocean Studies Board of the National Academies of Science examining the impact of ocean acidification and other stressors in estuarine environments.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Estuaries and Acidification Research Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "P000599", 
+    "district": "8", 
+    "name": "Posey, Bill", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-01", 
+  "subjects": [
+    "Climate change and greenhouse gases", 
+    "Congressional oversight", 
+    "Earth sciences", 
+    "Environmental assessment, monitoring, research", 
+    "Government studies and investigations", 
+    "Marine pollution", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for a study by the Ocean Studies Board of the National Academies of Science examining the impact of ocean acidification and other stressors in estuarine environments.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "National Estuaries and Acidification Research Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "National Estuaries and Acidification Research Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "NEAR Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "NEAR Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Estuaries and Acidification Research Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Estuaries and Acidification Research Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "NEAR Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "NEAR Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "NEAR Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-26T09:41:05Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr988.xml"
+}

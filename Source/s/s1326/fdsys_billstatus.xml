@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <cosponsors>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <lastName>Baldwin</lastName>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <firstName>Tammy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <firstName>Kevin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Animal Health Protection Act to establish a grant program for research on chronic wasting disease, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Chronic Wasting Disease Research Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Chronic Wasting Disease Research Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Chronic Wasting Disease Research Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2019-05-06</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2019-05-06</actionDate>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1326is/xml/BILLS-116s1326is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-06T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <notes />
+    <recordedVotes />
+    <billNumber>1326</billNumber>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-06</actionDate>
+        <committee>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-05-06</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>2081</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Chronic Wasting Disease Research Act</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-04-26</actionDate>
+          <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <cboCostEstimates />
+    <title>Chronic Wasting Disease Research Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-06T20:45:47Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-05-07T04:27:09Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Livestock</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-22T04:42:35Z</updateDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+        </identifiers>
+        <state>ND</state>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <party>R</party>
+        <bioguideId>H001061</bioguideId>
+        <firstName>John</firstName>
+        <lastName>Hoeven</lastName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2051-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001306", 
+      "district": "12", 
+      "name": "Balderson, Troy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001117", 
+      "district": "6", 
+      "name": "Casten, Sean", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001194", 
+      "district": "4", 
+      "name": "Moolenaar, John R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-03", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-03", 
+  "number": "2051", 
+  "official_title": "To provide for Federal coordination of activities supporting sustainable chemistry, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s999-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Sustainable Chemistry Research and Development Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000563", 
+    "district": "3", 
+    "name": "Lipinski, Daniel", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-03", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for Federal coordination of activities supporting sustainable chemistry, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sustainable Chemistry Research and Development Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sustainable Chemistry Research and Development Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Sustainable Chemistry Research and Development Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T07:15:34Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2051.xml"
+}

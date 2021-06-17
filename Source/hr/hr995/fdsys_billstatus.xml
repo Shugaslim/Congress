@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <bioguideId>P000609</bioguideId>
+        <district>6</district>
+        <firstName>Gary</firstName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Palmer, Gary J. [R-AL-6]</fullName>
+        <state>AL</state>
+        <byRequestType />
+        <identifiers>
+          <lisID>2221</lisID>
+          <gpoId />
+          <bioguideId>P000609</bioguideId>
+        </identifiers>
+        <lastName>Palmer</lastName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-14T18:06:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-06T15:03:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Oversight and Reform Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>Van</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <lastName>Taylor</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000479</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000479</bioguideId>
+          <lisID>2444</lisID>
+        </identifiers>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <laws />
+    <congress>116</congress>
+    <committeeReports />
+    <billType>HR</billType>
+    <introducedDate>2019-02-06</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PALMER:H.R. 995.Congress has the power to enact this legislation pursuantto the following:The Congress shall have Power to make all Laws which shallbe necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H1392]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <billNumber>995</billNumber>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <date>2019-02-13T21:55:21Z</date>
+        <rollNumber>84</rollNumber>
+        <url>http://clerk.house.gov/evs/2019/roll084.xml</url>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <congress>116</congress>
+      </recordedVote>
+    </recordedVotes>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <considerationByHouse>2</considerationByHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <actionCode>H38310</actionCode>
+        <actionDate>2019-02-13</actionDate>
+        <actionTime>16:55:22</actionTime>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 0 (Roll no. 84).</text>
+        <links>
+          <link>
+            <name>Roll no. 84</name>
+            <url>http://clerk.house.gov/evs/2019/roll084.xml</url>
+          </link>
+        </links>
+        <actionCode>H37300</actionCode>
+        <actionDate>2019-02-13</actionDate>
+        <actionTime>16:55:21</actionTime>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 0 (Roll no. 84).</text>
+        <links>
+          <link>
+            <name>Roll no. 84</name>
+            <url>http://clerk.house.gov/evs/2019/roll084.xml</url>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <actionDate>2019-02-13</actionDate>
+        <actionTime>16:55:21</actionTime>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered as unfinished business. (consideration: CR H1557)</text>
+        <links>
+          <link>
+            <name>H1557</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1557</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionDate>2019-02-13</actionDate>
+        <actionTime>16:39:59</actionTime>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Hill (CA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+        <links />
+        <actionCode>H37210</actionCode>
+        <actionDate>2019-02-11</actionDate>
+        <actionTime>16:34:40</actionTime>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 995.</text>
+        <links>
+          <link>
+            <name>H.R. 995</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/995</url>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2019-02-11</actionDate>
+        <actionTime>16:25:38</actionTime>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered under suspension of the rules. (consideration: CR H1500-1502; text: CR H1500-1501)</text>
+        <links>
+          <link>
+            <name>H1500-1501</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1500-1501</url>
+          </link>
+          <link>
+            <name>H1500-1502</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1500-1502</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionDate>2019-02-11</actionDate>
+        <actionTime>16:25:37</actionTime>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Ms. Hill (CA) moved to suspend the rules and pass the bill, as amended.</text>
+        <links />
+        <actionCode>H30300</actionCode>
+        <actionDate>2019-02-11</actionDate>
+        <actionTime>16:25:29</actionTime>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-02-06</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-02-06</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-02-06</actionDate>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-02-06T05:00:00Z</updateDate>
+          <actionDate>2019-02-06</actionDate>
+          <lastSummaryUpdateDate>2019-02-26T22:33:22Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Settlement Agreement Information Database Act of 2019</b></p> <p>This bill requires executive agencies to submit information regarding settlement agreements to a public database. Specifically, an agency must submit information regarding any settlement agreement (including a consent decree) entered into by the agency related to an alleged violation of federal law. If an agency determines that information regarding an agreement must remain confidential to protect the public interest, the agency must publish an explanation of why the information is confidential.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <updateDate>2019-02-13T18:11:38Z</updateDate>
+          <actionDate>2019-02-13</actionDate>
+          <lastSummaryUpdateDate>2019-03-01T17:31:42Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Settlement Agreement Information Database Act of 2019</b></p> <p>(Sec. 2) This bill requires executive agencies to submit information regarding settlement agreements to a public database. Specifically, an agency must submit information regarding any settlement agreement (including a consent decree) entered into by the agency related to an alleged violation of federal law. If an agency determines that information regarding an agreement must remain confidential to protect the public interest, the agency must publish an explanation of why the information is confidential.</p>]]></text>
+          <versionCode>53</versionCode>
+          <name>Passed House</name>
+          <actionDesc>Passed House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend chapter 3 of title 5, United States Code, to require the publication of settlement agreements, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Settlement Agreement Information Database Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <title>Settlement Agreement Information Database Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Settlement Agreement Information Database Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <title>Settlement Agreement Information Database Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Settlement Agreement Information Database Act of 2019</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <updateDate>2019-04-09T10:26:10Z</updateDate>
+    <originChamber>House</originChamber>
+    <title>Settlement Agreement Information Database Act of 2019</title>
+    <amendments />
+    <createDate>2019-02-07T08:10:16Z</createDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr995rfs/xml/BILLS-116hr995rfs.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-14T05:00:00Z</date>
+        <type>Referred in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr995eh/xml/BILLS-116hr995eh.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-13T05:00:00Z</date>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr995ih/xml/BILLS-116hr995ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-06T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2019-02-14</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

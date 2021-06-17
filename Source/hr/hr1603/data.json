@@ -1,0 +1,520 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-08", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Environment and Climate Change.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1603-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Environment and Climate Change", 
+      "subcommittee_id": "18"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001300", 
+      "district": "44", 
+      "name": "Barragan, Nanette Diaz", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001303", 
+      "district": null, 
+      "name": "Blunt Rochester, Lisa", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "DE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001285", 
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001067", 
+      "district": "9", 
+      "name": "Clarke, Yvette D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000624", 
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000215", 
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001087", 
+      "district": "25", 
+      "name": "Hill, Katie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001068", 
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000288", 
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000379", 
+      "district": "4", 
+      "name": "Kennedy, Joseph P., III", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000391", 
+      "district": "8", 
+      "name": "Krishnamoorthi, Raja", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-11", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000582", 
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001203", 
+      "district": "7", 
+      "name": "Malinowski, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-25", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001163", 
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001143", 
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001166", 
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000172", 
+      "district": "14", 
+      "name": "Ocasio-Cortez, Alexandria", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000034", 
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000604", 
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Q000023", 
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-25", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001156", 
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001180", 
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001208", 
+      "district": "8", 
+      "name": "Slotkin, Elissa", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000469", 
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000483", 
+      "district": "6", 
+      "name": "Trone, David J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-25", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000081", 
+      "district": "7", 
+      "name": "Velazquez, Nydia M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-07", 
+  "number": "1603", 
+  "official_title": "To amend the Toxic Substances Control Act to prohibit the manufacture, processing, and distribution in commerce of asbestos and asbestos-containing mixtures and articles, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Alan Reinstein Ban Asbestos Now Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "B001278", 
+    "district": "1", 
+    "name": "Bonamici, Suzanne", 
+    "state": "OR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-07", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Building construction", 
+    "Congressional oversight", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental health", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Hazardous wastes and toxic substances", 
+    "Manufacturing", 
+    "Solid waste and recycling"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Toxic Substances Control Act to prohibit the manufacture, processing, and distribution in commerce of asbestos and asbestos-containing mixtures and articles, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Alan Reinstein Ban Asbestos Now Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Alan Reinstein Ban Asbestos Now Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Alan Reinstein Ban Asbestos Now Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-15T07:15:49Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1603.xml"
+}

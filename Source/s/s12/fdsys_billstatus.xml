@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T19:50:06Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>12</billNumber>
+    <latestAction>
+      <actionDate>2019-01-03</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <firstName>Marco</firstName>
+        <middleName />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Rubio</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-03T14:15:09Z</updateDate>
+    <createDate>2019-01-04T13:32:59Z</createDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-04-09</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2177</number>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestTitle>Faith in Health Savings Accounts Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <introducedDate>2019-01-03</introducedDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Sports and recreation facilities</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Tax treatment of families</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <amendments />
+    <cosponsors>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <lastName>Murkowski</lastName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s12is/xml/BILLS-116s12is.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDate>2019-01-03</actionDate>
+          <lastSummaryUpdateDate>2019-01-15T17:11:27Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>Health Savings Act of 201</strong><b>9</b></p> <p>This bill modifies the requirements for health savings accounts (HSAs) to</p> <ul> <li>rename high deductible health plans as HSA-qualified health plans; </li> <li>allow spouses who have both attained age 55 to make catch-up contributions to the same HSA; </li> <li>make Medicare Part A (hospital insurance benefits) beneficiaries eligible to participate in an HSA;</li> <li>allow individuals eligible for hospital care or medical services under a program of the Indian Health Service or a tribal organization to participate in an HSA; </li> <li>allow members of a health care sharing ministry to participate in an HSA; </li> <li>allow individuals who receive primary care services in exchange for a fixed periodic fee or payment, or who receive health care benefits from an onsite medical clinic of an employer, to participate in an HSA; </li> <li>include amounts paid for prescription and over-the-counter medicines or drugs as &quot;qualified medical expenses&quot; for which distributions from an HSA or other tax-preferred savings accounts may be used; </li> <li> increase the limits on HSA contributions to match the sum of the annual deductible and out-of-pocket expenses permitted under a high deductible health plan; and </li> <li>allow HSA distributions to be used to purchase health insurance coverage.</li> </ul> <p>The bill also: (1) exempts HSAs from creditor claims in bankruptcy, and (2) reauthorizes Medicaid health opportunity accounts. </p> <p>The bill allows a medical care tax deduction for: (1) exercise equipment, physical fitness programs, and membership at a fitness facility; (2) nutritional and dietary supplements; and (3) periodic fees paid to a primary care physician and amounts paid for pre-paid primary care services. </p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>116</congress>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to improve access to health care through expanded health savings accounts, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Health Savings Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Health Savings Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Health Savings Act of 2019</title>
+      </item>
+    </titles>
+    <title>Health Savings Act of 2019</title>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

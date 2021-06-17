@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2019-04-09</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to require the Internal Revenue Service to provide Congress with sufficient notice prior to the closing of any Taxpayer Assistance Center.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to require the Internal Revenue Service to provide Congress with sufficient notice prior to the closing of any Taxpayer Assistance Center.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-04-09</introducedDate>
+    <title>A bill to require the Internal Revenue Service to provide Congress with sufficient notice prior to the closing of any Taxpayer Assistance Center.</title>
+    <cosponsors />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-09T20:17:22Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <updateDate>2019-04-24T04:27:10Z</updateDate>
+    <congress>116</congress>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-09</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1090</billNumber>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <middleName>B.</middleName>
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <bioguideId>E000285</bioguideId>
+        <state>WY</state>
+        <firstName>MICHAEL</firstName>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1090is/xml/BILLS-116s1090is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-09T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <laws />
+    <createDate>2019-04-10T04:42:11Z</createDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

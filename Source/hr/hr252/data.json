@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-04", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr252-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-04", 
+  "number": "252", 
+  "official_title": "To promote conservation, improve public land management, and provide for sensible development in Pershing County, Nevada, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Pershing County Economic Development and Conservation Act", 
+  "sponsor": {
+    "bioguide_id": "A000369", 
+    "district": "2", 
+    "name": "Amodei, Mark E.", 
+    "state": "NV", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-04", 
+  "subjects": [
+    "Birds", 
+    "Cemeteries and funerals", 
+    "Ecology", 
+    "Fires", 
+    "Forests, forestry, trees", 
+    "Government studies and investigations", 
+    "Historical and cultural resources", 
+    "Hunting and fishing", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Nevada", 
+    "Outdoor recreation", 
+    "Public lands and natural resources", 
+    "Water use and supply", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pershing County Economic Development and Conservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pershing County Economic Development and Conservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To promote conservation, improve public land management, and provide for sensible development in Pershing County, Nevada, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Pershing County Economic Development and Conservation Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-13T17:31:41Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr252.xml"
+}

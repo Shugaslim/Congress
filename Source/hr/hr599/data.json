@@ -1,0 +1,160 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-25", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr599-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-16", 
+  "number": "599", 
+  "official_title": "To strengthen and enhance certain ethics requirements for the Federal Government, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s949-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1612-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s156-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Executive Branch Conflict of Interest Act", 
+  "sponsor": {
+    "bioguide_id": "C000984", 
+    "district": "7", 
+    "name": "Cummings, Elijah E.", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-16", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Employment and training programs", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government operations and politics", 
+    "Judicial procedure and administration"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To strengthen and enhance certain ethics requirements for the Federal Government, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Executive Branch Conflict of Interest Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Executive Branch Conflict of Interest Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Executive Branch Conflict of Interest Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-02T20:45:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr599.xml"
+}

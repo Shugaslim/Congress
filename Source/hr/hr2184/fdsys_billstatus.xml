@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-09T14:00:47Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-29T17:21:11Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <latestTitle>Reach Every Veteran in Crisis Act</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2019-02-28</actionDate>
+        </latestAction>
+        <type>S</type>
+        <number>606</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2019-04-10T07:12:09Z</createDate>
+    <billNumber>2184</billNumber>
+    <billType>HR</billType>
+    <title>Reach Every Veteran in Crisis Act</title>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3349-3350</url>
+            <name>H3349-3350</name>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR H3349-3350)</text>
+        <actionCode>B00100</actionCode>
+        <actionDate>2019-05-01</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-04-29</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-04-09</actionDate>
+      </item>
+    </actions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>M001206</bioguideId>
+        <state>NY</state>
+        <district>25</district>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>2371</lisID>
+          <bioguideId>M001206</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Joseph</firstName>
+        <lastName>Morelle</lastName>
+        <party>D</party>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-04-09</introducedDate>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Cox, TJ [D-CA-21]</fullName>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <district>21</district>
+        <party>D</party>
+        <firstName>TJ</firstName>
+        <bioguideId>C001124</bioguideId>
+        <state>CA</state>
+        <lastName>Cox</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2378</lisID>
+          <bioguideId>C001124</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <district>1</district>
+        <party>D</party>
+        <firstName>Ed</firstName>
+        <bioguideId>C001055</bioguideId>
+        <state>HI</state>
+        <lastName>Case</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001055</bioguideId>
+          <lisID>1693</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <district>12</district>
+        <party>D</party>
+        <firstName>Bonnie</firstName>
+        <bioguideId>W000822</bioguideId>
+        <state>NJ</state>
+        <lastName>Watson Coleman</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <district>4</district>
+        <party>R</party>
+        <firstName>Vicky</firstName>
+        <bioguideId>H001053</bioguideId>
+        <state>MO</state>
+        <lastName>Hartzler</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2032</lisID>
+          <bioguideId>H001053</bioguideId>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MORELLE:H.R. 2184.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H3219]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To improve oversight and evaluation of the mental health and suicide prevention media outreach campaigns of the Department of Veterans Affairs, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Reach Every Veteran in Crisis Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Reach Every Veteran in Crisis Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Reach Every Veteran in Crisis Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2184ih/xml/BILLS-116hr2184ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-09T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Television and film</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-22T21:15:06Z</updateDate>
+    <latestAction>
+      <text>Sponsor introductory remarks on measure. (CR H3349-3350)</text>
+      <links />
+      <actionDate>2019-05-01</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

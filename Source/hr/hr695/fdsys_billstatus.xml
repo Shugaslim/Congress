@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>New York City</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-01-22</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-01-22</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-01-22</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-22T17:00:16Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-02-06T20:17:37Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>695</billNumber>
+    <updateDate>2019-02-13T17:31:38Z</updateDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <firstName>PETER</firstName>
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+        <middleName>T.</middleName>
+        <lastName>KING</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+      </item>
+      <item>
+        <firstName>Adriano</firstName>
+        <bioguideId>E000297</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000297</bioguideId>
+          <lisID>2342</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <bioguideId>H001038</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Higgins</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>26</district>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+      </item>
+      <item>
+        <firstName>JOSE</firstName>
+        <bioguideId>S000248</bioguideId>
+        <state>NY</state>
+        <middleName>E.</middleName>
+        <lastName>SERRANO</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8077</gpoId>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+      </item>
+      <item>
+        <firstName>Kathleen</firstName>
+        <bioguideId>R000602</bioguideId>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <lastName>Rice</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+          <lisID>2262</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+      </item>
+      <item>
+        <firstName>Joseph</firstName>
+        <bioguideId>M001206</bioguideId>
+        <state>NY</state>
+        <middleName>D.</middleName>
+        <lastName>Morelle</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001206</bioguideId>
+          <gpoId />
+          <lisID>2371</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>25</district>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+      </item>
+      <item>
+        <firstName>Lee</firstName>
+        <bioguideId>Z000017</bioguideId>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <lastName>Zeldin</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2261</lisID>
+          <gpoId />
+          <bioguideId>Z000017</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+      </item>
+      <item>
+        <firstName>Grace</firstName>
+        <bioguideId>M001188</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Meng</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <bioguideId>T000469</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Tonko</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>20</district>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <bioguideId>K000386</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Katko</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>24</district>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+      </item>
+      <item>
+        <firstName>Antonio</firstName>
+        <bioguideId>D000630</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Delgado</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2428</lisID>
+          <gpoId />
+          <bioguideId>D000630</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>19</district>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+      </item>
+      <item>
+        <firstName>ELIOT</firstName>
+        <bioguideId>E000179</bioguideId>
+        <state>NY</state>
+        <middleName>L.</middleName>
+        <lastName>ENGEL</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>16</district>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+      </item>
+      <item>
+        <firstName>NYDIA</firstName>
+        <bioguideId>V000081</bioguideId>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <lastName>VELAZQUEZ</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+      </item>
+      <item>
+        <firstName>Hakeem</firstName>
+        <bioguideId>J000294</bioguideId>
+        <state>NY</state>
+        <middleName>S.</middleName>
+        <lastName>Jeffries</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2149</lisID>
+          <bioguideId>J000294</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+      </item>
+      <item>
+        <firstName>Thomas</firstName>
+        <bioguideId>S001201</bioguideId>
+        <state>NY</state>
+        <middleName>R.</middleName>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+      </item>
+      <item>
+        <firstName>Max</firstName>
+        <bioguideId>R000613</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Rose</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2426</lisID>
+          <bioguideId>R000613</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>11</district>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+      </item>
+      <item>
+        <firstName>Anthony</firstName>
+        <bioguideId>B001308</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Brindisi</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001308</bioguideId>
+          <lisID>2429</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>22</district>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <bioguideId>R000585</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Reed</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1982</lisID>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>23</district>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+      </item>
+      <item>
+        <firstName>CAROLYN</firstName>
+        <bioguideId>M000087</bioguideId>
+        <state>NY</state>
+        <middleName>B.</middleName>
+        <lastName>MALONEY</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M000087</bioguideId>
+          <lisID>729</lisID>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>12</district>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+      </item>
+      <item>
+        <firstName>Yvette</firstName>
+        <bioguideId>C001067</bioguideId>
+        <state>NY</state>
+        <middleName>D.</middleName>
+        <lastName>Clarke</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+      </item>
+      <item>
+        <firstName>Alexandria</firstName>
+        <bioguideId>O000172</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Ocasio-Cortez</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2427</lisID>
+          <gpoId />
+          <bioguideId>O000172</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>14</district>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <bioguideId>C001092</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2151</lisID>
+          <gpoId />
+          <bioguideId>C001092</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>27</district>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+      </item>
+      <item>
+        <firstName>Elise</firstName>
+        <bioguideId>S001196</bioguideId>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <lastName>Stefanik</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2263</lisID>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>21</district>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+      </item>
+      <item>
+        <firstName>GREGORY</firstName>
+        <bioguideId>M001137</bioguideId>
+        <state>NY</state>
+        <middleName>W.</middleName>
+        <lastName>MEEKS</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+          <lisID>1506</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+      </item>
+      <item>
+        <firstName>NITA</firstName>
+        <bioguideId>L000480</bioguideId>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <lastName>LOWEY</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>709</lisID>
+          <bioguideId>L000480</bioguideId>
+          <gpoId>8079</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>17</district>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+      </item>
+      <item>
+        <firstName>JERROLD</firstName>
+        <bioguideId>N000002</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <lastName>NADLER</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-02-06</actionDate>
+      <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SEAN PATRICK MALONEY of New York:H.R. 695.Congress has the power to enact this legislation pursuantto the following:Art. I, Section 8[Page H997]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <introducedDate>2019-01-22</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To redesignate the Hudson River Valley National Heritage Area as the Maurice D. Hinchey Hudson River Valley National Heritage Area, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To redesignate the Hudson River Valley National Heritage Area as the Maurice D. Hinchey Hudson River Valley National Heritage Area, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <title>To redesignate the Hudson River Valley National Heritage Area as the Maurice D. Hinchey Hudson River Valley National Heritage Area, and for other purposes.</title>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2019-01-23T08:10:10Z</createDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>Maloney</lastName>
+        <state>NY</state>
+        <bioguideId>M001185</bioguideId>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <firstName>Sean</firstName>
+        <identifiers>
+          <bioguideId>M001185</bioguideId>
+          <lisID>2150</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <district>18</district>
+        <middleName>Patrick</middleName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills />
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

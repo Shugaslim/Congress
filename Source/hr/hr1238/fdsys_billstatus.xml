@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <links />
+      <actionDate>2019-03-07</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <systemCode>hsag16</systemCode>
+          <name>General Farm Commodities and Risk Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-02-14</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-02-14</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-02-14</actionDate>
+      </item>
+    </actions>
+    <recordedVotes />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <name>General Farm Commodities and Risk Management Subcommittee</name>
+              <systemCode>hsag16</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-07T20:20:23Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-14T15:05:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <createDate>2019-02-15T08:10:16Z</createDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1238ih/xml/BILLS-116hr1238ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-14T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ABRAHAM:H.R. 1238.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, of the Constitution of the UnitedStates.[Page H2033]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-02-14</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+          <item>
+            <name>Agricultural trade</name>
+          </item>
+          <item>
+            <name>Tariffs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-04-11T07:16:04Z</updateDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>E000298</bioguideId>
+          <lisID>2358</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Ron</firstName>
+        <lastName>Estes</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <middleName />
+        <bioguideId>E000298</bioguideId>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>KS</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000388</bioguideId>
+          <lisID>2294</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Trent</firstName>
+        <lastName>Kelly</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName />
+        <bioguideId>K000388</bioguideId>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MS</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2416</lisID>
+          <gpoId />
+          <bioguideId>G000591</bioguideId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <lastName>Guest</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName />
+        <bioguideId>G000591</bioguideId>
+        <fullName>Rep. Guest, Michael [R-MS-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MS</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2115</lisID>
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <lastName>Yoho</lastName>
+        <sponsorshipDate>2019-03-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName>S.</middleName>
+        <bioguideId>Y000065</bioguideId>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2245</lisID>
+          <bioguideId>G000577</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Garret</firstName>
+        <lastName>Graves</lastName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <middleName />
+        <bioguideId>G000577</bioguideId>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>LA</state>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <amendments />
+    <calendarNumbers />
+    <laws />
+    <titles>
+      <item>
+        <title>To direct the Secretary of Agriculture to treat certain planted soybean crops as harvested commodity crops under the Market Facilitation Program.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To direct the Secretary of Agriculture to treat certain planted soybean crops as harvested commodity crops under the Market Facilitation Program.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <notes />
+    <relatedBills />
+    <committeeReports />
+    <title>To direct the Secretary of Agriculture to treat certain planted soybean crops as harvested commodity crops under the Market Facilitation Program.</title>
+    <originChamber>House</originChamber>
+    <billNumber>1238</billNumber>
+    <sponsors>
+      <item>
+        <lastName>Abraham</lastName>
+        <party>R</party>
+        <bioguideId>A000374</bioguideId>
+        <state>LA</state>
+        <middleName>Lee</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2244</lisID>
+          <bioguideId>A000374</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <firstName>Ralph</firstName>
+        <district>5</district>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

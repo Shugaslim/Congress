@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2019-03-05</introducedDate>
+    <billNumber>1516</billNumber>
+    <actions>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeFAZIO:H.R. 1516.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 (relating to the power tomake all laws necessary and proper for carrying out thepowers vested in Congress)[Page H2369]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1516ih/xml/BILLS-116hr1516ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-05T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-03-05</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <number>647</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Wall Street Tax Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <title>Wall Street Tax Act of 2019</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>DEFAZIO</lastName>
+        <firstName>PETER</firstName>
+        <bioguideId>D000191</bioguideId>
+        <district>4</district>
+        <middleName>A.</middleName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to impose a tax on certain trading transactions.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Wall Street Tax Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Wall Street Tax Act of 2019</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Wall Street Tax Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <firstName>David</firstName>
+        <middleName>N.</middleName>
+        <state>RI</state>
+        <lastName>Cicilline</lastName>
+        <bioguideId>C001084</bioguideId>
+        <identifiers>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>ROSA</firstName>
+        <middleName />
+        <state>CT</state>
+        <lastName>DELAURO</lastName>
+        <bioguideId>D000216</bioguideId>
+        <identifiers>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+        </identifiers>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>Raul</firstName>
+        <middleName>M.</middleName>
+        <state>AZ</state>
+        <lastName>Grijalva</lastName>
+        <bioguideId>G000551</bioguideId>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>Pramila</firstName>
+        <middleName />
+        <state>WA</state>
+        <lastName>Jayapal</lastName>
+        <bioguideId>J000298</bioguideId>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+          <lisID>2354</lisID>
+        </identifiers>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>7</district>
+      </item>
+      <item>
+        <firstName>Ro</firstName>
+        <middleName />
+        <state>CA</state>
+        <lastName>Khanna</lastName>
+        <bioguideId>K000389</bioguideId>
+        <identifiers>
+          <lisID>2308</lisID>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>17</district>
+      </item>
+      <item>
+        <firstName>Alan</firstName>
+        <middleName>S.</middleName>
+        <state>CA</state>
+        <lastName>Lowenthal</lastName>
+        <bioguideId>L000579</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>47</district>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <lastName>MCGOVERN</lastName>
+        <bioguideId>M000312</bioguideId>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>GRACE</firstName>
+        <middleName>F.</middleName>
+        <state>CA</state>
+        <lastName>NAPOLITANO</lastName>
+        <bioguideId>N000179</bioguideId>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>32</district>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>0</district>
+      </item>
+      <item>
+        <firstName>Alexandria</firstName>
+        <middleName />
+        <state>NY</state>
+        <lastName>Ocasio-Cortez</lastName>
+        <bioguideId>O000172</bioguideId>
+        <identifiers>
+          <lisID>2427</lisID>
+          <bioguideId>O000172</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>14</district>
+      </item>
+      <item>
+        <firstName>Chellie</firstName>
+        <middleName />
+        <state>ME</state>
+        <lastName>Pingree</lastName>
+        <bioguideId>P000597</bioguideId>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName />
+        <state>WI</state>
+        <lastName>Pocan</lastName>
+        <bioguideId>P000607</bioguideId>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <middleName>P.</middleName>
+        <state>MD</state>
+        <lastName>Sarbanes</lastName>
+        <bioguideId>S001168</bioguideId>
+        <identifiers>
+          <lisID>1854</lisID>
+          <bioguideId>S001168</bioguideId>
+          <gpoId>7978</gpoId>
+        </identifiers>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>JANICE</firstName>
+        <middleName>D.</middleName>
+        <state>IL</state>
+        <lastName>SCHAKOWSKY</lastName>
+        <bioguideId>S001145</bioguideId>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>9</district>
+      </item>
+      <item>
+        <firstName>Peter</firstName>
+        <middleName />
+        <state>VT</state>
+        <lastName>Welch</lastName>
+        <bioguideId>W000800</bioguideId>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>0</district>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <middleName />
+        <state>TN</state>
+        <lastName>Cohen</lastName>
+        <bioguideId>C001068</bioguideId>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>9</district>
+      </item>
+      <item>
+        <firstName>Jesus</firstName>
+        <middleName>G.</middleName>
+        <state>IL</state>
+        <lastName>Garcia</lastName>
+        <bioguideId>G000586</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000586</bioguideId>
+          <lisID>2397</lisID>
+        </identifiers>
+        <fullName>Rep. Garcia, Jesus G. [D-IL-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <district>4</district>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <middleName />
+        <state>CA</state>
+        <lastName>Garamendi</lastName>
+        <bioguideId>G000559</bioguideId>
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>Debra</firstName>
+        <middleName>A.</middleName>
+        <state>NM</state>
+        <lastName>Haaland</lastName>
+        <bioguideId>H001080</bioguideId>
+        <identifiers>
+          <lisID>2423</lisID>
+          <gpoId />
+          <bioguideId>H001080</bioguideId>
+        </identifiers>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName />
+        <state>CA</state>
+        <lastName>Takano</lastName>
+        <bioguideId>T000472</bioguideId>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <district>41</district>
+      </item>
+      <item>
+        <firstName>ADAM</firstName>
+        <middleName />
+        <state>WA</state>
+        <lastName>SMITH</lastName>
+        <bioguideId>S000510</bioguideId>
+        <identifiers>
+          <gpoId>8213</gpoId>
+          <bioguideId>S000510</bioguideId>
+          <lisID>1528</lisID>
+        </identifiers>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <district>9</district>
+      </item>
+      <item>
+        <firstName>ALCEE</firstName>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <lastName>HASTINGS</lastName>
+        <bioguideId>H000324</bioguideId>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <district>20</district>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-03-05T17:06:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-03-05</actionDate>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-03-06T08:12:09Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-04-30T07:16:09Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

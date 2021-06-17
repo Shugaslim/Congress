@@ -1,0 +1,141 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-22", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr970-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-05", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000483", 
+      "district": "6", 
+      "name": "Trone, David J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-05", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-05", 
+  "number": "970", 
+  "official_title": "To direct the Secretary of the Interior to develop a plan for the removal of the monument to Robert E. Lee at the Antietam National Battlefield, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Robert E. Lee Statue Removal Act", 
+  "sponsor": {
+    "bioguide_id": "B001304", 
+    "district": "4", 
+    "name": "Brown, Anthony G.", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-05", 
+  "subjects": [
+    "Conflicts and wars", 
+    "Congressional oversight", 
+    "Maryland", 
+    "Military history", 
+    "Monuments and memorials", 
+    "Public lands and natural resources", 
+    "Racial and ethnic relations", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Robert E. Lee Statue Removal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Robert E. Lee Statue Removal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of the Interior to develop a plan for the removal of the monument to Robert E. Lee at the Antietam National Battlefield, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Robert E. Lee Statue Removal Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-27T08:14:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr970.xml"
+}

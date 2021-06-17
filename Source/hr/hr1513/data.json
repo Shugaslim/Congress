@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1513-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-05", 
+  "number": "1513", 
+  "official_title": "To amend the Help America Vote Act of 2002 to enhance enforcement of the Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s949-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1275-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s549-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Count the Vote Act", 
+  "sponsor": {
+    "bioguide_id": "D000629", 
+    "district": "3", 
+    "name": "Davids, Sharice", 
+    "state": "KS", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-05", 
+  "subjects": [
+    "Administrative remedies", 
+    "Elections, voting, political campaign regulation", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "State and local government operations", 
+    "Voting rights"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Help America Vote Act of 2002 to enhance enforcement of the Act, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Count the Vote Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Count the Vote Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Count the Vote Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-13T19:45:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1513.xml"
+}

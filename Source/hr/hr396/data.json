@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee for Indigenous Peoples of the United States.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr396-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indigenous Peoples of the United States", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001053", 
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-15", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001082", 
+      "district": "1", 
+      "name": "Hern, Kevin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-24", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-09", 
+  "number": "396", 
+  "official_title": "To provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M001190", 
+    "district": "2", 
+    "name": "Mullin, Markwayne", 
+    "state": "OK", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-09", 
+  "subjects": [
+    "Indian claims", 
+    "Indian lands and resources rights", 
+    "Jurisdiction and venue", 
+    "Native Americans", 
+    "Oklahoma", 
+    "Specialized courts"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-09T23:33:01Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr396.xml"
+}

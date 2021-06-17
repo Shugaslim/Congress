@@ -1,0 +1,85 @@
+<bill session="116" type="h" number="1952" updated="2019-05-22T09:17:54Z">
+  <state datetime="2019-05-20T19:05:43-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-05-20T19:05:43-04:00"/>
+  </status>
+  <introduced datetime="2019-03-28"/>
+  <titles>
+    <title type="short" as="introduced">Intercountry Adoption Information Act of 2019</title>
+    <title type="short" as="introduced">Intercountry Adoption Information Act of 2019</title>
+    <title type="short" as="passed house">Intercountry Adoption Information Act of 2019</title>
+    <title type="official" as="introduced">To amend the Intercountry Adoption Act of 2000 to require the Secretary of State to report on intercountry adoptions from countries which have significantly reduced adoption rates involving immigration to the United States, and for other purposes.</title>
+    <title type="display">Intercountry Adoption Information Act of 2019</title>
+  </titles>
+  <sponsor bioguide_id="C001093"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000466" joined="2019-04-02"/>
+    <cosponsor bioguide_id="L000564" joined="2019-05-07"/>
+    <cosponsor bioguide_id="L000559" joined="2019-03-28"/>
+    <cosponsor bioguide_id="L000562" joined="2019-04-08"/>
+    <cosponsor bioguide_id="S000344" joined="2019-04-08"/>
+    <cosponsor bioguide_id="S000522" joined="2019-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-03-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-03-28" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <calendar datetime="2019-04-09" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <calendar datetime="2019-04-09">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules.</text>
+    </calendar>
+    <action datetime="2019-04-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2019-05-20T16:29:08-04:00">
+      <text>Mr. Castro (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2019-05-20T16:29:19-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3973-3975" label="consideration"/>
+    </action>
+    <action datetime="2019-05-20T16:29:20-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1952.</text>
+    </action>
+    <action datetime="2019-05-20T16:38:58-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2019-05-20T18:30:58-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3995" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="218" datetime="2019-05-20T19:05:43-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 218).</text>
+      <reference ref="CR H3973" label="text"/>
+    </vote>
+    <action datetime="2019-05-20T19:05:44-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-05-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="identical" number="938"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Adoption and foster care"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of State"/>
+    <term name="Government information and archives"/>
+    <term name="Immigration status and procedures"/>
+    <term name="International law and treaties"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

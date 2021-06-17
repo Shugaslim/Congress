@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2750-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000610", 
+      "district": "14", 
+      "name": "Reschenthaler, Guy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-15", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000472", 
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-15", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-15", 
+  "number": "2750", 
+  "official_title": "To amend title 9 of the United States Code to prohibit predispute arbitration agreements that force arbitration of certain disputes arising from claims of servicemembers and veterans.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Justice for Ser\u00advice\u00admem\u00adbers Act", 
+  "sponsor": {
+    "bioguide_id": "C001084", 
+    "district": "1", 
+    "name": "Cicilline, David N.", 
+    "state": "RI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-15", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Justice for Ser\u00advice\u00admem\u00adbers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 9 of the United States Code to prohibit predispute arbitration agreements that force arbitration of certain disputes arising from claims of servicemembers and veterans.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title 9 of the United States Code to prohibit predispute arbitration agreements that force arbitration of certain disputes arising from claims of servicemembers and veterans.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-30T04:45:05Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2750.xml"
+}

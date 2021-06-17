@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>M001206</bioguideId>
+        <firstName>Joseph</firstName>
+        <identifiers>
+          <bioguideId>M001206</bioguideId>
+          <lisID>2371</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <state>NY</state>
+        <lastName>Morelle</lastName>
+        <district>25</district>
+        <middleName>D.</middleName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to increase the standard charitable mileage rate for delivery of meals to elderly, disabled, frail, and at-risk individuals.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to increase the standard charitable mileage rate for delivery of meals to elderly, disabled, frail, and at-risk individuals.</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Ron</firstName>
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2446</lisID>
+          <bioguideId>W000827</bioguideId>
+        </identifiers>
+        <bioguideId>W000827</bioguideId>
+        <middleName />
+        <lastName>Wright</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Henry</firstName>
+        <district>4</district>
+        <identifiers>
+          <gpoId>7901</gpoId>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+        </identifiers>
+        <bioguideId>J000288</bioguideId>
+        <middleName>C. "Hank"</middleName>
+        <lastName>Johnson</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <title>To amend the Internal Revenue Code of 1986 to increase the standard charitable mileage rate for delivery of meals to elderly, disabled, frail, and at-risk individuals.</title>
+    <committeeReports />
+    <version>1.0.0</version>
+    <introducedDate>2019-05-22</introducedDate>
+    <recordedVotes />
+    <policyArea />
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+    </actions>
+    <updateDate>2019-05-23T07:31:18Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <createDate>2019-05-23T07:12:08Z</createDate>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2019-05-22</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>2928</billNumber>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T14:01:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions />
+    <relatedBills />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

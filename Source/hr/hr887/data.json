@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-30", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-30", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr887-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001250", 
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-15", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001209", 
+      "district": "4", 
+      "name": "McAdams, Ben", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-15", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001192", 
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-15", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-30", 
+  "number": "887", 
+  "official_title": "To designate the facility of the United States Postal Service located at 877 East 1200 South in Orem, Utah, as the \"Jerry C. Washburn Post Office Building\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C001114", 
+    "district": "3", 
+    "name": "Curtis, John R.", 
+    "state": "UT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-30", 
+  "subjects": [
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Postal service", 
+    "Utah"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-30T05:00:00Z", 
+    "text": "Designates the facility of the United States Postal Service located at 877 East 1200 South in Orem, Utah, as the \"Jerry C. Washburn Post Office Building.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 877 East 1200 South in Orem, Utah, as the \"Jerry C. Washburn Post Office Building\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 877 East 1200 South in Orem, Utah, as the \"Jerry C. Washburn Post Office Building\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-16T07:15:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr887.xml"
+}

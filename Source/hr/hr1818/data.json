@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1818-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000629", 
+      "district": "3", 
+      "name": "Davids, Sharice", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-18", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-18", 
+  "number": "1818", 
+  "official_title": "To amend the Communications Act of 1934 to require providers of a covered service to provide location information concerning the telecommunications device of a user of such service to an investigative or law enforcement officer or an employee or other agent of a public safety answering point in an emergency situation involving risk of death or serious physical harm or in order to respond to the user's call for emergency services.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s273-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Kelsey Smith Act", 
+  "sponsor": {
+    "bioguide_id": "E000298", 
+    "district": "4", 
+    "name": "Estes, Ron", 
+    "state": "KS", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-18", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Emergency communications systems", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "State and local government operations", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to require providers of a covered service to provide location information concerning the telecommunications device of a user of such service to an investigative or law enforcement officer or an employee or other agent of a public safety answering point in an emergency situation involving risk of death or serious physical harm or in order to respond to the user's call for emergency services.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Kelsey Smith Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Kelsey Smith Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Kelsey Smith Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T21:00:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1818.xml"
+}

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>Sherrod</firstName>
+        <lastName>Brown</lastName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2019-01-28</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-01-28</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-01-29T05:25:16Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2019-01-28T21:38:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to amend title XVIII of the Social Security Act to permit nurse practitioners and physician assistants to satisfy the documentation requirement under the Medicare program for coverage of certain shoes for individuals with diabetes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Promoting Access to Diabetic Shoes Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Promoting Access to Diabetic Shoes Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Promoting Access to Diabetic Shoes Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Promoting Access to Diabetic Shoes Act</title>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2019-01-28</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <bioguideId>C001035</bioguideId>
+        <middleName>MARGARET</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>SUSAN</firstName>
+      </item>
+      <item>
+        <lastName>Cramer</lastName>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Kevin</firstName>
+      </item>
+      <item>
+        <lastName>Shaheen</lastName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+        <bioguideId>S001181</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Jeanne</firstName>
+      </item>
+      <item>
+        <lastName>LEAHY</lastName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <bioguideId>L000174</bioguideId>
+        <middleName>JOSEPH</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <identifiers>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>PATRICK</firstName>
+      </item>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Richard</firstName>
+      </item>
+      <item>
+        <lastName>WICKER</lastName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <bioguideId>W000437</bioguideId>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>ROGER</firstName>
+      </item>
+      <item>
+        <lastName>Paul</lastName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>P000603</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <identifiers>
+          <gpoId>8308</gpoId>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Rand</firstName>
+      </item>
+      <item>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Jon</firstName>
+      </item>
+      <item>
+        <lastName>Hyde-Smith</lastName>
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <bioguideId>H001079</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <identifiers>
+          <lisID>2366</lisID>
+          <bioguideId>H001079</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Cindy</firstName>
+      </item>
+      <item>
+        <lastName>Kennedy</lastName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>K000393</bioguideId>
+        <middleName>Neely</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <identifiers>
+          <lisID>2303</lisID>
+          <gpoId />
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>John</firstName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-02-08T20:31:23Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Promoting Access to Diabetic Shoes Act</strong></p> <p>This bill allows a nurse practitioner or physician assistant to fulfill documentation requirements for coverage, under Medicare,&nbsp;of special shoes for diabetic individuals. Under current law, such requirements may be satisfied only by a physician.</p>]]></text>
+          <updateDate>2019-01-28T05:00:00Z</updateDate>
+          <actionDate>2019-01-28</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2019-01-28</introducedDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s237is/xml/BILLS-116s237is.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-28T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Promoting Access to Diabetic Shoes Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2019-02-12</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <number>808</number>
+      </item>
+    </relatedBills>
+    <updateDate>2019-05-23T09:18:15Z</updateDate>
+    <billNumber>237</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-11", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2276-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Coast Guard and Maritime Transportation", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001196", 
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-10", 
+  "number": "2276", 
+  "official_title": "To amend title 14, United States Code, to direct the Coast Guard to submit a report to Congress on efforts to increase gender diversity, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fair and Equal Treatment of Women in the Coast Guard Act", 
+  "sponsor": {
+    "bioguide_id": "P000614", 
+    "district": "1", 
+    "name": "Pappas, Chris", 
+    "state": "NH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-10", 
+  "subjects": [
+    "Coast guard", 
+    "Congressional oversight", 
+    "Employee hiring", 
+    "Employee leave", 
+    "Employment discrimination and employee rights", 
+    "Executive agency funding and structure", 
+    "Government employee pay, benefits, personnel management", 
+    "Military personnel and dependents", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Transportation and public works", 
+    "Women's employment"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-04-10T04:00:00Z", 
+    "text": "Fair and Equal Treatment of Women in the Coast Guard Act\n\nThis bill specifies reporting requirements for the U.S. Coast Guard regarding gender diversity.\n\nThe Coast Guard must submit a biennial report that includes an analysis of its recruitment and retention of women and gender-based limitations on career opportunities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 14, United States Code, to direct the Coast Guard to submit a report to Congress on efforts to increase gender diversity, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fair and Equal Treatment of Women in the Coast Guard Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fair and Equal Treatment of Women in the Coast Guard Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Fair and Equal Treatment of Women in the Coast Guard Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T18:45:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2276.xml"
+}

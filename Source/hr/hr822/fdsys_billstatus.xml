@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>822</billNumber>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-28</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-28</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-28</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2019-01-29T08:10:18Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-03-25T14:57:42Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-28T17:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <committeeReports />
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. CAROLYN B. MALONEY of New York:H.R. 822.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution, Congress has thepower ``to make all Laws which shall be necessary and properfor carrying into Execution the foregoing Powers, and allother Powers vested by this Constitution in the Government ofthe United States, or any Department or Officer thereof''.[Page H1243]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <middleName>B.</middleName>
+        <lastName>MALONEY</lastName>
+        <bioguideId>M000087</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <firstName>CAROLYN</firstName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <district>12</district>
+        <party>D</party>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <cosponsors />
+    <laws />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-28T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr822ih/xml/BILLS-116hr822ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To prohibit the sale of a firearm to, and the purchase of a firearm by, a person who is not covered by appropriate liability insurance coverage.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Firearm Risk Protection Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Firearm Risk Protection Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Firearm Risk Protection Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-26T07:12:42Z</updateDate>
+    <recordedVotes />
+    <congress>116</congress>
+    <introducedDate>2019-01-28</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-03-25</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <links />
+    </latestAction>
+    <title>Firearm Risk Protection Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

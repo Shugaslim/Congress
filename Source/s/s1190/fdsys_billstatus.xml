@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-04-11T20:04:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <party>D</party>
+        <firstName>Jeanne</firstName>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001181</bioguideId>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <lastName>Cramer</lastName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <party>R</party>
+        <firstName>Kevin</firstName>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <lastName>Sinema</lastName>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <party>D</party>
+        <firstName>Kyrsten</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001191</bioguideId>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <party>R</party>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001236</bioguideId>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000770</bioguideId>
+        <middleName>ANN</middleName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend title XVIII of the Social Security Act to provide for payments for certain rural health clinic and Federally qualified health center services furnished to hospice patients under the Medicare program.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Rural Access to Hospice Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Rural Access to Hospice Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Rural Access to Hospice Act of 2019</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-04-11</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <billType>S</billType>
+    <cboCostEstimates />
+    <amendments />
+    <updateDate>2019-05-22T05:07:31Z</updateDate>
+    <textVersions>
+      <item>
+        <date>2019-04-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1190is/xml/BILLS-116s1190is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Rural Access to Hospice Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-05-08</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>2594</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>Rural Access to Hospice Act of 2019</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>CAPITO</lastName>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <bioguideId>C001047</bioguideId>
+        <middleName>MOORE</middleName>
+        <byRequestType />
+        <firstName>SHELLEY</firstName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <party>R</party>
+        <state>WV</state>
+      </item>
+    </sponsors>
+    <createDate>2019-04-12T04:57:11Z</createDate>
+    <latestAction>
+      <actionDate>2019-04-11</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <billNumber>1190</billNumber>
+    <laws />
+    <introducedDate>2019-04-11</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

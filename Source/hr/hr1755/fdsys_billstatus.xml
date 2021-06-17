@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-14T13:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-03-15T14:03:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hspw13</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-14T13:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-14T13:02:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROY:H.R. 1755.Congress has the power to enact this legislation pursuantto the following:Art. 1 Sec. 8[Page H2746]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1755</billNumber>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>116</congress>
+        <number>764</number>
+        <latestTitle>ARTICLE ONE Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2019-03-12</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <billType>HR</billType>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1755ih/xml/BILLS-116hr1755ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <firstName>Rob</firstName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>UT</state>
+        <bioguideId>B001250</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Bishop</lastName>
+        <identifiers>
+          <lisID>1753</lisID>
+          <bioguideId>B001250</bioguideId>
+          <gpoId>8189</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Gallagher</lastName>
+        <identifiers>
+          <lisID>2355</lisID>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+      </item>
+    </cosponsors>
+    <createDate>2019-03-15T07:12:08Z</createDate>
+    <title>ARTICLE ONE Act</title>
+    <amendments />
+    <actions>
+      <item>
+        <actionDate>2019-03-15</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Foreign Affairs, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Foreign Affairs, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Foreign Affairs, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-03-14</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-03-14</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2019-03-14</introducedDate>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <state>TX</state>
+        <district>21</district>
+        <fullName>Rep. Roy, Chip [R-TX-21]</fullName>
+        <party>R</party>
+        <lastName>Roy</lastName>
+        <firstName>Chip</firstName>
+        <identifiers>
+          <bioguideId>R000614</bioguideId>
+          <gpoId />
+          <lisID>2449</lisID>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <bioguideId>R000614</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To provide for congressional approval of national emergency declarations, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Assuring that Robust, Thorough, and Informed Congressional Leadership is Exercised Over National Emergencies Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>ARTICLE ONE Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>ARTICLE ONE Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Assuring that Robust, Thorough, and Informed Congressional Leadership is Exercised Over National Emergencies Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>ARTICLE ONE Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2019-04-24T22:00:07Z</updateDate>
+    <notes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+      <actionDate>2019-03-15</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

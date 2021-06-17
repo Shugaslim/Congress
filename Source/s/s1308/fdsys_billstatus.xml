@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2019-05-02</introducedDate>
+    <updateDate>2019-05-17T04:42:32Z</updateDate>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-05-02T19:36:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea />
+    <amendments />
+    <latestAction>
+      <links />
+      <actionDate>2019-05-02</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <notes />
+    <cosponsors>
+      <item>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <lastName>McSally</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <bioguideId>M001197</bioguideId>
+        <firstName>Martha</firstName>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1308</billNumber>
+    <title>Faith-Based Community Center Protection Act</title>
+    <relatedBills />
+    <version>1.0.0</version>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-05-02</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <byRequestType />
+        <state>NM</state>
+        <lastName>Heinrich</lastName>
+        <firstName>Martin</firstName>
+        <middleName />
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to allow Homeland Security Grant Program funds to be used to safeguard faith-based community centers and houses of worship across the United States, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Faith-Based Community Center Protection Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Faith-Based Community Center Protection Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Faith-Based Community Center Protection Act</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1308is/xml/BILLS-116s1308is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-02T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <createDate>2019-05-03T04:42:12Z</createDate>
+    <laws />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

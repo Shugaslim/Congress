@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1555-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-06", 
+  "number": "1555", 
+  "official_title": "To amend the Communications Act of 1934 to require cable operators and internet service providers who are subject to State fines to submit a report, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Transparency for Cable Consumers Act", 
+  "sponsor": {
+    "bioguide_id": "B001308", 
+    "district": "22", 
+    "name": "Brindisi, Anthony", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-06", 
+  "subjects": [
+    "Broadcasting, cable, digital technologies", 
+    "Congressional oversight", 
+    "Internet and video services", 
+    "Science, technology, communications", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to require cable operators and internet service providers who are subject to State fines to submit a report, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Transparency for Cable Consumers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Transparency for Cable Consumers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Transparency for Cable Consumers Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-29T20:00:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1555.xml"
+}

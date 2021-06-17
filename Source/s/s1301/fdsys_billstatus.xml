@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Canyon's Law</title>
+    <createDate>2019-05-03T04:42:11Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <introducedDate>2019-05-02</introducedDate>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-05-02T19:16:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Environment and Public Works Committee</name>
+          <subcommittees />
+          <systemCode>ssev00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>Merkley</lastName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <byRequestType />
+        <firstName>Jeff</firstName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <state>OR</state>
+        <party>D</party>
+        <bioguideId>M001176</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billNumber>1301</billNumber>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2019-05-02</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <updateDate>2019-05-21T04:28:18Z</updateDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>A bill to prohibit the use of the poisons sodium fluoroacetate (known as "Compound 1080") and sodium cyanide for predator control.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Chemical Poisons Reduction Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Canyon's Law</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Canyon's Law</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Chemical Poisons Reduction Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Canyon’s Law</title>
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <middleName>A.</middleName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <lastName>Booker</lastName>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2194</lisID>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Whitehouse</lastName>
+        <state>RI</state>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Crimes against animals and natural resources</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestTitle>Canyon's Law</latestTitle>
+        <latestAction>
+          <actionDate>2019-05-02</actionDate>
+          <text>Referred to the House Committee on the Judiciary.</text>
+        </latestAction>
+        <number>2471</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-05-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1301is/xml/BILLS-116s1301is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

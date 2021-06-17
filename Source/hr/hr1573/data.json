@@ -1,0 +1,152 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1573-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000588", 
+      "district": "17", 
+      "name": "Lamb, Conor", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-14", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001168", 
+      "district": "3", 
+      "name": "Sarbanes, John P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-06", 
+  "number": "1573", 
+  "official_title": "To amend the Help America Vote Act of 2002 to promote access to voter registration and voting for individuals with disabilities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s949-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1612-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1275-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s549-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Disability Voting Rights Act", 
+  "sponsor": {
+    "bioguide_id": "S001205", 
+    "district": "5", 
+    "name": "Scanlon, Mary Gay", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-06", 
+  "subjects": [
+    "Disability and health-based discrimination", 
+    "Disability and paralysis", 
+    "Elections, voting, political campaign regulation", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "State and local government operations", 
+    "Voting rights"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Help America Vote Act of 2002 to promote access to voter registration and voting for individuals with disabilities, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Disability Voting Rights Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Disability Voting Rights Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Disability Voting Rights Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-13T20:15:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1573.xml"
+}

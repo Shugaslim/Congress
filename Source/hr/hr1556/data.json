@@ -1,0 +1,184 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1556-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000389", 
+      "district": "17", 
+      "name": "Khanna, Ro", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000597", 
+      "district": "7", 
+      "name": "Rice, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000607", 
+      "district": "19", 
+      "name": "Rooney, Francis", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000603", 
+      "district": "7", 
+      "name": "Rouzer, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001214", 
+      "district": "17", 
+      "name": "Steube, W. Gregory", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000823", 
+      "district": "6", 
+      "name": "Waltz, Michael", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-06", 
+  "number": "1556", 
+  "official_title": "To make daylight savings time permanent, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s670-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Sunshine Protection Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "B001260", 
+    "district": "16", 
+    "name": "Buchanan, Vern", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-06", 
+  "subjects": [
+    "Science, technology, communications", 
+    "State and local government operations", 
+    "Time and calendar"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make daylight savings time permanent, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sunshine Protection Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sunshine Protection Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Sunshine Protection Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T07:15:50Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1556.xml"
+}

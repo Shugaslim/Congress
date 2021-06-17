@@ -1,0 +1,181 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-12", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr34-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Energy", 
+      "subcommittee_id": "20"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000491", 
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-03", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-03-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "34", 
+  "official_title": "To ensure consideration of water intensity in the Department of Energy's energy research, development, and demonstration programs to help guarantee efficient, reliable, and sustainable delivery of energy and clean water resources.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Energy and Water Research Integration Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "J000126", 
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-01", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Department of Energy", 
+    "Energy efficiency and conservation", 
+    "Energy research", 
+    "Energy storage, supplies, demand", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Water quality", 
+    "Water resources development", 
+    "Water storage", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure consideration of water intensity in the Department of Energy's energy research, development, and demonstration programs to help guarantee efficient, reliable, and sustainable delivery of energy and clean water resources.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Energy and Water Research Integration Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Energy and Water Research Integration Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Energy and Water Research Integration Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-03T07:13:22Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr34.xml"
+}

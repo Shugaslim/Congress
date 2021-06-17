@@ -1,0 +1,273 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr205-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001257", 
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-24", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001260", 
+      "district": "16", 
+      "name": "Buchanan, Vern", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-04", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001066", 
+      "district": "14", 
+      "name": "Castor, Kathy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-03", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001111", 
+      "district": "13", 
+      "name": "Crist, Charlie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001122", 
+      "district": "1", 
+      "name": "Cunningham, Joe", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-26", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000600", 
+      "district": "25", 
+      "name": "Diaz-Balart, Mario", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-24", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000628", 
+      "district": "2", 
+      "name": "Dunn, Neal P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-30", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000578", 
+      "district": "1", 
+      "name": "Gaetz, Matt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-09", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000579", 
+      "district": "8", 
+      "name": "Gallagher, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-13", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001199", 
+      "district": "18", 
+      "name": "Mast, Brian J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-26", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000599", 
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-31", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000609", 
+      "district": "4", 
+      "name": "Rutherford, John H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-24", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-04-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "205", 
+  "official_title": "To amend the Gulf of Mexico Energy Security Act of 2006 to permanently extend the moratorium on leasing in certain areas of the Gulf of Mexico.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protecting and Securing Florida's Coastline Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "R000607", 
+    "district": "19", 
+    "name": "Rooney, Francis", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Florida", 
+    "Gulf of Mexico", 
+    "Land use and conservation", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-03T05:00:00Z", 
+    "text": "Protecting and Securing Florida's Coastline Act of 2019\n\nThis bill permanently extends the moratorium on oil and gas leasing, preleasing, and related activities in certain areas of the Gulf of Mexico."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Gulf of Mexico Energy Security Act of 2006 to permanently extend the moratorium on leasing in certain areas of the Gulf of Mexico.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting and Securing Florida's Coastline Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting and Securing Florida\u2019s Coastline Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protecting and Securing Florida's Coastline Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:15:38Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr205.xml"
+}

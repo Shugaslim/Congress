@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <number>1849</number>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-03-22</actionDate>
+          <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        </latestAction>
+        <latestTitle>Transportation Funding Fairness Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <laws />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+          <systemCode>hspw14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2019-01-23</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR H1008)</text>
+        <links>
+          <link>
+            <name>H1008</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1008</url>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-01-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-01-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-01-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <createDate>2019-01-24T08:10:12Z</createDate>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <lastName>Norcross</lastName>
+        <bioguideId>N000188</bioguideId>
+        <firstName>Donald</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2202</lisID>
+          <bioguideId>N000188</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <lastName>Van Drew</lastName>
+        <bioguideId>V000133</bioguideId>
+        <firstName>Jefferson</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <identifiers>
+          <lisID>2419</lisID>
+          <gpoId />
+          <bioguideId>V000133</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>Kim</lastName>
+        <bioguideId>K000394</bioguideId>
+        <firstName>Andy</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <fullName>Rep. Kim, Andy [D-NJ-3]</fullName>
+        <identifiers>
+          <bioguideId>K000394</bioguideId>
+          <gpoId />
+          <lisID>2420</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <lastName>PALLONE</lastName>
+        <bioguideId>P000034</bioguideId>
+        <firstName>FRANK</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <identifiers>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+          <lisID>887</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <lastName>PASCRELL</lastName>
+        <bioguideId>P000096</bioguideId>
+        <firstName>WILLIAM</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <identifiers>
+          <lisID>1510</lisID>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <lastName>Payne</lastName>
+        <bioguideId>P000604</bioguideId>
+        <firstName>Donald</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>11</district>
+        <lastName>Sherrill</lastName>
+        <bioguideId>S001207</bioguideId>
+        <firstName>Mikie</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <fullName>Rep. Sherrill, Mikie [D-NJ-11]</fullName>
+        <identifiers>
+          <lisID>2422</lisID>
+          <bioguideId>S001207</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>731</billNumber>
+    <sponsors>
+      <item>
+        <bioguideId>M001203</bioguideId>
+        <state>NJ</state>
+        <party>D</party>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <identifiers>
+          <lisID>2421</lisID>
+          <bioguideId>M001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <lastName>Malinowski</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To modify the treatment of certain loans in consideration for fixed guideway capital investment grants, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Transportation Funding Fairness Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Transportation Funding Fairness Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Transportation Funding Fairness Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2019-01-23</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-01-23T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr731ih/xml/BILLS-116hr731ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-05-30T13:00:07Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <committeeReports />
+    <cboCostEstimates />
+    <title>Transportation Funding Fairness Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-23T15:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hspw14</systemCode>
+              <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-02-07T21:25:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <systemCode>hspw12</systemCode>
+              <name>Highways and Transit Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-02-07T21:25:29Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MALINOWSKI:H.R. 731.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution of theUnited States.[Page H1172]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <actionDate>2019-02-07</actionDate>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>703</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-07</actionDate>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <bioguideId>F000062</bioguideId>
+        <byRequestType />
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <firstName>DIANNE</firstName>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <title>Ensuring Safe Housing for Our Military Act</title>
+    <cosponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <state>VA</state>
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>W000805</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <lastName>Warner</lastName>
+      </item>
+      <item>
+        <firstName>Timothy</firstName>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2176</lisID>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <lastName>Kaine</lastName>
+      </item>
+      <item>
+        <firstName>Kamala</firstName>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>H001075</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <lastName>Harris</lastName>
+      </item>
+      <item>
+        <firstName>Richard</firstName>
+        <state>CT</state>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+      </item>
+      <item>
+        <firstName>Jeanne</firstName>
+        <state>NH</state>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <state>MD</state>
+        <identifiers>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <lastName>Van Hollen</lastName>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <state>NJ</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipWithdrawnDate>2019-03-28</sponsorshipWithdrawnDate>
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <lastName>Booker</lastName>
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <lastName>Merkley</lastName>
+      </item>
+      <item>
+        <firstName>Jon</firstName>
+        <state>MT</state>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <firstName>Christopher</firstName>
+        <state>CT</state>
+        <identifiers>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <bioguideId>M001169</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <lastName>Murphy</lastName>
+      </item>
+      <item>
+        <firstName>TOM</firstName>
+        <state>NM</state>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <bioguideId>U000039</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <lastName>UDALL</lastName>
+      </item>
+      <item>
+        <firstName>Tammy</firstName>
+        <state>IL</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <lastName>Duckworth</lastName>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <state>HI</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <lastName>Schatz</lastName>
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+      </item>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <state>MD</state>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to amend title 10, United States Code, to address health, safety, and environmental hazards at private military housing units, to prohibit the payment by members of the Armed Forces of deposits or other fees relating to such housing units, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Ensuring Safe Housing for Our Military Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Ensuring Safe Housing for Our Military Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Ensuring Safe Housing for Our Military Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-05-16T07:45:36Z</updateDate>
+    <congress>116</congress>
+    <introducedDate>2019-03-07</introducedDate>
+    <laws />
+    <createDate>2019-03-08T05:42:07Z</createDate>
+    <billType>S</billType>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Ensuring Safe Housing for Our Military Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>1792</number>
+        <latestAction>
+          <actionDate>2019-03-15</actionDate>
+          <text>Referred to the Subcommittee on Readiness.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s703is/xml/BILLS-116s703is.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2019-03-07</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssas00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-03-07T17:53:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Housing supply and affordability</name>
+          </item>
+          <item>
+            <name>Landlord and tenant</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

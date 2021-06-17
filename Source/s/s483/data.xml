@@ -1,0 +1,101 @@
+<bill session="116" type="s" number="483" updated="2019-05-22T22:15:05Z">
+  <state datetime="2019-03-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2019-03-08"/>
+  </status>
+  <introduced datetime="2019-02-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to enact into law a bill by reference.</title>
+    <title type="short" as="enacted">Pesticide Registration Improvement Extension Act of 2018</title>
+    <title type="short" as="passed house">Pesticide Registration Improvement Extension Act of 2018</title>
+    <title type="display">Pesticide Registration Improvement Extension Act of 2018</title>
+  </titles>
+  <sponsor bioguide_id="R000307"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S000770" joined="2019-02-13"/>
+    <cosponsor bioguide_id="U000039" joined="2019-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-02-13">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-02-13">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2019-02-14" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="26">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 26.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="2019-02-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S1394" label="consideration"/>
+      <reference ref="CR S1394" label="text"/>
+    </vote>
+    <action datetime="2019-02-15T10:02:47-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2019-02-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2019-02-15T10:56:50-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2019-02-25T19:33:42-05:00">
+      <text>Mr. Peterson asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <action datetime="2019-02-25T19:33:57-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H2068-2087" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2019-02-25T19:34:34-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H2068-2087" label="text"/>
+    </vote>
+    <action datetime="2019-02-25T19:34:37-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-02-26">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+    </action>
+    <action datetime="2019-02-28">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="2019-02-28" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment to S.483 by Voice Vote.</text>
+      <reference ref="CR S1606" label="consideration"/>
+    </vote>
+    <action datetime="2019-03-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2019-03-06">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2019-03-08" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="116-8" type="public" datetime="2019-03-08">
+      <text>Became Public Law No: 116-8.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Licensing and registrations"/>
+    <term name="Migrant, seasonal, agricultural labor"/>
+    <term name="Pest management"/>
+    <term name="User charges and fees"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments>
+    <amendment number="h43"/>
+  </amendments>
+  <summary date="2019-02-13T05:00:00Z" status="Introduced in Senate">This bill enacts into law the Pesticide Registration Improvement Extension Act of 2018 (115HR1029) from the 115th Congress, as passed by the Senate.</summary>
+  <committee-reports/>
+</bill>

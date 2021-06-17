@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Dental care</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-06T15:04:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-06T15:04:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-02-07T08:10:16Z</createDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>Clarke</lastName>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <bioguideId>C001067</bioguideId>
+        <firstName>Yvette</firstName>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>9</district>
+        <middleName>D.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <district>4</district>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <district>2</district>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>S001148</bioguideId>
+        <state>ID</state>
+        <lastName>SIMPSON</lastName>
+        <middleName>K.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1590</lisID>
+          <gpoId>7920</gpoId>
+          <bioguideId>S001148</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <district>6</district>
+        <party>D</party>
+        <firstName>Grace</firstName>
+        <bioguideId>M001188</bioguideId>
+        <state>NY</state>
+        <lastName>Meng</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <district>0</district>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Guest, Michael [R-MS-3]</fullName>
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <district>3</district>
+        <party>R</party>
+        <firstName>Michael</firstName>
+        <bioguideId>G000591</bioguideId>
+        <state>MS</state>
+        <lastName>Guest</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2416</lisID>
+          <bioguideId>G000591</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>2</district>
+        <party>D</party>
+        <firstName>C. A.</firstName>
+        <bioguideId>R000576</bioguideId>
+        <state>MD</state>
+        <lastName>Ruppersberger</lastName>
+        <middleName>Dutch</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1728</lisID>
+          <bioguideId>R000576</bioguideId>
+          <gpoId>7977</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <district>36</district>
+        <party>R</party>
+        <firstName>Brian</firstName>
+        <bioguideId>B001291</bioguideId>
+        <state>TX</state>
+        <lastName>Babin</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <district>1</district>
+        <party>D</party>
+        <firstName>BOBBY</firstName>
+        <bioguideId>R000515</bioguideId>
+        <state>IL</state>
+        <lastName>RUSH</lastName>
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <district>28</district>
+        <party>D</party>
+        <firstName>ADAM</firstName>
+        <bioguideId>S001150</bioguideId>
+        <state>CA</state>
+        <lastName>SCHIFF</lastName>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7834</gpoId>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <district>28</district>
+        <party>D</party>
+        <firstName>Henry</firstName>
+        <bioguideId>C001063</bioguideId>
+        <state>TX</state>
+        <lastName>Cuellar</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8184</gpoId>
+          <lisID>1807</lisID>
+          <bioguideId>C001063</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>996</billNumber>
+    <laws />
+    <congress>116</congress>
+    <title>Dental Loan Repayment Assistance Act</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-06</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-06</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. CLARKE of New York:H.R. 996.Congress has the power to enact this legislation pursuantto the following:the power granted to Congress under Article I of the UnitedStates Constitution and it subsequent amendments, and furtherclarified and interpreted by the Supreme Court of the UnitedStates.[Page H1392]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-02-06</introducedDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Dental Loan Repayment Assistance Act</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S921)</text>
+          <actionDate>2019-02-06</actionDate>
+        </latestAction>
+        <type>S</type>
+        <number>359</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-02-25T16:31:40Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Dental Loan Repayment Assistance Act</b></p> <p>This bill modifies the requirements for calculating taxable income to exclude from gross income payments received under the federally funded student loan repayment program for full-time faculty members of dental schools with programs in general, pediatric, or public health dentistry.</p> <p>The bill also requires the Government Accountability Office to report to Congress on the participation of dental providers and faculty in areas and schools receiving funding under the program. </p>]]></text>
+          <updateDate>2019-02-06T05:00:00Z</updateDate>
+          <actionDate>2019-02-06</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2019-05-23T07:15:44Z</updateDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to exclude from gross income certain federally subsidized loan repayments for dental school faculty.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Dental Loan Repayment Assistance Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Dental Loan Repayment Assistance Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Dental Loan Repayment Assistance Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2019-02-06</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr996ih/xml/BILLS-116hr996ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-02-06T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

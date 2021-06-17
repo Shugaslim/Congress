@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionDate>2019-05-16</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-05-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-05-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2423</lisID>
+          <bioguideId>H001080</bioguideId>
+        </identifiers>
+        <lastName>Haaland</lastName>
+        <district>1</district>
+        <middleName>A.</middleName>
+        <firstName>Debra</firstName>
+        <bioguideId>H001080</bioguideId>
+        <state>NM</state>
+        <party>D</party>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-05-17T07:12:09Z</createDate>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gallagher</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName />
+        <state>OK</state>
+        <bioguideId>C001053</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cole</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName>Ray</middleName>
+        <state>CA</state>
+        <bioguideId>C001123</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cisneros</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>39</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001123</bioguideId>
+          <lisID>2380</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Gilbert</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>C001094</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cook</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001094</bioguideId>
+          <lisID>2103</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName />
+        <state>HI</state>
+        <bioguideId>C001055</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Case</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001055</bioguideId>
+          <lisID>1693</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Ed</firstName>
+      </item>
+      <item>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName />
+        <state>AZ</state>
+        <bioguideId>O000171</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>O'Halleran</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <identifiers>
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Crow, Jason [D-CO-6]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName />
+        <state>CO</state>
+        <bioguideId>C001121</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Crow</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2385</lisID>
+          <bioguideId>C001121</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Jason</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Horn, Kendra S. [D-OK-5]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName>S.</middleName>
+        <state>OK</state>
+        <bioguideId>H001083</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Horn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <identifiers>
+          <lisID>2431</lisID>
+          <bioguideId>H001083</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Kendra</firstName>
+      </item>
+    </cosponsors>
+    <textVersions />
+    <billNumber>2791</billNumber>
+    <notes />
+    <updateDate>2019-05-17T13:01:17Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <title>To establish the Department of Veterans Affairs Advisory Committee on Tribal and Indian Affairs, and for other purposes.</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. HAALAND:H.R. 2791.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H3925]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To establish the Department of Veterans Affairs Advisory Committee on Tribal and Indian Affairs, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To establish the Department of Veterans Affairs Advisory Committee on Tribal and Indian Affairs, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2019-05-16</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-16T14:03:35Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <policyArea />
+    <introducedDate>2019-05-16</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

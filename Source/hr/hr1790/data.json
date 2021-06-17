@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1790-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001183", 
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-14", 
+  "number": "1790", 
+  "official_title": "To require any amounts remaining in Members' Representational Allowances at the end of a fiscal year to be deposited in the Treasury and used for deficit reduction or to reduce the Federal debt.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Giveback Deficit Reduction Act", 
+  "sponsor": {
+    "bioguide_id": "K000188", 
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-14", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Congress", 
+    "Congressional operations and organization", 
+    "Government information and archives", 
+    "House of Representatives", 
+    "Members of Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-03-14T04:00:00Z", 
+    "text": "Giveback Deficit Reduction Act\n\nThis bill requires appropriations for Member's Representational Allowances for the House of Representatives that remain at the end of a fiscal year to be deposited in the Treasury and used for deficit or debt reduction. (The Member's Representational Allowance is the budget authorized for each Member of Congress in support of the conduct of official and representational duties.)\n\nThe bill also specifies that the House Administration Committee has the authority to prescribe regulations to carry out this bill."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require any amounts remaining in Members' Representational Allowances at the end of a fiscal year to be deposited in the Treasury and used for deficit reduction or to reduce the Federal debt.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Giveback Deficit Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Giveback Deficit Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Giveback Deficit Reduction Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-08T15:30:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1790.xml"
+}

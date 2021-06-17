@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-20T19:02:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-04-30T14:00:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsag03</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-16T21:32:37Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-04-30T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-04-30T14:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NADLER</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <bioguideId>N000002</bioguideId>
+        <party>D</party>
+        <district>10</district>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>JERROLD</firstName>
+        <identifiers>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <state>NY</state>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bass</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <bioguideId>B001270</bioguideId>
+        <party>D</party>
+        <district>37</district>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>Karen</firstName>
+        <identifiers>
+          <gpoId>7838</gpoId>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+        </identifiers>
+        <state>CA</state>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <district>0</district>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <state>DC</state>
+      </item>
+      <item>
+        <middleName>LACY</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CLAY</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <bioguideId>C001049</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <firstName>WM.</firstName>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <state>MO</state>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LEE</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <bioguideId>L000551</bioguideId>
+        <party>D</party>
+        <district>13</district>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <firstName>BARBARA</firstName>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <state>CA</state>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cardenas</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <bioguideId>C001097</bioguideId>
+        <party>D</party>
+        <district>29</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <firstName>Tony</firstName>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+          <lisID>2107</lisID>
+        </identifiers>
+        <state>CA</state>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <bioguideId>C001068</bioguideId>
+        <party>D</party>
+        <district>9</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <state>TN</state>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kelly</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <bioguideId>K000385</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>Robin</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+        </identifiers>
+        <state>IL</state>
+      </item>
+      <item>
+        <middleName>S.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Adams</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <bioguideId>A000370</bioguideId>
+        <party>D</party>
+        <district>12</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>Alma</firstName>
+        <identifiers>
+          <lisID>2201</lisID>
+          <bioguideId>A000370</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NC</state>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Clarke</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <bioguideId>C001067</bioguideId>
+        <party>D</party>
+        <district>9</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>Yvette</firstName>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <state>NY</state>
+      </item>
+      <item>
+        <middleName>S.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <bioguideId>W000808</bioguideId>
+        <party>D</party>
+        <district>24</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>Frederica</firstName>
+        <identifiers>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <state>FL</state>
+      </item>
+      <item>
+        <middleName>C. "Hank"</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <bioguideId>J000288</bioguideId>
+        <party>D</party>
+        <district>4</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>Henry</firstName>
+        <identifiers>
+          <gpoId>7901</gpoId>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <state>GA</state>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LEWIS</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <bioguideId>L000287</bioguideId>
+        <party>D</party>
+        <district>5</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>688</lisID>
+          <bioguideId>L000287</bioguideId>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <state>GA</state>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Watson Coleman</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <bioguideId>W000822</bioguideId>
+        <party>D</party>
+        <district>12</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>Bonnie</firstName>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <gpoId />
+          <lisID>2259</lisID>
+        </identifiers>
+        <state>NJ</state>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Payne</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <bioguideId>P000604</bioguideId>
+        <party>D</party>
+        <district>10</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>Donald</firstName>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+          <lisID>2097</lisID>
+        </identifiers>
+        <state>NJ</state>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>THOMPSON</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <bioguideId>T000193</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>BENNIE</firstName>
+        <identifiers>
+          <gpoId>8020</gpoId>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <state>MS</state>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Richmond</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <bioguideId>R000588</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>Cedric</firstName>
+        <identifiers>
+          <gpoId>7960</gpoId>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+        </identifiers>
+        <state>LA</state>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Dean</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <bioguideId>D000631</bioguideId>
+        <party>D</party>
+        <district>4</district>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <firstName>Madeleine</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2432</lisID>
+          <bioguideId>D000631</bioguideId>
+        </identifiers>
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>To provide for the sealing or expungement of records relating to Federal nonviolent criminal offenses, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Record Expungement Designed to Enhance Employment Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>REDEEM Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>REDEEM Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Record Expungement Designed to Enhance Employment Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>REDEEM Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2019-05-20</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <systemCode>hsag03</systemCode>
+          <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition, Oversight, and Department Operations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2019-04-30</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionDate>2019-04-30</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2019-04-30</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2019-04-30</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2019-04-30</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CUMMINGS:H.R. 2410.Congress has the power to enact this legislation pursuantto the following:Pursuant to Article I, Section 8, Clause 3 of the UnitedStates Constitution, the Congress shall have the power to``regulate Commerce with foreign Nations, and among theseveral states, and with the Indian Tribes''[Page H3340]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <amendments />
+    <updateDate>2019-05-22T07:13:06Z</updateDate>
+    <textVersions>
+      <item>
+        <date>2019-04-30T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2410ih/xml/BILLS-116hr2410ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>REDEEM Act</title>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Next Step Act of 2019</latestTitle>
+        <number>697</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2019-03-07</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Next Step Act of 2019</latestTitle>
+        <number>1893</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+          <actionDate>2019-04-08</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>CUMMINGS</lastName>
+        <district>7</district>
+        <bioguideId>C000984</bioguideId>
+        <middleName>E.</middleName>
+        <identifiers>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>ELIJAH</firstName>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <party>D</party>
+        <state>MD</state>
+      </item>
+    </sponsors>
+    <createDate>2019-05-01T07:12:10Z</createDate>
+    <latestAction>
+      <actionDate>2019-05-20</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <links />
+    </latestAction>
+    <billNumber>2410</billNumber>
+    <laws />
+    <introducedDate>2019-04-30</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

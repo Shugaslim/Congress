@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-22T22:54:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001095</bioguideId>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <firstName>Tom</firstName>
+        <middleName />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001075</bioguideId>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <firstName>Bill</firstName>
+        <middleName />
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001243</bioguideId>
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <firstName>Marsha</firstName>
+        <middleName />
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000295</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <firstName>Joni</firstName>
+        <middleName />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>A bill to amend the Controlled Substances Act to list fentanyl-related substances as schedule I controlled substances.</title>
+    <billType>S</billType>
+    <laws />
+    <amendments />
+    <createDate>2019-05-23T04:42:07Z</createDate>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <notes />
+    <policyArea />
+    <actions>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billNumber>1622</billNumber>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2019-05-22</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Controlled Substances Act to list fentanyl-related substances as schedule I controlled substances.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Controlled Substances Act to list fentanyl-related substances as schedule I controlled substances.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <state>WI</state>
+        <byRequestType />
+        <firstName>Ron</firstName>
+        <lastName>Johnson</lastName>
+        <middleName />
+        <bioguideId>J000293</bioguideId>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-23T04:46:23Z</updateDate>
+    <introducedDate>2019-05-22</introducedDate>
+    <textVersions />
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

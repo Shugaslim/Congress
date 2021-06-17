@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2019-04-11T18:18:48Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-04-12T04:57:10Z</createDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>Schatz</lastName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <bioguideId>S001194</bioguideId>
+        <firstName>Brian</firstName>
+        <state>HI</state>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Brown</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>B000944</bioguideId>
+        <firstName>Sherrod</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Van Hollen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>V000128</bioguideId>
+        <firstName>Chris</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <state>MD</state>
+      </item>
+      <item>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <state>OR</state>
+      </item>
+      <item>
+        <lastName>Hassan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>H001076</bioguideId>
+        <firstName>Margaret</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <middleName>Wood</middleName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <state>NH</state>
+      </item>
+    </cosponsors>
+    <billNumber>1174</billNumber>
+    <congress>116</congress>
+    <relatedBills />
+    <title>Federal Employee Paid Leave Act</title>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-11</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2019-04-11</introducedDate>
+    <laws />
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to provide that 12 weeks of leave made available to a Federal employee shall be paid leave, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Federal Employee Paid Leave Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Federal Employee Paid Leave Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Federal Employee Paid Leave Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2019-04-11</actionDate>
+    </latestAction>
+    <updateDate>2019-05-23T09:18:52Z</updateDate>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1174is/xml/BILLS-116s1174is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-04-11T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

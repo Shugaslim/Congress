@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <bioguideId>Z000017</bioguideId>
+        <lastName>Zeldin</lastName>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <firstName>Lee</firstName>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-03-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-03-08</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>National Credit Union Administration</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-03-09T08:12:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-08T14:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To provide the National Credit Union Administration Board flexibility to increase Federal credit union loan maturities, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To provide the National Credit Union Administration Board flexibility to increase Federal credit union loan maturities, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>To provide the National Credit Union Administration Board flexibility to increase Federal credit union loan maturities, and for other purposes.</title>
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2019-03-08</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <district>15</district>
+        <middleName />
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Gonzalez</lastName>
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <bioguideId>G000581</bioguideId>
+        <firstName>Vicente</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>23</district>
+        <middleName />
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Wasserman Schultz</lastName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <bioguideId>W000797</bioguideId>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Gaetz</lastName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <bioguideId>G000578</bioguideId>
+        <firstName>Matt</firstName>
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Beatty</lastName>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <bioguideId>B001281</bioguideId>
+        <firstName>Joyce</firstName>
+        <identifiers>
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>15</district>
+        <middleName />
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Swalwell</lastName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>S001193</bioguideId>
+        <firstName>Eric</firstName>
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Byrne</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <bioguideId>B001289</bioguideId>
+        <firstName>Bradley</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2197</lisID>
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-24T07:15:43Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-03-08</introducedDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date>2019-03-08T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1661ih/xml/BILLS-116hr1661ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ZELDIN:H.R. 1661.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution____________________[Page H2615]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1661</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

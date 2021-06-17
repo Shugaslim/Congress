@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-01-18T08:10:12Z</createDate>
+    <introducedDate>2019-01-17</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionDate>2019-01-17</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-01-17</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-01-17</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2019-01-17</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-04-22T14:17:18Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><STRONG>Political Accountability and Transparency Act</STRONG></p> <p>This bill restricts the use of certain political funds and revises requirements for political communications. Specifically, the bill</p> <UL> <LI>prohibits the personal use of political committee funds; <LI>treats coordinated expenditures, as defined by the bill, as campaign contributions, thereby subjecting them to limits and disclosure requirements;<LI>applies disclosure requirements for electioneering communications to Internet or digital communications; and <LI>requires persons paying for political communications to make their best efforts to determine the true source of the funds used.</LI> </UL>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-17T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2019-01-17</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>679</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000602</bioguideId>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <firstName>Kathleen</firstName>
+        <state>NY</state>
+        <lastName>Rice</lastName>
+        <byRequestType />
+        <district>4</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>116</congress>
+    <updateDate>2019-04-22T14:30:13Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <date>2019-01-17T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr679ih/xml/BILLS-116hr679ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Digital media</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Political advertising</name>
+          </item>
+          <item>
+            <name>Political parties and affiliation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Miss RICE of New York:H.R. 679.Congress has the power to enact this legislation pursuantto the following:Article I, Section VIII[Page H720]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-01-17T14:06:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <firstName>Derek</firstName>
+        <middleName />
+        <bioguideId>K000381</bioguideId>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <lastName>Kilmer</lastName>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+          <lisID>2169</lisID>
+        </identifiers>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <middleName />
+        <bioguideId>G000579</bioguideId>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <lastName>Gallagher</lastName>
+        <identifiers>
+          <lisID>2355</lisID>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>K000386</bioguideId>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <district>24</district>
+        <lastName>Katko</lastName>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Federal Election Campaign Act of 1971 to apply the restrictions on the use of campaign funds for personal use to the funds of leadership PACs and other political committees, to clarify the treatment of certain coordinated expenditures as contributions to candidates, to require the sponsors of certain political advertisements to identify the source of funds used for the advertisements, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Political Accountability and Transparency Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Political Accountability and Transparency Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Political Accountability and Transparency Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <title>Political Accountability and Transparency Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

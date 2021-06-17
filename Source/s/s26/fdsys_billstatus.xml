@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <billNumber>26</billNumber>
+    <actions>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <title>Vote By Mail Act of 2019</title>
+    <createDate>2019-01-04T13:32:59Z</createDate>
+    <version>1.0.0</version>
+    <amendments />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <bioguideId>M000133</bioguideId>
+        <firstName>EDWARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <bioguideId>W000802</bioguideId>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <firstName>Kirsten</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <bioguideId>F000062</bioguideId>
+        <firstName>DIANNE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>FEINSTEIN</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <bioguideId>H001075</bioguideId>
+        <firstName>Kamala</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <lastName>Harris</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <bioguideId>B001230</bioguideId>
+        <firstName>Tammy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Baldwin</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <bioguideId>S000033</bioguideId>
+        <firstName>Bernard</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Sanders</lastName>
+        <party>I</party>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>VT</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <bioguideId>M001111</bioguideId>
+        <firstName>PATTY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>MURRAY</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <bioguideId>M001169</bioguideId>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <bioguideId>W000817</bioguideId>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <bioguideId>C000174</bioguideId>
+        <firstName>THOMAS</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <lastName>CARPER</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <state>DE</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <bioguideId>C001088</bioguideId>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <state>DE</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <bioguideId>U000039</bioguideId>
+        <firstName>TOM</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>UDALL</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <bioguideId>S001194</bioguideId>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <state>HI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <introducedDate>2019-01-03</introducedDate>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>Referred to the House Committee on House Administration.</text>
+        </latestAction>
+        <number>138</number>
+        <latestTitle>Universal Right to Vote by Mail Act of 2019</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <number>92</number>
+        <latestTitle>Vote By Mail Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2019-05-01T04:42:21Z</updateDate>
+    <billType>S</billType>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>WYDEN</lastName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <middleName />
+        <bioguideId>W000779</bioguideId>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <firstName>RON</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s26is/xml/BILLS-116s26is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Help America Vote Act of 2002 to allow all eligible voters to vote by mail in Federal elections, to amend the National Voter Registration Act of 1993 to provide for automatic voter registration.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Vote By Mail Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Vote By Mail Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Vote By Mail Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-01-03</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <name>Rules and Administration Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T22:06:58Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

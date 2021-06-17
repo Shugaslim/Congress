@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-25", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-25", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1329-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S000244", 
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000463", 
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-25", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-25", 
+  "number": "1329", 
+  "official_title": "To amend title XIX of the Social Security Act to allow for medical assistance under Medicaid for inmates during the 30-day period preceding release from a public institution.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicaid Reentry Act", 
+  "sponsor": {
+    "bioguide_id": "T000469", 
+    "district": "20", 
+    "name": "Tonko, Paul", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-25", 
+  "subjects": [
+    "Congressional oversight", 
+    "Correctional facilities and imprisonment", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Medicaid", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-02-25T05:00:00Z", 
+    "text": "Medicaid Reentry Act\n\nThis bill allows Medicaid payment for medical services furnished\u00a0to an\u00a0incarcerated individual\u00a0during the 30-day period preceding the individual's release."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to allow for medical assistance under Medicaid for inmates during the 30-day period preceding release from a public institution.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid Reentry Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid Reentry Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Medicaid Reentry Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-08T07:16:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1329.xml"
+}

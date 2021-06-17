@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-04-03T04:42:07Z</createDate>
+    <introducedDate>2019-04-02</introducedDate>
+    <originChamber>Senate</originChamber>
+    <textVersions />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-02T16:54:43Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <state>AR</state>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <middleName />
+        <lastName>Cotton</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <bioguideId>C001095</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <byRequestType />
+        <middleName />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <state>AR</state>
+        <party>R</party>
+        <bioguideId>B001236</bioguideId>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <lastName>Boozman</lastName>
+      </item>
+    </sponsors>
+    <policyArea />
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-04-02</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-02</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <committeeReports />
+    <title>A bill to release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+    <congress>116</congress>
+    <updateDate>2019-04-03T07:17:52Z</updateDate>
+    <billNumber>986</billNumber>
+    <relatedBills />
+    <billType>S</billType>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

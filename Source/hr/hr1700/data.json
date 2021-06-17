@@ -1,0 +1,134 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-03", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Citizenship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1700-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000590", 
+      "district": "7", 
+      "name": "Green, Mark E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-12", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-12", 
+  "number": "1700", 
+  "official_title": "To direct the Secretary of State to submit to Congress a report on the designation of the Reynosa/Los Metros faction of the Gulf Cartel, the Jalisco New Generation Cartel, and the Cartel Del Noreste faction of Los Zetas as foreign terrorist organizations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Drug Cartel Terrorist Designation Act", 
+  "sponsor": {
+    "bioguide_id": "R000614", 
+    "district": "21", 
+    "name": "Roy, Chip", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-12", 
+  "subjects": [
+    "Congressional oversight", 
+    "Drug trafficking and controlled substances", 
+    "International affairs", 
+    "Latin America", 
+    "Mexico", 
+    "Organized crime", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-03-12T04:00:00Z", 
+    "text": "Drug Cartel Terrorist Designation Act\n\nThis bill directs the Department of State to report to Congress on specified Mexican drug cartels and determine whether they qualify as foreign terrorist organizations under the Immigration and Nationality Act. The State Department shall explain in detail its reasoning if it concludes that any of the specified cartels do not qualify.\n\nThe report shall analyze the Reynosa/Los Metros faction of the Gulf Cartel, the Jalisco New Generation Cartel, and the Cartel Del Noreste faction of Los Zetas."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of State to submit to Congress a report on the designation of the Reynosa/Los Metros faction of the Gulf Cartel, the Jalisco New Generation Cartel, and the Cartel Del Noreste faction of Los Zetas as foreign terrorist organizations, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Drug Cartel Terrorist Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Drug Cartel Terrorist Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Drug Cartel Terrorist Designation Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-07T07:12:29Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1700.xml"
+}

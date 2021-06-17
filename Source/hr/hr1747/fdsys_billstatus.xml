@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1747</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-01</actionDate>
+        <committee>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-03-13</actionDate>
+        <links />
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-13</actionDate>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-13</actionDate>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <district>1</district>
+        <identifiers>
+          <gpoId>8192</gpoId>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <state>VA</state>
+        <party>R</party>
+        <bioguideId>W000804</bioguideId>
+        <byRequestType />
+        <lastName>Wittman</lastName>
+        <middleName>J.</middleName>
+        <firstName>Robert</firstName>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <amendments />
+    <title>National Fish Habitat Conservation Through Partnerships Act</title>
+    <titles>
+      <item>
+        <chamberName />
+        <title>National Fish Habitat Conservation Through Partnerships Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To encourage partnerships among public agencies and other interested persons to promote fish conservation.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>National Fish Habitat Conservation Through Partnerships Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>National Fish Habitat Conservation Through Partnerships Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-05-17T07:15:39Z</updateDate>
+    <introducedDate>2019-03-13</introducedDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1747ih/xml/BILLS-116hr1747ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-13T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>754</number>
+        <latestTitle>National Fish Habitat Conservation Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-12</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1326</number>
+        <latestTitle>ACCESS Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-26</actionDate>
+          <text>Subcommittee Hearings Held.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <party>D</party>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2166</lisID>
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <district>33</district>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <bioguideId>V000131</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marc</firstName>
+        <lastName>Veasey</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>HI</state>
+        <party>D</party>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001055</bioguideId>
+          <lisID>1693</lisID>
+        </identifiers>
+        <district>1</district>
+        <middleName />
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <bioguideId>C001055</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ed</firstName>
+        <lastName>Case</lastName>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-03-13T14:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <date>2019-04-01T20:21:12Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2019-04-01</actionDate>
+      <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <createDate>2019-03-14T07:12:10Z</createDate>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WITTMAN:H.R. 1747.Congress has the power to enact this legislation pursuantto the following:Article I, Section 6 of the Constitution of the UnitedStates[Page H2718]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>Hunting and fishing</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

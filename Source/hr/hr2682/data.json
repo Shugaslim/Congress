@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2682-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-10", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-10", 
+  "number": "2682", 
+  "official_title": "To amend the Communications Act of 1934 to require multichannel video programming distributors to carry rural video programming, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Agricultural News and Rural Content Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "R000575", 
+    "district": "3", 
+    "name": "Rogers, Mike D.", 
+    "state": "AL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-10", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to require multichannel video programming distributors to carry rural video programming, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Agricultural News and Rural Content Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Agricultural News and Rural Content Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Agricultural News and Rural Content Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T15:45:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2682.xml"
+}

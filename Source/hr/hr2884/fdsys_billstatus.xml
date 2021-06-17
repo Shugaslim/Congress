@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To improve the provision of health care by the Department of Veterans Affairs, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To improve the provision of health care by the Department of Veterans Affairs, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <cboCostEstimates />
+    <billNumber>2884</billNumber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-21T14:01:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <lastName>Wittman</lastName>
+        <party>R</party>
+        <firstName>Robert</firstName>
+        <identifiers>
+          <gpoId>8192</gpoId>
+          <bioguideId>W000804</bioguideId>
+          <lisID>1886</lisID>
+        </identifiers>
+        <byRequestType />
+        <state>VA</state>
+        <district>1</district>
+        <bioguideId>W000804</bioguideId>
+        <middleName>J.</middleName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <createDate>2019-05-22T07:12:08Z</createDate>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <notes />
+    <calendarNumbers />
+    <updateDate>2019-05-22T07:17:35Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <congress>116</congress>
+    <cosponsors />
+    <policyArea />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2019-05-21</actionDate>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </latestAction>
+    <textVersions />
+    <introducedDate>2019-05-21</introducedDate>
+    <title>To improve the provision of health care by the Department of Veterans Affairs, and for other purposes.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

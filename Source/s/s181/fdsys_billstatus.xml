@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-17</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-01-17</actionDate>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Environment and Public Works Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-17T22:36:12Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Comprehensive National Mercury Monitoring Act</title>
+    <congress>116</congress>
+    <updateDate>2019-02-06T06:24:54Z</updateDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <links />
+      <actionDate>2019-01-17</actionDate>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <version>1.0.0</version>
+    <billNumber>181</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Animal and plant health</name>
+          </item>
+          <item>
+            <name>Birds</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Ecology</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Marine pollution</name>
+          </item>
+          <item>
+            <name>Metals</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Soil pollution</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Wetlands</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>ME</state>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <byRequestType />
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s181is/xml/BILLS-116s181is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-01-17T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2019-01-18T05:55:14Z</createDate>
+    <relatedBills />
+    <committeeReports />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <lastName>CARPER</lastName>
+        <bioguideId>C000174</bioguideId>
+        <middleName>R.</middleName>
+        <state>DE</state>
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <identifiers>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+          <lisID>179</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>THOMAS</firstName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Comprehensive National Mercury Monitoring Act</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish a national mercury monitoring program, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Comprehensive National Mercury Monitoring Act</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Comprehensive National Mercury Monitoring Act</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <calendarNumbers />
+    <billType>S</billType>
+    <introducedDate>2019-01-17</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-06T08:12:10Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <name>Immigration and Citizenship Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-03-05</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-05</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-05</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-25T14:00:56Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-05T17:07:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. Pascrell:H.R. 1547.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 1[Page H2370]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-03-25</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-03-05T05:00:00Z</updateDate>
+          <actionDate>2019-03-05</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-03-06T09:02:11Z</lastSummaryUpdateDate>
+          <text><![CDATA[Provides for the relief of Malachy McAllister, Nicola McAllister, and Sean Ryan McAllister.]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1547</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea />
+    <relatedBills />
+    <updateDate>2019-04-09T10:26:10Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Private Legislation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>For the relief of Malachy McAllister, Nicola McAllister, and Sean Ryan McAllister.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>For the relief of Malachy McAllister, Nicola McAllister, and Sean Ryan McAllister.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-03-05</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>PASCRELL</lastName>
+        <state>NJ</state>
+        <district>9</district>
+        <party>D</party>
+        <byRequestType />
+        <firstName>WILLIAM</firstName>
+        <bioguideId>P000096</bioguideId>
+        <middleName>J.</middleName>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <identifiers>
+          <gpoId>8050</gpoId>
+          <lisID>1510</lisID>
+          <bioguideId>P000096</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>For the relief of Malachy McAllister, Nicola McAllister, and Sean Ryan McAllister.</title>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1547ih/xml/BILLS-116hr1547ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

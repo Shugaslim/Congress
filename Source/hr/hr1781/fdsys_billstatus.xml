@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1781</billNumber>
+    <sponsors>
+      <item>
+        <bioguideId>C001103</bioguideId>
+        <lastName>Carter</lastName>
+        <byRequestType />
+        <middleName>L. "Buddy"</middleName>
+        <firstName>Earl</firstName>
+        <district>1</district>
+        <state>GA</state>
+        <party>R</party>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <identifiers>
+          <lisID>2236</lisID>
+          <bioguideId>C001103</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <createDate>2019-03-15T07:12:08Z</createDate>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1781ih/xml/BILLS-116hr1781ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-14T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-03-27T16:23:53Z</date>
+                  <name>Reported by</name>
+                </item>
+                <item>
+                  <date>2019-03-27T16:23:42Z</date>
+                  <name>Markup by</name>
+                </item>
+                <item>
+                  <date>2019-03-15T16:14:36Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2019-04-03T19:59:29Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-03-14T13:05:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-14T13:06:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-03-14</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-04-03</actionDate>
+      <links />
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </latestAction>
+    <notes />
+    <updateDate>2019-05-21T07:15:30Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>3</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-15</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2019-03-14</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2019-03-14</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <lastName>O'Halleran</lastName>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>AZ</state>
+        <bioguideId>O000171</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000171</bioguideId>
+          <lisID>2306</lisID>
+        </identifiers>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+      </item>
+      <item>
+        <lastName>Rice</lastName>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>SC</state>
+        <bioguideId>R000597</bioguideId>
+        <identifiers>
+          <lisID>2160</lisID>
+          <bioguideId>R000597</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
+      </item>
+      <item>
+        <lastName>Panetta</lastName>
+        <firstName>Jimmy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>P000613</bioguideId>
+        <identifiers>
+          <bioguideId>P000613</bioguideId>
+          <gpoId />
+          <lisID>2309</lisID>
+        </identifiers>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+      </item>
+      <item>
+        <lastName>Gianforte</lastName>
+        <firstName>Greg</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>MT</state>
+        <bioguideId>G000584</bioguideId>
+        <identifiers>
+          <bioguideId>G000584</bioguideId>
+          <gpoId />
+          <lisID>2359</lisID>
+        </identifiers>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+      </item>
+      <item>
+        <lastName>Welch</lastName>
+        <firstName>Peter</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>VT</state>
+        <bioguideId>W000800</bioguideId>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+      </item>
+      <item>
+        <lastName>PALLONE</lastName>
+        <firstName>FRANK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>NJ</state>
+        <bioguideId>P000034</bioguideId>
+        <identifiers>
+          <gpoId>8048</gpoId>
+          <bioguideId>P000034</bioguideId>
+          <lisID>887</lisID>
+        </identifiers>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+      </item>
+      <item>
+        <lastName>Ruiz</lastName>
+        <firstName>Raul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>36</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>R000599</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2109</lisID>
+          <bioguideId>R000599</bioguideId>
+        </identifiers>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+      </item>
+      <item>
+        <lastName>RUSH</lastName>
+        <firstName>BOBBY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>R000515</bioguideId>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+      </item>
+      <item>
+        <lastName>Dingell</lastName>
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>MI</state>
+        <bioguideId>D000624</bioguideId>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+          <lisID>2251</lisID>
+        </identifiers>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+      </item>
+      <item>
+        <lastName>ESHOO</lastName>
+        <firstName>ANNA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>G.</middleName>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>E000215</bioguideId>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+        </identifiers>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+      </item>
+      <item>
+        <lastName>Kennedy</lastName>
+        <firstName>Joseph</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>MA</state>
+        <bioguideId>K000379</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2172</lisID>
+          <bioguideId>K000379</bioguideId>
+        </identifiers>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+      </item>
+      <item>
+        <lastName>Matsui</lastName>
+        <firstName>Doris</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>O.</middleName>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>M001163</bioguideId>
+        <identifiers>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+          <bioguideId>M001163</bioguideId>
+        </identifiers>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+      </item>
+      <item>
+        <lastName>Bilirakis</lastName>
+        <firstName>Gus</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>FL</state>
+        <bioguideId>B001257</bioguideId>
+        <identifiers>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+      </item>
+      <item>
+        <lastName>Van Drew</lastName>
+        <firstName>Jefferson</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <state>NJ</state>
+        <bioguideId>V000133</bioguideId>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+          <gpoId />
+          <lisID>2419</lisID>
+        </identifiers>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+      </item>
+      <item>
+        <lastName>SCHAKOWSKY</lastName>
+        <firstName>JANICE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>S001145</bioguideId>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+      </item>
+      <item>
+        <lastName>WALDEN</lastName>
+        <firstName>GREG</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <state>OR</state>
+        <bioguideId>W000791</bioguideId>
+        <identifiers>
+          <gpoId>8115</gpoId>
+          <lisID>1596</lisID>
+          <bioguideId>W000791</bioguideId>
+        </identifiers>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+      </item>
+      <item>
+        <lastName>Clarke</lastName>
+        <firstName>Yvette</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <state>NY</state>
+        <bioguideId>C001067</bioguideId>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+      </item>
+      <item>
+        <lastName>Burchett</lastName>
+        <firstName>Tim</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>TN</state>
+        <bioguideId>B001309</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001309</bioguideId>
+          <lisID>2440</lisID>
+        </identifiers>
+        <fullName>Rep. Burchett, Tim [R-TN-2]</fullName>
+      </item>
+      <item>
+        <lastName>Mucarsel-Powell</lastName>
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>26</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>FL</state>
+        <bioguideId>M001207</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001207</bioguideId>
+          <lisID>2390</lisID>
+        </identifiers>
+        <fullName>Rep. Mucarsel-Powell, Debbie [D-FL-26]</fullName>
+      </item>
+      <item>
+        <lastName>Kim</lastName>
+        <firstName>Andy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>NJ</state>
+        <bioguideId>K000394</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000394</bioguideId>
+          <lisID>2420</lisID>
+        </identifiers>
+        <fullName>Rep. Kim, Andy [D-NJ-3]</fullName>
+      </item>
+      <item>
+        <lastName>Casten</lastName>
+        <firstName>Sean</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>C001117</bioguideId>
+        <identifiers>
+          <bioguideId>C001117</bioguideId>
+          <gpoId />
+          <lisID>2398</lisID>
+        </identifiers>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+      </item>
+      <item>
+        <lastName>Connolly</lastName>
+        <firstName>Gerald</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>VA</state>
+        <bioguideId>C001078</bioguideId>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+        </identifiers>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+      </item>
+      <item>
+        <lastName>Cisneros</lastName>
+        <firstName>Gilbert</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>Ray</middleName>
+        <district>39</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>C001123</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2380</lisID>
+          <bioguideId>C001123</bioguideId>
+        </identifiers>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+      </item>
+      <item>
+        <lastName>Wagner</lastName>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>MO</state>
+        <bioguideId>W000812</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2137</lisID>
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+      </item>
+      <item>
+        <lastName>Underwood</lastName>
+        <firstName>Lauren</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>U000040</bioguideId>
+        <identifiers>
+          <bioguideId>U000040</bioguideId>
+          <gpoId />
+          <lisID>2399</lisID>
+        </identifiers>
+        <fullName>Rep. Underwood, Lauren [D-IL-14]</fullName>
+      </item>
+      <item>
+        <lastName>Stanton</lastName>
+        <firstName>Greg</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>AZ</state>
+        <bioguideId>S001211</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001211</bioguideId>
+          <lisID>2376</lisID>
+        </identifiers>
+        <fullName>Rep. Stanton, Greg [D-AZ-9]</fullName>
+      </item>
+      <item>
+        <lastName>Slotkin</lastName>
+        <firstName>Elissa</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <state>MI</state>
+        <bioguideId>S001208</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001208</bioguideId>
+          <lisID>2407</lisID>
+        </identifiers>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+      </item>
+      <item>
+        <lastName>Craig</lastName>
+        <firstName>Angie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <state>MN</state>
+        <bioguideId>C001119</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001119</bioguideId>
+          <lisID>2412</lisID>
+        </identifiers>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+      </item>
+      <item>
+        <lastName>Spanberger</lastName>
+        <firstName>Abigail</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>Davis</middleName>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <state>VA</state>
+        <bioguideId>S001209</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2456</lisID>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H2746-H2747]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARTER of Georgia:H.R. 1781.[[Page H2747]]Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution.</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend titles XVIII and XIX of the Social Security Act to provide the Medicare Payment Advisory Commission and the Medicaid and CHIP Payment and Access Commission with access to certain drug payment information, including certain rebate information.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Payment Commission Data Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Payment Commission Data Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Payment Commission Data Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Payment Commission Data Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-02-14</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>1264</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>116</congress>
+        <latestTitle>A bill to amend titles XVIII and XIX of the Social Security Act to provide the Medicare Payment Advisory Commission and the Medicaid and CHIP Payment and Access Commission with access to certain drug payment information, including certain rebate information.</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-14</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <number>801</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>Payment Commission Data Act of 2019</title>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

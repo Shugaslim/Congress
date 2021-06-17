@@ -1,0 +1,267 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1970-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001072", 
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-08", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000584", 
+      "district": null, 
+      "name": "Gianforte, Greg", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-28", 
+      "state": "MT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001052", 
+      "district": "1", 
+      "name": "Harris, Andy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-28", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000188", 
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-28", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000362", 
+      "district": "4", 
+      "name": "King, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000168", 
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-28", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-28", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001168", 
+      "district": "3", 
+      "name": "Sarbanes, John P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-28", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001150", 
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001185", 
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-28", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000238", 
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-28", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000065", 
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-28", 
+  "number": "1970", 
+  "official_title": "To amend title XVIII of the Social Security Act to provide for payment for services of radiologist assistants under the Medicare program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicare Access to Radiology Care Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000482", 
+    "district": "18", 
+    "name": "Doyle, Michael F.", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-28", 
+  "subjects": [
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health facilities and institutions", 
+    "Health personnel", 
+    "Medicare"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicare Access to Radiology Care Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicare Access to Radiology Care Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to provide for payment for services of radiologist assistants under the Medicare program, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Medicare Access to Radiology Care Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T07:15:19Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1970.xml"
+}

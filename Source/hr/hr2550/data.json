@@ -1,0 +1,248 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E546", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-24", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E675", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-28", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Emergency Preparedness, Response, and Recovery.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2550-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Emergency Preparedness, Response, and Communications", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000490", 
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000984", 
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000610", 
+      "district": "22", 
+      "name": "Deutch, Theodore E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000628", 
+      "district": "2", 
+      "name": "Dunn, Neal P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000032", 
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000610", 
+      "district": null, 
+      "name": "Plaskett, Stacey E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "VI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000460", 
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000187", 
+      "district": "43", 
+      "name": "Waters, Maxine", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000815", 
+      "district": "2", 
+      "name": "Wenstrup, Brad R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-07", 
+  "number": "2550", 
+  "official_title": "To amend the Homeland Security Act of 2002 to authorize the use of Homeland Security Grant Program funds for anti-blood loss purposes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Prevent BLEEDing Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "H000324", 
+    "district": "20", 
+    "name": "Hastings, Alcee L.", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-07", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to authorize the use of Homeland Security Grant Program funds for anti-blood loss purposes, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Prevent BLEEDing Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Prevent BLEEDing Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Prevent Blood Loss with Emergency Equipment Devices Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Prevent Blood Loss with Emergency Equipment Devices Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Prevent BLEEDing Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-30T07:12:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2550.xml"
+}

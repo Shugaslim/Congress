@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr374-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000615", 
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-15", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-09", 
+  "number": "374", 
+  "official_title": "To make continuing appropriations for Coast Guard pay in the event that appropriations for Coast Guard pay in fiscal year 2019 expire and a new appropriations Act has not been enacted.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr350-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr367-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr421-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s21-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Always Ready Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "B001289", 
+    "district": "1", 
+    "name": "Byrne, Bradley", 
+    "state": "AL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-09", 
+  "subjects": [
+    "Appropriations", 
+    "Cemeteries and funerals", 
+    "Coast guard", 
+    "Department of Homeland Security", 
+    "Executive agency funding and structure", 
+    "Military education and training", 
+    "Military personnel and dependents", 
+    "Transportation and public works", 
+    "Transportation costs"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Always Ready Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Always Ready Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make continuing appropriations for Coast Guard pay in the event that appropriations for Coast Guard pay in fiscal year 2019 expire and a new appropriations Act has not been enacted.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Always Ready Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-06T22:37:50Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr374.xml"
+}

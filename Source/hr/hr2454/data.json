@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR H3410", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2454-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-01", 
+  "number": "2454", 
+  "official_title": "To designate the facility of the United States Postal Service located at 123 East Sharpfish Street in Rosebud, South Dakota, as the \"Ben Reifel Post Office Building\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "J000301", 
+    "district": null, 
+    "name": "Johnson, Dusty", 
+    "state": "SD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-01", 
+  "subjects": [
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Postal service", 
+    "South Dakota"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-05-01T04:00:00Z", 
+    "text": "Designates the facility of the United States Postal Service located at 123 East Sharpfish Street in Rosebud, South Dakota, as the \"Ben Reifel Post Office Building.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 123 East Sharpfish Street in Rosebud, South Dakota, as the \"Ben Reifel Post Office Building\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 123 East Sharpfish Street in Rosebud, South Dakota, as the \"Ben Reifel Post Office Building\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-06T18:00:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2454.xml"
+}

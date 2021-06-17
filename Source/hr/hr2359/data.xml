@@ -1,0 +1,81 @@
+<bill session="116" type="h" number="2359" updated="2019-05-23T09:17:21Z">
+  <state datetime="2019-05-21T15:38:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-05-21T15:38:00-04:00"/>
+  </status>
+  <introduced datetime="2019-04-25"/>
+  <titles>
+    <title type="short" as="reported to house">Whole Veteran Act</title>
+    <title type="short" as="reported to house">Whole Veteran Act</title>
+    <title type="short" as="introduced">Whole Veteran Act</title>
+    <title type="short" as="introduced">Whole Veteran Act</title>
+    <title type="short" as="passed house">Whole Veteran Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to submit to Congress a report on the Department of Veterans Affairs advancing of whole health transformation.</title>
+    <title type="display">Whole Veteran Act</title>
+  </titles>
+  <sponsor bioguide_id="L000588"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000466" joined="2019-05-09"/>
+    <cosponsor bioguide_id="R000577" joined="2019-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-04-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2019-05-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2019-05-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2019-05-08" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2019-05-17">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-71.</text>
+    </action>
+    <calendar datetime="2019-05-17" calendar="Union" number="47">
+      <text>Placed on the Union Calendar, Calendar No. 47.</text>
+    </calendar>
+    <action datetime="2019-05-21T15:21:13-04:00">
+      <text>Mr. Takano moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2019-05-21T15:21:36-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4032-4034" label="consideration"/>
+    </action>
+    <action datetime="2019-05-21T15:21:37-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2359.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2019-05-21T15:38:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4032" label="text"/>
+    </vote>
+    <action datetime="2019-05-21T15:38:02-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-05-22">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Alternative treatments"/>
+    <term name="Congressional oversight"/>
+    <term name="Health care coverage and access"/>
+    <term name="Mental health"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 116-71</report>
+  </committee-reports>
+</bill>

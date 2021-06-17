@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2019-05-03T07:12:11Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2019-05-14T20:00:07Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-05-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-02</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <lastName>Turner</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <state>OH</state>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <bioguideId>T000463</bioguideId>
+        <byRequestType />
+        <district>10</district>
+      </item>
+    </sponsors>
+    <title>The Reforming and Expanding Access to Treatment Act</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8101</gpoId>
+          <lisID>1895</lisID>
+          <bioguideId>F000455</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <district>11</district>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000455</bioguideId>
+        <lastName>Fudge</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>Marcia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001101</bioguideId>
+          <lisID>2196</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <district>5</district>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001101</bioguideId>
+        <lastName>Clark</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>Katherine</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2342</lisID>
+          <bioguideId>E000297</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <district>13</district>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000297</bioguideId>
+        <lastName>Espaillat</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>Adriano</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <district>13</district>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000577</bioguideId>
+        <lastName>RYAN</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>TIM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <district>21</district>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001196</bioguideId>
+        <lastName>Stefanik</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>Elise</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <district>17</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000389</bioguideId>
+        <lastName>Khanna</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>Ro</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <district>6</district>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000381</bioguideId>
+        <lastName>Kilmer</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>Derek</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <district>20</district>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000469</bioguideId>
+        <lastName>Tonko</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2359</lisID>
+          <bioguideId>G000584</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <district>0</district>
+        <state>MT</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000584</bioguideId>
+        <lastName>Gianforte</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <firstName>Greg</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>2511</billNumber>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-05-02T13:05:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TURNER:H.R. 2511.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution; andArticle I, Section 8, Clause 18 of the United StatesConstitution.[Page H3442]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-05-02</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title XIX of the Social Security Act to allow for payments to States for substance abuse services furnished to inmates in public institutions, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>TREAT Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>The Reforming and Expanding Access to Treatment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>The Reforming and Expanding Access to Treatment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>The Reforming and Expanding Access to Treatment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>TREAT Act</title>
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-05-02</introducedDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2511ih/xml/BILLS-116hr2511ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-02T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-05-02</actionDate>
+          <updateDate>2019-05-02T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-05-14T19:54:05Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>The Reforming and Expanding Access to Treatment Act or the TREAT Act</strong></p> <p>This bill allows federal payment for qualified substance use disorder services furnished to inmates in public institutions under state Medicaid programs. "Qualified substance use disorder services" include medication or behavioral treatment administered to eliminate, mitigate, treat, or cure an individual's substance abuse disorder or use or abuse of drugs.</p> <p>The Substance Abuse and Mental Health Services Administration shall not establish, maintain, or implement any policy that restricts its statutorily authorized provision or support of substance abuse treatment for incarcerated individuals.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

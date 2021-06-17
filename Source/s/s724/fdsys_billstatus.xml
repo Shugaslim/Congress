@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-07T21:11:04Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1614</number>
+        <latestTitle>John S. McCain Opioid Addiction Prevention Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-03-07</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-03-07</actionDate>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <byRequestType />
+        <lastName>Gillibrand</lastName>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <bioguideId>G000555</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <firstName>Kirsten</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2019-03-08T05:42:07Z</createDate>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s724is/xml/BILLS-116s724is.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gardner</lastName>
+        <identifiers>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+      </item>
+    </cosponsors>
+    <notes />
+    <congress>116</congress>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <introducedDate>2019-03-07</introducedDate>
+    <title>John S. McCain Opioid Addiction Prevention Act</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Controlled Substances Act to establish additional registration requirements for prescribers of opioids, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>John S. McCain Opioid Addiction Prevention Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>John S. McCain Opioid Addiction Prevention Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>John S. McCain Opioid Addiction Prevention Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>724</billNumber>
+    <laws />
+    <updateDate>2019-04-09T10:26:09Z</updateDate>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2019-03-07</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

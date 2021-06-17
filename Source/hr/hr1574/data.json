@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-08", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1574-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001087", 
+      "district": "25", 
+      "name": "Hill, Katie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000382", 
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "NH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001166", 
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001188", 
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000825", 
+      "district": "10", 
+      "name": "Wexton, Jennifer", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-06", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-06", 
+  "number": "1574", 
+  "official_title": "To amend title 18, United States Code, to make it a criminal offense for individuals to engage in sexual acts while acting under color of law or with individuals in their custody, to encourage States to adopt similar laws, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s855-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1585-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Closing the Law Enforcement Consent Loophole Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S001175", 
+    "district": "14", 
+    "name": "Speier, Jackie", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-06", 
+  "subjects": [
+    "Assault and harassment offenses", 
+    "Congressional oversight", 
+    "Crime and law enforcement", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Detention of persons", 
+    "Government studies and investigations", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Sex offenses", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to make it a criminal offense for individuals to engage in sexual acts while acting under color of law or with individuals in their custody, to encourage States to adopt similar laws, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Closing the Law Enforcement Consent Loophole Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Closing the Law Enforcement Consent Loophole Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Closing the Law Enforcement Consent Loophole Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-17T16:00:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1574.xml"
+}

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <firstName>Marco</firstName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <state>FL</state>
+        <lastName>Rubio</lastName>
+        <middleName />
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the National Labor Relations Act to permit employers to pay higher wages to their employees.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the National Labor Relations Act to permit employers to pay higher wages to their employees.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>C001056</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <lastName>Cornyn</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <middleName />
+        <state>WY</state>
+        <bioguideId>B001261</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <lastName>Barrasso</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <title>A bill to amend the National Labor Relations Act to permit employers to pay higher wages to their employees.</title>
+    <committeeReports />
+    <version>1.0.0</version>
+    <introducedDate>2019-05-23</introducedDate>
+    <recordedVotes />
+    <policyArea />
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+    </actions>
+    <updateDate>2019-05-24T05:31:54Z</updateDate>
+    <createDate>2019-05-24T05:27:14Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2019-05-23</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>1633</billNumber>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T15:49:39Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions />
+    <relatedBills />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

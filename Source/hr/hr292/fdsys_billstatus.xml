@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-01-09T08:10:17Z</createDate>
+    <introducedDate>2019-01-08</introducedDate>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr292ih/xml/BILLS-116hr292ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Agriculture Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-08T17:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsag00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsag15</systemCode>
+              <name>Conservation and Forestry Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-02-08T20:18:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-08T17:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-02-05T18:12:01Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <byRequestType />
+        <middleName>R.</middleName>
+        <fullName>Rep. Curtis, John R. [R-UT-3]</fullName>
+        <state>UT</state>
+        <party>R</party>
+        <lastName>Curtis</lastName>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>C001114</bioguideId>
+          <gpoId />
+          <lisID>2363</lisID>
+        </identifiers>
+        <bioguideId>C001114</bioguideId>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-02-08</actionDate>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-08</actionDate>
+        <committee>
+          <name>Conservation and Forestry Subcommittee</name>
+          <systemCode>hsag15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-08</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-08</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-08</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-08</actionDate>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CURTIS:H.R. 292.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8 of the U.S. Constitution[Page H286]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To allow certain State and Tribal permitting authority to encourage expansion of broadband service to rural and Tribal communities, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Rural Broadband Permitting Efficiency Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Rural Broadband Permitting Efficiency Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Rural Broadband Permitting Efficiency Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <committeeReports />
+    <title>Rural Broadband Permitting Efficiency Act of 2019</title>
+    <congress>116</congress>
+    <updateDate>2019-03-30T07:15:30Z</updateDate>
+    <billNumber>292</billNumber>
+    <relatedBills />
+    <billType>HR</billType>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

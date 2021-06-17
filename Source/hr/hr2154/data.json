@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2154-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000626", 
+      "district": "8", 
+      "name": "Davidson, Warren", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-09", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-09", 
+  "number": "2154", 
+  "official_title": "To authorize additional appropriations to the Federal Trade Commission to prevent unfair or deceptive acts or practices relating to digital tokens and transactions relating to digital tokens, and to require a report to Congress on the Commission's actions related to digital tokens.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Digital Taxonomy Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S001200", 
+    "district": "9", 
+    "name": "Soto, Darren", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-09", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize additional appropriations to the Federal Trade Commission to prevent unfair or deceptive acts or practices relating to digital tokens and transactions relating to digital tokens, and to require a report to Congress on the Commission's actions related to digital tokens.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Digital Taxonomy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Digital Taxonomy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Digital Taxonomy Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-18T12:30:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2154.xml"
+}

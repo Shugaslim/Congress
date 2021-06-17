@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "text": "The House Committee on Appropriations reported an original measure, H. Rept. 116-83, by Ms. Kaptur.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "58", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 58.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2960-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-83"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-23", 
+  "number": "2960", 
+  "official_title": "Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2020, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Energy and Water Development and Related Agencies Appropriations Act, 2020", 
+  "sponsor": {
+    "bioguide_id": "K000009", 
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-23", 
+  "subjects": [
+    "Economics and public finance"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2020, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Energy and Water Development and Related Agencies Appropriations Act, 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Energy and Water Development and Related Agencies Appropriations Act, 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Energy and Water Development and Related Agencies Appropriations Act, 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Energy and Water Development and Related Agencies Appropriations Act, 2020", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T15:41:05Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2960.xml"
+}

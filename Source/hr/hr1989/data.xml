@@ -1,0 +1,44 @@
+<bill session="116" type="h" number="1989" updated="2019-05-21T07:15:33Z">
+  <state datetime="2019-03-28">REFERRED</state>
+  <status>
+    <introduced datetime="2019-03-28"/>
+  </status>
+  <introduced datetime="2019-03-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to modify the provisions that relate to family-sponsored immigrants.</title>
+    <title type="short" as="introduced">Break the Chain Act</title>
+    <title type="short" as="introduced">Break the Chain Act</title>
+    <title type="display">Break the Chain Act</title>
+  </titles>
+  <sponsor bioguide_id="S001214"/>
+  <cosponsors>
+    <cosponsor bioguide_id="R000610" joined="2019-03-28"/>
+    <cosponsor bioguide_id="W000827" joined="2019-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-03-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-03-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2019-05-03">
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Citizenship" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="2278"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Family relationships"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

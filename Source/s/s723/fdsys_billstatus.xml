@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>M001153</bioguideId>
+        <lastName>Murkowski</lastName>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+      <item>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>D000618</bioguideId>
+        <lastName>Daines</lastName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MT</state>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <createDate>2019-03-08T05:42:07Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <party>R</party>
+        <state>AK</state>
+        <lastName>Sullivan</lastName>
+        <firstName>Dan</firstName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <bioguideId>S001198</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <billNumber>723</billNumber>
+    <updateDate>2019-04-25T09:17:54Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-07T21:08:52Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills />
+    <introducedDate>2019-03-07</introducedDate>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Federal appellate courts</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-03-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s723is/xml/BILLS-116s723is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <title>Federal Courts of Appeals Modernization Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish a Commission on Structural Alternatives for the Federal Courts of Appeals.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Federal Courts of Appeals Modernization Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Federal Courts of Appeals Modernization Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Federal Courts of Appeals Modernization Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2019-03-07</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

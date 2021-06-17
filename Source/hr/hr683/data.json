@@ -1,0 +1,270 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-17", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-17", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-04", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr683-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Antitrust, Commercial, and Administrative Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001270", 
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001302", 
+      "district": "5", 
+      "name": "Biggs, Andy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001250", 
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000297", 
+      "district": "13", 
+      "name": "Espaillat, Adriano", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-01", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000582", 
+      "district": null, 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000582", 
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000172", 
+      "district": "14", 
+      "name": "Ocasio-Cortez, Alexandria", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-01", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000248", 
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-22", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001193", 
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000481", 
+      "district": "13", 
+      "name": "Tlaib, Rashida", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "U000031", 
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-17", 
+  "number": "683", 
+  "official_title": "To impose requirements on the payment of compensation to professional persons employed in voluntary cases commenced under title III of the Puerto Rico Oversight Management and Economic Stability Act (commonly known as \"PROMESA\").", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "(PRRADA)", 
+  "sponsor": {
+    "bioguide_id": "V000081", 
+    "district": "7", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-17", 
+  "subjects": [
+    "Debt collection", 
+    "Government ethics and transparency, public corruption", 
+    "Law", 
+    "Lawyers and legal services", 
+    "Puerto Rico"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To impose requirements on the payment of compensation to professional persons employed in voluntary cases commenced under title III of the Puerto Rico Oversight Management and Economic Stability Act (commonly known as \"PROMESA\").", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "(PRRADA)", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "(PRRADA)", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Puerto Rico Recovery Accuracy in Disclosures Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Puerto Rico Recovery Accuracy in Disclosures Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "(PRRADA)", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T07:15:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr683.xml"
+}

@@ -1,0 +1,219 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2543-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001297", 
+      "district": "4", 
+      "name": "Buck, Ken", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-16", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001123", 
+      "district": "39", 
+      "name": "Cisneros, Gilbert Ray, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000754", 
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000579", 
+      "district": "8", 
+      "name": "Gallagher, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000584", 
+      "district": null, 
+      "name": "Gianforte, Greg", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "MT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000391", 
+      "district": "8", 
+      "name": "Krishnamoorthi, Raja", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000382", 
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "NH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001187", 
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000602", 
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-07", 
+  "number": "2543", 
+  "official_title": "To amend the Improper Payments Elimination and Recovery Improvement Act of 2012, including making changes to the Do Not Pay Initiative, for improved detection, prevention, and recovery of improper payments to deceased individuals, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1333-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Stopping Improper Payments to Deceased People Act", 
+  "sponsor": {
+    "bioguide_id": "B001286", 
+    "district": "17", 
+    "name": "Bustos, Cheri", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-07", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Debt collection", 
+    "Government information and archives", 
+    "Health information and medical records", 
+    "Intergovernmental relations", 
+    "Office of Management and Budget (OMB)", 
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "State and local government operations", 
+    "Tax administration and collection, taxpayers"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Improper Payments Elimination and Recovery Improvement Act of 2012, including making changes to the Do Not Pay Initiative, for improved detection, prevention, and recovery of improper payments to deceased individuals, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stopping Improper Payments to Deceased People Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stopping Improper Payments to Deceased People Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Stopping Improper Payments to Deceased People Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-17T19:30:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2543.xml"
+}

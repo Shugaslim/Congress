@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2380-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "F000454", 
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-29", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001074", 
+      "district": "9", 
+      "name": "Hollingsworth, Trey", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-29", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000583", 
+      "district": "11", 
+      "name": "Loudermilk, Barry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-29", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-29", 
+  "number": "2380", 
+  "official_title": "To regulate lobbying by Fannie Mae and Freddie Mac, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fannie Mae and Freddie Mac Lobbying Regulation Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "V000081", 
+    "district": "7", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-29", 
+  "subjects": [
+    "Housing and community development"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To regulate lobbying by Fannie Mae and Freddie Mac, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fannie Mae and Freddie Mac Lobbying Regulation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fannie Mae and Freddie Mac Lobbying Regulation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Fannie Mae and Freddie Mac Lobbying Regulation Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-09T21:15:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2380.xml"
+}

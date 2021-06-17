@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1532</billNumber>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-05</actionDate>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-05</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-05</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2019-03-06T08:12:10Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-03-05T17:03:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <committeeReports />
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. LEE of California:H.R. 1532.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I of the United States Constitutionand its subsequent amendments, and further clarified andinterpreted by the Supreme Court of the United States.''[Page H2369]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>LEE</lastName>
+        <bioguideId>L000551</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <firstName>BARBARA</firstName>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <district>13</district>
+        <party>D</party>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NH</state>
+        <bioguideId>K000382</bioguideId>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <middleName>M.</middleName>
+        <district>2</district>
+        <party>D</party>
+        <firstName>Ann</firstName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <lastName>Kuster</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <bioguideId>B001285</bioguideId>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <middleName />
+        <district>26</district>
+        <party>D</party>
+        <firstName>Julia</firstName>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+          <lisID>2106</lisID>
+        </identifiers>
+        <lastName>Brownley</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <bioguideId>D000624</bioguideId>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <middleName />
+        <district>12</district>
+        <party>D</party>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Dingell</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <bioguideId>B000490</bioguideId>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <party>D</party>
+        <firstName>SANFORD</firstName>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+        </identifiers>
+        <lastName>BISHOP</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VI</state>
+        <bioguideId>P000610</bioguideId>
+        <fullName>Rep. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <middleName>E.</middleName>
+        <district>0</district>
+        <party>D</party>
+        <firstName>Stacey</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000610</bioguideId>
+          <lisID>2274</lisID>
+        </identifiers>
+        <lastName>Plaskett</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>KY</state>
+        <bioguideId>Y000062</bioguideId>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <middleName>A.</middleName>
+        <district>3</district>
+        <party>D</party>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>Y000062</bioguideId>
+          <gpoId>7955</gpoId>
+          <lisID>1853</lisID>
+        </identifiers>
+        <lastName>Yarmuth</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <bioguideId>R000602</bioguideId>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <middleName>M.</middleName>
+        <district>4</district>
+        <party>D</party>
+        <firstName>Kathleen</firstName>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Rice</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <bioguideId>C001067</bioguideId>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <party>D</party>
+        <firstName>Yvette</firstName>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <lastName>Clarke</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <bioguideId>E000296</bioguideId>
+        <fullName>Rep. Evans, Dwight [D-PA-3]</fullName>
+        <middleName />
+        <district>3</district>
+        <party>D</party>
+        <firstName>Dwight</firstName>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Evans</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <middleName />
+        <district>9</district>
+        <party>D</party>
+        <firstName>Darren</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+        </identifiers>
+        <lastName>Soto</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <bioguideId>L000287</bioguideId>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <middleName />
+        <district>5</district>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <lastName>LEWIS</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1532ih/xml/BILLS-116hr1532ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-03-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To establish the Social Work Reinvestment Commission to provide independent counsel to Congress and the Secretary of Health and Human Services on policy issues related to recruitment, retention, research, and reinvestment in the profession of social work, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Dorothy I. Height and Whitney M. Young, Jr., Social Work Reinvestment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Dorothy I. Height and Whitney M. Young, Jr., Social Work Reinvestment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Dorothy I. Height and Whitney M. Young, Jr., Social Work Reinvestment Act</title>
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Policy sciences</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-29T14:00:10Z</updateDate>
+    <recordedVotes />
+    <congress>116</congress>
+    <introducedDate>2019-03-05</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-03-05</actionDate>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+    </latestAction>
+    <title>Dorothy I. Height and Whitney M. Young, Jr., Social Work Reinvestment Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

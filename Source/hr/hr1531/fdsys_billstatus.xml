@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <relatedBills />
+    <recordedVotes />
+    <laws />
+    <createDate>2019-03-06T08:12:10Z</createDate>
+    <amendments />
+    <calendarNumbers />
+    <updateDate>2019-04-30T07:16:09Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-08</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-03-05</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-03-05</actionDate>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-03-05</actionDate>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <party>R</party>
+        <bioguideId>K000210</bioguideId>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <firstName>PETER</firstName>
+        <middleName>T.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <title>Denying Firearms and Explosives to Dangerous Terrorists Act of 2019</title>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2019-04-08</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <billNumber>1531</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-08T20:39:09Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-05T17:06:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <bioguideId>R000602</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>4</district>
+        <firstName>Kathleen</firstName>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <lastName>Rice</lastName>
+        <identifiers>
+          <lisID>2262</lisID>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>DC</state>
+        <party>D</party>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>0</district>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <bioguideId>S001201</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>3</district>
+        <firstName>Thomas</firstName>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <lastName>Suozzi</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <bioguideId>L000562</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>8</district>
+        <firstName>Stephen</firstName>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <lastName>Lynch</lastName>
+        <identifiers>
+          <lisID>1686</lisID>
+          <bioguideId>L000562</bioguideId>
+          <gpoId>7974</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <bioguideId>S001193</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>15</district>
+        <firstName>Eric</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <lastName>Swalwell</lastName>
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>17</district>
+        <firstName>Ro</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <lastName>Khanna</lastName>
+        <identifiers>
+          <lisID>2308</lisID>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <bioguideId>C001123</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>39</district>
+        <firstName>Gilbert</firstName>
+        <middleName>Ray</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <lastName>Cisneros</lastName>
+        <identifiers>
+          <bioguideId>C001123</bioguideId>
+          <gpoId />
+          <lisID>2380</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>D</party>
+        <bioguideId>C000754</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>5</district>
+        <firstName>JAMES</firstName>
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <lastName>COOPER</lastName>
+        <identifiers>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>R</party>
+        <bioguideId>S000522</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>4</district>
+        <firstName>CHRISTOPHER</firstName>
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <lastName>SMITH</lastName>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+          <lisID>1071</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>MN</state>
+        <party>D</party>
+        <bioguideId>M001143</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>4</district>
+        <firstName>BETTY</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <lastName>MCCOLLUM</lastName>
+        <identifiers>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>D</party>
+        <bioguideId>L000588</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>17</district>
+        <firstName>Conor</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lamb, Conor [D-PA-17]</fullName>
+        <lastName>Lamb</lastName>
+        <identifiers>
+          <lisID>2367</lisID>
+          <bioguideId>L000588</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <district>2</district>
+        <firstName>Ann</firstName>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <lastName>Kuster</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>D</party>
+        <bioguideId>D000482</bioguideId>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <district>18</district>
+        <firstName>MIKE</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Doyle, Michael F. [D-PA-18]</fullName>
+        <lastName>DOYLE</lastName>
+        <identifiers>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of New York:H.R. 1531.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 6The Congress shall have Power . . . To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof[Page H2369]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1531ih/xml/BILLS-116hr1531ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <notes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To increase public safety by permitting the Attorney General to deny the transfer of a firearm or the issuance of firearms or explosives licenses to a known or suspected dangerous terrorist.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Denying Firearms and Explosives to Dangerous Terrorists Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Denying Firearms and Explosives to Dangerous Terrorists Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Denying Firearms and Explosives to Dangerous Terrorists Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-03-05</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

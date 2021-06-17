@@ -1,0 +1,405 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, the Judiciary, Education and Labor, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, the Judiciary, Education and Labor, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, the Judiciary, Education and Labor, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, the Judiciary, Education and Labor, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, the Judiciary, Education and Labor, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-12", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1737-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution, Civil Rights, and Civil Liberties", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001278", 
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000984", 
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000216", 
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-26", 
+      "state": "CT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000379", 
+      "district": "4", 
+      "name": "Kennedy, Joseph P., III", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000389", 
+      "district": "17", 
+      "name": "Khanna, Ro", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000551", 
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000617", 
+      "district": "7", 
+      "name": "Pressley, Ayanna", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000481", 
+      "district": "13", 
+      "name": "Tlaib, Rashida", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000826", 
+      "district": "7", 
+      "name": "Wild, Susan", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-13", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-13", 
+  "number": "1737", 
+  "official_title": "To make housing more affordable, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s787-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "American Housing and Economic Mobility Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "R000588", 
+    "district": "2", 
+    "name": "Richmond, Cedric L.", 
+    "state": "LA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-13", 
+  "subjects": [
+    "Agricultural prices, subsidies, credit", 
+    "Appropriations", 
+    "Banking and financial institutions regulation", 
+    "Building construction", 
+    "Consumer credit", 
+    "Educational facilities and institutions", 
+    "Elementary and secondary education", 
+    "Energy efficiency and conservation", 
+    "Financial crises and stabilization", 
+    "Government information and archives", 
+    "Government lending and loan guarantees", 
+    "Higher education", 
+    "Housing and community development", 
+    "Housing and community development funding", 
+    "Housing discrimination", 
+    "Housing finance and home ownership", 
+    "Housing supply and affordability", 
+    "Indian social and development programs", 
+    "Labor standards", 
+    "Land use and conservation", 
+    "Landlord and tenant", 
+    "Low- and moderate-income housing", 
+    "Property tax", 
+    "Public contracts and procurement", 
+    "Public housing", 
+    "Regional and metropolitan planning", 
+    "Residential rehabilitation and home repair", 
+    "Rural conditions and development", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Small business", 
+    "Transfer and inheritance taxes", 
+    "Veterans' loans, housing, homeless programs", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make housing more affordable, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Housing and Economic Mobility Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Housing and Economic Mobility Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Community Reinvestment Reform Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "American Housing and Economic Mobility Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-09T23:15:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1737.xml"
+}

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hssy00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-07T16:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Science, Space, and Technology Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hssy15</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-07T19:13:26Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Research and Technology Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-07T16:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>Bonamici</lastName>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <identifiers>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <bioguideId>B001278</bioguideId>
+        <state>OR</state>
+        <middleName />
+        <firstName>Suzanne</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>DOYLE</lastName>
+        <district>18</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Doyle, Michael F. [D-PA-18]</fullName>
+        <identifiers>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <bioguideId>D000482</bioguideId>
+        <state>PA</state>
+        <middleName />
+        <firstName>MIKE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Davids</lastName>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Davids, Sharice [D-KS-3]</fullName>
+        <identifiers>
+          <bioguideId>D000629</bioguideId>
+          <gpoId />
+          <lisID>2403</lisID>
+        </identifiers>
+        <bioguideId>D000629</bioguideId>
+        <state>KS</state>
+        <middleName />
+        <firstName>Sharice</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To direct the Secretary of Transportation to make grants for the operation of a clearinghouse to collect, conduct, and fund research on the influences of highly automated vehicles on land use, urban design, transportation, real estate, and municipal budgets, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Preparing Localities for an Autonomous and Connected Environment Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>PLACE Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>PLACE Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Preparing Localities for an Autonomous and Connected Environment Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>PLACE Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2019-05-07</actionDate>
+        <committee>
+          <systemCode>hssy15</systemCode>
+          <name>Research and Technology Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Research and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-07</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR E549)</text>
+        <links>
+          <link>
+            <name>E549</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E549</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-07</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BLUMENAUER:H.R. 2542.Congress has the power to enact this legislation pursuantto the following:Article I, Section VIII, Clause III[Page H3475]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <amendments />
+    <updateDate>2019-05-22T07:16:01Z</updateDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-05-07T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2542ih/xml/BILLS-116hr2542ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>PLACE Act</title>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea />
+    <sponsors>
+      <item>
+        <lastName>BLUMENAUER</lastName>
+        <district>3</district>
+        <bioguideId>B000574</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>EARL</firstName>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <party>D</party>
+        <state>OR</state>
+      </item>
+    </sponsors>
+    <createDate>2019-05-08T07:12:11Z</createDate>
+    <latestAction>
+      <actionDate>2019-05-07</actionDate>
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+      <links />
+    </latestAction>
+    <billNumber>2542</billNumber>
+    <laws />
+    <introducedDate>2019-05-07</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

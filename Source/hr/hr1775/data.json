@@ -1,0 +1,202 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-15", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Aviation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-67.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "43", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 43.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1775-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-67"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000623", 
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000386", 
+      "district": "24", 
+      "name": "Katko, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-03-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-14", 
+  "number": "1775", 
+  "official_title": "To establish a task force on NOTAM improvements, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Notice to Airmen Improvement Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S001212", 
+    "district": "8", 
+    "name": "Stauber, Pete", 
+    "state": "MN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-03-27", 
+  "subjects": [
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Department of Transportation", 
+    "Government studies and investigations", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Notice to Airmen Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Notice to Airmen Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Notice to Airmen Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a task force on NOTAM improvements, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Notice to Airmen Improvement Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T15:30:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1775.xml"
+}

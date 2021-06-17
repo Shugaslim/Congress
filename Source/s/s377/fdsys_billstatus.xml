@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-02-07T18:58:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-02-07</introducedDate>
+    <createDate>2019-02-08T05:55:24Z</createDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s377is/xml/BILLS-116s377is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title XVIII of the Social Security Act to require the Secretary of Health and Human Services to negotiate prices of prescription drugs furnished under part D of the Medicare program.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicare Negotiation and Competitive Licensing Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Medicare Negotiation and Competitive Licensing Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Medicare Negotiation and Competitive Licensing Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Medicare Negotiation and Competitive Licensing Act of 2019</title>
+    <billNumber>377</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-02-07</actionDate>
+      </item>
+    </actions>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Baldwin</lastName>
+        <bioguideId>B001230</bioguideId>
+        <firstName>Tammy</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Klobuchar</lastName>
+        <bioguideId>K000367</bioguideId>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+        <firstName>Sherrod</firstName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <lastName>Brown</lastName>
+        <byRequestType />
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-02-07</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>HR</type>
+        <number>1046</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Medicare Negotiation and Competitive Licensing Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Competition and antitrust</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Product safety and quality</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <updateDate>2019-04-02T17:41:08Z</updateDate>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-02-07</actionDate>
+    </latestAction>
+    <amendments />
+    <billType>S</billType>
+    <notes />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

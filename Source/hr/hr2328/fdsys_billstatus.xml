@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2019-04-16T07:12:08Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2019-05-15T07:16:01Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-15</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-04-15</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-04-15</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <lastName>O'Halleran</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>AZ</state>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <bioguideId>O000171</bioguideId>
+        <byRequestType />
+        <district>1</district>
+      </item>
+    </sponsors>
+    <title>Community Health Investment, Modernization, and Excellence Act of 2019</title>
+    <cosponsors>
+      <item>
+        <lastName>Stefanik</lastName>
+        <firstName>Elise</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <bioguideId>S001196</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <district>21</district>
+      </item>
+      <item>
+        <lastName>Swalwell</lastName>
+        <firstName>Eric</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>S001193</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+        </identifiers>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <district>15</district>
+      </item>
+      <item>
+        <lastName>Espaillat</lastName>
+        <firstName>Adriano</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>E000297</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2342</lisID>
+          <bioguideId>E000297</bioguideId>
+        </identifiers>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <district>13</district>
+      </item>
+      <item>
+        <lastName>Gabbard</lastName>
+        <firstName>Tulsi</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>G000571</bioguideId>
+        <state>HI</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Omar</lastName>
+        <firstName>Ilhan</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>O000173</bioguideId>
+        <state>MN</state>
+        <identifiers>
+          <lisID>2414</lisID>
+          <bioguideId>O000173</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>MCCOLLUM</lastName>
+        <firstName>BETTY</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>M001143</bioguideId>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>SMITH</lastName>
+        <firstName>ADAM</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>S000510</bioguideId>
+        <state>WA</state>
+        <identifiers>
+          <gpoId>8213</gpoId>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+        </identifiers>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <district>9</district>
+      </item>
+      <item>
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>K000389</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <district>17</district>
+      </item>
+      <item>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001068</bioguideId>
+        <state>TN</state>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <district>9</district>
+      </item>
+      <item>
+        <lastName>Grijalva</lastName>
+        <firstName>Raul</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Courtney</lastName>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001069</bioguideId>
+        <state>CT</state>
+        <identifiers>
+          <gpoId>7867</gpoId>
+          <lisID>1836</lisID>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Hartzler</lastName>
+        <firstName>Vicky</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>H001053</bioguideId>
+        <state>MO</state>
+        <identifiers>
+          <lisID>2032</lisID>
+          <bioguideId>H001053</bioguideId>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Mucarsel-Powell</lastName>
+        <firstName>Debbie</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>M001207</bioguideId>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2390</lisID>
+          <gpoId />
+          <bioguideId>M001207</bioguideId>
+        </identifiers>
+        <fullName>Rep. Mucarsel-Powell, Debbie [D-FL-26]</fullName>
+        <district>26</district>
+      </item>
+      <item>
+        <lastName>Jayapal</lastName>
+        <firstName>Pramila</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>J000298</bioguideId>
+        <state>WA</state>
+        <identifiers>
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <district>7</district>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>2328</billNumber>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-04-15T20:31:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. O'HALLERAN:H.R. 2328.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H3271]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-04-15</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To reauthorize and extend funding for community health centers and the National Health Service Corps.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Community Health Investment, Modernization, and Excellence Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Community Health Investment, Modernization, and Excellence Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Community Health Investment, Modernization, and Excellence Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-04-15</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2328ih/xml/BILLS-116hr2328ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-15T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

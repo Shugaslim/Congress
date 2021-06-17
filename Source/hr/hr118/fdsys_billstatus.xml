@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2019-01-03</introducedDate>
+    <billNumber>118</billNumber>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-01-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-01-03</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COHEN:H.R. 118.Congress has the power to enact this legislation pursuantto the following:Article I, Section 4[Page H214]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr118ih/xml/BILLS-116hr118ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <latestTitle>For the People Act of 2019</latestTitle>
+        <number>949</number>
+        <latestAction>
+          <actionDate>2019-03-28</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <title>Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2019</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <district>9</district>
+        <middleName />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <state>TN</state>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Help America Vote Act of 2002 to promote early voting in elections for Federal office and to prevent unreasonable waiting times for voters at polling places used in such elections, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <lastName>Beatty</lastName>
+        <bioguideId>B001281</bioguideId>
+        <state>OH</state>
+        <district>3</district>
+        <firstName>Joyce</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+        </identifiers>
+        <lastName>BLUMENAUER</lastName>
+        <bioguideId>B000574</bioguideId>
+        <state>OR</state>
+        <district>3</district>
+        <firstName>EARL</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <lastName>Clarke</lastName>
+        <bioguideId>C001067</bioguideId>
+        <state>NY</state>
+        <district>9</district>
+        <firstName>Yvette</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <lastName>Deutch</lastName>
+        <bioguideId>D000610</bioguideId>
+        <state>FL</state>
+        <district>22</district>
+        <firstName>Theodore</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <party>D</party>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <lastName>ESHOO</lastName>
+        <bioguideId>E000215</bioguideId>
+        <state>CA</state>
+        <district>18</district>
+        <firstName>ANNA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+          <lisID>616</lisID>
+        </identifiers>
+        <lastName>KAPTUR</lastName>
+        <bioguideId>K000009</bioguideId>
+        <state>OH</state>
+        <district>9</district>
+        <firstName>MARCY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+        <bioguideId>M000312</bioguideId>
+        <state>MA</state>
+        <district>2</district>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <district>0</district>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <lastName>Raskin</lastName>
+        <bioguideId>R000606</bioguideId>
+        <state>MD</state>
+        <district>8</district>
+        <firstName>Jamie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <lastName>RYAN</lastName>
+        <bioguideId>R000577</bioguideId>
+        <state>OH</state>
+        <district>13</district>
+        <firstName>TIM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <lastName>SCHAKOWSKY</lastName>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+        <district>9</district>
+        <firstName>JANICE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Swalwell</lastName>
+        <bioguideId>S001193</bioguideId>
+        <state>CA</state>
+        <district>15</district>
+        <firstName>Eric</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Takano</lastName>
+        <bioguideId>T000472</bioguideId>
+        <state>CA</state>
+        <district>41</district>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <lastName>Wasserman Schultz</lastName>
+        <bioguideId>W000797</bioguideId>
+        <state>FL</state>
+        <district>23</district>
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <lastName>Moore</lastName>
+        <bioguideId>M001160</bioguideId>
+        <state>WI</state>
+        <district>4</district>
+        <firstName>Gwen</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <party>D</party>
+        <middleName>BERNICE</middleName>
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+          <lisID>599</lisID>
+        </identifiers>
+        <lastName>JOHNSON</lastName>
+        <bioguideId>J000126</bioguideId>
+        <state>TX</state>
+        <district>30</district>
+        <firstName>EDDIE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <lastName>Pocan</lastName>
+        <bioguideId>P000607</bioguideId>
+        <state>WI</state>
+        <district>2</district>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+        </identifiers>
+        <lastName>DeSaulnier</lastName>
+        <bioguideId>D000623</bioguideId>
+        <state>CA</state>
+        <district>11</district>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Federal Election Commission (FEC)</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Public transit</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Voting rights</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-01-03T16:06:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-01-03</actionDate>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-01-04T13:32:53Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDate>2019-01-03</actionDate>
+          <lastSummaryUpdateDate>2019-01-18T21:03:09Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2019</strong></p> <p>This bill allows for early voting in elections for federal office and for reduced waiting times for voters at polling places used in such elections.</p> <p>States must</p> <ul> <li>allow early voting in a federal election each day during the 15-day period ending on the second day before election day in the same manner as voting is allowed on election day;</li> <li>ensure that each polling place that allows early voting in a federal election is located within reasonable walking distance of a stop on a public transportation route;</li> <li> provide a sufficient number of voting systems, poll workers, and other election resources at polling places used in a federal election to ensure an equitable waiting time, not longer than one hour, for all voters in the state;</li> <li>plan to provide polling places whose waiting times exceed one hour on election day with additional poll workers, machines, ballots, and other equipment and supplies.</li> </ul> <p>The Election Assistance Commission shall issue standards for the administration of early voting in a federal election.</p> <p>The bill establishes requirements for the counting of provisional ballots that will be treated as votes. </p> <p>The bill allows civil money penalties, intervention by aggrieved parties, and private actions to address Help America Vote Act of 2002 violations by a state or jurisdiction.</p>]]></text>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-05-03T14:45:11Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <createDate>2019-05-15T04:42:16Z</createDate>
+    <calendarNumbers />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-14T19:09:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <title>A bill to amend the Controlled Substances Act to require warning labels for prescription opioids, and for other purposes.</title>
+    <notes />
+    <cboCostEstimates />
+    <billNumber>1449</billNumber>
+    <updateDate>2019-05-24T07:32:51Z</updateDate>
+    <congress>116</congress>
+    <actions>
+      <item>
+        <actionDate>2019-05-14</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-05-14</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <introducedDate>2019-05-14</introducedDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Controlled Substances Act to require warning labels for prescription opioids, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Controlled Substances Act to require warning labels for prescription opioids, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2019-05-14</actionDate>
+    </latestAction>
+    <billType>S</billType>
+    <textVersions />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001310</bioguideId>
+          <lisID>2462</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Braun</lastName>
+        <middleName />
+        <bioguideId>B001310</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Blumenthal</lastName>
+        <middleName />
+        <bioguideId>B001277</bioguideId>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <sponsors>
+      <item>
+        <lastName>MARKEY</lastName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <byRequestType />
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+      </item>
+    </sponsors>
+    <policyArea />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

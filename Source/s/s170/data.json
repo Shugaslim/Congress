@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s170-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S000770", 
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-16", 
+      "state": "MI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-16", 
+  "number": "170", 
+  "official_title": "A bill to amend the Internal Revenue Code of 1986 to limit the amount of certain qualified conservation contributions.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1992-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Charitable Conservation Easement Program Integrity Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000618", 
+    "district": null, 
+    "name": "Daines, Steve", 
+    "state": "MT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-16", 
+  "subjects": [
+    "Charitable contributions", 
+    "Income tax deductions", 
+    "Land use and conservation", 
+    "Taxation", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2019-01-16T05:00:00Z", 
+    "text": "Charitable Conservation Easement Program Integrity Act of 2019\n\nThis bill limits the aggregate amount of a partner's annual tax deductions for qualified conservation contributions of a partnership to 2.5 times the partner's adjusted basis in the partnership. (Under current law, a \"qualified conservation contribution\" is the contribution of a qualified real property interest to a qualified organization exclusively for conservation purposes.)\n\nThe limitation applies for the first three taxable years after the individual becomes a partner in the partnership. It does not apply to certain family partnerships."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Internal Revenue Code of 1986 to limit the amount of certain qualified conservation contributions.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Charitable Conservation Easement Program Integrity Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Charitable Conservation Easement Program Integrity Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Charitable Conservation Easement Program Integrity Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-15T16:15:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s170.xml"
+}

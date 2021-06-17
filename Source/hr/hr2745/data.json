@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "text": "The House Committee on Appropriations reported an original measure, H. Rept. 116-63, by Ms. Wasserman Schultz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "40", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 40.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2745-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-63"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-15", 
+  "number": "2745", 
+  "official_title": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2020, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2020", 
+  "sponsor": {
+    "bioguide_id": "W000797", 
+    "district": "23", 
+    "name": "Wasserman Schultz, Debbie", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-15", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2020, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2020", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-16T20:15:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2745.xml"
+}

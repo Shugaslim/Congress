@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>hsag15</systemCode>
+          <name>Conservation and Forestry Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-04</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-09T07:30:52Z</updateDate>
+    <latestAction>
+      <actionDate>2019-02-07</actionDate>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-01-15T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr579ih/xml/BILLS-116hr579ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>579</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>SIMPSON</lastName>
+        <middleName>K.</middleName>
+        <state>ID</state>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <identifiers>
+          <lisID>1590</lisID>
+          <bioguideId>S001148</bioguideId>
+          <gpoId>7920</gpoId>
+        </identifiers>
+        <bioguideId>S001148</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>CALVERT</lastName>
+        <middleName />
+        <state>CA</state>
+        <firstName>KEN</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <district>42</district>
+        <fullName>Rep. Calvert, Ken [R-CA-42]</fullName>
+        <identifiers>
+          <gpoId>7849</gpoId>
+          <bioguideId>C000059</bioguideId>
+          <lisID>165</lisID>
+        </identifiers>
+        <bioguideId>C000059</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Amodei</lastName>
+        <middleName>E.</middleName>
+        <state>NV</state>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <identifiers>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+          <gpoId>8366</gpoId>
+        </identifiers>
+        <bioguideId>A000369</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Westerman</lastName>
+        <middleName />
+        <state>AR</state>
+        <firstName>Bruce</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <district>4</district>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <identifiers>
+          <lisID>2224</lisID>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000821</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>LaMalfa</lastName>
+        <middleName />
+        <state>CA</state>
+        <firstName>Doug</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <identifiers>
+          <lisID>2100</lisID>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <bioguideId>L000578</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Lamborn</lastName>
+        <middleName />
+        <state>CO</state>
+        <firstName>Doug</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <district>5</district>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <identifiers>
+          <lisID>1834</lisID>
+          <bioguideId>L000564</bioguideId>
+          <gpoId>7863</gpoId>
+        </identifiers>
+        <bioguideId>L000564</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+        <state>AZ</state>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <bioguideId>G000565</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Meadows</lastName>
+        <middleName />
+        <state>NC</state>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <district>11</district>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <identifiers>
+          <lisID>2142</lisID>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <bioguideId>M001187</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Hunter</lastName>
+        <middleName>D.</middleName>
+        <state>CA</state>
+        <firstName>Duncan</firstName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>50</district>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <identifiers>
+          <lisID>1909</lisID>
+          <bioguideId>H001048</bioguideId>
+          <gpoId>7857</gpoId>
+        </identifiers>
+        <bioguideId>H001048</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Newhouse</lastName>
+        <middleName />
+        <state>WA</state>
+        <firstName>Dan</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <district>4</district>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+          <lisID>2275</lisID>
+        </identifiers>
+        <bioguideId>N000189</bioguideId>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Tipton</lastName>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <firstName>Scott</firstName>
+        <district>3</district>
+        <byRequestType />
+        <state>CO</state>
+        <bioguideId>T000470</bioguideId>
+        <identifiers>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-15T15:04:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsag00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-02-07T16:22:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsag15</systemCode>
+              <name>Conservation and Forestry Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-15T15:03:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-02-04T20:18:05Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii13</systemCode>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Water Rights Protection Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Water Rights Protection Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Water Rights Protection Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-01-16T08:10:17Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Water Rights Protection Act of 2019</title>
+    <committeeReports />
+    <introducedDate>2019-01-15</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of Agriculture</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TIPTON:H.R. 579.Congress has the power to enact this legislation pursuantto the following:Amendment X[Page H603]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

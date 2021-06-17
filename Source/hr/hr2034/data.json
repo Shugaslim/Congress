@@ -1,0 +1,158 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2034-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001270", 
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-02", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-02", 
+  "number": "2034", 
+  "official_title": "To improve the treatment of Federal prisoners who are primary caretaker parents, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s992-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Dignity Act", 
+  "sponsor": {
+    "bioguide_id": "J000298", 
+    "district": "7", 
+    "name": "Jayapal, Pramila", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-02", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Child care and development", 
+    "Congressional oversight", 
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Department of Justice", 
+    "Drug, alcohol, tobacco use", 
+    "Family relationships", 
+    "Health care coverage and access", 
+    "Health technology, devices, supplies", 
+    "Mental health", 
+    "Right of privacy", 
+    "Sex and reproductive health", 
+    "Telecommunication rates and fees", 
+    "Telephone and wireless communication", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Dignity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Dignity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Dignity for Incarcerated Women Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Dignity for Incarcerated Women Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve the treatment of Federal prisoners who are primary caretaker parents, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Dignity Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:13:02Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2034.xml"
+}

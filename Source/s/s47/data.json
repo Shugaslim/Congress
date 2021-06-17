@@ -1,0 +1,1843 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "7", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 7.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2019-01-31", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S777", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-31", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S777", 
+          "type": null
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed to the consideration of measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S858", 
+          "type": null
+        }
+      ], 
+      "result": "pass", 
+      "roll": "17", 
+      "text": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 17.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S858", 
+          "type": null
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-06", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S876", 
+          "type": null
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S1031", 
+          "type": null
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S1031-1109", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by motion.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S1117", 
+          "type": null
+        }
+      ], 
+      "text": "Cloture motion on the measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-11", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S1152-1162", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-11", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S1161", 
+          "type": null
+        }
+      ], 
+      "text": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 87 - 7. Record Vote Number: 21.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-12", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S1178-1186, S1193-1265", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1196-1265", 
+          "type": "text"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-12", 
+      "action_code": "", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "22", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 92 - 8. Record Vote Number: 22.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2019-02-13", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-13T12:07:50-05:00", 
+      "action_code": "H14000", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-13T14:32:01-05:00", 
+      "action_code": "H15000", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-26T17:13:55-05:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Grijalva moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-26T17:13:56-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "ORDER OF BUSINESS - Mr. Grijalva asked unanimous consent that debate under 1(c) of Rule XV on a motion to suspend the rules relating to S. 47 be extended to 50 minutes. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-26T17:14:21-05:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H2141-2217", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-26T17:14:24-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the order of the House of today, the House proceeded with fifty minutes of debate on S. 47.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-26T18:08:36-05:00", 
+      "action_code": "H37220", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-26T18:34:14-05:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H2218-2219", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-26T18:42:56-05:00", 
+      "action_code": "H37300", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2142-2211", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "95", 
+      "status": "PASSED:BILL", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 363 - 62 (Roll no. 95).", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-02-26T18:42:57-05:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-26T19:35:00-05:00", 
+      "action_code": "H1B000", 
+      "bill_ids": [
+        "hcres21-116"
+      ], 
+      "references": [], 
+      "text": "Pursuant to the provisions of H. Con. Res. 21, enrollment corrections on S. 47 have been made.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "E20000", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "E30000", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "E40000", 
+      "congress": "116", 
+      "law": "public", 
+      "number": "9", 
+      "references": [], 
+      "text": "Became Public Law No: 116-9.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt189-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "189"
+    }, 
+    {
+      "amendment_id": "samdt188-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "188"
+    }, 
+    {
+      "amendment_id": "samdt187-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "187"
+    }, 
+    {
+      "amendment_id": "samdt186-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "186"
+    }, 
+    {
+      "amendment_id": "samdt185-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "185"
+    }, 
+    {
+      "amendment_id": "samdt184-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "184"
+    }, 
+    {
+      "amendment_id": "samdt183-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "183"
+    }, 
+    {
+      "amendment_id": "samdt182-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "182"
+    }, 
+    {
+      "amendment_id": "samdt181-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "181"
+    }, 
+    {
+      "amendment_id": "samdt180-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "180"
+    }, 
+    {
+      "amendment_id": "samdt179-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "179"
+    }, 
+    {
+      "amendment_id": "samdt178-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "178"
+    }, 
+    {
+      "amendment_id": "samdt177-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "177"
+    }, 
+    {
+      "amendment_id": "samdt176-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "176"
+    }, 
+    {
+      "amendment_id": "samdt175-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "175"
+    }, 
+    {
+      "amendment_id": "samdt174-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "174"
+    }, 
+    {
+      "amendment_id": "samdt173-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "173"
+    }, 
+    {
+      "amendment_id": "samdt172-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "172"
+    }, 
+    {
+      "amendment_id": "samdt171-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "171"
+    }, 
+    {
+      "amendment_id": "samdt170-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "170"
+    }, 
+    {
+      "amendment_id": "samdt169-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "169"
+    }, 
+    {
+      "amendment_id": "samdt168-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "168"
+    }, 
+    {
+      "amendment_id": "samdt167-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "167"
+    }, 
+    {
+      "amendment_id": "samdt166-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "166"
+    }, 
+    {
+      "amendment_id": "samdt165-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "165"
+    }, 
+    {
+      "amendment_id": "samdt164-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "164"
+    }, 
+    {
+      "amendment_id": "samdt163-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "163"
+    }, 
+    {
+      "amendment_id": "samdt162-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "162"
+    }, 
+    {
+      "amendment_id": "samdt161-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "161"
+    }, 
+    {
+      "amendment_id": "samdt160-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "160"
+    }, 
+    {
+      "amendment_id": "samdt159-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "159"
+    }, 
+    {
+      "amendment_id": "samdt158-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "158"
+    }, 
+    {
+      "amendment_id": "samdt157-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "157"
+    }, 
+    {
+      "amendment_id": "samdt156-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "156"
+    }, 
+    {
+      "amendment_id": "samdt155-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "155"
+    }, 
+    {
+      "amendment_id": "samdt154-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "154"
+    }, 
+    {
+      "amendment_id": "samdt153-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "153"
+    }, 
+    {
+      "amendment_id": "samdt152-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "152"
+    }, 
+    {
+      "amendment_id": "samdt151-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "151"
+    }, 
+    {
+      "amendment_id": "samdt150-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "150"
+    }, 
+    {
+      "amendment_id": "samdt149-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "149"
+    }, 
+    {
+      "amendment_id": "samdt148-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "148"
+    }, 
+    {
+      "amendment_id": "samdt147-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "147"
+    }, 
+    {
+      "amendment_id": "samdt146-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "146"
+    }, 
+    {
+      "amendment_id": "samdt145-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "145"
+    }, 
+    {
+      "amendment_id": "samdt144-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "144"
+    }, 
+    {
+      "amendment_id": "samdt143-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "143"
+    }, 
+    {
+      "amendment_id": "samdt142-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "142"
+    }, 
+    {
+      "amendment_id": "samdt141-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "141"
+    }, 
+    {
+      "amendment_id": "samdt140-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "140"
+    }, 
+    {
+      "amendment_id": "samdt139-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "139"
+    }, 
+    {
+      "amendment_id": "samdt138-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "138"
+    }, 
+    {
+      "amendment_id": "samdt137-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "137"
+    }, 
+    {
+      "amendment_id": "samdt136-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "136"
+    }, 
+    {
+      "amendment_id": "samdt135-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "135"
+    }, 
+    {
+      "amendment_id": "samdt134-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "134"
+    }, 
+    {
+      "amendment_id": "samdt133-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "133"
+    }, 
+    {
+      "amendment_id": "samdt132-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "132"
+    }, 
+    {
+      "amendment_id": "samdt131-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "131"
+    }, 
+    {
+      "amendment_id": "samdt130-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "130"
+    }, 
+    {
+      "amendment_id": "samdt129-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "129"
+    }, 
+    {
+      "amendment_id": "samdt128-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "128"
+    }, 
+    {
+      "amendment_id": "samdt127-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "127"
+    }, 
+    {
+      "amendment_id": "samdt126-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "126"
+    }, 
+    {
+      "amendment_id": "samdt125-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "125"
+    }, 
+    {
+      "amendment_id": "samdt124-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "124"
+    }, 
+    {
+      "amendment_id": "samdt123-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "123"
+    }, 
+    {
+      "amendment_id": "samdt122-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "122"
+    }, 
+    {
+      "amendment_id": "samdt121-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "121"
+    }, 
+    {
+      "amendment_id": "samdt120-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "120"
+    }, 
+    {
+      "amendment_id": "samdt119-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "119"
+    }, 
+    {
+      "amendment_id": "samdt118-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "118"
+    }, 
+    {
+      "amendment_id": "samdt117-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "117"
+    }, 
+    {
+      "amendment_id": "samdt116-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "116"
+    }, 
+    {
+      "amendment_id": "samdt115-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "115"
+    }, 
+    {
+      "amendment_id": "samdt114-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "114"
+    }, 
+    {
+      "amendment_id": "samdt113-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "113"
+    }, 
+    {
+      "amendment_id": "samdt112-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "112"
+    }, 
+    {
+      "amendment_id": "samdt111-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "111"
+    }, 
+    {
+      "amendment_id": "samdt110-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "110"
+    }, 
+    {
+      "amendment_id": "samdt109-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "109"
+    }, 
+    {
+      "amendment_id": "samdt108-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "108"
+    }, 
+    {
+      "amendment_id": "samdt107-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "107"
+    }
+  ], 
+  "bill_id": "s47-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000360", 
+      "district": null, 
+      "name": "Alexander, Lamar", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-14", 
+      "state": "TN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001236", 
+      "district": null, 
+      "name": "Boozman, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "AR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000127", 
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-08", 
+      "state": "WA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001035", 
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000618", 
+      "district": null, 
+      "name": "Daines, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-09", 
+      "state": "MT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000062", 
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "CA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000562", 
+      "district": null, 
+      "name": "Gardner, Cory", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-09", 
+      "state": "CO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001046", 
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-09", 
+      "state": "NM", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000383", 
+      "district": null, 
+      "name": "King, Angus S., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-16", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001183", 
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-09", 
+      "state": "WV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000615", 
+      "district": null, 
+      "name": "Romney, Mitt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-16", 
+      "state": "UT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001194", 
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001198", 
+      "district": null, 
+      "name": "Sullivan, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "AK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000464", 
+      "district": null, 
+      "name": "Tester, Jon", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-04", 
+      "state": "MT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000779", 
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-14", 
+      "state": "OR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "116", 
+    "law_type": "public", 
+    "number": "9"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-01-08", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2019-03-12", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-02-26T18:42:56-05:00", 
+    "senate_cloture_result": "pass", 
+    "senate_cloture_result_at": "2019-02-05", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2019-02-12", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-08", 
+  "number": "47", 
+  "official_title": "A bill to provide for the management of the natural resources of the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s70-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr356-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr376-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1340-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1330-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr994-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1268-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1222-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s139-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s339-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr870-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s280-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1211-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1216-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1184-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hconres21-116", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1160-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1015-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1067-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s40-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1048-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1061-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1056-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr972-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr975-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr999-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr984-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr368-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s76-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s79-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s43-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr274-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr390-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr304-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr475-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr474-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr524-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s57-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s364-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr432-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr894-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr187-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr201-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s41-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s32-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr240-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr318-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr381-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr386-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr319-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s48-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s316-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s59-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s60-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s268-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr755-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s33-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s35-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr253-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s81-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s67-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr261-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s56-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s36-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s37-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr459-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s138-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s140-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s88-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s96-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s101-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr343-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr314-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr114-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr477-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s302-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s308-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr283-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr288-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s31-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s45-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s54-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s55-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s129-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s87-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s89-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s93-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr482-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr483-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr862-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s86-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr468-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s243-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr993-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr825-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s167-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr415-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr418-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr426-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s82-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s94-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s100-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr346-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Natural Resources Management Act", 
+  "sponsor": {
+    "bioguide_id": "M001153", 
+    "district": null, 
+    "name": "Murkowski, Lisa", 
+    "state": "AK", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2019-03-12", 
+  "subjects": [
+    "Advisory bodies", 
+    "Air quality", 
+    "Alaska", 
+    "Alternative and renewable resources", 
+    "Animal protection and human-animal relationships", 
+    "Appropriations", 
+    "Archaeology and anthropology", 
+    "Arizona", 
+    "Armed Forces and National Security", 
+    "Art, artists, authorship", 
+    "Aviation and airports", 
+    "California", 
+    "Coal", 
+    "Colorado", 
+    "Conflicts and wars", 
+    "Congressional oversight", 
+    "Congressional tributes", 
+    "Connecticut", 
+    "Dams and canals", 
+    "Department of the Interior", 
+    "District of Columbia", 
+    "Earth sciences", 
+    "Education programs funding", 
+    "Electric power generation and transmission", 
+    "Elementary and secondary education", 
+    "Endangered and threatened species", 
+    "Energy revenues and royalties", 
+    "Federal officials", 
+    "Firearms and explosives", 
+    "Fires", 
+    "First responders and emergency personnel", 
+    "Fishes", 
+    "Florida", 
+    "Forests, forestry, trees", 
+    "General public lands matters", 
+    "Geography and mapping", 
+    "Georgia", 
+    "Government buildings, facilities, and property", 
+    "Government information and archives", 
+    "Government liability", 
+    "Government studies and investigations", 
+    "Hawaii", 
+    "Hazardous wastes and toxic substances", 
+    "Health information and medical records", 
+    "Higher education", 
+    "Historic sites and heritage areas", 
+    "Historical and cultural resources", 
+    "Hunting and fishing", 
+    "Idaho", 
+    "Indian lands and resources rights", 
+    "Indiana", 
+    "Judges", 
+    "Kentucky", 
+    "Lakes and rivers", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Livestock", 
+    "Louisiana", 
+    "Maine", 
+    "Marine and coastal resources, fisheries", 
+    "Maryland", 
+    "Massachusetts", 
+    "Medical research", 
+    "Military facilities and property", 
+    "Military history", 
+    "Mining", 
+    "Minnesota", 
+    "Mississippi", 
+    "Missouri", 
+    "Montana", 
+    "Monuments and memorials", 
+    "Motor vehicles", 
+    "Museums, exhibitions, cultural centers", 
+    "Nevada", 
+    "New Hampshire", 
+    "New Mexico", 
+    "New York State", 
+    "Ohio", 
+    "Oil and gas", 
+    "Oklahoma", 
+    "Oregon", 
+    "Outdoor recreation", 
+    "Parks, recreation areas, trails", 
+    "Pennsylvania", 
+    "Performing arts", 
+    "Pollution liability", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Public lands and natural resources", 
+    "Public-private cooperation", 
+    "Racial and ethnic relations", 
+    "Railroads", 
+    "Reptiles", 
+    "Rhode Island", 
+    "Roads and highways", 
+    "Solid waste and recycling", 
+    "South Carolina", 
+    "South Dakota", 
+    "State and local government operations", 
+    "Supreme Court", 
+    "Telephone and wireless communication", 
+    "Tennessee", 
+    "Texas", 
+    "Trade restrictions", 
+    "Travel and tourism", 
+    "U.S. history", 
+    "Urban and suburban affairs and development", 
+    "Utah", 
+    "Veterans' organizations and recognition", 
+    "Veterinary medicine and animal diseases", 
+    "Washington State", 
+    "Water quality", 
+    "Water resources funding", 
+    "Water storage", 
+    "Water use and supply", 
+    "Watersheds", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2019-01-08T05:00:00Z", 
+    "text": "Natural Resources Management Act\n\nThis bill sets forth provisions regarding\u00a0various programs, projects, activities, and studies for the management and conservation of natural resources on federal lands.\n\nSpecifically, the bill addresses, among other matters\n\n land conveyances, exchanges, acquisitions, withdrawals, and transfers; national parks, monuments, memorials, wilderness areas, wild and scenic rivers, historic and heritage sites, and other conservation and recreation areas; wildlife conservation; helium extraction; small miner waivers of claim maintenance fees; wildland fire operations; the release of certain federal reversionary land interests; boundary adjustments; the Denali National Park and Preserve natural gas pipeline; fees for medical services in units of the National Park System; funding for the Land and Water Conservation Fund; recreational activities on federal or nonfederal lands; a national volcano early warning and monitoring system; federal reclamation projects; and search-and recovery-missions. In addition, the bill reauthorizes the Historically Black Colleges and Universities Historic Preservation Program\u00a0and the National Cooperative Geologic Mapping Program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for the management of the natural resources of the United States, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "John D. Dingell, Jr. Conservation, Management, and Recreation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Fish and Wildlife Coordination Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Harry S Truman National Historic Site Establishment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Fish and Wildlife Coordination Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Harry S Truman National Historic Site Establishment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Natural Resources Management Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Natural Resources Management Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "John D. Dingell, Jr. Conservation, Management, and Recreation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Fish and Wildlife Coordination Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Harry S Truman National Historic Site Establishment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Natural Resources Management Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "John D. Dingell, Jr. Conservation, Management, and Recreation Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-04T22:19:51Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s47.xml"
+}

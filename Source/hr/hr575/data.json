@@ -1,0 +1,337 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Oversight and Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Oversight and Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-25", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr575-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Antitrust, Commercial, and Administrative Law", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000375", 
+      "district": "19", 
+      "name": "Arrington, Jodey C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001305", 
+      "district": "13", 
+      "name": "Budd, Ted", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000616", 
+      "district": "4", 
+      "name": "DesJarlais, Scott", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000615", 
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000578", 
+      "district": "1", 
+      "name": "Gaetz, Matt", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000563", 
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-16", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000552", 
+      "district": "1", 
+      "name": "Gohmert, Louie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000565", 
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000590", 
+      "district": "7", 
+      "name": "Green, Mark E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000576", 
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001071", 
+      "district": "10", 
+      "name": "Hice, Jody B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000289", 
+      "district": "4", 
+      "name": "Jordan, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000569", 
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-06", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001195", 
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000190", 
+      "district": "5", 
+      "name": "Norman, Ralph", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000605", 
+      "district": "10", 
+      "name": "Perry, Scott", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000599", 
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-06", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001210", 
+      "district": "15", 
+      "name": "Spano, Ross", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-14", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000819", 
+      "district": "6", 
+      "name": "Walker, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000827", 
+      "district": "6", 
+      "name": "Wright, Ron", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-14", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-15", 
+  "number": "575", 
+  "official_title": "To provide for a method by which the economic costs of significant regulatory actions may be offset by the repeal of other regulatory actions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Lessening Regulatory Costs and Establishing a Federal Regulatory Budget Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "M001187", 
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-15", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lessening Regulatory Costs and Establishing a Federal Regulatory Budget Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lessening Regulatory Costs and Establishing a Federal Regulatory Budget Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for a method by which the economic costs of significant regulatory actions may be offset by the repeal of other regulatory actions, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Lessening Regulatory Costs and Establishing a Federal Regulatory Budget Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-28T16:45:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr575.xml"
+}

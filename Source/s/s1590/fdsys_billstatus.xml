@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T16:06:11Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-05-23T04:42:06Z</createDate>
+    <policyArea />
+    <sponsors>
+      <item>
+        <lastName>Merkley</lastName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001035</bioguideId>
+        <firstName>SUSAN</firstName>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <billNumber>1590</billNumber>
+    <congress>116</congress>
+    <relatedBills />
+    <title>A bill to amend the State Department Basic Authorities Act of 1956 to authorize rewards for thwarting wildlife trafficking linked to transnational organized crime, and for other purposes.</title>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-05-22</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2019-05-22</introducedDate>
+    <laws />
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to amend the State Department Basic Authorities Act of 1956 to authorize rewards for thwarting wildlife trafficking linked to transnational organized crime, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to amend the State Department Basic Authorities Act of 1956 to authorize rewards for thwarting wildlife trafficking linked to transnational organized crime, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2019-05-22</actionDate>
+    </latestAction>
+    <updateDate>2019-05-23T04:46:21Z</updateDate>
+    <committeeReports />
+    <textVersions />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2019-01-12T08:10:15Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2019-05-18T07:15:18Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <committee>
+          <name>Immigration and Citizenship Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Reform, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-11</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Reform, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-11</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Reform, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-11</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-01-11</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-01-11</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>Glenn</firstName>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+        </identifiers>
+        <middleName />
+        <state>WI</state>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <bioguideId>G000576</bioguideId>
+        <byRequestType />
+        <district>6</district>
+      </item>
+    </sponsors>
+    <title>Ending Sanctuary Cities Act of 2019</title>
+    <cosponsors>
+      <item>
+        <lastName>Posey</lastName>
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>P000599</bioguideId>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Gosar</lastName>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Long</lastName>
+        <firstName>Billy</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>L000576</bioguideId>
+        <state>MO</state>
+        <identifiers>
+          <lisID>2033</lisID>
+          <bioguideId>L000576</bioguideId>
+          <gpoId>8015</gpoId>
+        </identifiers>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <district>7</district>
+      </item>
+      <item>
+        <lastName>Meadows</lastName>
+        <firstName>Mark</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>M001187</bioguideId>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <district>11</district>
+      </item>
+      <item>
+        <lastName>DesJarlais</lastName>
+        <firstName>Scott</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>D000616</bioguideId>
+        <state>TN</state>
+        <identifiers>
+          <gpoId>8151</gpoId>
+          <bioguideId>D000616</bioguideId>
+          <lisID>2062</lisID>
+        </identifiers>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Johnson</lastName>
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>J000292</bioguideId>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <district>6</district>
+      </item>
+      <item>
+        <lastName>Norman</lastName>
+        <firstName>Ralph</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>N000190</bioguideId>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Harris</lastName>
+        <firstName>Andy</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>H001052</bioguideId>
+        <state>MD</state>
+        <identifiers>
+          <gpoId>7976</gpoId>
+          <lisID>2026</lisID>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Hunter</lastName>
+        <firstName>Duncan</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <bioguideId>H001048</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7857</gpoId>
+          <bioguideId>H001048</bioguideId>
+          <lisID>1909</lisID>
+        </identifiers>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <district>50</district>
+      </item>
+      <item>
+        <lastName>Cook</lastName>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001094</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Weber</lastName>
+        <firstName>Randy</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <bioguideId>W000814</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2161</lisID>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <district>14</district>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>K000376</bioguideId>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <district>16</district>
+      </item>
+      <item>
+        <lastName>Biggs</lastName>
+        <firstName>Andy</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001302</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <lisID>2307</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Joyce</lastName>
+        <firstName>John</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>J000302</bioguideId>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2435</lisID>
+          <gpoId />
+          <bioguideId>J000302</bioguideId>
+        </identifiers>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <district>13</district>
+      </item>
+      <item>
+        <lastName>Lesko</lastName>
+        <firstName>Debbie</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>L000589</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2368</lisID>
+          <bioguideId>L000589</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Luetkemeyer</lastName>
+        <firstName>Blaine</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>L000569</bioguideId>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <lisID>1931</lisID>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Green</lastName>
+        <firstName>Mark</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <bioguideId>G000590</bioguideId>
+        <state>TN</state>
+        <identifiers>
+          <lisID>2442</lisID>
+          <gpoId />
+          <bioguideId>G000590</bioguideId>
+        </identifiers>
+        <fullName>Rep. Green, Mark E. [R-TN-7]</fullName>
+        <district>7</district>
+      </item>
+      <item>
+        <lastName>Allen</lastName>
+        <firstName>Rick</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>W.</middleName>
+        <bioguideId>A000372</bioguideId>
+        <state>GA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+        </identifiers>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <district>12</district>
+      </item>
+      <item>
+        <lastName>Wright</lastName>
+        <firstName>Ron</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>W000827</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2446</lisID>
+          <bioguideId>W000827</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <district>6</district>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>516</billNumber>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-11T14:00:37Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-25T21:48:12Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <name>Education and Labor</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-11T14:00:47Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <name>Oversight and Reform Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-11T14:00:42Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GROTHMAN:H.R. 516.Congress has the power to enact this legislation pursuantto the following:Article I; Section 8, Clause 4 of the United StatesConstitution.[Page H520]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-02-25</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To make any city or county that has in effect any law or ordinance that is in violation of Federal immigration law ineligible for any Federal grant, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ending Sanctuary Cities Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Ending Sanctuary Cities Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Ending Sanctuary Cities Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-01-11</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-01-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr516ih/xml/BILLS-116hr516ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-01-11</actionDate>
+          <updateDate>2019-01-11T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-05T21:56:48Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Ending Sanctuary Cities Act of 2019</b></p> <p>This bill makes state or local governments that violate immigration laws ineligible for federal financial assistance.</p> <p>A governmental entity shall be ineligible if it</p> <ul> <li>violates federal law by prohibiting its officials from communicating with the Department of Homeland Security (DHS) about the immigration status of any individual,</li> <li>restricts compliance with DHS detainer requests, or</li> <li>has any laws or policies that violate immigration laws.</li> </ul> <p>A DHS detainer request is an order or request to a state or local government to (1) temporarily hold or transport an alien for transfer into federal custody, or (2) notify DHS before releasing an alien from custody.</p>  <p>A government or law enforcement officer that complies with a DHS detainer request shall be acting under the color of federal authority, for the purposes of liability or immunity in a lawsuit filed by the detained individual. </p> <p>The bill makes it unlawful for a state or local government to discharge or discriminate against one of its law enforcement officers for complying with a DHS retainer request.</p> <p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

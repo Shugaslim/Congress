@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-23", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Emergency Preparedness, Response, and Recovery.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2160-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Emergency Preparedness, Response, and Communications", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000553", 
+      "district": "9", 
+      "name": "Green, Al", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-09", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-09", 
+  "number": "2160", 
+  "official_title": "To amend the Homeland Security Act of 2002 to authorize expenditures to combat emerging terrorist threats, including vehicular attacks, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Shielding Public Spaces from Vehicular Terrorism Act", 
+  "sponsor": {
+    "bioguide_id": "P000604", 
+    "district": "10", 
+    "name": "Payne, Donald M., Jr.", 
+    "state": "NJ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-09", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Firearms and explosives", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Homeland security", 
+    "Hybrid, electric, and advanced technology vehicles", 
+    "Motor vehicles", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Terrorism", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to authorize expenditures to combat emerging terrorist threats, including vehicular attacks, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Shielding Public Spaces from Vehicular Terrorism Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Shielding Public Spaces from Vehicular Terrorism Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Shielding Public Spaces from Vehicular Terrorism Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T20:45:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2160.xml"
+}

@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-17", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-17", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr675-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000593", 
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-17", 
+  "number": "675", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to provide for a credit against tax for improving the safety of fuel systems in emergency medical rotorcraft.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Safe Helicopters Now Act", 
+  "sponsor": {
+    "bioguide_id": "N000191", 
+    "district": "2", 
+    "name": "Neguse, Joe", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-17", 
+  "subjects": [
+    "Aviation and airports", 
+    "Emergency medical services and trauma care", 
+    "Income tax credits", 
+    "Motor fuels", 
+    "Taxation", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-17T05:00:00Z", 
+    "text": "Safe Helicopters Now Act \n\nThis bill allows a tax credit equal to 10% of the costs of making changes to a fuel system in an emergency medical rotorcraft to comply with certain requirements for fuel system crash resistance."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Helicopters Now Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Helicopters Now Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to provide for a credit against tax for improving the safety of fuel systems in emergency medical rotorcraft.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Safe Helicopters Now Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-11T19:55:54Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr675.xml"
+}

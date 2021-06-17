@@ -1,0 +1,170 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-05", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR H2326", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1472-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001298", 
+      "district": "2", 
+      "name": "Bacon, Don", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "NE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000449", 
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-06", 
+      "state": "NE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-28", 
+  "number": "1472", 
+  "official_title": "To rename the Homestead National Monument of America near Beatrice, Nebraska, as the Homestead National Historical Park.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001172", 
+    "district": "3", 
+    "name": "Smith, Adrian", 
+    "state": "NE", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-28", 
+  "subjects": [
+    "Historic sites and heritage areas", 
+    "Land transfers", 
+    "Monuments and memorials", 
+    "Nebraska", 
+    "Public lands and natural resources", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To rename the Homestead National Monument of America near Beatrice, Nebraska, as the Homestead National Historical Park.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To rename the Homestead National Monument of America near Beatrice, Nebraska, as the Homestead National Historical Park.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T07:12:49Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1472.xml"
+}

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea />
+    <billNumber>2259</billNumber>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-04-10</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-04-10</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <createDate>2019-04-11T07:12:10Z</createDate>
+    <version>1.0.0</version>
+    <amendments />
+    <cosponsors />
+    <introducedDate>2019-04-10</introducedDate>
+    <title>Truth in Employment Act of 2019</title>
+    <updateDate>2019-05-02T20:11:11Z</updateDate>
+    <billType>HR</billType>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>King</lastName>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <bioguideId>K000362</bioguideId>
+        <state>IA</state>
+        <district>4</district>
+        <firstName>Steve</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of Iowa:H.R. 2259.Congress has the power to enact this legislation pursuantto the following:This legislation contains a clarification that is intendedto limit the scope of an existing statute. As such, this billmakes specific changes to existing law in a manner thatreturns power to the States and to the People, in accordancewith Amendment X of the United States Constitution.[Page H3258]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2259ih/xml/BILLS-116hr2259ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-10T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the National Labor Relations Act to clarify employer rights with regard to hiring.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Truth in Employment Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Truth in Employment Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Truth in Employment Act of 2019</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-04-10</actionDate>
+      <links />
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <date>2019-04-10T13:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

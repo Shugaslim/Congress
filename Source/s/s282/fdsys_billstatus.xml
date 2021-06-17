@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <laws />
+    <congress>116</congress>
+    <actions>
+      <item>
+        <actionDate>2019-01-30</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-30</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-02-26T19:00:18Z</updateDate>
+    <latestAction>
+      <actionDate>2019-01-30</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <title>Genetically Engineered Salmon Labeling Act</title>
+    <introducedDate>2019-01-30</introducedDate>
+    <billType>S</billType>
+    <createDate>2019-01-31T05:40:16Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>Food supply, safety, and labeling</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Seafood</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-01-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s282is/xml/BILLS-116s282is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billNumber>282</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <state>AK</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sullivan</lastName>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001198</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>WA</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CANTWELL</lastName>
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+        </identifiers>
+        <bioguideId>C000127</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>OR</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>AK</state>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <byRequestType />
+        <lastName>Murkowski</lastName>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Genetically Engineered Salmon Labeling Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend the market name of genetically altered salmon in the United States, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Genetically Engineered Salmon Labeling Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Genetically Engineered Salmon Labeling Act</title>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-02-07</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>Genetically Engineered Salmon Labeling Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1103</number>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-30T19:36:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

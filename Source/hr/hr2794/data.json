@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2794-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001097", 
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001199", 
+      "district": "11", 
+      "name": "Smucker, Lloyd", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000823", 
+      "district": "6", 
+      "name": "Waltz, Michael", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-16", 
+  "number": "2794", 
+  "official_title": "To reauthorize and improve the Department of Defense Mentor-Protege Program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "T000484", 
+    "district": "2", 
+    "name": "Torres Small, Xochitl", 
+    "state": "NM", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-16", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize and improve the Department of Defense Mentor-Protege Program.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To reauthorize and improve the Department of Defense Mentor-Protege Program.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-17T13:01:17Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2794.xml"
+}

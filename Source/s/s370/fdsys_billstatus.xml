@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-03-01T08:14:21Z</updateDate>
+    <congress>116</congress>
+    <billNumber>370</billNumber>
+    <cosponsors>
+      <item>
+        <state>MN</state>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <bioguideId>K000367</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>UT</state>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lee</lastName>
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <bioguideId>L000577</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>VT</state>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>PATRICK</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LEAHY</lastName>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <bioguideId>L000174</bioguideId>
+        <middleName>JOSEPH</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>NOPEC</title>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <introducedDate>2019-02-07</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2019-02-07</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+    </actions>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-02-07</actionDate>
+          <text>Committee Consideration and Mark-up Session Held.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>NOPEC</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>948</number>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s370is/xml/BILLS-116s370is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-07T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Competition and antitrust</name>
+          </item>
+          <item>
+            <name>Energy prices</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-02-08T05:55:24Z</createDate>
+    <amendments />
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <firstName>CHARLES</firstName>
+        <byRequestType />
+        <lastName>GRASSLEY</lastName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <middleName>ERNEST</middleName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T18:40:42Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>NOPEC</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>No Oil Producing and Exporting Cartels Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Sherman Act to make oil-producing and exporting cartels illegal.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>NOPEC</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>NOPEC</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>No Oil Producing and Exporting Cartels Act of 2019</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

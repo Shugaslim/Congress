@@ -1,0 +1,199 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Citizenship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2187-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001112", 
+      "district": "24", 
+      "name": "Carbajal, Salud O.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000563", 
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-16", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000597", 
+      "district": "7", 
+      "name": "Rice, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-09", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-09", 
+  "number": "2187", 
+  "official_title": "To amend the Immigration and Nationality Act to stimulate international tourism to the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Jobs Originated through Launching Travel Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "Q000023", 
+    "district": "5", 
+    "name": "Quigley, Mike", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-09", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Border security and unlawful immigration", 
+    "Canada", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Government information and archives", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Intelligence activities, surveillance, classified information", 
+    "Judicial review and appeals", 
+    "Terrorism", 
+    "Travel and tourism", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Jobs Originated through Launching Travel Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Jobs Originated through Launching Travel Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "JOLT Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "JOLT Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to stimulate international tourism to the United States, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "JOLT Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:13:03Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2187.xml"
+}

@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-04", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Conservation and Forestry.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr579-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Conservation and Forestry", 
+      "subcommittee_id": "15"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000369", 
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000059", 
+      "district": "42", 
+      "name": "Calvert, Ken", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000565", 
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001048", 
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-13", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000578", 
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000564", 
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001187", 
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000189", 
+      "district": "4", 
+      "name": "Newhouse, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001148", 
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "ID", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000821", 
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-15", 
+  "number": "579", 
+  "official_title": "To prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Water Rights Protection Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "T000470", 
+    "district": "3", 
+    "name": "Tipton, Scott  R.", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-15", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Agriculture", 
+    "Department of the Interior", 
+    "Indian lands and resources rights", 
+    "Intergovernmental relations", 
+    "Land use and conservation", 
+    "Licensing and registrations", 
+    "Public lands and natural resources", 
+    "State and local government operations", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Water Rights Protection Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Water Rights Protection Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Water Rights Protection Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-09T07:30:52Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr579.xml"
+}

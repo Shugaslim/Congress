@@ -1,0 +1,605 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on National Parks, Forests, and Public Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr434-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001270", 
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001281", 
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000490", 
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001303", 
+      "district": null, 
+      "name": "Blunt Rochester, Lisa", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "DE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001251", 
+      "district": "1", 
+      "name": "Butterfield, G. K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001067", 
+      "district": "9", 
+      "name": "Clarke, Yvette D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001049", 
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001061", 
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000537", 
+      "district": "6", 
+      "name": "Clyburn, James E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000984", 
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-11", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000627", 
+      "district": "10", 
+      "name": "Demings, Val Butler", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000624", 
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-16", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000399", 
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000297", 
+      "district": "13", 
+      "name": "Espaillat, Adriano", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000455", 
+      "district": "11", 
+      "name": "Fudge, Marcia L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000587", 
+      "district": "29", 
+      "name": "Garcia, Sylvia R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000589", 
+      "district": "5", 
+      "name": "Gooden, Lance", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-25", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000553", 
+      "district": "9", 
+      "name": "Green, Al", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001081", 
+      "district": "5", 
+      "name": "Hayes, Jahana", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "CT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001038", 
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001066", 
+      "district": "4", 
+      "name": "Horsford, Steven", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001073", 
+      "district": "23", 
+      "name": "Hurd, Will", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000288", 
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000385", 
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000581", 
+      "district": "14", 
+      "name": "Lawrence, Brenda L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000287", 
+      "district": "5", 
+      "name": "Lewis, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001208", 
+      "district": "6", 
+      "name": "McBath, Lucy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001137", 
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-11", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001188", 
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-16", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000614", 
+      "district": "1", 
+      "name": "Pappas, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "NH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000610", 
+      "district": null, 
+      "name": "Plaskett, Stacey E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "VI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000588", 
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-11", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000185", 
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-11", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001185", 
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001206", 
+      "district": "27", 
+      "name": "Shalala, Donna E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000474", 
+      "district": "35", 
+      "name": "Torres, Norma J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000822", 
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000814", 
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-26", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000062", 
+      "district": "3", 
+      "name": "Yarmuth, John A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-04-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-10", 
+  "number": "434", 
+  "official_title": "To designate the Emancipation National Historic Trail, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Emancipation National Historic Trail Act", 
+  "sponsor": {
+    "bioguide_id": "J000032", 
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-01", 
+  "subjects": [
+    "Historic sites and heritage areas", 
+    "Land transfers", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Racial and ethnic relations", 
+    "Texas", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the Emancipation National Historic Trail, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emancipation National Historic Trail Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emancipation National Historic Trail Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Emancipation National Historic Trail Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-14T16:12:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr434.xml"
+}

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <state>AR</state>
+        <lastName>Cotton</lastName>
+        <middleName />
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to prevent prisoners who have been convicted of terrorism related offenses from being eligible for early release, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to prevent prisoners who have been convicted of terrorism related offenses from being eligible for early release, and for other purposes.</title>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000320</bioguideId>
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <bioguideId>S000320</bioguideId>
+          <lisID>1049</lisID>
+          <gpoId>8277</gpoId>
+        </identifiers>
+        <fullName>Sen. Shelby, Richard C. [R-AL]</fullName>
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>CRAIG</middleName>
+        <lastName>SHELBY</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <notes />
+    <title>A bill to prevent prisoners who have been convicted of terrorism related offenses from being eligible for early release, and for other purposes.</title>
+    <committeeReports />
+    <version>1.0.0</version>
+    <introducedDate>2019-05-23</introducedDate>
+    <recordedVotes />
+    <policyArea />
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-23</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-24T05:31:57Z</updateDate>
+    <createDate>2019-05-24T05:27:15Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2019-05-23</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>1684</billNumber>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T21:06:46Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions />
+    <relatedBills />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,239 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-25", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-25", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Energy and Mineral Resources Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Water, Oceans, and Wildlife Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1014-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000610", 
+      "district": null, 
+      "name": "Plaskett, Stacey E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-06", 
+      "state": "VI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000600", 
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-06", 
+      "state": "AS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001177", 
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-06", 
+      "state": "MP", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-06", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-01", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-06", 
+  "number": "1014", 
+  "official_title": "To amend the Outer Continental Shelf Lands Act to apply to territories of the United States, to establish offshore wind lease sale requirements, to provide dedicated funding for coral reef conservation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s499-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Offshore Wind for Territories Act", 
+  "sponsor": {
+    "bioguide_id": "G000582", 
+    "district": null, 
+    "name": "Gonzalez-Colon, Jenniffer", 
+    "state": "PR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-01", 
+  "subjects": [
+    "Alternative and renewable resources", 
+    "American Samoa", 
+    "Aquatic ecology", 
+    "Caribbean area", 
+    "Energy", 
+    "Energy revenues and royalties", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Guam", 
+    "Marine and coastal resources, fisheries", 
+    "Northern Mariana Islands", 
+    "Puerto Rico", 
+    "U.S. territories and protectorates", 
+    "Virgin Islands"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Outer Continental Shelf Lands Act to apply to territories of the United States, to establish offshore wind lease sale requirements, to provide dedicated funding for coral reef conservation, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Offshore Wind for Territories Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Offshore Wind for Territories Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Offshore Wind for Territories Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T19:42:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1014.xml"
+}

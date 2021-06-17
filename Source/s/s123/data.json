@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "", 
+      "committee": "Committee on Veterans' Affairs", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Committee on Veterans' Affairs. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s123-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001236", 
+      "district": null, 
+      "name": "Boozman, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "AR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001088", 
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "DE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000386", 
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "IA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-15", 
+  "number": "123", 
+  "official_title": "A bill to require the Secretary of Veterans Affairs to enter into a contract or other agreement with a third party to review appointees in the Veterans Health Administration who had a license terminated for cause by a State licensing board for care or services rendered at a non-Veterans Health Administration facility and to provide individuals treated by such an appointee with notice if it is determined that an episode of care or services to which they received was below the standard of care, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ensuring Quality Care for Our Veterans Act", 
+  "sponsor": {
+    "bioguide_id": "E000295", 
+    "district": null, 
+    "name": "Ernst, Joni", 
+    "state": "IA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-15", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Government studies and investigations", 
+    "Health care quality", 
+    "Health personnel", 
+    "Hospital care", 
+    "Licensing and registrations", 
+    "Public contracts and procurement", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Secretary of Veterans Affairs to enter into a contract or other agreement with a third party to review appointees in the Veterans Health Administration who had a license terminated for cause by a State licensing board for care or services rendered at a non-Veterans Health Administration facility and to provide individuals treated by such an appointee with notice if it is determined that an episode of care or services to which they received was below the standard of care, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ensuring Quality Care for Our Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ensuring Quality Care for Our Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Ensuring Quality Care for Our Veterans Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T04:52:16Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s123.xml"
+}

@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1117-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001304", 
+      "district": "4", 
+      "name": "Brown, Anthony G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-14", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000585", 
+      "district": "34", 
+      "name": "Gomez, Jimmy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-11", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000593", 
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-11", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000460", 
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-11", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-08", 
+  "number": "1117", 
+  "official_title": "To clarify that individuals excepted from furlough and paid unemployment compensation on the basis of Federal service during any lapse in appropriations occurring in fiscal year 2019 are deemed eligible for such compensation.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Shutdown Fairness Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "H001087", 
+    "district": "25", 
+    "name": "Hill, Katie", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-08", 
+  "subjects": [
+    "Appropriations", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Unemployment"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To clarify that individuals excepted from furlough and paid unemployment compensation on the basis of Federal service during any lapse in appropriations occurring in fiscal year 2019 are deemed eligible for such compensation.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Shutdown Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Shutdown Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Shutdown Fairness Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-27T13:26:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1117.xml"
+}

@@ -1,0 +1,134 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-04", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr57-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "57", 
+  "official_title": "To require the Secretary of Homeland Security to conduct a study on the feasibility of establishing a Civilian Cyber Defense National Resource in the Department of Homeland Security.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "CAPITALS Act", 
+  "sponsor": {
+    "bioguide_id": "J000032", 
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency communications systems", 
+    "Emergency management", 
+    "Emergency planning and evacuation", 
+    "Executive agency funding and structure", 
+    "Government studies and investigations", 
+    "Natural disasters", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to conduct a study on the feasibility of establishing a Civilian Cyber Defense National Resource in the Department of Homeland Security.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CAPITALS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CAPITALS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security's Cybersecurity Asset Protection of Infrastructure under Terrorist Attack Logistical Structure Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security\u2019s Cybersecurity Asset Protection of Infrastructure under Terrorist Attack Logistical Structure Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "CAPITALS Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-28T19:00:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr57.xml"
+}

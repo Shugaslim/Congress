@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-13T15:10:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>House Administration Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <lastName>Norman</lastName>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+          <lisID>2361</lisID>
+        </identifiers>
+        <district>5</district>
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <firstName>Ralph</firstName>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <middleName />
+        <bioguideId>N000190</bioguideId>
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Weber</lastName>
+        <identifiers>
+          <lisID>2161</lisID>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <firstName>Randy</firstName>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <middleName>K.</middleName>
+        <bioguideId>W000814</bioguideId>
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Duncan</lastName>
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <firstName>Jeff</firstName>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <middleName />
+        <bioguideId>D000615</bioguideId>
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Wright</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2446</lisID>
+          <bioguideId>W000827</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <firstName>Ron</firstName>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <middleName />
+        <bioguideId>W000827</bioguideId>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the National Voter Registration Act of 1993 to prohibit a State from registering an individual to vote in elections for Federal office held in the State unless the individual provides documentary proof that the individual is a citizen of the United States.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Ensuring American Voters Act of 2019</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Ensuring American Voters Act of 2019</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Ensuring American Voters Act of 2019</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GIBBS:H.R. 1217.Congress has the power to enact this legislation pursuantto the following:Article I, Section 4, Clause 1: The Times, Places, andManner of holding Elections for Senators and Representatives,shall be prescribed by each state by the legislaturethereof;but the Congress may at any time by Law make or suchRegulations, except as to the Places of Chusing Senators[Page H1585]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <amendments />
+    <updateDate>2019-05-21T07:15:26Z</updateDate>
+    <textVersions>
+      <item>
+        <date>2019-02-13T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1217ih/xml/BILLS-116hr1217ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>Ensuring American Voters Act of 2019</title>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Citizenship and naturalization</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>Gibbs</lastName>
+        <district>7</district>
+        <bioguideId>G000563</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000563</bioguideId>
+          <gpoId>8108</gpoId>
+          <lisID>2049</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>Bob</firstName>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <party>R</party>
+        <state>OH</state>
+      </item>
+    </sponsors>
+    <createDate>2019-02-14T08:10:18Z</createDate>
+    <latestAction>
+      <actionDate>2019-02-13</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+    <billNumber>1217</billNumber>
+    <laws />
+    <introducedDate>2019-02-13</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

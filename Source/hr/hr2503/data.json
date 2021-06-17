@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2503-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-02", 
+  "number": "2503", 
+  "official_title": "To amend the Child Abuse Prevention and Treatment Act to increase support for mental health.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1160-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Supporting Family Mental Health in CAPTA Act", 
+  "sponsor": {
+    "bioguide_id": "P000616", 
+    "district": "3", 
+    "name": "Phillips, Dean", 
+    "state": "MN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-02", 
+  "subjects": [
+    "Child health", 
+    "Child safety and welfare", 
+    "Domestic violence and child abuse", 
+    "Employment and training programs", 
+    "Family services", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health", 
+    "Indian social and development programs", 
+    "Intergovernmental relations", 
+    "Mental health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Child Abuse Prevention and Treatment Act to increase support for mental health.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting Family Mental Health in CAPTA Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting Family Mental Health in CAPTA Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Supporting Family Mental Health in CAPTA Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-15T17:30:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2503.xml"
+}

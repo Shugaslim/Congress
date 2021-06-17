@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2776</billNumber>
+    <recordedVotes />
+    <introducedDate>2019-05-15</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw02</systemCode>
+              <name>Water Resources and Environment Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-05-16T15:31:54Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-05-15T14:00:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <systemCode>hspw02</systemCode>
+          <name>Water Resources and Environment Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-05-15</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-05-15</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-05-15</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2019-05-16T07:12:20Z</createDate>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <actionDate>2019-05-16</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <titles>
+      <item>
+        <title>Stop Sewage Overflow Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To make certain municipalities eligible for grants under the Federal Water Pollution Control Act, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To make certain municipalities eligible for grants under the Federal Water Pollution Control Act, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. TRAHAN:H.R. 2776.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3, of the Constitution.[Page H3843]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-30T05:15:05Z</updateDate>
+    <relatedBills />
+    <policyArea />
+    <originChamber>House</originChamber>
+    <title>To make certain municipalities eligible for grants under the Federal Water Pollution Control Act, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <district>3</district>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>2404</lisID>
+          <bioguideId>T000482</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Trahan</lastName>
+        <state>MA</state>
+        <bioguideId>T000482</bioguideId>
+        <fullName>Rep. Trahan, Lori [D-MA-3]</fullName>
+        <party>D</party>
+        <firstName>Lori</firstName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000585</bioguideId>
+        <firstName>Darin</firstName>
+        <party>R</party>
+        <district>18</district>
+        <middleName />
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <identifiers>
+          <lisID>2295</lisID>
+          <bioguideId>L000585</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LaHood</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001196</bioguideId>
+        <firstName>Seth</firstName>
+        <party>D</party>
+        <district>6</district>
+        <middleName />
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Moulton</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000616</bioguideId>
+        <firstName>Harley</firstName>
+        <party>D</party>
+        <district>48</district>
+        <middleName />
+        <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+        <identifiers>
+          <bioguideId>R000616</bioguideId>
+          <lisID>2382</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rouda</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000481</bioguideId>
+        <firstName>Rashida</firstName>
+        <party>D</party>
+        <district>13</district>
+        <middleName />
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <identifiers>
+          <lisID>2410</lisID>
+          <bioguideId>T000481</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Tlaib</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000382</bioguideId>
+        <firstName>Ann</firstName>
+        <party>D</party>
+        <district>2</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kuster</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000483</bioguideId>
+        <firstName>David</firstName>
+        <party>D</party>
+        <district>6</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2406</lisID>
+          <bioguideId>T000483</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Trone</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001286</bioguideId>
+        <firstName>Cheri</firstName>
+        <party>D</party>
+        <district>17</district>
+        <middleName />
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+          <gpoId />
+          <lisID>2127</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bustos</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000297</bioguideId>
+        <firstName>Adriano</firstName>
+        <party>D</party>
+        <district>13</district>
+        <middleName />
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <identifiers>
+          <lisID>2342</lisID>
+          <bioguideId>E000297</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Espaillat</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000614</bioguideId>
+        <firstName>Chris</firstName>
+        <party>D</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <identifiers>
+          <lisID>2418</lisID>
+          <bioguideId>P000614</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pappas</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000577</bioguideId>
+        <firstName>TIM</firstName>
+        <party>D</party>
+        <district>13</district>
+        <middleName />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>RYAN</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001292</bioguideId>
+        <firstName>Donald</firstName>
+        <party>D</party>
+        <district>8</district>
+        <middleName>S.</middleName>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+          <lisID>2272</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Beyer</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000248</bioguideId>
+        <firstName>JOSE</firstName>
+        <party>D</party>
+        <district>15</district>
+        <middleName>E.</middleName>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <identifiers>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SERRANO</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000565</bioguideId>
+        <firstName>David</firstName>
+        <party>D</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <identifiers>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Loebsack</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <state>VT</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000800</bioguideId>
+        <firstName>Peter</firstName>
+        <party>D</party>
+        <district>0</district>
+        <middleName />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Welch</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001160</bioguideId>
+        <firstName>Gwen</firstName>
+        <party>D</party>
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Moore</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000606</bioguideId>
+        <firstName>Jamie</firstName>
+        <party>D</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Raskin</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001145</bioguideId>
+        <firstName>JANICE</firstName>
+        <party>D</party>
+        <district>9</district>
+        <middleName>D.</middleName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SCHAKOWSKY</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001208</bioguideId>
+        <firstName>Elissa</firstName>
+        <party>D</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <identifiers>
+          <bioguideId>S001208</bioguideId>
+          <lisID>2407</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Slotkin</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000344</bioguideId>
+        <firstName>BRAD</firstName>
+        <party>D</party>
+        <district>30</district>
+        <middleName />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SHERMAN</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001067</bioguideId>
+        <firstName>Yvette</firstName>
+        <party>D</party>
+        <district>9</district>
+        <middleName>D.</middleName>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Clarke</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-24</sponsorshipDate>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001072</bioguideId>
+        <firstName>Andre</firstName>
+        <party>D</party>
+        <district>7</district>
+        <middleName />
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Carson</lastName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billType>HR</billType>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2776ih/xml/BILLS-116hr2776ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-15T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

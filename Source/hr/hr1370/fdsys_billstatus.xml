@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Surgery and anesthesia</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2019-02-26T15:03:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2019-02-26T15:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-02-27T08:10:15Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>Chu</lastName>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <bioguideId>C001080</bioguideId>
+        <firstName>Judy</firstName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <party>D</party>
+        <district>27</district>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <state>IN</state>
+        <firstName>Jackie</firstName>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <bioguideId>W000813</bioguideId>
+        <middleName />
+        <lastName>Walorski</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Matt</firstName>
+        <district>1</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <bioguideId>G000578</bioguideId>
+        <middleName />
+        <lastName>Gaetz</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <state>MI</state>
+        <firstName>FRED</firstName>
+        <district>6</district>
+        <identifiers>
+          <gpoId>7991</gpoId>
+          <bioguideId>U000031</bioguideId>
+          <lisID>1177</lisID>
+        </identifiers>
+        <bioguideId>U000031</bioguideId>
+        <middleName />
+        <lastName>UPTON</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>GA</state>
+        <firstName>JOHN</firstName>
+        <district>5</district>
+        <identifiers>
+          <lisID>688</lisID>
+          <bioguideId>L000287</bioguideId>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <bioguideId>L000287</bioguideId>
+        <middleName />
+        <lastName>LEWIS</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Finkenauer, Abby [D-IA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>IA</state>
+        <firstName>Abby</firstName>
+        <district>1</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2394</lisID>
+          <bioguideId>F000467</bioguideId>
+        </identifiers>
+        <bioguideId>F000467</bioguideId>
+        <middleName />
+        <lastName>Finkenauer</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Debbie</firstName>
+        <district>23</district>
+        <identifiers>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <bioguideId>W000797</bioguideId>
+        <middleName />
+        <lastName>Wasserman Schultz</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>WI</state>
+        <firstName>RON</firstName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <bioguideId>K000188</bioguideId>
+        <middleName />
+        <lastName>KIND</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Nanette</firstName>
+        <district>44</district>
+        <identifiers>
+          <lisID>2311</lisID>
+          <gpoId />
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <bioguideId>B001300</bioguideId>
+        <middleName>Diaz</middleName>
+        <lastName>Barragan</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>IL</state>
+        <firstName>BOBBY</firstName>
+        <district>1</district>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <bioguideId>R000515</bioguideId>
+        <middleName>L.</middleName>
+        <lastName>RUSH</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Charlie</firstName>
+        <district>13</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2321</lisID>
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <bioguideId>C001111</bioguideId>
+        <middleName />
+        <lastName>Crist</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <state>HI</state>
+        <firstName>Tulsi</firstName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>G000571</bioguideId>
+        <middleName />
+        <lastName>Gabbard</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>NY</state>
+        <firstName>Yvette</firstName>
+        <district>9</district>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <bioguideId>C001067</bioguideId>
+        <middleName>D.</middleName>
+        <lastName>Clarke</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Tony</firstName>
+        <district>29</district>
+        <identifiers>
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001097</bioguideId>
+        <middleName />
+        <lastName>Cardenas</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>NY</state>
+        <firstName>Thomas</firstName>
+        <district>3</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001201</bioguideId>
+          <lisID>2341</lisID>
+        </identifiers>
+        <bioguideId>S001201</bioguideId>
+        <middleName>R.</middleName>
+        <lastName>Suozzi</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Jimmy</firstName>
+        <district>20</district>
+        <identifiers>
+          <lisID>2309</lisID>
+          <bioguideId>P000613</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>P000613</bioguideId>
+        <middleName />
+        <lastName>Panetta</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <state>NH</state>
+        <firstName>Ann</firstName>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <lastName>Kuster</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>TX</state>
+        <firstName>LLOYD</firstName>
+        <district>35</district>
+        <identifiers>
+          <gpoId>8181</gpoId>
+          <lisID>303</lisID>
+          <bioguideId>D000399</bioguideId>
+        </identifiers>
+        <bioguideId>D000399</bioguideId>
+        <middleName />
+        <lastName>DOGGETT</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>FL</state>
+        <firstName>ALCEE</firstName>
+        <district>20</district>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+        </identifiers>
+        <bioguideId>H000324</bioguideId>
+        <middleName>L.</middleName>
+        <lastName>HASTINGS</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <state>IA</state>
+        <firstName>David</firstName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <bioguideId>L000565</bioguideId>
+        <middleName />
+        <lastName>Loebsack</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Mucarsel-Powell, Debbie [D-FL-26]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Debbie</firstName>
+        <district>26</district>
+        <identifiers>
+          <lisID>2390</lisID>
+          <gpoId />
+          <bioguideId>M001207</bioguideId>
+        </identifiers>
+        <bioguideId>M001207</bioguideId>
+        <middleName />
+        <lastName>Mucarsel-Powell</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>1370</billNumber>
+    <laws />
+    <congress>116</congress>
+    <title>Breast Cancer Patient Equity Act</title>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-02-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-02-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-26</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-26</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JUDY CHU of California:H.R. 1370.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article 1 of the United StatesConstitution.[Page H2235]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-02-26</introducedDate>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>116</congress>
+        <number>562</number>
+        <latestTitle>Breast Cancer Patient Equity Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-02-26</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-04-01T19:05:12Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Breast Cancer Patient Equity Act</b></p> <p>This bill provides for Medicare coverage of custom fabricated breast prostheses following the surgical removal of the breast (i.e., a mastectomy), including replacements of such prostheses. Currently, Medicare covers surgically implanted breast prostheses, as well as some external breast prostheses (e.g., post-surgical bras).</p>]]></text>
+          <updateDate>2019-02-26T05:00:00Z</updateDate>
+          <actionDate>2019-02-26</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2019-05-23T07:15:49Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend title XVIII of the Social Security Act to provide coverage for custom fabricated breast prostheses following a mastectomy.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Breast Cancer Patient Equity Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Breast Cancer Patient Equity Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Breast Cancer Patient Equity Act</title>
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2019-02-26</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1370ih/xml/BILLS-116hr1370ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-26T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3034-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-28", 
+  "number": "3034", 
+  "official_title": "To amend title 10, United States Code, to authorize the Secretary of a military department to retain a reserve officer in a medical specialty beyond the date that such individual turns 68 years old, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "H001056", 
+    "district": "3", 
+    "name": "Herrera Beutler, Jaime", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-28", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to authorize the Secretary of a military department to retain a reserve officer in a medical specialty beyond the date that such individual turns 68 years old, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to authorize the Secretary of a military department to retain a reserve officer in a medical specialty beyond the date that such individual turns 68 years old, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T07:15:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3034.xml"
+}

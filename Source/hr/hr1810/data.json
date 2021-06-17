@@ -1,0 +1,225 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, Education and Labor, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, Education and Labor, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, Education and Labor, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, Education and Labor, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, Education and Labor, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-19", 
+      "action_code": "", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-11", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1810-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000581", 
+      "district": "15", 
+      "name": "Gonzalez, Vicente", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-18", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-18", 
+  "number": "1810", 
+  "official_title": "To provide the legal framework and income tax treatment necessary for the growth of innovative private financing options, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Kids to College Act", 
+  "sponsor": {
+    "bioguide_id": "G000590", 
+    "district": "7", 
+    "name": "Green, Mark E.", 
+    "state": "TN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Consumer Financial Protection Bureau", 
+    "Consumer credit", 
+    "Department of Defense", 
+    "Department of the Treasury", 
+    "Education", 
+    "Federal preemption", 
+    "Finance and Financial Sector", 
+    "Higher education", 
+    "Income tax exclusion", 
+    "Military personnel and dependents", 
+    "State and local government operations", 
+    "Student aid and college costs", 
+    "Tax administration and collection, taxpayers", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide the legal framework and income tax treatment necessary for the growth of innovative private financing options, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Kids to College Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Kids to College Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Kids to College Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T07:12:36Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1810.xml"
+}

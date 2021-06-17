@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2681-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "J000032", 
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001196", 
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-10", 
+  "number": "2681", 
+  "official_title": "To direct the Secretary of Veterans Affairs to submit to Congress a report on the availability of prosthetic items for women veterans from the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "P000614", 
+    "district": "1", 
+    "name": "Pappas, Chris", 
+    "state": "NH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-10", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Health care coverage and access", 
+    "Health technology, devices, supplies", 
+    "Veterans' medical care", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to submit to Congress a report on the availability of prosthetic items for women veterans from the Department of Veterans Affairs.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to submit to Congress a report on the availability of prosthetic items for women veterans from the Department of Veterans Affairs.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T15:45:10Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2681.xml"
+}

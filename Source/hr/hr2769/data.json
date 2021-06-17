@@ -1,0 +1,98 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E599", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2769-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-15", 
+  "number": "2769", 
+  "official_title": "To amend the District of Columbia Home Rule Act to permit the Council of the District of Columbia to enact laws with respect to the organization and jurisdiction of the District of Columbia courts.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "District of Columbia Courts Home Rule Act", 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-15", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "District of Columbia Courts Home Rule Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the District of Columbia Home Rule Act to permit the Council of the District of Columbia to enact laws with respect to the organization and jurisdiction of the District of Columbia courts.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the District of Columbia Home Rule Act to permit the Council of the District of Columbia to enact laws with respect to the organization and jurisdiction of the District of Columbia courts.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-30T05:15:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2769.xml"
+}

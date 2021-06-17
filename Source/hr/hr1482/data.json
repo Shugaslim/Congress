@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-04", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-29", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1482-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001190", 
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-04", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-04", 
+  "number": "1482", 
+  "official_title": "To extend the authority of the Secretary of Veterans Affairs regarding presumptions of service connection for diseases associated with exposure to herbicide agents, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Expedite Agent Orange Coverage Act", 
+  "sponsor": {
+    "bioguide_id": "C001111", 
+    "district": "13", 
+    "name": "Crist, Charlie", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-04", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Asia", 
+    "Conflicts and wars", 
+    "Hazardous wastes and toxic substances", 
+    "Military personnel and dependents", 
+    "Veterans' medical care", 
+    "Vietnam"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the authority of the Secretary of Veterans Affairs regarding presumptions of service connection for diseases associated with exposure to herbicide agents, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expedite Agent Orange Coverage Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expedite Agent Orange Coverage Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expedite Agent Orange Coverage Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-12T19:45:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1482.xml"
+}

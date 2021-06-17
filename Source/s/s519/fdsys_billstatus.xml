@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-15T12:40:21Z</createDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2019-02-14</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-14</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billNumber>519</billNumber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <middleName />
+        <state>CT</state>
+        <byRequestType />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-03-23T05:12:11Z</updateDate>
+    <calendarNumbers />
+    <title>Plum Island Conservation Act</title>
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend certain appropriations Acts to repeal the requirement directing the Administrator of General Services to sell Federal property and assets that support the operations of the Plum Island Animal Disease Center in Plum Island, New York.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Plum Island Conservation Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Plum Island Conservation Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Plum Island Conservation Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-02-14</introducedDate>
+    <notes />
+    <cboCostEstimates />
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-14T22:19:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural research</name>
+          </item>
+          <item>
+            <name>Animal and plant health</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001169</bioguideId>
+        <state>CT</state>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <firstName>CHARLES</firstName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <lastName>SCHUMER</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000148</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <firstName>Kirsten</firstName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <laws />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-03-20T18:12:18Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Plum Island Conservation Act</b> </p> <p>This bill repeals provisions requiring the sale of federal property and assets supporting the Department of Homeland Security's Plum Island Animal Disease Center in New York. </p>]]></text>
+          <updateDate>2019-02-14T05:00:00Z</updateDate>
+          <actionDate>2019-02-14</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <textVersions>
+      <item>
+        <date>2019-02-14T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s519is/xml/BILLS-116s519is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

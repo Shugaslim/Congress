@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1466-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001096", 
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-14", 
+      "state": "ND", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-14", 
+  "number": "1466", 
+  "official_title": "A bill to establish a grant program within the Department of Labor to support the creation, implementation, and expansion of registered apprenticeship programs in cybersecurity.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "R000608", 
+    "district": null, 
+    "name": "Rosen, Jacky", 
+    "state": "NV", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-14", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a grant program within the Department of Labor to support the creation, implementation, and expansion of registered apprenticeship programs in cybersecurity.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to establish a grant program within the Department of Labor to support the creation, implementation, and expansion of registered apprenticeship programs in cybersecurity.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-15T04:46:44Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1466.xml"
+}

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-05-15</actionDate>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to repeal the Office of Financial Research, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A bill to repeal the Office of Financial Research, and for other purposes.</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <committeeReports />
+    <updateDate>2019-05-16T05:02:43Z</updateDate>
+    <createDate>2019-05-16T04:57:12Z</createDate>
+    <notes />
+    <amendments />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001095</bioguideId>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+        </identifiers>
+        <lastName>Cotton</lastName>
+        <firstName>Tom</firstName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000476</bioguideId>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Roland</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <lastName>Tillis</lastName>
+        <firstName>Thomas</firstName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billNumber>1478</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-15T17:38:32Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssbk00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <policyArea />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2019-05-15</actionDate>
+    </latestAction>
+    <title>A bill to repeal the Office of Financial Research, and for other purposes.</title>
+    <introducedDate>2019-05-15</introducedDate>
+    <textVersions />
+    <sponsors>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <state>TX</state>
+        <middleName />
+        <byRequestType />
+        <party>R</party>
+        <lastName>Cruz</lastName>
+        <firstName>Ted</firstName>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <identifiers>
+          <lisID>2175</lisID>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

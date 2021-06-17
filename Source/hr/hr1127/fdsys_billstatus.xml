@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2019-02-08</introducedDate>
+    <amendments />
+    <billNumber>1127</billNumber>
+    <createDate>2019-02-09T08:10:16Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-08T14:05:10Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-08T14:05:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <actions>
+      <item>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2019-02-08</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2019-02-08</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2019-02-08</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2019-02-08</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>CAROLYN</firstName>
+        <bioguideId>M000087</bioguideId>
+        <byRequestType />
+        <lastName>MALONEY</lastName>
+        <middleName>B.</middleName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+        <district>12</district>
+      </item>
+    </sponsors>
+    <title>To posthumously award a Congressional gold medal to Mahatma Gandhi in recognition of his contributions to the Nation by the promotion of nonviolence.</title>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2019-02-08</actionDate>
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Holding, George [R-NC-2]</fullName>
+        <firstName>George</firstName>
+        <bioguideId>H001065</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Holding</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001065</bioguideId>
+          <lisID>2143</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <firstName>Tulsi</firstName>
+        <bioguideId>G000571</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Gabbard</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <firstName>Ami</firstName>
+        <bioguideId>B001287</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Bera</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2102</lisID>
+          <bioguideId>B001287</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <firstName>Raja</firstName>
+        <bioguideId>K000391</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Krishnamoorthi</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2325</lisID>
+          <bioguideId>K000391</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <firstName>Pramila</firstName>
+        <bioguideId>J000298</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Jayapal</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+      </item>
+      <item>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <firstName>Ro</firstName>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Khanna</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <updateDate>2019-02-25T17:45:16Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>India</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Political movements and philosophies</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Smithsonian Institution</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. CAROLYN B. MALONEY of New York:H.R. 1127.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the US Constitution[Page H1493]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <laws />
+    <recordedVotes />
+    <relatedBills />
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To posthumously award a Congressional gold medal to Mahatma Gandhi in recognition of his contributions to the Nation by the promotion of nonviolence.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To posthumously award a Congressional gold medal to Mahatma Gandhi in recognition of his contributions to the Nation by the promotion of nonviolence.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <date>2019-02-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1127ih/xml/BILLS-116hr1127ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

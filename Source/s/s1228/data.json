@@ -1,0 +1,136 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-29", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-29", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1228-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000595", 
+      "district": null, 
+      "name": "Peters, Gary C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-29", 
+      "state": "MI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-29", 
+  "number": "1228", 
+  "official_title": "A bill to amend the Communications Act of 1934 to provide for enhanced penalties for pirate radio, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr583-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "PIRATE Act", 
+  "sponsor": {
+    "bioguide_id": "D000618", 
+    "district": null, 
+    "name": "Daines, Steve", 
+    "state": "MT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-15", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Communications Act of 1934 to provide for enhanced penalties for pirate radio, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PIRATE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PIRATE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preventing Illegal Radio Abuse Through Enforcement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preventing Illegal Radio Abuse Through Enforcement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "PIRATE Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-16T05:24:14Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1228.xml"
+}

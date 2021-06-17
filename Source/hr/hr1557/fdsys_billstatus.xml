@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2019-03-06</introducedDate>
+    <billNumber>1557</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-08</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-03-06</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-03-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-03-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BUSTOS:H.R. 1557.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 18 of the UnitedStates Constitution.[Page H2505]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1557ih/xml/BILLS-116hr1557ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-06T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <title>No Bonuses in Bankruptcy Act of 2019</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Bustos</lastName>
+        <firstName>Cheri</firstName>
+        <bioguideId>B001286</bioguideId>
+        <district>17</district>
+        <middleName />
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <state>IL</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001286</bioguideId>
+          <lisID>2127</lisID>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title 11 of the United States Code to prohibit the payment of bonuses to highly compensated individuals employed by the debtor and insiders of the debtor to perform services during the bankruptcy case, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>No Bonuses in Bankruptcy Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>No Bonuses in Bankruptcy Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>No Bonuses in Bankruptcy Act of 2019</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <district>2</district>
+        <bioguideId>B001309</bioguideId>
+        <firstName>Tim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <fullName>Rep. Burchett, Tim [R-TN-2]</fullName>
+        <state>TN</state>
+        <party>R</party>
+        <lastName>Burchett</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2440</lisID>
+          <gpoId />
+          <bioguideId>B001309</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>8</district>
+        <bioguideId>S001208</bioguideId>
+        <firstName>Elissa</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <state>MI</state>
+        <party>D</party>
+        <lastName>Slotkin</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001208</bioguideId>
+          <lisID>2407</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <bioguideId>A000378</bioguideId>
+        <firstName>Cynthia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <state>IA</state>
+        <party>D</party>
+        <lastName>Axne</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2395</lisID>
+          <bioguideId>A000378</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>F000467</bioguideId>
+        <firstName>Abby</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <fullName>Rep. Finkenauer, Abby [D-IA-1]</fullName>
+        <state>IA</state>
+        <party>D</party>
+        <lastName>Finkenauer</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2394</lisID>
+          <bioguideId>F000467</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-08T20:47:21Z</date>
+                </item>
+              </activities>
+              <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-06T15:03:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-04-08</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-03-07T08:12:22Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-01T19:45:08Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

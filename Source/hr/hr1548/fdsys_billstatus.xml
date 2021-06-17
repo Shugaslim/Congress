@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-25T14:01:14Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-03-05T17:05:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <lastName>PELOSI</lastName>
+        <bioguideId>P000197</bioguideId>
+        <byRequestType />
+        <fullName>Rep. Pelosi, Nancy [D-CA-12]</fullName>
+        <middleName />
+        <district>12</district>
+        <firstName>NANCY</firstName>
+        <identifiers>
+          <gpoId>7813</gpoId>
+          <lisID>905</lisID>
+          <bioguideId>P000197</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2019-03-25</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. Pelosi:H.R. 1548.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, clause 4 of the Constitution providesthat Congress shall have power to ``establish an uniform Ruleof Naturalization''. The Supreme Court has long found thatthis provision of the Constitution grants Congress plenarypower over immigration policy. As the Court found in Galvanv. Press, 347 U.S. 522, 531 (1954), ``that the formulation ofpolicies [pertaining to the entry of aliens and their rightto remain here] is entrusted exclusively to Congress hasbecome about as firmly imbedded in the legislative andjudicial tissues of our body politic as any aspect of ourgovernment.'' And, as the Court found in Kleindienst v.Mandel, 408 U.S. 753, 766 (1972) (quoting Boutilier v. INS,387 U.S. 118, 123 (1967)), ``[t]he Court without exceptionhas sustained Congress' `plenary power to make rules for theadmission of aliens and to exclude those who possess thosecharacteristics which Congress has forbidden.'____________________[Page H2370]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Private Legislation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2019-03-05T05:00:00Z</updateDate>
+          <actionDate>2019-03-05</actionDate>
+          <lastSummaryUpdateDate>2019-03-06T09:02:11Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[Provides for the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <cosponsors />
+    <cboCostEstimates />
+    <policyArea />
+    <relatedBills />
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-05</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-05</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-05</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <notes />
+    <createDate>2019-03-06T08:12:10Z</createDate>
+    <laws />
+    <billNumber>1548</billNumber>
+    <title>For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.</title>
+    <amendments />
+    <updateDate>2019-03-27T07:13:43Z</updateDate>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1548ih/xml/BILLS-116hr1548ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <introducedDate>2019-03-05</introducedDate>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

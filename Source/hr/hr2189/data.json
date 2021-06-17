@@ -1,0 +1,178 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-23", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2189-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001111", 
+      "district": "13", 
+      "name": "Crist, Charlie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000582", 
+      "district": null, 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000033", 
+      "district": null, 
+      "name": "Young, Don", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-09", 
+      "state": "AK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-09", 
+  "number": "2189", 
+  "official_title": "To require the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, to establish a constituent-driven program to provide a digital information platform capable of efficiently integrating coastal data with decision-support tools, training, and best practices and to support collection of priority coastal geospatial data to inform and improve local, State, regional, and Federal capacities to manage the coastal region, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1069-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Digital Coast Act", 
+  "sponsor": {
+    "bioguide_id": "R000576", 
+    "district": "2", 
+    "name": "Ruppersberger, C. A. Dutch", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-09", 
+  "subjects": [
+    "Broadcasting, cable, digital technologies", 
+    "Department of Commerce", 
+    "Earth sciences", 
+    "Executive agency funding and structure", 
+    "Geography and mapping", 
+    "Government information and archives", 
+    "Intergovernmental relations", 
+    "Internet and video services", 
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources", 
+    "State and local government operations", 
+    "U.S. territories and protectorates"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-04-09T04:00:00Z", 
+    "text": "Digital Coast Act\n\nThis bill provides statutory authority for and revises the National Oceanic and Atmospheric Administration's (NOAA's) Digital Coast program. (The program currently exists under NOAA to provide data, tools, and training that communities use to manage their coastal resources.)\n\nNOAA must focus on filling data needs and gaps for critical coastal management issues and support continued improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management.\n\nNOAA may enter into financial agreements and collect fees to carry out the program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Digital Coast Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Digital Coast Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, to establish a constituent-driven program to provide a digital information platform capable of efficiently integrating coastal data with decision-support tools, training, and best practices and to support collection of priority coastal geospatial data to inform and improve local, State, regional, and Federal capacities to manage the coastal region, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Digital Coast Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-11T07:15:39Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2189.xml"
+}

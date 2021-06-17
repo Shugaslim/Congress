@@ -1,0 +1,83 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-20", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-20", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2855-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-20", 
+  "number": "2855", 
+  "official_title": "To deem the application submitted by Jaci Hermstad to the Food and Drug Administration for compassionate use of the gene therapy antisense oligonucleotides to be approved.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "K000362", 
+    "district": "4", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-20", 
+  "subjects": [
+    "Health", 
+    "Private legislation"
+  ], 
+  "subjects_top_term": "Private legislation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To deem the application submitted by Jaci Hermstad to the Food and Drug Administration for compassionate use of the gene therapy antisense oligonucleotides to be approved.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To deem the application submitted by Jaci Hermstad to the Food and Drug Administration for compassionate use of the gene therapy antisense oligonucleotides to be approved.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T14:15:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2855.xml"
+}

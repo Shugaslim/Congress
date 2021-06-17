@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-03-05T17:04:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Count the Vote Act</title>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date>2019-03-05T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1513ih/xml/BILLS-116hr1513ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-03-05</introducedDate>
+    <billNumber>1513</billNumber>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Voting rights</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-03-05</actionDate>
+        <links />
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-05</actionDate>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-05</actionDate>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <congress>116</congress>
+    <updateDate>2019-05-13T19:45:07Z</updateDate>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Help America Vote Act of 2002 to enhance enforcement of the Act, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Count the Vote Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Count the Vote Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Count the Vote Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2019-03-06T08:12:09Z</createDate>
+    <relatedBills>
+      <item>
+        <latestTitle>For the People Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-28</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>949</number>
+        <type>S</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Voter Empowerment Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-22</actionDate>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        </latestAction>
+        <number>1275</number>
+        <type>HR</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Voter Empowerment Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-02-25</actionDate>
+          <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        </latestAction>
+        <number>549</number>
+        <type>S</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Sharice</firstName>
+        <lastName>Davids</lastName>
+        <byRequestType />
+        <middleName />
+        <bioguideId>D000629</bioguideId>
+        <state>KS</state>
+        <party>D</party>
+        <fullName>Rep. Davids, Sharice [D-KS-3]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000629</bioguideId>
+          <lisID>2403</lisID>
+        </identifiers>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2019-03-05</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DAVIDS of Kansas:H.R. 1513.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2369]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

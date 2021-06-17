@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <billType>S</billType>
+    <cboCostEstimates />
+    <laws />
+    <amendments />
+    <notes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-14T15:08:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill for the relief of Shirley Constantino Tan.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill for the relief of Shirley Constantino Tan.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+        </identifiers>
+        <bioguideId>F000062</bioguideId>
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <firstName>DIANNE</firstName>
+        <byRequestType />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <createDate>2019-03-15T04:42:07Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Provides for the relief of Shirley Constantino Tan.]]></text>
+          <updateDate>2019-03-14T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-03-15T08:01:42Z</lastSummaryUpdateDate>
+          <actionDate>2019-03-14</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s797is/xml/BILLS-116s797is.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-14T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <updateDate>2019-03-23T00:59:24Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1903-1904</url>
+            <name>S1903-1904</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1904</url>
+            <name>S1904</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1903-1904; text: CR S1904)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Private Legislation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <introducedDate>2019-03-14</introducedDate>
+    <congress>116</congress>
+    <originChamber>Senate</originChamber>
+    <title>A bill for the relief of Shirley Constantino Tan.</title>
+    <billNumber>797</billNumber>
+    <relatedBills />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-03-14</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1903-1904; text: CR S1904)</text>
+      <links />
+    </latestAction>
+    <policyArea />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

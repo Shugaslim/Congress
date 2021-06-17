@@ -1,0 +1,79 @@
+<bill session="116" type="h" number="1271" updated="2019-04-04T22:18:43Z">
+  <state datetime="2019-03-05T17:15:38-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-03-05T17:15:38-05:00"/>
+  </status>
+  <introduced datetime="2019-02-14"/>
+  <titles>
+    <title type="official" as="introduced">To establish in the Department of Veterans Affairs a pilot program instituting a clinical observation program for pre-med students preparing to attend medical school.</title>
+    <title type="short" as="passed house">Vet HP Act</title>
+    <title type="short" as="passed house">Vet HP Act</title>
+    <title type="short" as="passed house">Veterans-Specific Education for Tomorrow's Health Professionals Act</title>
+    <title type="short" as="passed house">Veterans-Specific Education for Tomorrow&#8217;s Health Professionals Act</title>
+    <title type="short" as="introduced">Vet HP Act</title>
+    <title type="short" as="introduced">Vet HP Act</title>
+    <title type="short" as="introduced">Veterans-Specific Education for Tomorrow's Health Professionals Act</title>
+    <title type="short" as="introduced">Veterans-Specific Education for Tomorrow&#8217;s Health Professionals Act</title>
+    <title type="display">Vet HP Act</title>
+  </titles>
+  <sponsor bioguide_id="K000009"/>
+  <cosponsors>
+    <cosponsor bioguide_id="H001090" joined="2019-03-05"/>
+    <cosponsor bioguide_id="K000381" joined="2019-02-14"/>
+    <cosponsor bioguide_id="R000609" joined="2019-02-14"/>
+    <cosponsor bioguide_id="R000577" joined="2019-02-14"/>
+    <cosponsor bioguide_id="T000479" joined="2019-03-05"/>
+    <cosponsor bioguide_id="V000133" joined="2019-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-02-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2019-03-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2019-03-05T16:59:12-05:00">
+      <text>Mr. Tonko moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2019-03-05T16:59:44-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2335-2337" label="consideration"/>
+    </action>
+    <action datetime="2019-03-05T16:59:45-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1271.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2019-03-05T17:15:38-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2335" label="text"/>
+    </vote>
+    <action datetime="2019-03-05T17:15:39-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-03-06">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2019-03-07" calendar="Senate Legislative" under="General Orders" number="31">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 31.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+    <term name="Higher education"/>
+    <term name="Medical education"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

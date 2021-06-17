@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2019-03-29T07:12:12Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2019-05-17T07:15:42Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-03-28</actionDate>
+        <links />
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-03-28</actionDate>
+        <links />
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-28</actionDate>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-28</actionDate>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>David</firstName>
+        <lastName>Scott</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1722</lisID>
+          <bioguideId>S001157</bioguideId>
+          <gpoId>7910</gpoId>
+        </identifiers>
+        <middleName />
+        <state>GA</state>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <bioguideId>S001157</bioguideId>
+        <byRequestType />
+        <district>13</district>
+      </item>
+    </sponsors>
+    <title>Protect Affordable Mortgages for Veterans Act of 2019</title>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Zeldin</lastName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <district>1</district>
+        <bioguideId>Z000017</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2261</lisID>
+          <bioguideId>Z000017</bioguideId>
+        </identifiers>
+        <firstName>Lee</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Levin</lastName>
+        <middleName />
+        <fullName>Rep. Levin, Mike [D-CA-49]</fullName>
+        <district>49</district>
+        <bioguideId>L000593</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>2383</lisID>
+          <bioguideId>L000593</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Barr</lastName>
+        <middleName />
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <district>6</district>
+        <bioguideId>B001282</bioguideId>
+        <state>KY</state>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Andy</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <district>1</district>
+        <bioguideId>F000466</bioguideId>
+        <state>PA</state>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>1988</billNumber>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-28T13:03:35Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Economic Opportunity Subcommittee</name>
+              <systemCode>hsvr10</systemCode>
+              <activities>
+                <item>
+                  <name>Reported by</name>
+                  <date>2019-05-01T18:50:38Z</date>
+                </item>
+                <item>
+                  <name>Markup by</name>
+                  <date>2019-05-01T18:50:33Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-01T18:50:32Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-28T13:03:30Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DAVID SCOTT of Georgia:H.R. 1988.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2918]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-05-01</actionDate>
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Protect Affordable Mortgages for Veterans Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To clarify seasoning requirements for certain refinanced mortgage loans, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Protect Affordable Mortgages for Veterans Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Protect Affordable Mortgages for Veterans Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-03-28</introducedDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1988ih/xml/BILLS-116hr1988ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-28T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

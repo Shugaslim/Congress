@@ -1,0 +1,158 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr100-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-04-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "100", 
+  "official_title": "To direct the Secretary of Veterans Affairs to conduct an independent review of the deaths of certain veterans by suicide, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veteran Overmedication and Suicide Prevention Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "B001260", 
+    "district": "16", 
+    "name": "Buchanan, Vern", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Drug therapy", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Family relationships", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Higher education", 
+    "Hospital care", 
+    "Marriage and family status", 
+    "Medicaid", 
+    "Medical education", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Mental health", 
+    "Neurological disorders", 
+    "Prescription drugs", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to conduct an independent review of the deaths of certain veterans by suicide, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veteran Overmedication and Suicide Prevention Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veteran Overmedication and Suicide Prevention Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Veteran Overmedication and Suicide Prevention Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-11T07:15:16Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr100.xml"
+}

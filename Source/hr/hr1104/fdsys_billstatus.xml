@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <billNumber>1104</billNumber>
+    <sponsors>
+      <item>
+        <bioguideId>Y000033</bioguideId>
+        <firstName>DON</firstName>
+        <byRequestType />
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <state>AK</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+          <lisID>1256</lisID>
+        </identifiers>
+        <lastName>YOUNG</lastName>
+        <middleName>E.</middleName>
+        <district>0</district>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <firstName>PETER</firstName>
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>D000191</bioguideId>
+      </item>
+      <item>
+        <firstName>Suzanne</firstName>
+        <lastName>Bonamici</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001278</bioguideId>
+      </item>
+      <item>
+        <firstName>MIKE</firstName>
+        <lastName>THOMPSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <middleName />
+        <bioguideId>T000460</bioguideId>
+      </item>
+      <item>
+        <firstName>Lee</firstName>
+        <lastName>Zeldin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+          <lisID>2261</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <middleName>M.</middleName>
+        <bioguideId>Z000017</bioguideId>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TN</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001068</bioguideId>
+      </item>
+      <item>
+        <firstName>Alan</firstName>
+        <lastName>Lowenthal</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+          <lisID>2111</lisID>
+          <gpoId />
+        </identifiers>
+        <district>47</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName>S.</middleName>
+        <bioguideId>L000579</bioguideId>
+      </item>
+      <item>
+        <firstName>ZOE</firstName>
+        <lastName>LOFGREN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+        </identifiers>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000397</bioguideId>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2019-02-08T08:10:23Z</createDate>
+    <updateDate>2019-03-15T07:16:10Z</updateDate>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <amendments />
+    <relatedBills />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1104ih/xml/BILLS-116hr1104ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2019-02-07</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2019-02-07</introducedDate>
+    <congress>116</congress>
+    <title>To amend the Federal Food, Drug, and Cosmetic Act to require labeling of genetically engineered fish.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-02-07T15:09:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>Food supply, safety, and labeling</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Seafood</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. YOUNG:H.R. 1104.Congress has the power to enact this legislation pursuantto the following:``To regulate commerce with foreign nations, and among theseveral states, and with the Indian tribes;''[Page H1464]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Federal Food, Drug, and Cosmetic Act to require labeling of genetically engineered fish.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Federal Food, Drug, and Cosmetic Act to require labeling of genetically engineered fish.</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

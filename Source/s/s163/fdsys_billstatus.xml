@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>AK</state>
+        <bioguideId>S001198</bioguideId>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <lastName>Sullivan</lastName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-21</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionCode>H14000</actionCode>
+        <text>Received in the House.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:38:54</actionTime>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-05-21</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-05-21</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-05-20</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2982</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2982</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S2982; text: CR S2982)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>S2982</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2982</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2982; text: CR S2982)</text>
+        <actionCode>17000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-05-20</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>Report No. 116-2</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/2</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-2.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>Report No. 116-2</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/2</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-2.</text>
+        <actionCode>14900</actionCode>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2019-02-25</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.</text>
+        <actionCode>14000</actionCode>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2019-02-05</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-16</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-01-16</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <billReferrals>1</billReferrals>
+        <committeeFiledReportToAccompany>1</committeeFiledReportToAccompany>
+        <passedSenate>1</passedSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <senateCommitteeReportFiledAfterReporting>1</senateCommitteeReportFiledAfterReporting>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <sentToHouse>1</sentToHouse>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>11</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/54974</url>
+        <title>S. 163, Alaska Remote Generator Reliability and Protection Act</title>
+        <pubDate>2019-02-12T18:27:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-01-17T05:40:12Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-21T18:22:16Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-02-05T22:00:32Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-02-05T15:00:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-16T22:23:22Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <title>Alaska Remote Generator Reliability and Protection Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Alaska Remote Generator Reliability and Protection Act</title>
+      </item>
+      <item>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <title>Alaska Remote Generator Reliability and Protection Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to prevent catastrophic failure or shutdown of remote diesel power engines due to emission control devices, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Alaska Remote Generator Reliability and Protection Act</title>
+      </item>
+      <item>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <title>Alaska Remote Generator Reliability and Protection Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Alaska Remote Generator Reliability and Protection Act</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Alaska Remote Generator Reliability and Protection Act</title>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+      <actionDate>2019-05-21</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <middleName />
+        <state>AK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Lisa</firstName>
+        <bioguideId>M001153</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0019</number>
+      </item>
+    </calendarNumbers>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-02-11T16:54:13Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Alaska Remote Generator Reliability and Protection Act</b></p> <p>This bill directs the Environmental Protection Agency (EPA) to revise certain regulations regarding particulate matter emissions standards for nonemergency stationary diesel engines in remote areas of Alaska. The EPA must report on methods for assisting remote areas of Alaska in meeting specified energy needs. </p>]]></text>
+          <updateDate>2019-01-16T05:00:00Z</updateDate>
+          <actionDate>2019-01-16</actionDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2019-02-19T18:30:33Z</lastSummaryUpdateDate>
+          <name>Reported to Senate</name>
+          <versionCode>25</versionCode>
+          <actionDesc>Reported to Senate</actionDesc>
+          <text><![CDATA[<p><b>Alaska Remote Generator Reliability and Protection Act</b></p> <p>This bill directs the Environmental Protection Agency (EPA) to revise certain regulations regarding particulate matter emissions standards for nonemergency stationary diesel engines in remote areas of Alaska. The EPA must report on methods for assisting remote areas of Alaska in meeting specified energy needs.</p>]]></text>
+          <updateDate>2019-02-05T13:42:06Z</updateDate>
+          <actionDate>2019-02-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2019-01-16</introducedDate>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-2</citation>
+      </committeeReport>
+    </committeeReports>
+    <textVersions>
+      <item>
+        <type>Referred in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s163rfh/xml/BILLS-116s163rfh.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-21T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s163es/xml/BILLS-116s163es.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-20T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s163rs/xml/BILLS-116s163rs.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-05T05:00:00Z</date>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s163is/xml/BILLS-116s163is.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-16T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Alaska Remote Generator Reliability and Protection Act</latestTitle>
+        <number>422</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-01-31</actionDate>
+          <text>Referred to the Subcommittee on Energy.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2019-05-23T04:46:13Z</updateDate>
+    <billNumber>163</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2019-04-04</introducedDate>
+    <updateDate>2019-05-15T04:55:30Z</updateDate>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2019-05-14T14:00:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-04T20:26:53Z</date>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <amendments />
+    <latestAction>
+      <links />
+      <actionDate>2019-05-14</actionDate>
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <notes />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <bioguideId>C001047</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>WV</state>
+        <lastName>CAPITO</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>AK</state>
+        <lastName>Murkowski</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <firstName>Lisa</firstName>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Metals</name>
+          </item>
+          <item>
+            <name>Strategic materials and reserves</name>
+          </item>
+          <item>
+            <name>Technology assessment</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-05-08T15:25:46Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-04-04</actionDate>
+          <text><![CDATA[<p><b>Rare Earth Element Advanced Coal Technologies Act</b></p> <p>This bill requires the Department of Energy's Office of Fossil Energy to create a program for the development of advanced separation technology to extract and recover rare earth elements and minerals from coal and coal byproducts.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <updateDate>2019-04-04T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1052</billNumber>
+    <title>Rare Earth Element Advanced Coal Technologies Act</title>
+    <relatedBills />
+    <version>1.0.0</version>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-14</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-04</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <byRequestType />
+        <state>WV</state>
+        <lastName>Manchin</lastName>
+        <firstName>Joe</firstName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to authorize the Office of Fossil Energy to develop advanced separation technologies for the extraction and recovery of rare earth elements and minerals from coal and coal byproducts, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Rare Earth Element Advanced Coal Technologies Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Rare Earth Element Advanced Coal Technologies Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Rare Earth Element Advanced Coal Technologies Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1052is/xml/BILLS-116s1052is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-04T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <createDate>2019-04-05T04:42:10Z</createDate>
+    <laws />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

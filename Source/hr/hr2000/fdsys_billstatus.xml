@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR H2947)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2947</url>
+            <name>H2947</name>
+          </link>
+        </links>
+        <actionDate>2019-04-02</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-01</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-01</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-04-01</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-04-01</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2428</lisID>
+          <bioguideId>D000630</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Delgado</lastName>
+        <district>19</district>
+        <middleName />
+        <firstName>Antonio</firstName>
+        <bioguideId>D000630</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-04-02</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Medicare-X Choice Act of 2019</latestTitle>
+        <type>S</type>
+        <congress>116</congress>
+        <number>981</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-03-26</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <latestTitle>Health Care Affordability Act of 2019</latestTitle>
+        <type>HR</type>
+        <congress>116</congress>
+        <number>1868</number>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-04-02T07:12:08Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <party>D</party>
+        <lastName>LARSON</lastName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+          <lisID>1583</lisID>
+        </identifiers>
+        <bioguideId>L000557</bioguideId>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <state>CT</state>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <party>D</party>
+        <lastName>Higgins</lastName>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+          <lisID>1794</lisID>
+        </identifiers>
+        <bioguideId>H001038</bioguideId>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <state>NY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>26</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <party>D</party>
+        <lastName>Trahan</lastName>
+        <firstName>Lori</firstName>
+        <identifiers>
+          <lisID>2404</lisID>
+          <bioguideId>T000482</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000482</bioguideId>
+        <fullName>Rep. Trahan, Lori [D-MA-3]</fullName>
+        <state>MA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <party>D</party>
+        <lastName>Spanberger</lastName>
+        <firstName>Abigail</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2456</lisID>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <bioguideId>S001209</bioguideId>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <state>VA</state>
+        <middleName>Davis</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <party>D</party>
+        <lastName>Crow</lastName>
+        <firstName>Jason</firstName>
+        <identifiers>
+          <lisID>2385</lisID>
+          <gpoId />
+          <bioguideId>C001121</bioguideId>
+        </identifiers>
+        <bioguideId>C001121</bioguideId>
+        <fullName>Rep. Crow, Jason [D-CO-6]</fullName>
+        <state>CO</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Rouda</lastName>
+        <firstName>Harley</firstName>
+        <identifiers>
+          <lisID>2382</lisID>
+          <bioguideId>R000616</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000616</bioguideId>
+        <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>48</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <party>D</party>
+        <lastName>Rose</lastName>
+        <firstName>Max</firstName>
+        <identifiers>
+          <lisID>2426</lisID>
+          <gpoId />
+          <bioguideId>R000613</bioguideId>
+        </identifiers>
+        <bioguideId>R000613</bioguideId>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <state>NY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <party>D</party>
+        <lastName>THOMPSON</lastName>
+        <firstName>BENNIE</firstName>
+        <identifiers>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <bioguideId>T000193</bioguideId>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <state>MS</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-03</sponsorshipDate>
+        <party>D</party>
+        <lastName>Cartwright</lastName>
+        <firstName>Matt</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <bioguideId>C001090</bioguideId>
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <state>PA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <party>D</party>
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000389</bioguideId>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Soto</lastName>
+        <firstName>Darren</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <party>D</party>
+        <lastName>Slotkin</lastName>
+        <firstName>Elissa</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001208</bioguideId>
+          <lisID>2407</lisID>
+        </identifiers>
+        <bioguideId>S001208</bioguideId>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <state>MI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <party>D</party>
+        <lastName>Perlmutter</lastName>
+        <firstName>Ed</firstName>
+        <identifiers>
+          <lisID>1835</lisID>
+          <bioguideId>P000593</bioguideId>
+          <gpoId>7865</gpoId>
+        </identifiers>
+        <bioguideId>P000593</bioguideId>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <state>CO</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2000ih/xml/BILLS-116hr2000ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-01T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billNumber>2000</billNumber>
+    <notes />
+    <updateDate>2019-05-17T07:15:43Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <title>Medicare-X Choice Act of 2019</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DELGADO:H.R. 2000.Congress has the power to enact this legislation pursuantto the following:Article I of the Constitution[Page H2938]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To establish a public health plan.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Medicare-X Choice Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Medicare-X Choice Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Medicare-X Choice Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <latestAction>
+      <text>Sponsor introductory remarks on measure. (CR H2947)</text>
+      <actionDate>2019-04-02</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-01T16:00:41Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-01T16:00:36Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <introducedDate>2019-04-01</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

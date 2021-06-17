@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2019-03-28</introducedDate>
+    <billNumber>1987</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionDate>2019-03-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-03-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-03-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SANCHEZ:H.R. 1987.Congress has the power to enact this legislation pursuantto the following:Article I Section 8[Page H2918]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1987ih/xml/BILLS-116hr1987ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <title>Mechanical Insulation Installation Incentive Act of 2019</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>SANCHEZ</lastName>
+        <firstName>LINDA</firstName>
+        <bioguideId>S001156</bioguideId>
+        <district>38</district>
+        <middleName>T.</middleName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7844</gpoId>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Mechanical Insulation Installation Incentive Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Mechanical Insulation Installation Incentive Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Mechanical Insulation Installation Incentive Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <middleName />
+        <state>NY</state>
+        <lastName>Reed</lastName>
+        <bioguideId>R000585</bioguideId>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+        </identifiers>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <district>23</district>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <middleName>K.</middleName>
+        <state>PA</state>
+        <lastName>Fitzpatrick</lastName>
+        <bioguideId>F000466</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Thomas</firstName>
+        <middleName>R.</middleName>
+        <state>NY</state>
+        <lastName>Suozzi</lastName>
+        <bioguideId>S001201</bioguideId>
+        <identifiers>
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>Susan</firstName>
+        <middleName />
+        <state>PA</state>
+        <lastName>Wild</lastName>
+        <bioguideId>W000826</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000826</bioguideId>
+          <lisID>2374</lisID>
+        </identifiers>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <district>7</district>
+      </item>
+      <item>
+        <firstName>Angie</firstName>
+        <middleName />
+        <state>MN</state>
+        <lastName>Craig</lastName>
+        <bioguideId>C001119</bioguideId>
+        <identifiers>
+          <lisID>2412</lisID>
+          <gpoId />
+          <bioguideId>C001119</bioguideId>
+        </identifiers>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Lighting, heating, cooling</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2019-03-28T13:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-03-28</actionDate>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-03-29T07:12:12Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-02T07:16:17Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

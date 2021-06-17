@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-02T13:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Conservation and Forestry Subcommittee</name>
+              <systemCode>hsag15</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-20T18:27:22Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Agriculture Committee</name>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-02T13:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-15T20:26:08Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <createDate>2019-05-03T07:12:11Z</createDate>
+    <billNumber>2509</billNumber>
+    <billType>HR</billType>
+    <title>Ski Area Fee Retention Act</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-20</actionDate>
+        <committee>
+          <name>Conservation and Forestry Subcommittee</name>
+          <systemCode>hsag15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-02</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-02</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>T000470</bioguideId>
+        <state>CO</state>
+        <district>3</district>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <lastName>Tipton</lastName>
+        <party>R</party>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-05-02</introducedDate>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001094</bioguideId>
+        <lastName>Cook</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001094</bioguideId>
+          <lisID>2103</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <district>8</district>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>PA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001090</bioguideId>
+        <lastName>Cartwright</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>8</district>
+        <firstName>Matt</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000565</bioguideId>
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <party>R</party>
+        <district>4</district>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000597</bioguideId>
+        <lastName>Pingree</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>1</district>
+        <firstName>Chellie</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000564</bioguideId>
+        <lastName>Lamborn</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+          <lisID>1834</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>5</district>
+        <firstName>Doug</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>NV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>A000369</bioguideId>
+        <lastName>Amodei</lastName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8366</gpoId>
+          <bioguideId>A000369</bioguideId>
+          <lisID>2090</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>2</district>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001180</bioguideId>
+        <lastName>Schrader</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8118</gpoId>
+          <lisID>1950</lisID>
+          <bioguideId>S001180</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>5</district>
+        <firstName>Kurt</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000559</bioguideId>
+        <lastName>Garamendi</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <lisID>1973</lisID>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>3</district>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Curtis, John R. [R-UT-3]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>UT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001114</bioguideId>
+        <lastName>Curtis</lastName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2363</lisID>
+          <gpoId />
+          <bioguideId>C001114</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>3</district>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001177</bioguideId>
+        <lastName>McClintock</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7809</gpoId>
+          <bioguideId>M001177</bioguideId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>4</district>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000382</bioguideId>
+        <lastName>Kuster</lastName>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>2</district>
+        <firstName>Ann</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>VT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000800</bioguideId>
+        <lastName>Welch</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <party>D</party>
+        <district>0</district>
+        <firstName>Peter</firstName>
+      </item>
+      <item>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>O000171</bioguideId>
+        <lastName>O'Halleran</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <district>1</district>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000197</bioguideId>
+        <lastName>DEGETTE</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1479</lisID>
+          <gpoId>7859</gpoId>
+          <bioguideId>D000197</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>1</district>
+        <firstName>DIANA</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000244</bioguideId>
+        <lastName>SENSENBRENNER</lastName>
+        <middleName>JAMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <party>R</party>
+        <district>5</district>
+        <firstName>F.</firstName>
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TIPTON:H.R. 2509.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, ``The Congress shall have power todispose of and make all needful rules and regulationsrespecting the territory or other property belonging to theUnited States;''[Page H3442]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend the Omnibus Parks and Public Lands Management Act of 1996 to provide for the establishment of a Ski Area Fee Retention Account.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Ski Area Fee Retention Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Ski Area Fee Retention Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Ski Area Fee Retention Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2509ih/xml/BILLS-116hr2509ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-05-02T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Sports and recreation facilities</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-23T07:12:55Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+      <links />
+      <actionDate>2019-05-20</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

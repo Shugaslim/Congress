@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1038-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-07", 
+  "number": "1038", 
+  "official_title": "To require the Treasury to take a more prominent role in coordinating AML/CFT policy and examinations across the Government, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "R000611", 
+    "district": "5", 
+    "name": "Riggleman, Denver", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-07", 
+  "subjects": [
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Business records", 
+    "Congressional oversight", 
+    "Department of the Treasury", 
+    "Executive agency funding and structure", 
+    "Finance and financial sector", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Intelligence activities, surveillance, classified information", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Treasury to take a more prominent role in coordinating AML/CFT policy and examinations across the Government, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To require the Treasury to take a more prominent role in coordinating AML/CFT policy and examinations across the Government, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-26T22:45:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1038.xml"
+}

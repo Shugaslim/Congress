@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2792</billNumber>
+    <recordedVotes />
+    <introducedDate>2019-05-16</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-17T14:09:30Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-16T14:03:25Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-17</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-16</actionDate>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <links />
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-16</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-16</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <createDate>2019-05-17T07:12:09Z</createDate>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <actionDate>2019-05-17</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Secure Every Child Under the Right Equipment Standards Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>SECURES Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To require the Secretary of Transportation to publish a notice of proposed rulemaking concerning seat belts on school buses, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To require the Secretary of Transportation to publish a notice of proposed rulemaking concerning seat belts on school buses, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOTTHEIMER:H.R. 2792.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution[Page H3925]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-30T02:45:05Z</updateDate>
+    <relatedBills />
+    <policyArea />
+    <originChamber>House</originChamber>
+    <title>To require the Secretary of Transportation to publish a notice of proposed rulemaking concerning seat belts on school buses, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <district>5</district>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <lisID>2338</lisID>
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <lastName>Gottheimer</lastName>
+        <state>NJ</state>
+        <bioguideId>G000583</bioguideId>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <party>D</party>
+        <firstName>Josh</firstName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Reed</lastName>
+        <bioguideId>R000585</bioguideId>
+        <identifiers>
+          <lisID>1982</lisID>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <middleName />
+        <district>23</district>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Stefanik</lastName>
+        <bioguideId>S001196</bioguideId>
+        <identifiers>
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <middleName>M.</middleName>
+        <district>21</district>
+        <firstName>Elise</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billType>HR</billType>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <date>2019-05-16T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2792ih/xml/BILLS-116hr2792ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

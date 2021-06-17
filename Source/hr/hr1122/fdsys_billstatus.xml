@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-09T08:10:16Z</createDate>
+    <introducedDate>2019-02-08</introducedDate>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-03-12T04:00:00Z</date>
+        <type>Referred in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1122rfs/xml/BILLS-116hr1122rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-03-11T04:00:00Z</date>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1122eh/xml/BILLS-116hr1122eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-02-08T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1122ih/xml/BILLS-116hr1122ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-12T16:16:26Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-08T14:01:25Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Housing supply and affordability</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+          <item>
+            <name>Public housing</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <firstName>Sean</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <bioguideId>D000614</bioguideId>
+        <identifiers>
+          <gpoId>8220</gpoId>
+          <lisID>2072</lisID>
+          <bioguideId>D000614</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <district>7</district>
+        <middleName>P.</middleName>
+        <lastName>Duffy</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Emanuel</firstName>
+        <byRequestType />
+        <middleName />
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <state>MO</state>
+        <party>D</party>
+        <lastName>Cleaver</lastName>
+        <district>5</district>
+        <identifiers>
+          <lisID>1790</lisID>
+          <gpoId>8013</gpoId>
+          <bioguideId>C001061</bioguideId>
+        </identifiers>
+        <bioguideId>C001061</bioguideId>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-03-12</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2019-03-11</actionDate>
+        <committee />
+        <links />
+        <actionCode>H38310</actionCode>
+        <actionTime>18:58:26</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 22 (Roll no. 119). (text: CR H2618-2619)</text>
+        <actionDate>2019-03-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2618-2619</url>
+            <name>H2618-2619</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll119.xml</url>
+            <name>Roll no. 119</name>
+          </link>
+        </links>
+        <actionCode>H37300</actionCode>
+        <actionTime>18:58:25</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 22 (Roll no. 119).(text: CR H2618-2619)</text>
+        <actionDate>2019-03-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll119.xml</url>
+            <name>Roll no. 119</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <actionTime>18:58:25</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered as unfinished business. (consideration: CR H2626-2627)</text>
+        <actionDate>2019-03-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2626-2627</url>
+            <name>H2626-2627</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionTime>18:31:38</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionDate>2019-03-11</actionDate>
+        <committee />
+        <links />
+        <actionCode>H37220</actionCode>
+        <actionTime>16:15:53</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1122.</text>
+        <actionDate>2019-03-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/1122</url>
+            <name>H.R. 1122</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:02:24</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H2618-2620)</text>
+        <actionDate>2019-03-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2618-2620</url>
+            <name>H2618-2620</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionTime>16:02:22</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Ms. Waters moved to suspend the rules and pass the bill.</text>
+        <actionDate>2019-03-11</actionDate>
+        <committee />
+        <links />
+        <actionCode>H30300</actionCode>
+        <actionTime>16:01:59</actionTime>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionDate>2019-02-08</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-08</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-08</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <billReferrals>1</billReferrals>
+        <generalDebate>1</generalDebate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <considerationByHouse>2</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-03-08T18:28:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Housing Choice Voucher Mobility Demonstration Act of 2019</b></p> <p>This bill authorizes the Department of Housing and Urban Development (HUD) to implement a mobility demonstration program to enable public housing agencies (PHAs) to administer housing-choice rental-assistance vouchers in a manner designed to (1)&nbsp;encourage low-income families receiving such assistance to move to lower-poverty areas, and (2) expand access to opportunity areas.</p> <p>HUD shall require PHAs applying to participate in the program to submit a specified Regional Housing Mobility Plan.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-08</actionDate>
+          <updateDate>2019-02-08T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2019-03-22T15:46:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Housing Choice Voucher Mobility Demonstration Act of 2019</b></p> <p>This bill authorizes the Department of Housing and Urban Development (HUD) to implement a mobility demonstration program to enable public housing agencies (PHAs) to administer housing-choice rental-assistance vouchers in a manner designed to (1)&nbsp;encourage low-income families receiving such assistance to move to lower-poverty areas, and (2) expand access to opportunity areas.</p> <p>HUD shall require PHAs applying to participate in the program to submit a specified Regional Housing Mobility Plan.</p>]]></text>
+          <versionCode>53</versionCode>
+          <actionDate>2019-03-11</actionDate>
+          <updateDate>2019-03-11T12:47:12Z</updateDate>
+          <name>Passed House</name>
+          <actionDesc>Passed House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CLEAVER:H.R. 1122.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, clause 1 (relating to the generalwelfare of the United States); and Article I, section 8,clause 3 (relating to the power to regulate interstatecommerce).[Page H1493]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To authorize the Secretary of Housing and Urban Development to carry out a housing choice voucher mobility demonstration to encourage families receiving such voucher assistance to move to lower-poverty areas and expand access to opportunity areas.</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes>
+      <recordedVote>
+        <date>2019-03-11T22:58:25Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <congress>116</congress>
+        <rollNumber>119</rollNumber>
+        <url>http://clerk.house.gov/evs/2019/roll119.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <committeeReports />
+    <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+    <congress>116</congress>
+    <updateDate>2019-04-04T22:18:34Z</updateDate>
+    <billNumber>1122</billNumber>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.</text>
+          <actionDate>2019-01-28</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestTitle>Consolidated Appropriations Act, 2019</latestTitle>
+        <number>648</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Became Public Law No: 116-6.</text>
+          <actionDate>2019-02-15</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>HJRES</type>
+        <latestTitle>Consolidated Appropriations Act, 2019</latestTitle>
+        <number>31</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2019-01-31</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>Housing Choice Voucher Mobility Demonstration Act of 2019</latestTitle>
+        <number>291</number>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1879-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000386", 
+      "district": "24", 
+      "name": "Katko, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-26", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001196", 
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-02", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-26", 
+  "number": "1879", 
+  "official_title": "To amend titles XIX and XXI of the Social Security Act to provide for 12-month continuous enrollment of individuals under the Medicaid program and Children's Health Insurance Program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s873-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Stabilize Medicaid and CHIP Coverage Act", 
+  "sponsor": {
+    "bioguide_id": "K000379", 
+    "district": "4", 
+    "name": "Kennedy, Joseph P., III", 
+    "state": "MA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-26", 
+  "subjects": [
+    "Child health", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Medicaid", 
+    "Poverty and welfare assistance"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stabilize Medicaid and CHIP Coverage Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stabilize Medicaid and CHIP Coverage Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend titles XIX and XXI of the Social Security Act to provide for 12-month continuous enrollment of individuals under the Medicaid program and Children's Health Insurance Program, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Stabilize Medicaid and CHIP Coverage Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-08T16:30:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1879.xml"
+}

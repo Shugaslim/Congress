@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>NC</state>
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <firstName>RICHARD</firstName>
+        <lastName>BURR</lastName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-03</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2019-04-04T05:12:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-03T20:12:16Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Director of the Office of Management and Budget to review and make certain revisions to the Standard Occupational Classification System, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>911 SAVES Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Supporting Accurate Views of Emergency Services Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Supporting Accurate Views of Emergency Services Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Supporting Accurate Views of Emergency Services Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>911 SAVES Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Supporting Accurate Views of Emergency Services Act of 2019</title>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+      <actionDate>2019-04-03</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <firstName>Amy</firstName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000307</bioguideId>
+        <firstName>PAT</firstName>
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <state>KS</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>ROBERTS</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000562</bioguideId>
+        <firstName>Cory</firstName>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Gardner</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000880</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <state>ID</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <lastName>CRAPO</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001056</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Cornyn</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001096</bioguideId>
+        <firstName>Kevin</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+        </identifiers>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <state>ND</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Cramer</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001061</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <state>ND</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Hoeven</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <lastName>Warren</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000133</bioguideId>
+        <firstName>EDWARD</firstName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001203</bioguideId>
+        <firstName>Tina</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Smith</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000595</bioguideId>
+        <firstName>Gary</firstName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <lastName>Peters</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001183</bioguideId>
+        <firstName>Joe</firstName>
+        <identifiers>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Manchin</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001191</bioguideId>
+        <firstName>Kyrsten</firstName>
+        <identifiers>
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Sinema</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000622</bioguideId>
+        <firstName>Tammy</firstName>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Duckworth</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <firstName>Sherrod</firstName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Brown</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <state>CT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Blumenthal</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000300</bioguideId>
+        <firstName>Doug</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2364</lisID>
+          <bioguideId>J000300</bioguideId>
+        </identifiers>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <state>AL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Jones</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-04-03</introducedDate>
+    <policyArea />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1015is/xml/BILLS-116s1015is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-04-03T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-03-07</actionDate>
+          <text>Referred to the House Committee on Education and Labor.</text>
+        </latestAction>
+        <number>1629</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>911 SAVES Act</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2019-05-23T09:18:46Z</updateDate>
+    <billNumber>1015</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

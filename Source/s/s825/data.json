@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "", 
+      "committees": [
+        "SSRA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s825-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000141", 
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001035", 
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000595", 
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-14", 
+  "number": "825", 
+  "official_title": "A bill to amend the Help America Vote Act of 2002 to require all States to take steps to ensure domestic ownership and control of election service providers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s823-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Protect our Elections Act", 
+  "sponsor": {
+    "bioguide_id": "V000128", 
+    "district": null, 
+    "name": "Van Hollen, Chris", 
+    "state": "MD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-14", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Computer security and identity theft", 
+    "Corporate finance and management", 
+    "Elections, voting, political campaign regulation", 
+    "Foreign and international corporations", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Public contracts and procurement", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Help America Vote Act of 2002 to require all States to take steps to ensure domestic ownership and control of election service providers, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect our Elections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect our Elections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protect our Elections Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T15:30:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s825.xml"
+}

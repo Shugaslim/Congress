@@ -1,0 +1,181 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-25", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr568-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001270", 
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-04", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001166", 
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-15", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000185", 
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-18", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000483", 
+      "district": "6", 
+      "name": "Trone, David J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-11", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-15", 
+  "number": "568", 
+  "official_title": "To require the Governor of a State to submit to the Attorney General an annual report on the number of individuals who represented themselves in court in criminal matters or juvenile delinquency matters, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Status of the Sixth Amendment Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000610", 
+    "district": "22", 
+    "name": "Deutch, Theodore E.", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-15", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal procedure and sentencing", 
+    "Government information and archives", 
+    "Juvenile crime and gang violence", 
+    "Law enforcement administration and funding", 
+    "Lawyers and legal services", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Governor of a State to submit to the Attorney General an annual report on the number of individuals who represented themselves in court in criminal matters or juvenile delinquency matters, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Status of the Sixth Amendment Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Status of the Sixth Amendment Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Status of the Sixth Amendment Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-19T07:15:42Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr568.xml"
+}

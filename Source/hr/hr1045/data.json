@@ -1,0 +1,366 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-25", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Citizenship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1045-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001072", 
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000610", 
+      "district": "22", 
+      "name": "Deutch, Theodore E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000297", 
+      "district": "13", 
+      "name": "Espaillat, Adriano", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-28", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000586", 
+      "district": "4", 
+      "name": "Garcia, Jesus G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000581", 
+      "district": "15", 
+      "name": "Gonzalez, Vicente", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000298", 
+      "district": "7", 
+      "name": "Jayapal, Pramila", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000288", 
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-28", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000379", 
+      "district": "4", 
+      "name": "Kennedy, Joseph P., III", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-15", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000397", 
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000480", 
+      "district": "17", 
+      "name": "Lowey, Nita M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-06", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000002", 
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000173", 
+      "district": "5", 
+      "name": "Omar, Ilhan", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000034", 
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-28", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-15", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001165", 
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-28", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-15", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000822", 
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000800", 
+      "district": null, 
+      "name": "Welch, Peter", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-15", 
+      "state": "VT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-07", 
+  "number": "1045", 
+  "official_title": "To provide for improvements in the treatment of detainees, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Immigrant Detainee Legal Rights Act", 
+  "sponsor": {
+    "bioguide_id": "F000454", 
+    "district": "11", 
+    "name": "Foster, Bill", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-07", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Border security and unlawful immigration", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Department of Justice", 
+    "Detention of persons", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Lawyers and legal services", 
+    "Refugees, asylum, displaced persons"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for improvements in the treatment of detainees, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Immigrant Detainee Legal Rights Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Immigrant Detainee Legal Rights Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Immigrant Detainee Legal Rights Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-27T07:13:40Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1045.xml"
+}

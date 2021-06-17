@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-01-03</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <createDate>2019-01-04T13:32:59Z</createDate>
+    <notes />
+    <amendments />
+    <introducedDate>2019-01-03</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend title VII of the Tariff Act of 1930 to provide for the treatment of core seasonal industries affected by antidumping or countervailing duty investigations, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Defending Domestic Produce Production Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Defending Domestic Produce Production Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Defending Domestic Produce Production Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>HR</type>
+        <number>101</number>
+        <latestAction>
+          <actionDate>2019-01-31</actionDate>
+          <text>Referred to the Subcommittee on Trade.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Defending Domestic Produce Production Act</latestTitle>
+      </item>
+    </relatedBills>
+    <billNumber>16</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-01-03T19:38:04Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <byRequestType />
+        <firstName>Marco</firstName>
+        <state>FL</state>
+        <lastName>Rubio</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-04-05T09:15:33Z</updateDate>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-01-03</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s16is/xml/BILLS-116s16is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <lastName>Isakson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Johnny</firstName>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <identifiers>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>R</party>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <lastName>Perdue</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <bioguideId>P000612</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <party>R</party>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <state>GA</state>
+      </item>
+    </cosponsors>
+    <title>Defending Domestic Produce Production Act of 2019</title>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural trade</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Tariffs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2019-05-23T20:41:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-05-24T05:27:15Z</createDate>
+    <policyArea />
+    <sponsors>
+      <item>
+        <lastName>Booker</lastName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <bioguideId>B001288</bioguideId>
+        <firstName>Cory</firstName>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billNumber>1673</billNumber>
+    <congress>116</congress>
+    <relatedBills />
+    <title>A bill to extend the authority for the establishment of a commemorative work in honor of Gold Star Families, and for other purposes.</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+    </actions>
+    <introducedDate>2019-05-23</introducedDate>
+    <laws />
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to extend the authority for the establishment of a commemorative work in honor of Gold Star Families, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to extend the authority for the establishment of a commemorative work in honor of Gold Star Families, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2019-05-23</actionDate>
+    </latestAction>
+    <updateDate>2019-05-24T05:31:56Z</updateDate>
+    <committeeReports />
+    <textVersions />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

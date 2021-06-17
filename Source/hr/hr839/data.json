@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr839-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-29", 
+  "number": "839", 
+  "official_title": "To amend title 49, United States Code, to include a revenue metric in the port network components to better achieve the policy goals of the National Multimodal Freight Network.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Multimodal Freight Network Improvement Act", 
+  "sponsor": {
+    "bioguide_id": "B001285", 
+    "district": "26", 
+    "name": "Brownley, Julia", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-29", 
+  "subjects": [
+    "Navigation, waterways, harbors", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 49, United States Code, to include a revenue metric in the port network components to better achieve the policy goals of the National Multimodal Freight Network.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Multimodal Freight Network Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Multimodal Freight Network Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National Multimodal Freight Network Improvement Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-28T16:00:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr839.xml"
+}

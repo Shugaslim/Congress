@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-13T17:31:43Z</updateDate>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>22</district>
+        <firstName>Devin</firstName>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <lastName>Nunes</lastName>
+        <identifiers>
+          <bioguideId>N000181</bioguideId>
+          <gpoId>7826</gpoId>
+          <lisID>1710</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>N000181</bioguideId>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-05T18:13:16Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-08T17:07:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2019-01-08</introducedDate>
+    <createDate>2019-01-09T08:10:19Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2019-01-08</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-01-08</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-01-08</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>340</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+      <links />
+      <actionDate>2019-02-05</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NUNES:H.R. 340.Congress has the power to enact this legislation pursuantto the following:Clause 1 of section 8 of article I of the Constitution ofthe United States.[Page H287]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Tulare Youth Recreation and Women's History Enhancement Act</title>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Tulare Youth Recreation and Women's History Enhancement Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To authorize the conveyance of and remove the reversionary interest of the United States in certain lands in the City of Tulare, California.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Tulare Youth Recreation and Women's History Enhancement Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Tulare Youth Recreation and Women’s History Enhancement Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

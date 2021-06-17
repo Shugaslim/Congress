@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2019-02-13</introducedDate>
+    <billNumber>1157</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionDate>2019-02-13</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DesJARLAIS:H.R. 1157.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3. Congress shall have powerto regulate commerce with Foreign Nations, and among theseveral states, and with Indian Tribes.[Page H1584]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1157ih/xml/BILLS-116hr1157ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <title>Horse Protection Amendments Act</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>DesJarlais</lastName>
+        <firstName>Scott</firstName>
+        <bioguideId>D000616</bioguideId>
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <state>TN</state>
+        <identifiers>
+          <lisID>2062</lisID>
+          <gpoId>8151</gpoId>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <title>To amend the Horse Protection Act to provide increased protection for horses participating in shows, exhibitions, or sales, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Horse Protection Amendments Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Horse Protection Amendments Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Horse Protection Amendments Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <state>TN</state>
+        <party>R</party>
+        <bioguideId>F000459</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>3</district>
+        <firstName>Charles</firstName>
+        <middleName>J. "Chuck"</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <lastName>Fleischmann</lastName>
+        <identifiers>
+          <gpoId>8150</gpoId>
+          <bioguideId>F000459</bioguideId>
+          <lisID>2061</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>KY</state>
+        <party>R</party>
+        <bioguideId>B001282</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>6</district>
+        <firstName>Andy</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <lastName>Barr</lastName>
+        <identifiers>
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>KY</state>
+        <party>R</party>
+        <bioguideId>C001108</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>1</district>
+        <firstName>James</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <lastName>Comer</lastName>
+        <identifiers>
+          <lisID>2297</lisID>
+          <bioguideId>C001108</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>R</party>
+        <bioguideId>B001309</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>2</district>
+        <firstName>Tim</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Burchett, Tim [R-TN-2]</fullName>
+        <lastName>Burchett</lastName>
+        <identifiers>
+          <lisID>2440</lisID>
+          <bioguideId>B001309</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>R</party>
+        <bioguideId>R000612</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>6</district>
+        <firstName>John</firstName>
+        <middleName>W.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rose, John W. [R-TN-6]</fullName>
+        <lastName>Rose</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000612</bioguideId>
+          <lisID>2441</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>R</party>
+        <bioguideId>K000392</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>8</district>
+        <firstName>David</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kustoff, David [R-TN-8]</fullName>
+        <lastName>Kustoff</lastName>
+        <identifiers>
+          <lisID>2348</lisID>
+          <bioguideId>K000392</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>R</party>
+        <bioguideId>R000582</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>1</district>
+        <firstName>David</firstName>
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <lastName>Roe</lastName>
+        <identifiers>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>KY</state>
+        <party>R</party>
+        <bioguideId>R000395</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>5</district>
+        <firstName>HAROLD</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rogers, Harold [R-KY-5]</fullName>
+        <lastName>ROGERS</lastName>
+        <identifiers>
+          <lisID>977</lisID>
+          <bioguideId>R000395</bioguideId>
+          <gpoId>7957</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>R</party>
+        <bioguideId>G000590</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>7</district>
+        <firstName>Mark</firstName>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Green, Mark E. [R-TN-7]</fullName>
+        <lastName>Green</lastName>
+        <identifiers>
+          <bioguideId>G000590</bioguideId>
+          <gpoId />
+          <lisID>2442</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>KY</state>
+        <party>R</party>
+        <bioguideId>G000558</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>2</district>
+        <firstName>Brett</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <lastName>Guthrie</lastName>
+        <identifiers>
+          <lisID>1922</lisID>
+          <bioguideId>G000558</bioguideId>
+          <gpoId>7954</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>SC</state>
+        <party>R</party>
+        <bioguideId>N000190</bioguideId>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <district>5</district>
+        <firstName>Ralph</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <lastName>Norman</lastName>
+        <identifiers>
+          <lisID>2361</lisID>
+          <gpoId />
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Department of Agriculture</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-13T15:04:00Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-02-13</actionDate>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-02-14T08:10:16Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-02T07:15:57Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

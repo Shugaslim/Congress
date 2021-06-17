@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <committee>
+          <systemCode>hsju03</systemCode>
+          <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-09T23:15:27Z</updateDate>
+    <latestAction>
+      <actionDate>2019-02-25</actionDate>
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-01-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr518ih/xml/BILLS-116hr518ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>518</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>Duncan</lastName>
+        <state>SC</state>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <bioguideId>D000615</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>King</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Steve</firstName>
+        <district>4</district>
+        <byRequestType />
+        <state>IA</state>
+        <bioguideId>K000362</bioguideId>
+        <identifiers>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-01-11T14:00:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-02-25T21:49:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju03</systemCode>
+              <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+            </item>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-02-25T21:49:07Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To bar Supreme Court decisions in certain Patient Protection and Affordable Care Act cases from citation.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To bar Supreme Court decisions in certain Patient Protection and Affordable Care Act cases from citation.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-02-11T16:51:46Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill bars the Supreme Court from citing for the purpose of precedence [<em>sic</em>] in all future cases the following Supreme Court decisions concerning the Patient Protection and Affordable Care Act:</p> <ul> <li><i>National Federation of Independent Business v. Sebelius</i>, </li> <li><i>King v. Burwell</i>, and </li> <li><i>Burwell v. Hobby Lobby Stores Inc</i>.</li></ul> </p>]]></text>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-01-11T05:00:00Z</updateDate>
+          <actionDate>2019-01-11</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-01-12T08:10:15Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>To bar Supreme Court decisions in certain Patient Protection and Affordable Care Act cases from citation.</title>
+    <committeeReports />
+    <introducedDate>2019-01-11</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Supreme Court</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of Iowa:H.R. 518.Congress has the power to enact this legislation pursuantto the following:Article III, Section 2, Clause 1Article I, Section 8, Clause 9[Page H520]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

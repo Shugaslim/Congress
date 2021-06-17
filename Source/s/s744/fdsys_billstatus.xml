@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName>ERNEST</middleName>
+        <state>IA</state>
+        <bioguideId>G000386</bioguideId>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>CHARLES</firstName>
+        <lastName>GRASSLEY</lastName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>7</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <billReferrals>1</billReferrals>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-20</actionDate>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>14:03:13</actionTime>
+        <actionCode>H14000</actionCode>
+        <actionDate>2019-05-20</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-05-20</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2929</url>
+            <name>S2929</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S2929)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2929)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2929</url>
+            <name>S2929</name>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <actionDate>2019-05-16</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2929</url>
+            <name>S2929</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2929)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2929)</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2929</url>
+            <name>S2929</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>14500</actionCode>
+        <actionDate>2019-05-16</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-03-12</actionDate>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Chemical and biological weapons</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-03-13T04:27:07Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-20T22:25:02Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2019-05-16T21:02:18Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-12T15:05:14Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend section 175b of title 18, United States Code, to correct a scrivener's error.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019</title>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <title>Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019</title>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019</title>
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2019-05-20</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000062</bioguideId>
+        <identifiers>
+          <gpoId>8338</gpoId>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>FEINSTEIN</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <firstName>DIANNE</firstName>
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <firstName>Amy</firstName>
+        <middleName />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-03-12</introducedDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s744rfh/xml/BILLS-116s744rfh.xml</url>
+          </item>
+        </formats>
+        <type>Referred in House</type>
+        <date>2019-05-20T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s744es/xml/BILLS-116s744es.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in Senate</type>
+        <date>2019-05-16T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s744is/xml/BILLS-116s744is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-03-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <latestTitle>Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+          <actionDate>2019-05-03</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <number>1986</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2019-05-23T04:42:44Z</updateDate>
+    <billNumber>744</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

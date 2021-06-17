@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <billNumber>1263</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionDate>2019-02-14</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <createDate>2019-02-15T08:10:16Z</createDate>
+    <version>1.0.0</version>
+    <amendments />
+    <cosponsors />
+    <introducedDate>2019-02-14</introducedDate>
+    <title>National Firearms Amendments Act of 2019</title>
+    <updateDate>2019-04-29T19:15:08Z</updateDate>
+    <billType>HR</billType>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>Deutch</lastName>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <bioguideId>D000610</bioguideId>
+        <state>FL</state>
+        <district>22</district>
+        <firstName>Theodore</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DEUTCH:H.R. 1263.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H2034]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1263ih/xml/BILLS-116hr1263ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to subject to the requirements of the National Firearms Act any semiautomatic rifle that has the capacity to accept a detachable magazine.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>National Firearms Amendments Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>National Firearms Amendments Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>National Firearms Amendments Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-02-14</actionDate>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-14T15:01:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

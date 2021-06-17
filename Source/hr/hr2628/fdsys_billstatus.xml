@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName>M.</middleName>
+        <state>FL</state>
+        <bioguideId>B001257</bioguideId>
+        <lastName>Bilirakis</lastName>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <firstName>Gus</firstName>
+        <district>12</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-09</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-09</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-05-10T07:12:12Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-09T14:04:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Veterans Early Treatment for Chronic Ailment Resurgence through Examinations Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>VET CARE Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide administrative support to providers of dental care who provide such care to veterans that is not furnished under such title, to direct the Secretary of Veterans Affairs to establish a pilot program for the provision of dental care to certain veterans, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Veterans Early Treatment for Chronic Ailment Resurgence through Examinations Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>VET CARE Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>VET CARE Act of 2019</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>VET CARE Act of 2019</title>
+    <latestAction>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <links />
+      <actionDate>2019-05-09</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <middleName>Drew</middleName>
+        <bioguideId>F000465</bioguideId>
+        <lastName>Ferguson</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <firstName>A.</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2324</lisID>
+          <bioguideId>F000465</bioguideId>
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <middleName />
+        <bioguideId>V000133</bioguideId>
+        <lastName>Van Drew</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <firstName>Jefferson</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2419</lisID>
+          <bioguideId>V000133</bioguideId>
+        </identifiers>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <middleName>J.</middleName>
+        <bioguideId>M001199</bioguideId>
+        <lastName>Mast</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>2322</lisID>
+          <bioguideId>M001199</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>18</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <middleName>L.</middleName>
+        <bioguideId>H000324</bioguideId>
+        <lastName>HASTINGS</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <firstName>ALCEE</firstName>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <district>20</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <middleName />
+        <bioguideId>G000582</bioguideId>
+        <lastName>Gonzalez-Colon</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>PR</state>
+        <firstName>Jenniffer</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2347</lisID>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-23T14:30:08Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-05-09</introducedDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2628ih/xml/BILLS-116hr2628ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-05-09T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JOHNSON of Texas:H.R. 2628.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the Constitution of the UnitedStates.[Page H3475]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2628</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

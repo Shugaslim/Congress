@@ -1,0 +1,170 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-04-08", 
+      "action_code": "", 
+      "committee": "Indian Affairs", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-28.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2019-04-08", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "63", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 63.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s212-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 116-28"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001197", 
+      "district": null, 
+      "name": "McSally, Martha", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-04", 
+      "state": "AZ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-04-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-24", 
+  "number": "212", 
+  "official_title": "A bill to amend the Native American Business Development, Trade Promotion, and Tourism Act of 2000, the Buy Indian Act, and the Native American Programs Act of 1974 to provide industry and economic development opportunities to Indian communities.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1937-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Indian Community Economic Enhancement Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "H001061", 
+    "district": null, 
+    "name": "Hoeven, John", 
+    "state": "ND", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-01-29", 
+  "subjects": [
+    "Business education", 
+    "Business investment and capital", 
+    "Congressional oversight", 
+    "Credit and credit markets", 
+    "Department of Commerce", 
+    "Economic development", 
+    "Federal-Indian relations", 
+    "Government lending and loan guarantees", 
+    "Government studies and investigations", 
+    "Housing and community development funding", 
+    "Indian social and development programs", 
+    "Minority and disadvantaged businesses", 
+    "Minority employment", 
+    "Native Americans", 
+    "Public contracts and procurement", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Indian Community Economic Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Indian Community Economic Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Indian Community Economic Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Native American Business Development, Trade Promotion, and Tourism Act of 2000, the Buy Indian Act, and the Native American Programs Act of 1974 to provide industry and economic development opportunities to Indian communities.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Indian Community Economic Enhancement Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-11T15:45:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s212.xml"
+}

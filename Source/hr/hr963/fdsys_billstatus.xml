@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>1500</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Consumers First Act</latestTitle>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2019-05-23</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>331</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Home Loan Quality Transparency Act of 2019</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2019-02-05</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <laws />
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-02-05</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <createDate>2019-02-06T08:10:16Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <bioguideId>M000087</bioguideId>
+        <district>12</district>
+        <state>NY</state>
+        <middleName>B.</middleName>
+        <party>D</party>
+        <firstName>CAROLYN</firstName>
+        <lastName>MALONEY</lastName>
+        <identifiers>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <bioguideId>G000553</bioguideId>
+        <district>9</district>
+        <state>TX</state>
+        <middleName />
+        <party>D</party>
+        <firstName>Al</firstName>
+        <lastName>Green</lastName>
+        <identifiers>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-22</sponsorshipDate>
+        <bioguideId>J000032</bioguideId>
+        <district>18</district>
+        <state>TX</state>
+        <middleName />
+        <party>D</party>
+        <firstName>SHEILA</firstName>
+        <lastName>JACKSON LEE</lastName>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>B001281</bioguideId>
+        <district>3</district>
+        <state>OH</state>
+        <middleName />
+        <party>D</party>
+        <firstName>Joyce</firstName>
+        <lastName>Beatty</lastName>
+        <identifiers>
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <bioguideId>O000173</bioguideId>
+        <district>5</district>
+        <state>MN</state>
+        <middleName />
+        <party>D</party>
+        <firstName>Ilhan</firstName>
+        <lastName>Omar</lastName>
+        <identifiers>
+          <lisID>2414</lisID>
+          <bioguideId>O000173</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <bioguideId>S001145</bioguideId>
+        <district>9</district>
+        <state>IL</state>
+        <middleName>D.</middleName>
+        <party>D</party>
+        <firstName>JANICE</firstName>
+        <lastName>SCHAKOWSKY</lastName>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billNumber>963</billNumber>
+    <sponsors>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <firstName>NYDIA</firstName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <district>7</district>
+        <lastName>VELAZQUEZ</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>To amend the Home Mortgage Disclosure Act of 1975 to modify the exemptions from certain disclosure requirements.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Home Loan Quality Transparency Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Home Loan Quality Transparency Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Home Loan Quality Transparency Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2019-02-05</introducedDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr963ih/xml/BILLS-116hr963ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-02-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <updateDate>2019-05-28T19:15:06Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <committeeReports />
+    <cboCostEstimates />
+    <title>Home Loan Quality Transparency Act of 2019</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-05T17:00:49Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. VELAZQUEZ:H.R. 963.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1The Congress shall have Power to . . . provide for the . .. general Welfare of the United States; . . .[Page H1362]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <actionDate>2019-02-05</actionDate>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

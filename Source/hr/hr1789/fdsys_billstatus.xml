@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>H001068</bioguideId>
+        <lastName>Huffman</lastName>
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <firstName>Jared</firstName>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2019-03-15T07:12:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-14T13:04:20Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Local and Independent Television Protection Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To eliminate the discount for UHF television stations for purposes of the limitation on the aggregate national audience reach of television broadcast stations in which a party may have a cognizable interest.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Local and Independent Television Protection Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Local and Independent Television Protection Act of 2019</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Local and Independent Television Protection Act of 2019</title>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+      <actionDate>2019-03-14</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <middleName>E.</middleName>
+        <bioguideId>P000523</bioguideId>
+        <lastName>PRICE</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <firstName>DAVID</firstName>
+        <identifiers>
+          <bioguideId>P000523</bioguideId>
+          <lisID>930</lisID>
+          <gpoId>8027</gpoId>
+        </identifiers>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <middleName />
+        <bioguideId>B000574</bioguideId>
+        <lastName>BLUMENAUER</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <firstName>EARL</firstName>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <middleName />
+        <bioguideId>R000606</bioguideId>
+        <lastName>Raskin</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <firstName>Jamie</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <middleName>M.</middleName>
+        <bioguideId>G000551</bioguideId>
+        <lastName>Grijalva</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <firstName>Raul</firstName>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <middleName />
+        <bioguideId>K000389</bioguideId>
+        <lastName>Khanna</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <firstName>Ro</firstName>
+        <identifiers>
+          <lisID>2308</lisID>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <district>17</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <middleName />
+        <bioguideId>S001175</bioguideId>
+        <lastName>Speier</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <firstName>Jackie</firstName>
+        <identifiers>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <district>14</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <middleName />
+        <bioguideId>L000551</bioguideId>
+        <lastName>LEE</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <firstName>BARBARA</firstName>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <middleName />
+        <bioguideId>O000173</bioguideId>
+        <lastName>Omar</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <firstName>Ilhan</firstName>
+        <identifiers>
+          <bioguideId>O000173</bioguideId>
+          <lisID>2414</lisID>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <middleName>S.</middleName>
+        <bioguideId>L000579</bioguideId>
+        <lastName>Lowenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <firstName>Alan</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+          <lisID>2111</lisID>
+        </identifiers>
+        <district>47</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-25T07:15:22Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-03-14</introducedDate>
+    <policyArea />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1789ih/xml/BILLS-116hr1789ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-14T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HUFFMAN:H.R. 1789.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H2747]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1789</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

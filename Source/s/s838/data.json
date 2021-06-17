@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "", 
+      "committees": [
+        "SLIN"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Select Committee on Intelligence.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s838-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Intelligence", 
+      "committee_id": "SLIN"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001035", 
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-14", 
+  "number": "838", 
+  "official_title": "A bill to protect integrity, fairness, and objectivity in decisions regarding access to classified information, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1589-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "W000805", 
+    "district": null, 
+    "name": "Warner, Mark R.", 
+    "state": "VA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-14", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Armed forces and national security", 
+    "Executive agency funding and structure", 
+    "Freedom of information", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Intelligence activities, surveillance, classified information", 
+    "Lawyers and legal services", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to protect integrity, fairness, and objectivity in decisions regarding access to classified information, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to protect integrity, fairness, and objectivity in decisions regarding access to classified information, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T15:45:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s838.xml"
+}

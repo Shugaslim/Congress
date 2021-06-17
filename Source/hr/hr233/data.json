@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-31", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr233-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "W000800", 
+      "district": null, 
+      "name": "Welch, Peter", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-03", 
+      "state": "VT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "233", 
+  "official_title": "To amend title XIX of the Social Security Act to clarify the authority of State Medicaid fraud and abuse control units to investigate and prosecute cases of Medicaid patient abuse and neglect in any setting, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicaid Patient Abuse Prevention Act", 
+  "sponsor": {
+    "bioguide_id": "W000798", 
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation", 
+    "Fraud offenses and financial crimes", 
+    "Health", 
+    "Health care quality", 
+    "Medicaid", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid Patient Abuse Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid Patient Abuse Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to clarify the authority of State Medicaid fraud and abuse control units to investigate and prosecute cases of Medicaid patient abuse and neglect in any setting, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Medicaid Patient Abuse Prevention Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-22T16:27:46Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr233.xml"
+}

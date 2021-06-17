@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>273</billNumber>
+    <recordedVotes />
+    <introducedDate>2019-01-30</introducedDate>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-30</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S770-771</url>
+            <name>S770-771</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S770-771)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-01-30</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <createDate>2019-01-31T05:40:16Z</createDate>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S770-771)</text>
+      <actionDate>2019-01-30</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <titles>
+      <item>
+        <title>A bill to amend the Communications Act of 1934 to require providers of a covered service to provide location information concerning the telecommunications device of a user of such service to an investigative or law enforcement officer or an employee or other agent of a public safety answering point in an emergency situation involving risk of death or serious physical harm or in order to respond to the user's call for emergency services.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Kelsey Smith Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Kelsey Smith Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Kelsey Smith Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-29T21:00:07Z</updateDate>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Kelsey Smith Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-18</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>1818</number>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-30T17:33:59Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Kelsey Smith Act</title>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <lastName>ROBERTS</lastName>
+        <state>KS</state>
+        <bioguideId>R000307</bioguideId>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <party>R</party>
+        <firstName>PAT</firstName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <party>R</party>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <firstName>Jerry</firstName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <lastName>Moran</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <party>R</party>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <lastName>Blunt</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <party>R</party>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <firstName>Deb</firstName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+          <lisID>2179</lisID>
+        </identifiers>
+        <lastName>Fischer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billType>S</billType>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <date>2019-01-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s273is/xml/BILLS-116s273is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

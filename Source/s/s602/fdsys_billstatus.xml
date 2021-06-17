@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-28</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-28</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2019-03-01T05:40:11Z</createDate>
+    <notes />
+    <amendments />
+    <introducedDate>2019-02-28</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to address state-sponsored cyber activities against the United States, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Cyber Deterrence and Response Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Cyber Deterrence and Response Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Cyber Deterrence and Response Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-03-04</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>HR</type>
+        <number>1493</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Cyber Deterrence and Response Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <billNumber>602</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-28T17:01:36Z</date>
+            </item>
+          </activities>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <identifiers>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>G000562</bioguideId>
+        <byRequestType />
+        <firstName>Cory</firstName>
+        <state>CO</state>
+        <lastName>Gardner</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-04-03T04:42:21Z</updateDate>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2019-02-28</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2019-02-28T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s602is/xml/BILLS-116s602is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>DE</state>
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <bioguideId>C001088</bioguideId>
+      </item>
+    </cosponsors>
+    <title>Cyber Deterrence and Response Act of 2019</title>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Financial crises and stabilization</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Foreign loans and debt</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>International monetary system and foreign exchange</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Multilateral development programs</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

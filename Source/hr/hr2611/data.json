@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2611-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "E000215", 
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-09", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000389", 
+      "district": "17", 
+      "name": "Khanna, Ro", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-28", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-09", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-09", 
+  "number": "2611", 
+  "official_title": "To support the establishment and improvement of communications sites on or adjacent to Federal lands under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture through the retention and use of rental fees associated with such sites, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Public Lands Telecommunications Act", 
+  "sponsor": {
+    "bioguide_id": "H001068", 
+    "district": "2", 
+    "name": "Huffman, Jared", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-09", 
+  "subjects": [
+    "Department of Agriculture", 
+    "Department of the Interior", 
+    "Forests, forestry, trees", 
+    "Government trust funds", 
+    "Land use and conservation", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Telephone and wireless communication", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To support the establishment and improvement of communications sites on or adjacent to Federal lands under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture through the retention and use of rental fees associated with such sites, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Public Lands Telecommunications Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Public Lands Telecommunications Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Public Lands Telecommunications Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T07:15:24Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2611.xml"
+}

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-22T18:30:36Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2019-04-11T16:23:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <createDate>2019-04-12T04:57:10Z</createDate>
+    <billNumber>1154</billNumber>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend title 38, United States Code, to establish an advisory committee on the implementation by the Department of Veterans Affairs of an electronic health record.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Department of Veterans Affairs Electronic Health Record Advisory Committee Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Department of Veterans Affairs Electronic Health Record Advisory Committee Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Department of Veterans Affairs Electronic Health Record Advisory Committee Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-11</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <title>Department of Veterans Affairs Electronic Health Record Advisory Committee Act</title>
+    <sponsors>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <middleName />
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <firstName>Jon</firstName>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001243</bioguideId>
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <firstName>Marsha</firstName>
+        <middleName />
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000622</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <firstName>Tammy</firstName>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+      </item>
+    </cosponsors>
+    <laws />
+    <introducedDate>2019-04-11</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1154is/xml/BILLS-116s1154is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-23T04:52:06Z</updateDate>
+    <latestAction>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <links />
+      <actionDate>2019-05-22</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

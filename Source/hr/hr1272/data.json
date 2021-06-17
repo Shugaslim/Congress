@@ -1,0 +1,172 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1272-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001285", 
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001202", 
+      "district": "7", 
+      "name": "Murphy, Stephanie N.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000602", 
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001168", 
+      "district": "3", 
+      "name": "Sarbanes, John P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-14", 
+  "number": "1272", 
+  "official_title": "To amend the Federal Election Campaign Act of 1971 to reduce the number of members of the Federal Election Commission from 6 to 5, to revise the method of selection and terms of service of members of the Commission, to distribute the powers of the Commission between the Chair and the remaining members, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s949-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1612-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Restoring Integrity to America's Elections Act", 
+  "sponsor": {
+    "bioguide_id": "K000381", 
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-14", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Election Campaign Act of 1971 to reduce the number of members of the Federal Election Commission from 6 to 5, to revise the method of selection and terms of service of members of the Commission, to distribute the powers of the Commission between the Chair and the remaining members, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restoring Integrity to America's Elections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restoring Integrity to America\u2019s Elections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Restoring Integrity to America's Elections Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-02T20:45:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1272.xml"
+}

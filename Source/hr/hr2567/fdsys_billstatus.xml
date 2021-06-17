@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <laws />
+    <cboCostEstimates />
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2567ih/xml/BILLS-116hr2567ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-07T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <amendments />
+    <introducedDate>2019-05-07</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-07T16:02:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Education and Labor</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-05-17T19:45:08Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-05-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-07</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <actionDate>2019-05-07</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-05-07</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <latestTitle>Speak Up to Protect Every Abused Kid Act</latestTitle>
+        <type>S</type>
+        <congress>116</congress>
+        <number>1353</number>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2427</lisID>
+          <bioguideId>O000172</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <district>14</district>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>O000172</bioguideId>
+        <lastName>Ocasio-Cortez</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Alexandria</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000631</bioguideId>
+          <lisID>2432</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <district>4</district>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000631</bioguideId>
+        <lastName>Dean</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Madeleine</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1895</lisID>
+          <bioguideId>F000455</bioguideId>
+          <gpoId>8101</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <district>11</district>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000455</bioguideId>
+        <lastName>Fudge</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Marcia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <district>2</district>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000382</bioguideId>
+        <lastName>Kuster</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <createDate>2019-05-08T07:12:12Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>2567</billNumber>
+    <recordedVotes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. WILD:H.R. 2567.Congress has the power to enact this legislation pursuantto the following:Article I Section VIII Clause I[Page H3476]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Child Abuse Prevention and Treatment Act to require mandatory reporting of incidents of child abuse or neglect, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Speak Up to Protect Every Abused Kid Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Speak Up to Protect Every Abused Kid Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Speak Up to Protect Every Abused Kid Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <title>Speak Up to Protect Every Abused Kid Act</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <firstName>Susan</firstName>
+        <lastName>Wild</lastName>
+        <bioguideId>W000826</bioguideId>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <bioguideId>W000826</bioguideId>
+          <lisID>2374</lisID>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <party>D</party>
+        <state>PA</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-26T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <createDate>2019-03-27T07:12:11Z</createDate>
+    <billNumber>1872</billNumber>
+    <billType>HR</billType>
+    <title>ECORA Act of 2019</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2019-03-26</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-26</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-26</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>W000824</bioguideId>
+        <state>KS</state>
+        <district>2</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2402</lisID>
+          <bioguideId>W000824</bioguideId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <lastName>Watkins</lastName>
+        <party>R</party>
+        <fullName>Rep. Watkins, Steve [R-KS-2]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-03-26</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName>W.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001198</bioguideId>
+          <lisID>2328</lisID>
+        </identifiers>
+        <lastName>Marshall</lastName>
+        <party>R</party>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <firstName>Roger</firstName>
+        <bioguideId>M001198</bioguideId>
+        <state>KS</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>2460</lisID>
+          <bioguideId>M001205</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <fullName>Rep. Miller, Carol D. [R-WV-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <firstName>Carol</firstName>
+        <bioguideId>M001205</bioguideId>
+        <state>WV</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName />
+        <identifiers>
+          <lisID>2326</lisID>
+          <gpoId />
+          <bioguideId>B001299</bioguideId>
+        </identifiers>
+        <lastName>Banks</lastName>
+        <party>R</party>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>Jim</firstName>
+        <bioguideId>B001299</bioguideId>
+        <state>IN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2454</lisID>
+          <bioguideId>R000611</bioguideId>
+        </identifiers>
+        <lastName>Riggleman</lastName>
+        <party>R</party>
+        <fullName>Rep. Riggleman, Denver [R-VA-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>Denver</firstName>
+        <bioguideId>R000611</bioguideId>
+        <state>VA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000610</bioguideId>
+          <lisID>2436</lisID>
+        </identifiers>
+        <lastName>Reschenthaler</lastName>
+        <party>R</party>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <firstName>Guy</firstName>
+        <bioguideId>R000610</bioguideId>
+        <state>PA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2297</lisID>
+          <bioguideId>C001108</bioguideId>
+        </identifiers>
+        <lastName>Comer</lastName>
+        <party>R</party>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <firstName>James</firstName>
+        <bioguideId>C001108</bioguideId>
+        <state>KY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <middleName />
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <lastName>King</lastName>
+        <party>R</party>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <bioguideId>K000362</bioguideId>
+        <state>IA</state>
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WATKINS:H.R. 1872.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8.[Page H2827]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Enhancing Credit Opportunities in Rural America Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to exclude from gross income interest received on certain loans secured by agricultural real property.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Enhancing Credit Opportunities in Rural America Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>ECORA Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>ECORA Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1872ih/xml/BILLS-116hr1872ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-26T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Enhancing Credit Opportunities in Rural America Act of 2019 or the ECORA Act of 201</b><b>9</b></p> <p>This bill modifies the requirements for calculating taxable income to exclude from gross income interest received by a lender from real estate loans secured by agricultural real estate or by a leasehold mortgage (with a status as a lien) on agricultural real estate.</p> <p>Agricultural real estate includes real property that is substantially used for the production of one or more agricultural products. It also includes any single family residence that is (1) the principal residence of its occupant, (2) located in a rural area which is not within a Metropolitan Statistical Area and has a population of 2,500 or less; and (3) is purchased or improved with the proceeds of a loan secured by property used for the production of one or more agricultural products. </p>]]></text>
+          <updateDate>2019-03-26T04:00:00Z</updateDate>
+          <actionDate>2019-03-26</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-04-30T19:53:50Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+          <item>
+            <name>Credit and credit markets</name>
+          </item>
+          <item>
+            <name>Farmland</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-24T07:15:44Z</updateDate>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2019-03-26</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

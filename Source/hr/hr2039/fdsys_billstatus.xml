@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionDate>2019-04-02</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>E386</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E386</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR E386)</text>
+        <actionDate>2019-04-02</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-02</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-02</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <updateDate>2019-05-08T07:16:29Z</updateDate>
+    <latestAction>
+      <actionDate>2019-04-02</actionDate>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-04-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2039ih/xml/BILLS-116hr2039ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>2039</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <district>17</district>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>K000389</bioguideId>
+      </item>
+      <item>
+        <lastName>Wasserman Schultz</lastName>
+        <firstName>Debbie</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+        </identifiers>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>FL</state>
+        <district>23</district>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>W000797</bioguideId>
+      </item>
+      <item>
+        <lastName>Speier</lastName>
+        <firstName>Jackie</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <district>14</district>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>S001175</bioguideId>
+      </item>
+      <item>
+        <lastName>MCCOLLUM</lastName>
+        <firstName>BETTY</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>MN</state>
+        <district>4</district>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>M001143</bioguideId>
+      </item>
+      <item>
+        <lastName>HASTINGS</lastName>
+        <firstName>ALCEE</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <district>20</district>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <bioguideId>H000324</bioguideId>
+      </item>
+      <item>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <firstName>LUCILLE</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>997</lisID>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <district>40</district>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <bioguideId>R000486</bioguideId>
+      </item>
+      <item>
+        <lastName>Lawson</lastName>
+        <firstName>Al</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000586</bioguideId>
+          <lisID>2317</lisID>
+        </identifiers>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>FL</state>
+        <district>5</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <bioguideId>L000586</bioguideId>
+      </item>
+      <item>
+        <lastName>SCHIFF</lastName>
+        <firstName>ADAM</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <state>CA</state>
+        <district>28</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <bioguideId>S001150</bioguideId>
+      </item>
+      <item>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TN</state>
+        <district>9</district>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <bioguideId>C001068</bioguideId>
+      </item>
+      <item>
+        <lastName>Bonamici</lastName>
+        <firstName>Suzanne</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>OR</state>
+        <district>1</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <bioguideId>B001278</bioguideId>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <byRequestType />
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-04-02T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Fair Labor Standards Act of 1938 to prohibit discrimination in the payment of wages on account of sex, race, or national origin, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Fair Pay Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Fair Pay Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Fair Pay Act of 2019</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-04-03T07:12:09Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Fair Pay Act of 2019</title>
+    <committeeReports />
+    <introducedDate>2019-04-02</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. NORTON:H.R. 2039.Congress has the power to enact this legislation pursuantto the following:clause 3 of section 8 of article I of the Constitution.[Page H2987]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

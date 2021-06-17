@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T18:32:59Z</date>
+            </item>
+          </activities>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <lastName>Rubio</lastName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>R000595</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Marco</firstName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>A bill to amend the Federal Water Pollution Control Act to reauthorize certain programs relating to nonpoint source management, and for other purposes.</title>
+    <billType>S</billType>
+    <laws />
+    <amendments />
+    <createDate>2019-05-23T04:42:06Z</createDate>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <notes />
+    <policyArea />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-22</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billNumber>1604</billNumber>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2019-05-22</actionDate>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to amend the Federal Water Pollution Control Act to reauthorize certain programs relating to nonpoint source management, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to amend the Federal Water Pollution Control Act to reauthorize certain programs relating to nonpoint source management, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <state>MN</state>
+        <byRequestType />
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-23T04:46:22Z</updateDate>
+    <introducedDate>2019-05-22</introducedDate>
+    <textVersions />
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

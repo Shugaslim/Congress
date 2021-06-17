@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <byRequestType />
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <party>D</party>
+        <middleName />
+        <state>CT</state>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <links />
+      <actionDate>2019-04-30</actionDate>
+    </latestAction>
+    <updateDate>2019-05-11T04:27:17Z</updateDate>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-30</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-30</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills />
+    <introducedDate>2019-04-30</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <title>Duty To Report Act</title>
+    <createDate>2019-05-01T04:27:09Z</createDate>
+    <textVersions>
+      <item>
+        <date>2019-04-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1247is/xml/BILLS-116s1247is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Federal Election Campaign Act of 1971 to require reporting to the Federal Election Commission and the Federal Bureau of Investigation of offers by foreign nationals to make prohibited contributions, donations, expenditures, or disbursements, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Duty To Report Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Duty To Report Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Duty To Report Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <cosponsors>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Whitehouse</lastName>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>RI</state>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <firstName>Martin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Heinrich</lastName>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>NM</state>
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>1247</billNumber>
+    <cboCostEstimates />
+    <recordedVotes />
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <date>2019-04-30T20:29:55Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <policyArea />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

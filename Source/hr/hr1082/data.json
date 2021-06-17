@@ -1,0 +1,182 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1082-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000210", 
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-07", 
+  "number": "1082", 
+  "official_title": "To plan, develop, and make recommendations to increase access to sexual assault examinations for survivors by holding hospitals accountable and supporting the providers that serve them.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s402-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "SASCA", 
+  "sponsor": {
+    "bioguide_id": "J000298", 
+    "district": "7", 
+    "name": "Jayapal, Pramila", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-07", 
+  "subjects": [
+    "Assault and harassment offenses", 
+    "Crime prevention", 
+    "Crime victims", 
+    "Crimes against women", 
+    "Education programs funding", 
+    "Emergency medical services and trauma care", 
+    "Evidence and witnesses", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health care quality", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Higher education", 
+    "Indian social and development programs", 
+    "Medical education", 
+    "Medical tests and diagnostic methods", 
+    "Minority health", 
+    "Nursing", 
+    "Rural conditions and development", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To plan, develop, and make recommendations to increase access to sexual assault examinations for survivors by holding hospitals accountable and supporting the providers that serve them.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SASCA", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SASCA", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Survivors' Access to Supportive Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Survivors\u2019 Access to Supportive Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "SASCA", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-25T18:15:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1082.xml"
+}

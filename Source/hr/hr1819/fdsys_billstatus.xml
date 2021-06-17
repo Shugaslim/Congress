@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-19T07:12:08Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-18</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-18T16:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>344</lisID>
+          <bioguideId>E000179</bioguideId>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <firstName>ELIOT</firstName>
+        <lastName>ENGEL</lastName>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>16</district>
+        <middleName>L.</middleName>
+        <bioguideId>E000179</bioguideId>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8142</gpoId>
+          <lisID>1688</lisID>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <firstName>Joe</firstName>
+        <lastName>Wilson</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName />
+        <bioguideId>W000795</bioguideId>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SC</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <firstName>CHRISTOPHER</firstName>
+        <lastName>SMITH</lastName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <middleName>H.</middleName>
+        <bioguideId>S000522</bioguideId>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001165</bioguideId>
+          <lisID>1818</lisID>
+          <gpoId>8055</gpoId>
+        </identifiers>
+        <firstName>Albio</firstName>
+        <lastName>Sires</lastName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <middleName />
+        <bioguideId>S001165</bioguideId>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. FOXX of North Carolina:H.R. 1819.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 grants Congress the power to``To define and punish Piracies and Felonies committed on thehigh Seas, and Offences against the Law of Nations;''[Page H2755]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-03-18</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1819</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <relatedBills />
+    <updateDate>2019-04-10T07:15:52Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the State Department Basic Authorities Act of 1956 to provide for rewards for the arrest or conviction of certain foreign nationals who have committed genocide or war crimes, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>War Crimes Rewards Expansion Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>War Crimes Rewards Expansion Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>War Crimes Rewards Expansion Act</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-03-18</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Foxx</lastName>
+        <state>NC</state>
+        <district>5</district>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Virginia</firstName>
+        <bioguideId>F000450</bioguideId>
+        <middleName />
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <identifiers>
+          <bioguideId>F000450</bioguideId>
+          <lisID>1791</lisID>
+          <gpoId>8028</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>War Crimes Rewards Expansion Act</title>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1819ih/xml/BILLS-116hr1819ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

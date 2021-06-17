@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>Tim</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Scott</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <bioguideId>S001184</bioguideId>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Perdue</lastName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <bioguideId>P000612</bioguideId>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+          <lisID>2286</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Tina</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Smith</lastName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <bioguideId>S001203</bioguideId>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to reauthorize mandatory funding programs for historically Black colleges and universities and other minority-serving institutions.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Fostering Undergraduate Talent by Unlocking Resources for Education Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>FUTURE Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>FUTURE Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Fostering Undergraduate Talent by Unlocking Resources for Education Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>FUTURE Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2019-05-02</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2019-05-02</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1279is/xml/BILLS-116s1279is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-02T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <notes />
+    <recordedVotes />
+    <billNumber>1279</billNumber>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-02</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>2486</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Fostering Undergraduate Talent by Unlocking Resources for Education Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-05-02</actionDate>
+          <text>Referred to the House Committee on Education and Labor.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cboCostEstimates />
+    <title>FUTURE Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-02T14:23:24Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-05-03T04:42:11Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-21T09:19:21Z</updateDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+        </identifiers>
+        <state>AL</state>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <party>D</party>
+        <bioguideId>J000300</bioguideId>
+        <firstName>Doug</firstName>
+        <lastName>Jones</lastName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,159 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-31", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr359-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Energy", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000566", 
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-09", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-09", 
+  "number": "359", 
+  "official_title": "To provide for certain programs and developments in the Department of Energy concerning the cybersecurity and vulnerabilities of, and physical threats to, the electric grid, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Enhancing Grid Security through Public-Private Partnerships Act", 
+  "sponsor": {
+    "bioguide_id": "M001166", 
+    "district": "9", 
+    "name": "McNerney, Jerry", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-09", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Energy storage, supplies, demand", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Public utilities and utility rates", 
+    "Public-private cooperation"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-09T05:00:00Z", 
+    "text": "Enhancing Grid Security through Public-Private Partnerships Act \n\nThis bill directs the Department of Energy to facilitate and encourage public-private partnerships in order to address and mitigate the physical security and cybersecurity risks of electric utilities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for certain programs and developments in the Department of Energy concerning the cybersecurity and vulnerabilities of, and physical threats to, the electric grid, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Enhancing Grid Security through Public-Private Partnerships Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Enhancing Grid Security through Public-Private Partnerships Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Enhancing Grid Security through Public-Private Partnerships Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-17T07:12:49Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr359.xml"
+}

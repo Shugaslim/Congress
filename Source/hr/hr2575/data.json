@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2575-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001187", 
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-08", 
+  "number": "2575", 
+  "official_title": "To authorize an AI Center of Excellence within the General Services Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "AI in Government Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "M001166", 
+    "district": "9", 
+    "name": "McNerney, Jerry", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-08", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advanced technology and technological innovations", 
+    "Advisory bodies", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Employment and training programs", 
+    "Executive agency funding and structure", 
+    "General Services Administration", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Public-private cooperation"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize an AI Center of Excellence within the General Services Administration, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "AI in Government Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "AI in Government Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "AI in Government Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-17T18:30:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2575.xml"
+}

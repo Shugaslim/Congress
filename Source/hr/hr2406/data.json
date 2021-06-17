@@ -1,0 +1,244 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR H3323", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Oversight and Reform, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Oversight and Reform, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Oversight and Reform, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Oversight and Reform, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2406-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001068", 
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001210", 
+      "district": "15", 
+      "name": "Spano, Ross", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000033", 
+      "district": null, 
+      "name": "Young, Don", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-30", 
+      "state": "AK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-30", 
+  "number": "2406", 
+  "official_title": "To amend the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 to make certain changes to the National Oceanic and Atmospheric Administration's commissioned officer corps, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001055", 
+    "district": "1", 
+    "name": "Case, Ed", 
+    "state": "HI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-30", 
+  "subjects": [
+    "Business investment and capital", 
+    "Congressional oversight", 
+    "Finance and Financial Sector", 
+    "Rural conditions and development", 
+    "Science, technology, communications", 
+    "Securities and Exchange Commission (SEC)", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 to make certain changes to the National Oceanic and Atmospheric Administration's commissioned officer corps, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:15:59Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2406.xml"
+}

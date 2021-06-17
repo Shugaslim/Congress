@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>Robert</firstName>
+        <state>NJ</state>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <middleName />
+        <lastName>Menendez</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+        </identifiers>
+        <bioguideId>M000639</bioguideId>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2019-03-07</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <title>Reproductive Rights are Human Rights Act of 2019</title>
+    <introducedDate>2019-03-07</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-03-07T18:42:13Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billType>S</billType>
+    <updateDate>2019-04-03T04:42:21Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>707</billNumber>
+    <textVersions>
+      <item>
+        <date>2019-03-07T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s707is/xml/BILLS-116s707is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>HR</type>
+        <number>1581</number>
+        <latestAction>
+          <actionDate>2019-03-07</actionDate>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Reproductive Rights are Human Rights Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <recordedVotes />
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <middleName />
+        <state>NH</state>
+        <firstName>Jeanne</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>CT</state>
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <state>MD</state>
+        <firstName>BENJAMIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>Wood</middleName>
+        <state>NH</state>
+        <firstName>Margaret</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <lastName>Hassan</lastName>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <firstName>Kirsten</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>OR</state>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <lastName>WYDEN</lastName>
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <state>MA</state>
+        <firstName>EDWARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>WI</state>
+        <firstName>Tammy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <lastName>Baldwin</lastName>
+        <bioguideId>B001230</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>MD</state>
+        <firstName>Chris</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <lastName>Van Hollen</lastName>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>JOSEPH</middleName>
+        <state>VT</state>
+        <firstName>PATRICK</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <lastName>LEAHY</lastName>
+        <bioguideId>L000174</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>CA</state>
+        <firstName>DIANNE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>MN</state>
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>OR</state>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <lastName>Merkley</lastName>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>MN</state>
+        <firstName>Tina</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <lastName>Smith</lastName>
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>OH</state>
+        <firstName>Sherrod</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>Brown</lastName>
+        <bioguideId>B000944</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>RI</state>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <state>RI</state>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <state>DE</state>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <state>IL</state>
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <lastName>DURBIN</lastName>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <state>CA</state>
+        <firstName>Kamala</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <lastName>Harris</lastName>
+        <bioguideId>H001075</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <state>HI</state>
+        <firstName>Mazie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <lastName>Hirono</lastName>
+        <bioguideId>H001042</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>IL</state>
+        <firstName>Tammy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <lastName>Duckworth</lastName>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+          <lisID>2123</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>WA</state>
+        <firstName>PATTY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <lastName>MURRAY</lastName>
+        <bioguideId>M001111</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <lastName>Booker</lastName>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>CT</state>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <lastName>Murphy</lastName>
+        <bioguideId>M001169</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>NV</state>
+        <firstName>Jacklyn</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <lastName>Rosen</lastName>
+        <bioguideId>R000608</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>VA</state>
+        <firstName>Timothy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <lastName>Kaine</lastName>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+        <firstName>DEBORAH</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>HI</state>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <lastName>Schatz</lastName>
+        <bioguideId>S001194</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+          <lisID>2173</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <state>VT</state>
+        <firstName>Bernard</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <lastName>Sanders</lastName>
+        <bioguideId>S000033</bioguideId>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <party>I</party>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-03-07</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Abortion</name>
+          </item>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Family planning and birth control</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>HIV/AIDS</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>Sexually transmitted diseases</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+          <item>
+            <name>Women's rights</name>
+          </item>
+          <item>
+            <name>World health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <createDate>2019-03-08T05:42:07Z</createDate>
+    <titles>
+      <item>
+        <title>A bill to amend the Foreign Assistance Act of 1961 to include in the Annual Country Reports on Human Rights Practices a section on reproductive rights, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Reproductive Rights are Human Rights Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Reproductive Rights are Human Rights Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Reproductive Rights are Human Rights Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

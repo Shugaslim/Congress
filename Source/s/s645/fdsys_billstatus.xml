@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-05</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s645is/xml/BILLS-116s645is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend title 10, United States Code, to provide for the inclusion of homeschooled students in Junior Reserve Officer's Training Corps units.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend title 10, United States Code, to provide for the inclusion of homeschooled students in Junior Reserve Officer's Training Corps units.</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <updateDate>2019-04-10T21:45:09Z</updateDate>
+    <calendarNumbers />
+    <congress>116</congress>
+    <billNumber>645</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Military education and training</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Doug</firstName>
+        <lastName>Jones</lastName>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <bioguideId>J000300</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AL</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-03-05T15:49:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <title>A bill to amend title 10, United States Code, to provide for the inclusion of homeschooled students in Junior Reserve Officer's Training Corps units.</title>
+    <latestAction>
+      <actionDate>2019-03-05</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <links />
+    </latestAction>
+    <createDate>2019-03-06T05:42:07Z</createDate>
+    <laws />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <lastName>Cotton</lastName>
+        <bioguideId>C001095</bioguideId>
+        <state>AR</state>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>1258</number>
+        <latestTitle>To amend title 10, United States Code, to provide for the inclusion of homeschooled students in Junior Reserve Officer's Training Corps units.</latestTitle>
+        <latestAction>
+          <actionDate>2019-02-15</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <introducedDate>2019-03-05</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

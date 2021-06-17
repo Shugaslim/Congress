@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-04-08</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-04-08</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-04-08</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <lastName>Wilson</lastName>
+        <district>2</district>
+        <middleName />
+        <firstName>Joe</firstName>
+        <bioguideId>W000795</bioguideId>
+        <state>SC</state>
+        <party>R</party>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-04-09T07:12:09Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <lastName>SHERMAN</lastName>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <firstName>BRAD</firstName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>S000344</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>30</district>
+        <party>D</party>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Holding, George [R-NC-2]</fullName>
+        <lastName>Holding</lastName>
+        <identifiers>
+          <bioguideId>H001065</bioguideId>
+          <lisID>2143</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>George</firstName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>H001065</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>2</district>
+        <party>R</party>
+        <state>NC</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <lastName>Gabbard</lastName>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Tulsi</firstName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>G000571</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>2</district>
+        <party>D</party>
+        <state>HI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <lastName>Yoho</lastName>
+        <identifiers>
+          <lisID>2115</lisID>
+          <bioguideId>Y000065</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>Y000065</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <district>3</district>
+        <party>R</party>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <lastName>Bera</lastName>
+        <identifiers>
+          <lisID>2102</lisID>
+          <bioguideId>B001287</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ami</firstName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>B001287</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>7</district>
+        <party>D</party>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <lastName>Olson</lastName>
+        <identifiers>
+          <gpoId>8178</gpoId>
+          <lisID>1955</lisID>
+          <bioguideId>O000168</bioguideId>
+        </identifiers>
+        <firstName>Pete</firstName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <bioguideId>O000168</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>22</district>
+        <party>R</party>
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-04-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2123ih/xml/BILLS-116hr2123ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billNumber>2123</billNumber>
+    <notes />
+    <updateDate>2019-05-16T07:15:43Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <title>United States-India Enhanced Cooperation Act of 2019</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>India</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WILSON of South Carolina:H.R. 2123.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18.[Page H3129]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To provide for United States actions to advance the United States-India strategic relationship.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>United States-India Enhanced Cooperation Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>United States-India Enhanced Cooperation Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>United States-India Enhanced Cooperation Act of 2019</title>
+      </item>
+    </titles>
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2019-04-08</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-08T16:03:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <introducedDate>2019-04-08</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

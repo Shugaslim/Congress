@@ -1,0 +1,182 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-25", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Asia, the Pacific and Nonproliferation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1632-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Asia and the Pacific", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001091", 
+      "district": "20", 
+      "name": "Castro, Joaquin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001199", 
+      "district": "18", 
+      "name": "Mast, Brian J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001187", 
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-08", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000065", 
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-07", 
+  "number": "1632", 
+  "official_title": "To require a strategy for engagement with Southeast Asia and the Association of Southeast Asian Nations (ASEAN).", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Southeast Asia Strategy Act", 
+  "sponsor": {
+    "bioguide_id": "W000812", 
+    "district": "2", 
+    "name": "Wagner, Ann", 
+    "state": "MO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-07", 
+  "subjects": [
+    "Alliances", 
+    "Asia", 
+    "Brunei", 
+    "Burma", 
+    "Cambodia", 
+    "Collective security", 
+    "Congressional oversight", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Economic development", 
+    "Human rights", 
+    "Human trafficking", 
+    "Indonesia", 
+    "Infrastructure development", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Laos", 
+    "Malaysia", 
+    "Marine and coastal resources, fisheries", 
+    "Navigation, waterways, harbors", 
+    "Pacific Ocean", 
+    "Philippines", 
+    "Public-private cooperation", 
+    "Rule of law and government transparency", 
+    "Singapore", 
+    "Sovereignty, recognition, national governance and status", 
+    "Terrorism", 
+    "Thailand", 
+    "Transportation safety and security", 
+    "Vietnam"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require a strategy for engagement with Southeast Asia and the Association of Southeast Asian Nations (ASEAN).", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Southeast Asia Strategy Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Southeast Asia Strategy Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Southeast Asia Strategy Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-11T07:15:32Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1632.xml"
+}

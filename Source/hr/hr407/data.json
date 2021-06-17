@@ -1,0 +1,141 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Citizenship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr407-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-09", 
+  "number": "407", 
+  "official_title": "To amend the Immigration and Nationality Act to establish the Virgin Islands visa waiver program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Virgin Islands Visa Waiver Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "P000610", 
+    "district": null, 
+    "name": "Plaskett, Stacey E.", 
+    "state": "VI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-09", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Anguilla", 
+    "Antigua and Barbuda", 
+    "Bahamas", 
+    "Barbados", 
+    "Belize", 
+    "Bermuda", 
+    "British Virgin Islands", 
+    "Caribbean area", 
+    "Cayman Islands", 
+    "Department of Homeland Security", 
+    "Dominica", 
+    "Grenada", 
+    "Guyana", 
+    "Haiti", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Jamaica", 
+    "Latin America", 
+    "Montserrat", 
+    "Saint Kitts and Nevis", 
+    "Saint Lucia", 
+    "Saint Vincent and the Grenadines", 
+    "Suriname", 
+    "Trinidad and Tobago", 
+    "Turks and Caicos", 
+    "U.S. territories and protectorates", 
+    "Virgin Islands", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Virgin Islands Visa Waiver Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Virgin Islands Visa Waiver Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to establish the Virgin Islands visa waiver program.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Virgin Islands Visa Waiver Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-26T15:30:44Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr407.xml"
+}

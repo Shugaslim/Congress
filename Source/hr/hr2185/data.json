@@ -1,0 +1,132 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E437", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-25", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2185-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-09", 
+  "number": "2185", 
+  "official_title": "To amend the Coastal Zone Management Act of 1972 to allow the District of Columbia to receive Federal funding under such Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "District of Columbia Flood Prevention Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-09", 
+  "subjects": [
+    "District of Columbia", 
+    "Floods and storm protection", 
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-04-09T04:00:00Z", 
+    "text": "District of Columbia Flood Prevention Act of 2019\n\nThis bill makes the District of Columbia eligible to receive federal coastal zone management funding, including flood mitigation and prevention funds."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Coastal Zone Management Act of 1972 to allow the District of Columbia to receive Federal funding under such Act, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "District of Columbia Flood Prevention Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "District of Columbia Flood Prevention Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "District of Columbia Flood Prevention Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-07T16:15:10Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2185.xml"
+}

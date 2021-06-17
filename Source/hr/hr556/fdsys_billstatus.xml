@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <congress>116</congress>
+    <sponsors>
+      <item>
+        <bioguideId>D000096</bioguideId>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <firstName>DANNY</firstName>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>DAVIS</lastName>
+        <middleName>K.</middleName>
+        <district>7</district>
+        <state>IL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2019-01-15</introducedDate>
+    <title>ELEVATE Act of 2019</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>136</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-01-15</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>ELEVATE Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <createDate>2019-01-16T08:10:16Z</createDate>
+    <notes />
+    <updateDate>2019-02-11T19:53:18Z</updateDate>
+    <laws />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Family services</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Labor standards</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Self-employed</name>
+          </item>
+          <item>
+            <name>Social Security Administration</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billNumber>556</billNumber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <firstName>Terri</firstName>
+        <state>AL</state>
+        <lastName>Sewell</lastName>
+        <bioguideId>S001185</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2341</lisID>
+          <gpoId />
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <firstName>Thomas</firstName>
+        <state>NY</state>
+        <lastName>Suozzi</lastName>
+        <bioguideId>S001201</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <middleName>R.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+        </identifiers>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <firstName>EARL</firstName>
+        <state>OR</state>
+        <lastName>BLUMENAUER</lastName>
+        <bioguideId>B000574</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2267</lisID>
+          <gpoId />
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <firstName>Brendan</firstName>
+        <state>PA</state>
+        <lastName>Boyle</lastName>
+        <bioguideId>B001296</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <middleName>F.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+        </identifiers>
+        <fullName>Rep. Evans, Dwight [D-PA-3]</fullName>
+        <firstName>Dwight</firstName>
+        <state>PA</state>
+        <lastName>Evans</lastName>
+        <bioguideId>E000296</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr556ih/xml/BILLS-116hr556ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-15T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-15T15:03:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DANNY K. DAVIS of Illinois:H.R. 556.Congress has the power to enact this legislation pursuantto the following:Article I of the Constitution and its subsequent amendmentsand further clarified and interpreted by the Supreme Court ofthe United States.[Page H602]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2019-01-15</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>ELEVATE Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Economic Ladders to End Volatility and Advance Training and Employment Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Social Security Act to establish a new employment, training, and supportive services program for the long-term unemployed and individuals with barriers to employment, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>ELEVATE Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>ELEVATE Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Economic Ladders to End Volatility and Advance Training and Employment Act of 2019</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

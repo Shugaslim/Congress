@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>C001097</bioguideId>
+        <lastName>Cardenas</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <firstName>Tony</firstName>
+        <district>29</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2019-03-18</actionDate>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-03-18</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-03-18</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-03-19T07:12:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-18T16:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to increase the age requirement with respect to eligibility for qualified ABLE programs.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>ABLE Age Adjustment Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>ABLE Age Adjustment Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>ABLE Age Adjustment Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>ABLE Age Adjustment Act</title>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2019-03-18</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8209</gpoId>
+          <lisID>1809</lisID>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <firstName>Cathy</firstName>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <lastName>Rodgers</lastName>
+        <middleName>McMorris</middleName>
+        <bioguideId>M001159</bioguideId>
+        <party>R</party>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <lastName>Cohen</lastName>
+        <middleName />
+        <bioguideId>C001068</bioguideId>
+        <party>D</party>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+        <bioguideId>F000466</bioguideId>
+        <party>R</party>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+        </identifiers>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <lastName>Turner</lastName>
+        <middleName>R.</middleName>
+        <bioguideId>T000463</bioguideId>
+        <party>R</party>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2426</lisID>
+          <bioguideId>R000613</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <firstName>Max</firstName>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <lastName>Rose</lastName>
+        <middleName />
+        <bioguideId>R000613</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <firstName>Debbie</firstName>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <lastName>Wasserman Schultz</lastName>
+        <middleName />
+        <bioguideId>W000797</bioguideId>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>23</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <firstName>John</firstName>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <lastName>Katko</lastName>
+        <middleName />
+        <bioguideId>K000386</bioguideId>
+        <party>R</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>24</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <firstName>Seth</firstName>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <lastName>Moulton</lastName>
+        <middleName />
+        <bioguideId>M001196</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <lisID>2092</lisID>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <firstName>Suzanne</firstName>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <lastName>Bonamici</lastName>
+        <middleName />
+        <bioguideId>B001278</bioguideId>
+        <party>D</party>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000631</bioguideId>
+          <lisID>2432</lisID>
+        </identifiers>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <firstName>Madeleine</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <lastName>Dean</lastName>
+        <middleName />
+        <bioguideId>D000631</bioguideId>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <lastName>Pocan</lastName>
+        <middleName />
+        <bioguideId>P000607</bioguideId>
+        <party>D</party>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000610</bioguideId>
+          <lisID>2436</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <firstName>Guy</firstName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <lastName>Reschenthaler</lastName>
+        <middleName />
+        <bioguideId>R000610</bioguideId>
+        <party>R</party>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>14</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000617</bioguideId>
+          <lisID>2405</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Pressley, Ayanna [D-MA-7]</fullName>
+        <firstName>Ayanna</firstName>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <lastName>Pressley</lastName>
+        <middleName />
+        <bioguideId>P000617</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001205</bioguideId>
+          <lisID>2373</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Scanlon, Mary Gay [D-PA-5]</fullName>
+        <firstName>Mary</firstName>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <lastName>Scanlon</lastName>
+        <middleName>Gay</middleName>
+        <bioguideId>S001205</bioguideId>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2222</lisID>
+          <gpoId />
+          <bioguideId>R000600</bioguideId>
+        </identifiers>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <firstName>Aumua Amata</firstName>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <lastName>Radewagen</lastName>
+        <middleName>Coleman</middleName>
+        <bioguideId>R000600</bioguideId>
+        <party>R</party>
+        <state>AS</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <firstName>Sean</firstName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <lastName>Maloney</lastName>
+        <middleName>Patrick</middleName>
+        <bioguideId>M001185</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <firstName>JAMES</firstName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <lastName>LANGEVIN</lastName>
+        <middleName>R.</middleName>
+        <bioguideId>L000559</bioguideId>
+        <party>D</party>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <lastName>Cole</lastName>
+        <middleName />
+        <bioguideId>C001053</bioguideId>
+        <party>R</party>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+        </identifiers>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <firstName>Kathleen</firstName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <lastName>Rice</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>R000602</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000388</bioguideId>
+          <lisID>2294</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <firstName>Trent</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Kelly</lastName>
+        <middleName />
+        <bioguideId>K000388</bioguideId>
+        <party>R</party>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2169</lisID>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Kilmer</lastName>
+        <middleName />
+        <bioguideId>K000381</bioguideId>
+        <party>D</party>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <firstName>Brendan</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Boyle</lastName>
+        <middleName>F.</middleName>
+        <bioguideId>B001296</bioguideId>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <firstName>Jamie</firstName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <lastName>Raskin</lastName>
+        <middleName />
+        <bioguideId>R000606</bioguideId>
+        <party>D</party>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <lastName>Gallagher</lastName>
+        <middleName />
+        <bioguideId>G000579</bioguideId>
+        <party>R</party>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2358</lisID>
+          <bioguideId>E000298</bioguideId>
+        </identifiers>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <firstName>Ron</firstName>
+        <sponsorshipDate>2019-05-24</sponsorshipDate>
+        <lastName>Estes</lastName>
+        <middleName />
+        <bioguideId>E000298</bioguideId>
+        <party>R</party>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-25T07:15:22Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-04-08T19:40:38Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>ABLE Age Adjustment Act</strong></p> <p>This bill increases from 26 to 46 the age&nbsp;threshold for tax-favored ABLE (Achieving a Better Life Experience) accounts. (ABLE accounts are designed to enable individuals with disabilities to save for and pay for disability-related expenses. To establish an account, an individual must have a qualifying impairment that began before the individual attained the age threshold.)</p>]]></text>
+          <updateDate>2019-03-18T04:00:00Z</updateDate>
+          <actionDate>2019-03-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2019-03-18</introducedDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1814ih/xml/BILLS-116hr1814ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-18T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-03-05</actionDate>
+        </latestAction>
+        <number>651</number>
+        <latestTitle>ABLE Age Adjustment Act</latestTitle>
+        <type>S</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARDENAS:H.R. 1814.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 1.All legislative powers herein granted shall be vested in aCongress of the United States, which shall consist of aSenate and House of Representatives.Tony Cardenas[Page H2755]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1814</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

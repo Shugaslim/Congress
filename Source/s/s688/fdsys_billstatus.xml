@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-03-06T22:57:52Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 28, United States Code, to add Flagstaff and Yuma to the list of locations in which court shall be held in the judicial district for the State of Arizona.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend title 28, United States Code, to add Flagstaff and Yuma to the list of locations in which court shall be held in the judicial district for the State of Arizona.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s688is/xml/BILLS-116s688is.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-06T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>Federal district courts</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <laws />
+    <updateDate>2019-04-04T14:15:23Z</updateDate>
+    <notes />
+    <billNumber>688</billNumber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>Kyrsten</firstName>
+        <state>AZ</state>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <middleName />
+        <lastName>Sinema</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <bioguideId>S001191</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <introducedDate>2019-03-06</introducedDate>
+    <title>A bill to amend title 28, United States Code, to add Flagstaff and Yuma to the list of locations in which court shall be held in the judicial district for the State of Arizona.</title>
+    <recordedVotes />
+    <committeeReports />
+    <latestAction>
+      <actionDate>2019-03-06</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <createDate>2019-03-07T05:42:07Z</createDate>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on the Judiciary.</text>
+          <actionDate>2019-03-06</actionDate>
+        </latestAction>
+        <latestTitle>To amend title 28, United States Code, to add Flagstaff and Yuma to the list of locations in which court shall be held in the judicial district for the State of Arizona.</latestTitle>
+        <number>1569</number>
+        <type>HR</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <amendments />
+    <congress>116</congress>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Martha</firstName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>M001197</bioguideId>
+        <state>AZ</state>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <lastName>McSally</lastName>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-06</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2019-03-06</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

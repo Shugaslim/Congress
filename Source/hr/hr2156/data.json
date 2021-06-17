@@ -1,0 +1,462 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 10.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2156-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001292", 
+      "district": "8", 
+      "name": "Beyer, Donald S., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-09", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001296", 
+      "district": "2", 
+      "name": "Boyle, Brendan F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001286", 
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001066", 
+      "district": "14", 
+      "name": "Castor, Kathy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000631", 
+      "district": "4", 
+      "name": "Dean, Madeleine", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000482", 
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000459", 
+      "district": "3", 
+      "name": "Fleischmann, Charles J. \"Chuck\"", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000574", 
+      "district": "7", 
+      "name": "Gallego, Ruben", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000558", 
+      "district": "2", 
+      "name": "Guthrie, Brett", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001080", 
+      "district": "1", 
+      "name": "Haaland, Debra A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001068", 
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000391", 
+      "district": "8", 
+      "name": "Krishnamoorthi, Raja", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000588", 
+      "district": "17", 
+      "name": "Lamb, Conor", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000570", 
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001180", 
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001204", 
+      "district": "9", 
+      "name": "Meuser, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000395", 
+      "district": "5", 
+      "name": "Rogers, Harold", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-09", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000577", 
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001185", 
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001165", 
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001187", 
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000467", 
+      "district": "15", 
+      "name": "Thompson, Glenn", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-09", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000469", 
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000826", 
+      "district": "7", 
+      "name": "Wild, Susan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000062", 
+      "district": "3", 
+      "name": "Yarmuth, John A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-01", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-09", 
+  "number": "2156", 
+  "official_title": "To amend the Surface Mining Control and Reclamation Act of 1977 to provide funds to States and Indian tribes for the purpose of promoting economic revitalization, diversification, and development in economically distressed communities through the reclamation and restoration of land and water resources adversely affected by coal mining carried out before August 3, 1977, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "RECLAIM Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001090", 
+    "district": "8", 
+    "name": "Cartwright, Matt", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-01", 
+  "subjects": [
+    "Coal", 
+    "Congressional oversight", 
+    "Department of the Interior", 
+    "Economic development", 
+    "Environmental protection", 
+    "Executive agency funding and structure", 
+    "Government studies and investigations", 
+    "Hazardous wastes and toxic substances", 
+    "Indian social and development programs", 
+    "Land use and conservation", 
+    "Mining", 
+    "Water quality", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Surface Mining Control and Reclamation Act of 1977 to provide funds to States and Indian tribes for the purpose of promoting economic revitalization, diversification, and development in economically distressed communities through the reclamation and restoration of land and water resources adversely affected by coal mining carried out before August 3, 1977, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RECLAIM Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RECLAIM Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Revitalizing the Economy of Coal Communities by Leveraging Local Activities and Investing More Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Revitalizing the Economy of Coal Communities by Leveraging Local Activities and Investing More Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "RECLAIM Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T17:00:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2156.xml"
+}

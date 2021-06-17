@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1888-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-26", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-26", 
+  "number": "1888", 
+  "official_title": "To provide for a grants program to develop and enhance integrated nutrition and physical activity curricula in medical schools.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "ENRICH Act", 
+  "sponsor": {
+    "bioguide_id": "R000577", 
+    "district": "13", 
+    "name": "Ryan, Tim", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-26", 
+  "subjects": [
+    "Cancer", 
+    "Cardiovascular and respiratory health", 
+    "Digestive and metabolic diseases", 
+    "Education programs funding", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Medical education", 
+    "Nutrition and diet", 
+    "Physical fitness and lifestyle", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ENRICH Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Nutrition's Role in Curricula and Healthcare Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Nutrition\u2019s Role in Curricula and Healthcare Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for a grants program to develop and enhance integrated nutrition and physical activity curricula in medical schools.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "ENRICH Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-11T18:30:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1888.xml"
+}

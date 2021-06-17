@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-08T08:10:21Z</createDate>
+    <introducedDate>2019-02-07</introducedDate>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1052ih/xml/BILLS-116hr1052ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T15:06:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T15:06:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>1860</lisID>
+          <bioguideId>S001172</bioguideId>
+          <gpoId>8040</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <state>NE</state>
+        <firstName>Adrian</firstName>
+        <bioguideId>S001172</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <lastName>Smith</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2402</lisID>
+          <bioguideId>W000824</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Watkins, Steve [R-KS-2]</fullName>
+        <state>KS</state>
+        <firstName>Steve</firstName>
+        <bioguideId>W000824</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <lastName>Watkins</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <state>PA</state>
+        <firstName>Brian</firstName>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <state>TX</state>
+        <firstName>SHEILA</firstName>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <lastName>JACKSON LEE</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Terri</firstName>
+        <byRequestType />
+        <middleName>A.</middleName>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <state>AL</state>
+        <party>D</party>
+        <lastName>Sewell</lastName>
+        <district>7</district>
+        <identifiers>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <bioguideId>S001185</bioguideId>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-02-07</actionDate>
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-07</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-02-07</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-02-25T22:17:00Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill allows direct payment, under the Medicare program,&nbsp;to&nbsp;physician assistants for certain&nbsp;services furnished to enrollees.<br /></p>]]></text>
+          <updateDate>2019-02-07T05:00:00Z</updateDate>
+          <actionDate>2019-02-07</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H1462-H1463]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SEWELL of Alabama:H.R. 1052.[[Page H1463]]Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1.[Page H3316]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to provide for direct payment to physician assistants under the Medicare program for certain services furnished by such physician assistants.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend title XVIII of the Social Security Act to provide for direct payment to physician assistants under the Medicare program for certain services furnished by such physician assistants.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <committeeReports />
+    <title>To amend title XVIII of the Social Security Act to provide for direct payment to physician assistants under the Medicare program for certain services furnished by such physician assistants.</title>
+    <congress>116</congress>
+    <updateDate>2019-04-03T07:16:23Z</updateDate>
+    <billNumber>1052</billNumber>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>S</type>
+        <number>596</number>
+        <latestAction>
+          <actionDate>2019-02-28</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A bill to amend title XVIII of the Social Security Act to provide for direct payment to physician assistants under the Medicare program for certain services furnished by such physician assistants.</latestTitle>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

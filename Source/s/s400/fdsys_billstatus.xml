@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000300</bioguideId>
+        <firstName>Doug</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2364</lisID>
+          <bioguideId>J000300</bioguideId>
+        </identifiers>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Jones</lastName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001070</bioguideId>
+        <firstName>Bob</firstName>
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Casey</lastName>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001047</bioguideId>
+        <firstName>SHELLEY</firstName>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <lastName>CAPITO</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s400is/xml/BILLS-116s400is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-07</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+      <actionDate>2019-02-07</actionDate>
+    </latestAction>
+    <laws />
+    <updateDate>2019-05-23T09:18:22Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T20:41:56Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <lastName>Toomey</lastName>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <middleName />
+        <firstName>Pat</firstName>
+        <party>R</party>
+        <byRequestType />
+        <bioguideId>T000461</bioguideId>
+        <state>PA</state>
+        <identifiers>
+          <lisID>1594</lisID>
+          <gpoId />
+          <bioguideId>T000461</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <notes />
+    <billType>S</billType>
+    <introducedDate>2019-02-07</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to gather information about the illicit production of illicit fentanyl in foreign countries and to withhold bilateral assistance from countries that do not have emergency scheduling procedures for new illicit drugs, cannot prosecute criminals for the manufacture or distribution of controlled substance analogues, or do not require the registration of tableting machine and encapsulating machines.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Blocking Deadly Fentanyl Imports Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Blocking Deadly Fentanyl Imports Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Blocking Deadly Fentanyl Imports Act</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+          <actionDate>2019-02-07</actionDate>
+        </latestAction>
+        <number>1098</number>
+        <latestTitle>Blocking Deadly Fentanyl Imports Act</latestTitle>
+        <type>HR</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2019-02-08T05:55:25Z</createDate>
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <title>Blocking Deadly Fentanyl Imports Act</title>
+    <billNumber>400</billNumber>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

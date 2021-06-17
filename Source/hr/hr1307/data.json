@@ -1,0 +1,246 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Small Business, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Small Business, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Small Business, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-19", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1307-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000629", 
+      "district": "3", 
+      "name": "Davids, Sharice", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000582", 
+      "district": null, 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-26", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001090", 
+      "district": "10", 
+      "name": "Harder, Josh", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-25", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000032", 
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-25", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-15", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000603", 
+      "district": "7", 
+      "name": "Rouzer, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-27", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-03-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-15", 
+  "number": "1307", 
+  "official_title": "To provide for an online repository for certain reporting requirements for recipients of Federal disaster assistance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Post-Disaster Assistance Online Accountability Act", 
+  "sponsor": {
+    "bioguide_id": "M001187", 
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-03-27", 
+  "subjects": [
+    "Disaster relief and insurance", 
+    "Emergency management", 
+    "Government information and archives", 
+    "Natural disasters", 
+    "Public-private cooperation"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for an online repository for certain reporting requirements for recipients of Federal disaster assistance, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Post-Disaster Assistance Online Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Post-Disaster Assistance Online Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Post-Disaster Assistance Online Accountability Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:15:47Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1307.xml"
+}

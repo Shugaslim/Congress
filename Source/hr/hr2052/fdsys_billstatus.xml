@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <systemCode>hspw12</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-04T13:40:12Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-03T13:02:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>2052</billNumber>
+    <latestAction>
+      <actionDate>2019-04-04</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <systemCode>hspw12</systemCode>
+          <name>Highways and Transit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <policyArea />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>C001108</bioguideId>
+        <district>1</district>
+        <state>KY</state>
+        <firstName>James</firstName>
+        <middleName />
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <identifiers>
+          <lisID>2297</lisID>
+          <bioguideId>C001108</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Comer</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-01T07:16:38Z</updateDate>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <identifiers>
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Barr</lastName>
+        <bioguideId>B001282</bioguideId>
+        <state>KY</state>
+        <district>6</district>
+        <firstName>Andy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <createDate>2019-04-04T07:12:08Z</createDate>
+    <relatedBills />
+    <introducedDate>2019-04-03</introducedDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COMER:H.R. 2052.Congress has the power to enact this legislation pursuantto the following:Atticle I, Section 8, Clause 7: To establish Post Officesand Roads.[Page H3068]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2052ih/xml/BILLS-116hr2052ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-04-03T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>116</congress>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Intermodal Surface Transportation Efficiency Act of 1991 with respect to a portion of the Wendell H. Ford (Western Kentucky) Parkway, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Intermodal Surface Transportation Efficiency Act of 1991 with respect to a portion of the Wendell H. Ford (Western Kentucky) Parkway, and for other purposes.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <title>To amend the Intermodal Surface Transportation Efficiency Act of 1991 with respect to a portion of the Wendell H. Ford (Western Kentucky) Parkway, and for other purposes.</title>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2019-04-03T13:30:12Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-27T21:28:26Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Atmospheric science and weather</name>
+          </item>
+          <item>
+            <name>Chemistry</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Federal Emergency Management Agency (FEMA)</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Geography and mapping</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Great Lakes</name>
+          </item>
+          <item>
+            <name>Hydrology and hydrography</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Marine pollution</name>
+          </item>
+          <item>
+            <name>Natural disasters</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-03-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>ROGER</firstName>
+        <lastName>WICKER</lastName>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <state>MS</state>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <bioguideId>W000437</bioguideId>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <title>Coordinated Ocean Observations and Research Act of 2019</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+        </identifiers>
+        <state>WA</state>
+        <party>D</party>
+        <bioguideId>C000127</bioguideId>
+        <lastName>CANTWELL</lastName>
+        <middleName />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <firstName>MARIA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+        </identifiers>
+        <state>AK</state>
+        <party>R</party>
+        <bioguideId>S001198</bioguideId>
+        <lastName>Sullivan</lastName>
+        <middleName />
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>914</billNumber>
+    <congress>116</congress>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <number>810</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>COASTAL Implementation Act of 2019</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2019-03-14</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <createDate>2019-03-28T04:42:09Z</createDate>
+    <updateDate>2019-05-18T09:20:59Z</updateDate>
+    <latestAction>
+      <actionDate>2019-04-03</actionDate>
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to reauthorize the Integrated Coastal and Ocean Observation System Act of 2009, to clarify the authority of the Administrator of the National Oceanic and Atmospheric Administration with respect to post-storm assessments, and to require the establishment of a National Water Center, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Coordinated Ocean Observations and Research Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Coordinated Ocean Observations and Research Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Coordinated Ocean Observations and Research Act of 2019</title>
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-03-27</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-03-27T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s914is/xml/BILLS-116s914is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Education and Labor, and in addition to the Committees on Ways and Means, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Education and Labor, and in addition to the Committees on Ways and Means, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Education and Labor, and in addition to the Committees on Ways and Means, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2065-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-03", 
+  "number": "2065", 
+  "official_title": "To amend the Higher Education Act of 1965 in order to increase usage of the Federal student loan income-based repayment plan and improve repayment options for borrowers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1002-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Affordable Loans for Any Student Act", 
+  "sponsor": {
+    "bioguide_id": "D000216", 
+    "district": "3", 
+    "name": "DeLauro, Rosa L.", 
+    "state": "CT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-03", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Debt collection", 
+    "Education", 
+    "Financial literacy", 
+    "Government information and archives", 
+    "Government lending and loan guarantees", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Internet and video services", 
+    "Marriage and family status", 
+    "Student aid and college costs", 
+    "User charges and fees", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965 in order to increase usage of the Federal student loan income-based repayment plan and improve repayment options for borrowers, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Affordable Loans for Any Student Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Affordable Loans for Any Student Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Affordable Loans for Any Student Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-08T21:30:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2065.xml"
+}

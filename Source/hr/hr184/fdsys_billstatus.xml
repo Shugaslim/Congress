@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionDate>2019-01-03</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2019-01-03</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2019-01-03</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <updateDate>2019-05-09T23:33:00Z</updateDate>
+    <latestAction>
+      <actionDate>2019-02-05</actionDate>
+      <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-01-03T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr184ih/xml/BILLS-116hr184ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>184</billNumber>
+    <cosponsors>
+      <item>
+        <district>0</district>
+        <lastName>Radewagen</lastName>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Aumua Amata</firstName>
+        <state>AS</state>
+        <bioguideId>R000600</bioguideId>
+        <middleName>Coleman</middleName>
+        <party>R</party>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2222</lisID>
+          <bioguideId>R000600</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <lastName>Bacon</lastName>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Don</firstName>
+        <state>NE</state>
+        <bioguideId>B001298</bioguideId>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2337</lisID>
+          <bioguideId>B001298</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <lastName>Cole</lastName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <state>OK</state>
+        <bioguideId>C001053</bioguideId>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>King</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Steve</firstName>
+        <district>4</district>
+        <byRequestType />
+        <state>IA</state>
+        <bioguideId>K000362</bioguideId>
+        <identifiers>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-05T18:06:40Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii24</systemCode>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T16:03:35Z</date>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To transfer administrative jurisdiction of certain Federal lands from the United States Army Corps of Engineers to the United States Bureau of Indian Affairs, to take such lands into trust for the Winnebago Tribe of Nebraska.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Winnebago Land Transfer Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Winnebago Land Transfer Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Winnebago Land Transfer Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Winnebago Land Transfer Act of 2019</b></p> This bill takes specified federal land in Iowa into trust for the benefit of the Winnebago Tribe of Nebraska. The land becomes part of the tribe's reservation.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-01-30T21:28:52Z</lastSummaryUpdateDate>
+          <actionDate>2019-01-03</actionDate>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-01-04T13:32:56Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Winnebago Land Transfer Act of 2019</title>
+    <committeeReports />
+    <introducedDate>2019-01-03</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Iowa</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Nebraska</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of Iowa:H.R. 184.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to Congress' powers toregulate commerce with foreign nations, and among the severalstates, and with the Indian Tribes under Article I, Section8, Clause 3 of the United States Constitution.[Page H216]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

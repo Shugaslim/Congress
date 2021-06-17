@@ -1,0 +1,167 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2513-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001292", 
+      "district": "8", 
+      "name": "Beyer, Donald S., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000754", 
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000210", 
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-03", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001203", 
+      "district": "7", 
+      "name": "Malinowski, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-03", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001137", 
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-03", 
+  "number": "2513", 
+  "official_title": "To ensure that persons who form corporations or limited liability companies in the United States disclose the beneficial owners of those corporations or limited liability companies, in order to prevent wrongdoers from exploiting United States corporations and limited liability companies for criminal gain, to assist law enforcement in detecting, preventing, and punishing terrorism, money laundering, and other misconduct involving United States corporations and limited liability companies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Corporate Transparency Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "M000087", 
+    "district": "12", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-03", 
+  "subjects": [
+    "Business ethics", 
+    "Business records", 
+    "Civil actions and liability", 
+    "Corporate finance and management", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal procedure and sentencing", 
+    "Finance and financial sector", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Law enforcement administration and funding", 
+    "Terrorism", 
+    "Trade secrets and economic espionage", 
+    "U.S. and foreign investments"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure that persons who form corporations or limited liability companies in the United States disclose the beneficial owners of those corporations or limited liability companies, in order to prevent wrongdoers from exploiting United States corporations and limited liability companies for criminal gain, to assist law enforcement in detecting, preventing, and punishing terrorism, money laundering, and other misconduct involving United States corporations and limited liability companies, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Corporate Transparency Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Corporate Transparency Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Corporate Transparency Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-25T07:15:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2513.xml"
+}

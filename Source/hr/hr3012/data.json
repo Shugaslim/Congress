@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3012-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "F000465", 
+      "district": "3", 
+      "name": "Ferguson, A. Drew, IV", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001067", 
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000578", 
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001187", 
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-23", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-23", 
+  "number": "3012", 
+  "official_title": "To direct the Secretary of Veterans Affairs to conduct outreach to veterans regarding the effect of delayed payments of claims for emergency medical care furnished by non-Department of Veterans Affairs medical providers by the Office of Community Care and to direct the Secretary to submit to Congress an annual report regarding such delayed payments.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "R000603", 
+    "district": "7", 
+    "name": "Rouzer, David", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-23", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to conduct outreach to veterans regarding the effect of delayed payments of claims for emergency medical care furnished by non-Department of Veterans Affairs medical providers by the Office of Community Care and to direct the Secretary to submit to Congress an annual report regarding such delayed payments.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to conduct outreach to veterans regarding the effect of delayed payments of claims for emergency medical care furnished by non-Department of Veterans Affairs medical providers by the Office of Community Care and to direct the Secretary to submit to Congress an annual report regarding such delayed payments.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T07:31:36Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3012.xml"
+}

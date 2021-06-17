@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2813-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "J000298", 
+      "district": "7", 
+      "name": "Jayapal, Pramila", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000172", 
+      "district": "14", 
+      "name": "Ocasio-Cortez, Alexandria", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000173", 
+      "district": "5", 
+      "name": "Omar, Ilhan", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-16", 
+  "number": "2813", 
+  "official_title": "To permit aliens seeking asylum to be eligible for employment in the United States and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "P000597", 
+    "district": "1", 
+    "name": "Pingree, Chellie", 
+    "state": "ME", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-16", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To permit aliens seeking asylum to be eligible for employment in the United States and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To permit aliens seeking asylum to be eligible for employment in the United States and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T07:16:02Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2813.xml"
+}

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Dan</firstName>
+        <state>AK</state>
+        <byRequestType />
+        <bioguideId>S001198</bioguideId>
+        <lastName>Sullivan</lastName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <relatedBills />
+    <calendarNumbers />
+    <introducedDate>2019-05-09</introducedDate>
+    <billType>S</billType>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-09</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-09</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1390</billNumber>
+    <createDate>2019-05-10T04:42:10Z</createDate>
+    <amendments />
+    <cboCostEstimates />
+    <updateDate>2019-05-29T04:27:12Z</updateDate>
+    <committeeReports />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1390is/xml/BILLS-116s1390is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-09T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <middleName />
+        <firstName>Richard</firstName>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <middleName />
+        <firstName>Tammy</firstName>
+        <bioguideId>D000622</bioguideId>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+          <lisID>2123</lisID>
+        </identifiers>
+        <lastName>Duckworth</lastName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <middleName />
+        <firstName>Lisa</firstName>
+        <bioguideId>M001153</bioguideId>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <lastName>Murkowski</lastName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2019-05-09T16:50:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssva00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>A bill to require plans for military installations for full military funeral honors for veterans at such installations.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Creig Sharp Funeral Honors for Veterans Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Creig Sharp Funeral Honors for Veterans Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Creig Sharp Funeral Honors for Veterans Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2019-05-09</actionDate>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <links />
+    </latestAction>
+    <title>Creig Sharp Funeral Honors for Veterans Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

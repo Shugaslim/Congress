@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1969-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "W000815", 
+      "district": "2", 
+      "name": "Wenstrup, Brad R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-28", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-28", 
+  "number": "1969", 
+  "official_title": "To amend title XVIII of the Social Security Act to cover screening computed tomography colonography as a colorectal cancer screening test under the Medicare program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "CT Colonography Screening for Colorectal Cancer Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000096", 
+    "district": "7", 
+    "name": "Davis, Danny K.", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-28", 
+  "subjects": [
+    "Cancer", 
+    "Congressional oversight", 
+    "Digestive and metabolic diseases", 
+    "Health", 
+    "Health care coverage and access", 
+    "Medical tests and diagnostic methods", 
+    "Medicare"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to cover screening computed tomography colonography as a colorectal cancer screening test under the Medicare program.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CT Colonography Screening for Colorectal Cancer Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CT Colonography Screening for Colorectal Cancer Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "CT Colonography Screening for Colorectal Cancer Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-22T15:15:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1969.xml"
+}

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <introducedDate>2019-05-21</introducedDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-05-21T19:57:47Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions />
+    <cboCostEstimates />
+    <createDate>2019-05-22T04:42:14Z</createDate>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to direct the Secretary of State to make available to the Director of the Centers for Disease Control and Prevention copies of consular reports of death of United States citizens, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to direct the Secretary of State to make available to the Director of the Centers for Disease Control and Prevention copies of consular reports of death of United States citizens, and for other purposes.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2019-05-22T07:17:38Z</updateDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <lastName>Warren</lastName>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <party>D</party>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>1575</billNumber>
+    <committeeReports />
+    <relatedBills />
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2019-05-21</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <title>A bill to direct the Secretary of State to make available to the Director of the Centers for Disease Control and Prevention copies of consular reports of death of United States citizens, and for other purposes.</title>
+    <policyArea />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-21</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-05-21</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>ROB</firstName>
+        <middleName />
+        <lastName>PORTMAN</lastName>
+        <byRequestType />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <bioguideId>P000449</bioguideId>
+        <state>OH</state>
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

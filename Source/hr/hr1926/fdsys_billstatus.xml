@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-03</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-27</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-27</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-27</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-07T07:12:28Z</updateDate>
+    <latestAction>
+      <actionDate>2019-05-03</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1926ih/xml/BILLS-116hr1926ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>1926</billNumber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <bioguideId>F000466</bioguideId>
+        <middleName>K.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <state>PA</state>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fitzpatrick</lastName>
+        <firstName>Brian</firstName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Phillips</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>Dean</firstName>
+        <district>3</district>
+        <byRequestType />
+        <state>MN</state>
+        <bioguideId>P000616</bioguideId>
+        <identifiers>
+          <lisID>2413</lisID>
+          <bioguideId>P000616</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-27T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-03T17:49:33Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide temporary protected status for certain nationals of Liberia, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Protect Our Liberian Community Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Protect Our Liberian Community Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Protect Our Liberian Community Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-03-28T07:12:08Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Protect Our Liberian Community Act of 2019</title>
+    <committeeReports />
+    <introducedDate>2019-03-27</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Liberia</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PHILLIPS:H.R. 1926.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 3 provides Congress with thepower to ``regulate commerce with foreign nations, and amongthe several states, and with the Indian tribes.''[Page H2886]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

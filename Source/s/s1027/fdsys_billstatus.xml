@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <textVersions>
+      <item>
+        <date>2019-04-04T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1027is/xml/BILLS-116s1027is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>CT</state>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Ron</firstName>
+        <lastName>Johnson</lastName>
+        <bioguideId>J000293</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>MA</state>
+        <firstName>EDWARD</firstName>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>CT</state>
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <bioguideId>M001169</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>MI</state>
+        <firstName>DEBORAH</firstName>
+        <lastName>STABENOW</lastName>
+        <bioguideId>S000770</bioguideId>
+        <middleName>ANN</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Baldwin</lastName>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <middleName />
+        <byRequestType />
+        <bioguideId>B001230</bioguideId>
+        <party>D</party>
+        <firstName>Tammy</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>National Scenic Trails Parity Act</b></p> <p>This bill requires the North Country, Ice Age, and New England national scenic trails to be administered as units of the National Park System. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-05-08T15:10:06Z</lastSummaryUpdateDate>
+          <actionDate>2019-04-04</actionDate>
+          <updateDate>2019-04-04T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-04-04</actionDate>
+      </item>
+    </actions>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-04T15:27:18Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <updateDate>2019-05-11T04:27:16Z</updateDate>
+    <billNumber>1027</billNumber>
+    <createDate>2019-04-05T04:42:09Z</createDate>
+    <introducedDate>2019-04-04</introducedDate>
+    <amendments />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-04-23</actionDate>
+          <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <number>2090</number>
+        <latestTitle>National Scenic Trails Parity Act</latestTitle>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <title>National Scenic Trails Parity Act</title>
+    <notes />
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to clarify the status of the North Country, Ice Age, and New England National Scenic Trails as units of the National Park System, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>National Scenic Trails Parity Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>National Scenic Trails Parity Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>National Scenic Trails Parity Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <billType>S</billType>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2019-04-04</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

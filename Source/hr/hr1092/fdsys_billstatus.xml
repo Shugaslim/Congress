@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2019-02-08T08:10:23Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2019-05-17T07:15:32Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-01</actionDate>
+        <committee>
+          <systemCode>hsvr09</systemCode>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-08</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Employee performance</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Sexually transmitted diseases</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>Chellie</firstName>
+        <lastName>Pingree</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <middleName />
+        <state>ME</state>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <bioguideId>P000597</bioguideId>
+        <byRequestType />
+        <district>1</district>
+      </item>
+    </sponsors>
+    <title>Servicemembers and Veterans Empowerment and Support Act of 2019</title>
+    <cosponsors>
+      <item>
+        <district>26</district>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+        </identifiers>
+        <bioguideId>B001285</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Brownley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Julia</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>12</district>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>D000624</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Dingell</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Debbie</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <lastName>Kuster</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ann</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <bioguideId>M001160</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gwen</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <bioguideId>R000515</bioguideId>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <lastName>RUSH</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BOBBY</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <identifiers>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <bioguideId>D000617</bioguideId>
+        <middleName>K.</middleName>
+        <party>D</party>
+        <lastName>DelBene</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Suzan</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <bioguideId>G000551</bioguideId>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <lastName>Grijalva</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>19</district>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+        </identifiers>
+        <bioguideId>L000397</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>LOFGREN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ZOE</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>0</district>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <identifiers>
+          <lisID>1962</lisID>
+          <bioguideId>S001177</bioguideId>
+          <gpoId>8018</gpoId>
+        </identifiers>
+        <bioguideId>S001177</bioguideId>
+        <middleName>Kilili Camacho</middleName>
+        <party>D</party>
+        <lastName>Sablan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gregorio</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>MP</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <middleName>P.</middleName>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>JAMES</firstName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+        </identifiers>
+        <bioguideId>T000468</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Titus</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Dina</firstName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <identifiers>
+          <lisID>2418</lisID>
+          <gpoId />
+          <bioguideId>P000614</bioguideId>
+        </identifiers>
+        <bioguideId>P000614</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Pappas</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>PETER</firstName>
+        <sponsorshipDate>2019-03-29</sponsorshipDate>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <identifiers>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+        </identifiers>
+        <bioguideId>D000216</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>DELAURO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ROSA</firstName>
+        <sponsorshipDate>2019-03-29</sponsorshipDate>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>48</district>
+        <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+        <identifiers>
+          <lisID>2382</lisID>
+          <bioguideId>R000616</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000616</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Rouda</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Harley</firstName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>12</district>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2259</lisID>
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <bioguideId>W000822</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Watson Coleman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Bonnie</firstName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>6</district>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000381</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Kilmer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Derek</firstName>
+        <sponsorshipDate>2019-05-10</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>20</district>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <bioguideId>H000324</bioguideId>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ALCEE</firstName>
+        <sponsorshipDate>2019-05-10</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <identifiers>
+          <lisID>2414</lisID>
+          <gpoId />
+          <bioguideId>O000173</bioguideId>
+        </identifiers>
+        <bioguideId>O000173</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Omar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ilhan</firstName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>1092</billNumber>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-07</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <latestTitle>Servicemembers and Veterans Empowerment and Support Act of 2019</latestTitle>
+        <type>S</type>
+        <congress>116</congress>
+        <number>374</number>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-03-01T16:30:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsvr09</systemCode>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-07T15:05:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-02-08T17:44:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-07T15:05:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H1463-H1464]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. PINGREE:H.R. 1092.Congress has the power to enact this legislation pursuantto the following:[[Page H1464]]Section 8 of Article I of the United States Constitution</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-03-01</actionDate>
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 38, United States Code, to expand health care and benefits from the Department of Veterans Affairs for military sexual trauma, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Servicemembers and Veterans Empowerment and Support Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Servicemembers and Veterans Empowerment and Support Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Servicemembers and Veterans Empowerment and Support Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-02-07</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-02-07T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1092ih/xml/BILLS-116hr1092ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

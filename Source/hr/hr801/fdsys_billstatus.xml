@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2019-01-25</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-01-25</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-01-25</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to allow for a credit against tax for employers of reservists.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Reserve Component Employer Incentive, Compensation, and Relief Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Reserve Component Employer Incentive, Compensation, and Relief Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Reserve Component Employer Incentive, Compensation, and Relief Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <committeeReports />
+    <updateDate>2019-05-15T07:15:38Z</updateDate>
+    <createDate>2019-01-26T08:10:11Z</createDate>
+    <notes />
+    <amendments />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>R</party>
+        <lastName>Palazzo</lastName>
+        <firstName>Steven</firstName>
+        <identifiers>
+          <gpoId>8022</gpoId>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <bioguideId>P000601</bioguideId>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <state>MS</state>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <party>D</party>
+        <lastName>Rose</lastName>
+        <firstName>Max</firstName>
+        <identifiers>
+          <bioguideId>R000613</bioguideId>
+          <lisID>2426</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000613</bioguideId>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <state>NY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <party>R</party>
+        <lastName>Reschenthaler</lastName>
+        <firstName>Guy</firstName>
+        <identifiers>
+          <lisID>2436</lisID>
+          <bioguideId>R000610</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000610</bioguideId>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <state>PA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>14</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <party>D</party>
+        <lastName>Gabbard</lastName>
+        <firstName>Tulsi</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <bioguideId>G000571</bioguideId>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <state>HI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <party>R</party>
+        <lastName>Cole</lastName>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <state>OK</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <party>D</party>
+        <lastName>Kilmer</lastName>
+        <firstName>Derek</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+        </identifiers>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <state>WA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <party>R</party>
+        <lastName>Stivers</lastName>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <bioguideId>S001187</bioguideId>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <state>OH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>15</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <party>R</party>
+        <lastName>Hartzler</lastName>
+        <firstName>Vicky</firstName>
+        <identifiers>
+          <lisID>2032</lisID>
+          <bioguideId>H001053</bioguideId>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <bioguideId>H001053</bioguideId>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <state>MO</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <party>D</party>
+        <lastName>Phillips</lastName>
+        <firstName>Dean</firstName>
+        <identifiers>
+          <lisID>2413</lisID>
+          <bioguideId>P000616</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>P000616</bioguideId>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <state>MN</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <state>PA</state>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Ruppersberger</lastName>
+        <firstName>C. A.</firstName>
+        <identifiers>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+        </identifiers>
+        <bioguideId>R000576</bioguideId>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <state>MD</state>
+        <middleName>Dutch</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Harder</lastName>
+        <firstName>Josh</firstName>
+        <identifiers>
+          <lisID>2377</lisID>
+          <bioguideId>H001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001090</bioguideId>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Kirkpatrick</lastName>
+        <firstName>Ann</firstName>
+        <identifiers>
+          <gpoId>7220</gpoId>
+          <lisID>1907</lisID>
+          <bioguideId>K000368</bioguideId>
+        </identifiers>
+        <bioguideId>K000368</bioguideId>
+        <fullName>Rep. Kirkpatrick, Ann [D-AZ-2]</fullName>
+        <state>AZ</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <party>R</party>
+        <lastName>Joyce</lastName>
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000302</bioguideId>
+          <lisID>2435</lisID>
+        </identifiers>
+        <bioguideId>J000302</bioguideId>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <state>PA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Courtney</lastName>
+        <firstName>Joe</firstName>
+        <identifiers>
+          <gpoId>7867</gpoId>
+          <lisID>1836</lisID>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <bioguideId>C001069</bioguideId>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <party>R</party>
+        <lastName>GRANGER</lastName>
+        <firstName>KAY</firstName>
+        <identifiers>
+          <lisID>1487</lisID>
+          <bioguideId>G000377</bioguideId>
+          <gpoId>8168</gpoId>
+        </identifiers>
+        <bioguideId>G000377</bioguideId>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <party>D</party>
+        <lastName>Case</lastName>
+        <firstName>Ed</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001055</bioguideId>
+          <lisID>1693</lisID>
+        </identifiers>
+        <bioguideId>C001055</bioguideId>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <state>HI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <party>R</party>
+        <lastName>Kelly</lastName>
+        <firstName>Trent</firstName>
+        <identifiers>
+          <lisID>2294</lisID>
+          <gpoId />
+          <bioguideId>K000388</bioguideId>
+        </identifiers>
+        <bioguideId>K000388</bioguideId>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <state>MS</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+    </cosponsors>
+    <billNumber>801</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-25T19:01:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-01-25T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-14T13:59:57Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Reserve Component Employer Incentive, Compensation, and Relief Act of 201</b><b>9</b></p> <p>This bill allows a tax credit for certain employers of reservists (i.e., members of the National Guard or a reserve component of the Armed Forces). </p> <p>The tax credit is equal to $1,000 for each reservist employed during the year, plus an additional amount that ranges from $3,000 to $10,000, depending on the number of days the reservist serves in the uniformed services during the year. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-25</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2019-01-25</actionDate>
+    </latestAction>
+    <title>Reserve Component Employer Incentive, Compensation, and Relief Act of 2019</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RYAN:H.R. 801.Congress has the power to enact this legislation pursuantto the following:``The Congress enacts this bill pursuant to Clause 6 ofSection 8 of Article I of the United States Constitution .''[Page H1218]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-01-25</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-01-25T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr801ih/xml/BILLS-116hr801ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <bioguideId>R000577</bioguideId>
+        <state>OH</state>
+        <middleName />
+        <byRequestType />
+        <party>D</party>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <lastName>RYAN</lastName>
+        <district>13</district>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <firstName>TIM</firstName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

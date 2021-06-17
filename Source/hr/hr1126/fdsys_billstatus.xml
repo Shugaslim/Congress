@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide inscriptions for spouses and children on certain headstones and markers furnished by the Secretary.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Honoring Veterans' Families Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Honoring Veterans' Families Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Honoring Veterans’ Families Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <cboCostEstimates />
+    <billNumber>1126</billNumber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr09</systemCode>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-05-01T19:57:01Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-01T16:31:13Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-08T14:04:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <lastName>LaMalfa</lastName>
+        <party>R</party>
+        <firstName>Doug</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2100</lisID>
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>CA</state>
+        <district>1</district>
+        <bioguideId>L000578</bioguideId>
+        <middleName />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <createDate>2019-02-09T08:10:16Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <prayer>1</prayer>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <systemCode>hsvr09</systemCode>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-01</actionDate>
+        <committee>
+          <systemCode>hsvr09</systemCode>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR H1532-1533)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1532-1533</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1532-1533</url>
+          </link>
+        </links>
+        <actionDate>2019-02-13</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-02-08</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-08</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-08</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <notes />
+    <calendarNumbers />
+    <updateDate>2019-05-21T13:41:06Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cemeteries and funerals</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Marriage and family status</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LaMALFA:H.R. 1126.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution[Page H1493]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <firstName>Jimmy</firstName>
+        <lastName>Panetta</lastName>
+        <bioguideId>P000613</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>20</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2309</lisID>
+          <bioguideId>P000613</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>WALTER</firstName>
+        <lastName>JONES</lastName>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Rick</firstName>
+        <lastName>Allen</lastName>
+        <bioguideId>A000372</bioguideId>
+        <middleName>W.</middleName>
+        <party>R</party>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <lastName>Posey</lastName>
+        <bioguideId>P000599</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <bioguideId>W000814</bioguideId>
+        <middleName>K.</middleName>
+        <party>R</party>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Joe</firstName>
+        <lastName>Wilson</lastName>
+        <bioguideId>W000795</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <identifiers>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Ralph</firstName>
+        <lastName>Norman</lastName>
+        <bioguideId>N000190</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000190</bioguideId>
+          <lisID>2361</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Jim</firstName>
+        <lastName>Banks</lastName>
+        <bioguideId>B001299</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <state>IN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2326</lisID>
+          <bioguideId>B001299</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Joe</firstName>
+        <lastName>Cunningham</lastName>
+        <bioguideId>C001122</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Rep. Cunningham, Joe [D-SC-1]</fullName>
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <identifiers>
+          <bioguideId>C001122</bioguideId>
+          <gpoId />
+          <lisID>2437</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <lastName>Rutherford</lastName>
+        <bioguideId>R000609</bioguideId>
+        <middleName>H.</middleName>
+        <party>R</party>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <lastName>Fortenberry</lastName>
+        <bioguideId>F000449</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <state>NE</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <identifiers>
+          <gpoId>8038</gpoId>
+          <bioguideId>F000449</bioguideId>
+          <lisID>1793</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Robert</firstName>
+        <lastName>Latta</lastName>
+        <bioguideId>L000566</bioguideId>
+        <middleName>E.</middleName>
+        <party>R</party>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <identifiers>
+          <bioguideId>L000566</bioguideId>
+          <gpoId>8095</gpoId>
+          <lisID>1885</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <lastName>Johnson</lastName>
+        <bioguideId>J000299</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <state>LA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2330</lisID>
+          <bioguideId>J000299</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>PETER</firstName>
+        <lastName>DEFAZIO</lastName>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <state>OR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2019-05-01</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <date>2019-02-08T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1126ih/xml/BILLS-116hr1126ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-02-08</introducedDate>
+    <title>Honoring Veterans' Families Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

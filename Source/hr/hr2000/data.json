@@ -1,0 +1,278 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR H2947", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2000-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001090", 
+      "district": "8", 
+      "name": "Cartwright, Matt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-03", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001121", 
+      "district": "6", 
+      "name": "Crow, Jason", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-04", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001038", 
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-01", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000389", 
+      "district": "17", 
+      "name": "Khanna, Ro", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000557", 
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-01", 
+      "state": "CT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000593", 
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-16", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000613", 
+      "district": "11", 
+      "name": "Rose, Max", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-18", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000616", 
+      "district": "48", 
+      "name": "Rouda, Harley", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-09", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001208", 
+      "district": "8", 
+      "name": "Slotkin, Elissa", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-16", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001209", 
+      "district": "7", 
+      "name": "Spanberger, Abigail Davis", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000482", 
+      "district": "3", 
+      "name": "Trahan, Lori", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-02", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-01", 
+  "number": "2000", 
+  "official_title": "To establish a public health plan.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s981-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1868-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Medicare-X Choice Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000630", 
+    "district": "19", 
+    "name": "Delgado, Antonio", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-01", 
+  "subjects": [
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health programs administration and funding", 
+    "Higher education", 
+    "Income tax credits", 
+    "Inflation and prices", 
+    "Medicaid", 
+    "Medicare", 
+    "Poverty and welfare assistance", 
+    "Prescription drugs", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a public health plan.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicare-X Choice Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicare-X Choice Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Medicare-X Choice Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-17T07:15:43Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2000.xml"
+}

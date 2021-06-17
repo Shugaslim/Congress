@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1544-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001066", 
+      "district": "4", 
+      "name": "Horsford, Steven", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-05", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000590", 
+      "district": "3", 
+      "name": "Lee, Susie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-05", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-05", 
+  "number": "1544", 
+  "official_title": "To require the Secretary of Energy to obtain the consent of affected State and local governments before making an expenditure from the Nuclear Waste Fund for a nuclear waste repository, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s649-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Nuclear Waste Informed Consent Act", 
+  "sponsor": {
+    "bioguide_id": "T000468", 
+    "district": "1", 
+    "name": "Titus, Dina", 
+    "state": "NV", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-05", 
+  "subjects": [
+    "Energy", 
+    "Federal-Indian relations", 
+    "Intergovernmental relations", 
+    "Nuclear power", 
+    "Radioactive wastes and releases", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Energy to obtain the consent of affected State and local governments before making an expenditure from the Nuclear Waste Fund for a nuclear waste repository, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Nuclear Waste Informed Consent Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Nuclear Waste Informed Consent Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Nuclear Waste Informed Consent Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-22T17:45:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1544.xml"
+}

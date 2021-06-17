@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to foster security in Taiwan, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Taiwan Assurance Act of 2019</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Taiwan Assurance Act of 2019</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Taiwan Assurance Act of 2019</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billNumber>878</billNumber>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-26</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-26</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <amendments />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2019-03-26</actionDate>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+          <actionDate>2019-05-08</actionDate>
+        </latestAction>
+        <number>2002</number>
+        <latestTitle>Taiwan Assurance Act of 2019</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-26T19:33:17Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <title>Taiwan Assurance Act of 2019</title>
+    <updateDate>2019-05-11T09:22:06Z</updateDate>
+    <textVersions>
+      <item>
+        <date>2019-03-26T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s878is/xml/BILLS-116s878is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-03-26</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <party>R</party>
+        <lastName>Cotton</lastName>
+        <middleName />
+        <state>AR</state>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <state>NJ</state>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <bioguideId>M000639</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <bioguideId>R000595</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+        <bioguideId>C001098</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <state>NV</state>
+        <firstName>Catherine</firstName>
+        <lastName>Cortez Masto</lastName>
+        <bioguideId>C001113</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <state>DE</state>
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <bioguideId>C001088</bioguideId>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>AK</state>
+        <firstName>Dan</firstName>
+        <lastName>Sullivan</lastName>
+        <bioguideId>S001198</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <createDate>2019-03-27T04:42:08Z</createDate>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of State</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>Taiwan</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

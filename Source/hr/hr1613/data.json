@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1613-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000617", 
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-07", 
+  "number": "1613", 
+  "official_title": "To direct the Federal Election Commission to carry out a voucher pilot program under which individuals may use vouchers to make small dollar contributions to qualified candidates for election for the office of Representative in, or Delegate or Resident Commissioner to, the Congress, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Democracy Dollars Act", 
+  "sponsor": {
+    "bioguide_id": "J000298", 
+    "district": "7", 
+    "name": "Jayapal, Pramila", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-07", 
+  "subjects": [
+    "Congressional oversight", 
+    "Elections, voting, political campaign regulation", 
+    "Federal Election Commission (FEC)", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Public participation and lobbying", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Federal Election Commission to carry out a voucher pilot program under which individuals may use vouchers to make small dollar contributions to qualified candidates for election for the office of Representative in, or Delegate or Resident Commissioner to, the Congress, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Democracy Dollars Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Democracy Dollars Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Democracy Dollars Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-16T16:15:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1613.xml"
+}

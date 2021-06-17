@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-04T18:37:44Z</date>
+            </item>
+          </activities>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName />
+        <state>AL</state>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <firstName>Doug</firstName>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <party>D</party>
+        <lastName>Jones</lastName>
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <gpoId />
+          <lisID>2364</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000300</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <state>TN</state>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <firstName>Marsha</firstName>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <party>R</party>
+        <lastName>Blackburn</lastName>
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001243</bioguideId>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Public Health Service Act to expand the authority of the Secretary of Health and Human Services to permit nurses to practice in health care facilities with critical shortages of nurses through programs for loan repayment and scholarships for nurses.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Nursing WIN Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Nursing Where It's Needed Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Nursing Where It's Needed Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Nursing Where It's Needed Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Nursing WIN Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-04-04</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <notes />
+    <billType>S</billType>
+    <cboCostEstimates />
+    <amendments />
+    <updateDate>2019-05-22T05:18:28Z</updateDate>
+    <textVersions>
+      <item>
+        <date>2019-04-04T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1045is/xml/BILLS-116s1045is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>Nursing Where It's Needed Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>Young</lastName>
+        <identifiers>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <bioguideId>Y000064</bioguideId>
+        <middleName />
+        <byRequestType />
+        <firstName>Todd</firstName>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <party>R</party>
+        <state>IN</state>
+      </item>
+    </sponsors>
+    <createDate>2019-04-05T04:42:09Z</createDate>
+    <latestAction>
+      <actionDate>2019-04-04</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <billNumber>1045</billNumber>
+    <laws />
+    <introducedDate>2019-04-04</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

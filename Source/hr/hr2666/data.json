@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2666-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001195", 
+      "district": "8", 
+      "name": "Smith, Jason", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-10", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-10", 
+  "number": "2666", 
+  "official_title": "To amend title XVIII of the Social Security Act to provide payment under part A of the Medicare Program on a reasonable cost basis for anesthesia services furnished by an anesthesiologist in certain rural hospitals in the same manner as payments are provided for anesthesia services furnished by anesthesiologist assistants and certified registered nurse anesthetists in such hospitals, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicare Access to Rural Anesthesiology Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001061", 
+    "district": "5", 
+    "name": "Cleaver, Emanuel", 
+    "state": "MO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-10", 
+  "subjects": [
+    "Health", 
+    "Health personnel", 
+    "Medicare", 
+    "Rural conditions and development", 
+    "Surgery and anesthesia"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to provide payment under part A of the Medicare Program on a reasonable cost basis for anesthesia services furnished by an anesthesiologist in certain rural hospitals in the same manner as payments are provided for anesthesia services furnished by anesthesiologist assistants and certified registered nurse anesthetists in such hospitals, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicare Access to Rural Anesthesiology Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicare Access to Rural Anesthesiology Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Medicare Access to Rural Anesthesiology Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T20:00:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2666.xml"
+}

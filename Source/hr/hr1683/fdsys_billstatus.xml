@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-03</actionDate>
+        <committee>
+          <systemCode>hsju03</systemCode>
+          <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <updateDate>2019-05-07T07:12:29Z</updateDate>
+    <latestAction>
+      <actionDate>2019-05-03</actionDate>
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1683ih/xml/BILLS-116hr1683ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>1683</billNumber>
+    <cosponsors>
+      <item>
+        <state>FL</state>
+        <bioguideId>R000609</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <firstName>John</firstName>
+        <district>4</district>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Rutherford</lastName>
+        <middleName>H.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>D000610</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <firstName>Theodore</firstName>
+        <district>22</district>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Deutch</lastName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>D000600</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <firstName>Mario</firstName>
+        <district>25</district>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Diaz-Balart</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>7893</gpoId>
+          <lisID>1717</lisID>
+          <bioguideId>D000600</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>G000578</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <firstName>Matt</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Gaetz</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+          <lisID>2314</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <firstName>ALCEE</firstName>
+        <district>20</district>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>HASTINGS</lastName>
+        <middleName>L.</middleName>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>F000462</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <firstName>Lois</firstName>
+        <district>21</district>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Frankel</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2119</lisID>
+          <bioguideId>F000462</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>W000823</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Waltz, Michael [R-FL-6]</fullName>
+        <firstName>Michael</firstName>
+        <district>6</district>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Waltz</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2387</lisID>
+          <bioguideId>W000823</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>S001200</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <firstName>Darren</firstName>
+        <district>9</district>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Soto</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>S001206</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Shalala, Donna E. [D-FL-27]</fullName>
+        <firstName>Donna</firstName>
+        <district>27</district>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Shalala</lastName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>S001206</bioguideId>
+          <lisID>2391</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Wasserman Schultz</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>Debbie</firstName>
+        <district>23</district>
+        <byRequestType />
+        <state>FL</state>
+        <bioguideId>W000797</bioguideId>
+        <identifiers>
+          <gpoId>7892</gpoId>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-03T17:54:15Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju03</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-12T14:04:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>No Stolen Trademarks Honored in America Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To modify the prohibition on recognition by United States courts of certain rights relating to certain marks, trade names, or commercial names.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>No Stolen Trademarks Honored in America Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>No Stolen Trademarks Honored in America Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-03-13T07:12:08Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>No Stolen Trademarks Honored in America Act</title>
+    <committeeReports />
+    <introducedDate>2019-03-12</introducedDate>
+    <relatedBills>
+      <item>
+        <number>756</number>
+        <latestTitle>No Stolen Trademarks Honored in America Act</latestTitle>
+        <congress>116</congress>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2019-03-12</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Cuba</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Property rights</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. WASSERMAN SCHULTZ:H.R. 1683.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, clause 3, ``to regulate Commerce withForeign Nations, and among the several States, and with theIndian Tribes;''Article 1, Section 8, clause 8, ``to promote the Progressof Science and useful Arts, by securing for limited Times toAuthors and Inventors the exclusive Rights to theirrespective Writings and Discoveries,''[Page H2680]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

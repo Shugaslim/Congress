@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-03T13:01:45Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-05-21T20:33:42Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-04T16:42:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-03T13:01:50Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-04-04T07:12:09Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>Chu</lastName>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <bioguideId>C001080</bioguideId>
+        <firstName>Judy</firstName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <party>D</party>
+        <district>27</district>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <district>22</district>
+        <party>R</party>
+        <firstName>Devin</firstName>
+        <bioguideId>N000181</bioguideId>
+        <state>CA</state>
+        <lastName>Nunes</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7826</gpoId>
+          <lisID>1710</lisID>
+          <bioguideId>N000181</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>2064</billNumber>
+    <laws />
+    <congress>116</congress>
+    <title>To amend title XI of the Social Security Act to require manufacturers of certain drugs, devices, biologicals, and medical supplies to report on product samples provided to certain health care providers, and for other purposes.</title>
+    <actions>
+      <item>
+        <actionDate>2019-05-21</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-03</actionDate>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-03</actionDate>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-04-03</actionDate>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-04-03</actionDate>
+      </item>
+      <actionTypeCounts>
+        <prayer>1</prayer>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JUDY CHU of California:H.R. 2064.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article 1 of the United StatesConstitution[Page H3069]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-04-03</introducedDate>
+    <relatedBills />
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2019-05-23T07:12:50Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend title XI of the Social Security Act to require manufacturers of certain drugs, devices, biologicals, and medical supplies to report on product samples provided to certain health care providers, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend title XI of the Social Security Act to require manufacturers of certain drugs, devices, biologicals, and medical supplies to report on product samples provided to certain health care providers, and for other purposes.</title>
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Subcommittee Hearings Held.</text>
+      <actionDate>2019-05-21</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2064ih/xml/BILLS-116hr2064ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-03T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-02T14:55:35Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-02</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <state>CO</state>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <bioguideId>B001267</bioguideId>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <title>Medicare-X Choice Act of 2019</title>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>K000384</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>VA</state>
+        <lastName>Kaine</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+          <lisID>2176</lisID>
+        </identifiers>
+        <firstName>Timothy</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <bioguideId>C000141</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>MD</state>
+        <lastName>CARDIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <firstName>BENJAMIN</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>MN</state>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <firstName>Amy</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>JOSEPH</middleName>
+        <bioguideId>L000174</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>VT</state>
+        <lastName>LEAHY</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <firstName>PATRICK</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>S001203</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>MN</state>
+        <lastName>Smith</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+        </identifiers>
+        <firstName>Tina</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>ANN</middleName>
+        <bioguideId>S000770</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>MI</state>
+        <lastName>STABENOW</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <firstName>DEBORAH</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <bioguideId>H001075</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>CA</state>
+        <lastName>Harris</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+          <lisID>2301</lisID>
+        </identifiers>
+        <firstName>Kamala</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <bioguideId>B001288</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>NJ</state>
+        <lastName>Booker</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+        </identifiers>
+        <firstName>Cory</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>MI</state>
+        <lastName>Peters</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <firstName>Gary</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <bioguideId>D000563</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>IL</state>
+        <lastName>DURBIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>S001181</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <state>NH</state>
+        <lastName>Shaheen</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <firstName>Jeanne</firstName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>981</billNumber>
+    <congress>116</congress>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <latestTitle>Medicare-X Choice Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestAction>
+          <text>Sponsor introductory remarks on measure. (CR H2947)</text>
+          <actionDate>2019-04-02</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <number>2000</number>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <createDate>2019-04-03T04:42:07Z</createDate>
+    <updateDate>2019-05-16T05:12:36Z</updateDate>
+    <latestAction>
+      <actionDate>2019-04-02</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to establish a public health plan.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Medicare-X Choice Act of 2019</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Medicare-X Choice Act of 2019</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Medicare-X Choice Act of 2019</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-04-02</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s981is/xml/BILLS-116s981is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

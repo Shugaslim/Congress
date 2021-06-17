@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1293</billNumber>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2019-02-15</actionDate>
+        <committee>
+          <systemCode>hsas03</systemCode>
+          <name>Readiness Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-15</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-14</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-14</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-14</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-14</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2019-02-15T08:10:18Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <name>Readiness Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-15T17:45:52Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-14T15:06:45Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-15T14:06:18Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-14T15:06:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <number>326</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-04</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <congress>116</congress>
+        <latestTitle>RAIDER Act of 2019</latestTitle>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. VELA:H.R. 1293.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2035]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>Vela</lastName>
+        <bioguideId>V000132</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <lisID>2167</lisID>
+          <bioguideId>V000132</bioguideId>
+        </identifiers>
+        <firstName>Filemon</firstName>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <district>34</district>
+        <party>D</party>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>V000130</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <lastName>Vargas</lastName>
+        <middleName />
+        <district>51</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Juan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>L000570</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <lastName>Lujan</lastName>
+        <middleName>Ray</middleName>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+          <lisID>1939</lisID>
+          <gpoId>8058</gpoId>
+        </identifiers>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ben</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>H001087</bioguideId>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <fullName>Rep. Hill, Katie [D-CA-25]</fullName>
+        <lastName>Hill</lastName>
+        <middleName />
+        <district>25</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2379</lisID>
+          <bioguideId>H001087</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Katie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000581</bioguideId>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <lastName>Gonzalez</lastName>
+        <middleName />
+        <district>15</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Vicente</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>H001080</bioguideId>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <lastName>Haaland</lastName>
+        <middleName>A.</middleName>
+        <district>1</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001080</bioguideId>
+          <lisID>2423</lisID>
+        </identifiers>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Debra</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1293ih/xml/BILLS-116hr1293ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-14T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To prohibit the use of amounts appropriated for military construction or the Army Corps of Engineers for the construction of barriers, land acquisition, or any other associated activities on the southern border without specific statutory authorization from Congress.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Restrictions Against Illegitimate Declarations for Emergency Re-appropriations Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>RAIDER Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>RAIDER Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>RAIDER Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Restrictions Against Illegitimate Declarations for Emergency Re-appropriations Act of 2019</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-27T13:26:08Z</updateDate>
+    <recordedVotes />
+    <congress>116</congress>
+    <introducedDate>2019-02-14</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-02-15</actionDate>
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <links />
+    </latestAction>
+    <title>RAIDER Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

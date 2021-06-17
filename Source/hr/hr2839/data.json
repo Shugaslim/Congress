@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-20", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-20", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "text": "The House Committee on Appropriations reported an original measure, H. Rept. 116-78, by Mrs. Lowey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-20", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "54", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 54.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2839-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-78"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-20", 
+  "number": "2839", 
+  "official_title": "Making appropriations for Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2020, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Department of State, Foreign Operations, and Related Programs Appropriations Act, 2020", 
+  "sponsor": {
+    "bioguide_id": "L000480", 
+    "district": "17", 
+    "name": "Lowey, Nita M.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-20", 
+  "subjects": [
+    "International affairs"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Making appropriations for Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2020, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Department of State, Foreign Operations, and Related Programs Appropriations Act, 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Department of State, Foreign Operations, and Related Programs Appropriations Act, 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of State, Foreign Operations, and Related Programs Appropriations Act, 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of State, Foreign Operations, and Related Programs Appropriations Act, 2020", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:17:33Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2839.xml"
+}

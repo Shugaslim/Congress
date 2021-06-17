@@ -1,0 +1,188 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1426-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001120", 
+      "district": "2", 
+      "name": "Crenshaw, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-02", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000482", 
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000581", 
+      "district": "15", 
+      "name": "Gonzalez, Vicente", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001090", 
+      "district": "10", 
+      "name": "Harder, Josh", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-25", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001067", 
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000171", 
+      "district": "1", 
+      "name": "O'Halleran, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000814", 
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-28", 
+  "number": "1426", 
+  "official_title": "To amend the Department of Energy Organization Act to address insufficient compensation of employees and other personnel of the Federal Energy Regulatory Commission, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s607-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Timely Review of Infrastructure Act", 
+  "sponsor": {
+    "bioguide_id": "O000168", 
+    "district": "22", 
+    "name": "Olson, Pete", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-28", 
+  "subjects": [
+    "Congressional oversight", 
+    "Employee hiring", 
+    "Energy", 
+    "Energy storage, supplies, demand", 
+    "Federal Energy Regulatory Commission (FERC)", 
+    "Government employee pay, benefits, personnel management", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Department of Energy Organization Act to address insufficient compensation of employees and other personnel of the Federal Energy Regulatory Commission, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Timely Review of Infrastructure Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Timely Review of Infrastructure Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Timely Review of Infrastructure Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-03T07:16:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1426.xml"
+}

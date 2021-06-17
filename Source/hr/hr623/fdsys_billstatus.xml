@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-01T18:45:12Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-16</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-16</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-16</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <billNumber>623</billNumber>
+    <createDate>2019-01-17T08:10:12Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H677-H678]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. VARGAS:H.R. 623.Congress has the power to enact this legislation pursuantto the following:Clause 2 of Section 3 of Article IV of the Constitution,which states: The Congress[[Page H678]]shall have the Power to dispose of and make all needful Rulesand Regulations respecting the Territory or other Propertybelonging to the United States; and nothing in thisConstitution shall be so construed as to Prejudice any Claimsof the United States, or any particular State.</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <middleName />
+        <party>D</party>
+        <firstName>Juan</firstName>
+        <lastName>Vargas</lastName>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <byRequestType />
+        <identifiers>
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>51</district>
+        <state>CA</state>
+        <bioguideId>V000130</bioguideId>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <firstName>Darren</firstName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001200</bioguideId>
+        <district>9</district>
+        <party>D</party>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <lastName>Soto</lastName>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+          <lisID>2319</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Adriano</firstName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000297</bioguideId>
+        <district>13</district>
+        <party>D</party>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <lastName>Espaillat</lastName>
+        <identifiers>
+          <lisID>2342</lisID>
+          <gpoId />
+          <bioguideId>E000297</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Norma</firstName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000474</bioguideId>
+        <district>35</district>
+        <party>D</party>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <lastName>Torres</lastName>
+        <identifiers>
+          <lisID>2231</lisID>
+          <bioguideId>T000474</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jesus</firstName>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000586</bioguideId>
+        <district>4</district>
+        <party>D</party>
+        <fullName>Rep. Garcia, Jesus G. [D-IL-4]</fullName>
+        <lastName>Garcia</lastName>
+        <identifiers>
+          <bioguideId>G000586</bioguideId>
+          <gpoId />
+          <lisID>2397</lisID>
+        </identifiers>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>GRACE</firstName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000179</bioguideId>
+        <district>32</district>
+        <party>D</party>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <lastName>NAPOLITANO</lastName>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-16T15:07:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <relatedBills />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2019-01-16</actionDate>
+    </latestAction>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr623ih/xml/BILLS-116hr623ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-16T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <title>To deem an alien who has been issued an employment authorization document under the Deferred Action for Childhood Arrivals Program to be a person who owes allegiance to the United States for purposes of employment by an office of a Member of the House of Representatives.</title>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <introducedDate>2019-01-16</introducedDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To deem an alien who has been issued an employment authorization document under the Deferred Action for Childhood Arrivals Program to be a person who owes allegiance to the United States for purposes of employment by an office of a Member of the House of Representatives.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To deem an alien who has been issued an employment authorization document under the Deferred Action for Childhood Arrivals Program to be a person who owes allegiance to the United States for purposes of employment by an office of a Member of the House of Representatives.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

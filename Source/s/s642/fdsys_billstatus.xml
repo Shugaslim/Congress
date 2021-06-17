@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-04</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-04</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <updateDate>2019-05-08T13:45:09Z</updateDate>
+    <latestAction>
+      <actionDate>2019-03-04</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s642is/xml/BILLS-116s642is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-03-04T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>642</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Marsha</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-04</sponsorshipDate>
+        <bioguideId>B001243</bioguideId>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+      </item>
+      <item>
+        <lastName>CAPITO</lastName>
+        <party>R</party>
+        <middleName>MOORE</middleName>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <identifiers>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+      </item>
+      <item>
+        <lastName>Isakson</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Johnny</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <bioguideId>I000055</bioguideId>
+        <state>GA</state>
+        <identifiers>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+      </item>
+      <item>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Rick</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <bioguideId>S001217</bioguideId>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2470</lisID>
+          <bioguideId>S001217</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Scott, Rick  [R-FL]</fullName>
+      </item>
+      <item>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Kevin</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <bioguideId>C001096</bioguideId>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Alexander</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Lamar</firstName>
+        <byRequestType />
+        <state>TN</state>
+        <bioguideId>A000360</bioguideId>
+        <identifiers>
+          <lisID>1695</lisID>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-04T21:52:39Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to award a Congressional Gold Medal to Master Sergeant Rodrick "Roddie" Edmonds in recognition of his heroic actions during World War II.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-03-05T05:27:16Z</createDate>
+    <introducedDate>2019-03-04</introducedDate>
+    <cboCostEstimates />
+    <notes />
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</title>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Master Sergeant Roddie Edmonds Congressional Gold Medal Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-27</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <number>1908</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>S</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

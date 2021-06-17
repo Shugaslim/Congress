@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-27T08:10:16Z</createDate>
+    <introducedDate>2019-02-26</introducedDate>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-03-07T05:00:00Z</date>
+        <type>Placed on Calendar Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1381pcs/xml/BILLS-116hr1381pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-03-05T05:00:00Z</date>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1381eh/xml/BILLS-116hr1381eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-02-26T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1381ih/xml/BILLS-116hr1381ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-01T16:32:10Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-26T15:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <district>2</district>
+        <lastName>Wenstrup</lastName>
+        <bioguideId>W000815</bioguideId>
+        <identifiers>
+          <lisID>2152</lisID>
+          <bioguideId>W000815</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>OH</state>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <firstName>Brad</firstName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <district>2</district>
+        <lastName>Gabbard</lastName>
+        <bioguideId>G000571</bioguideId>
+        <identifiers>
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>HI</state>
+        <middleName />
+        <party>D</party>
+        <firstName>Tulsi</firstName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <district>3</district>
+        <lastName>Taylor</lastName>
+        <bioguideId>T000479</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2444</lisID>
+          <bioguideId>T000479</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <middleName />
+        <party>R</party>
+        <firstName>Van</firstName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <district>39</district>
+        <lastName>Cisneros</lastName>
+        <bioguideId>C001123</bioguideId>
+        <identifiers>
+          <bioguideId>C001123</bioguideId>
+          <gpoId />
+          <lisID>2380</lisID>
+        </identifiers>
+        <state>CA</state>
+        <middleName>Ray</middleName>
+        <party>D</party>
+        <firstName>Gilbert</firstName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <district>9</district>
+        <lastName>KAPTUR</lastName>
+        <bioguideId>K000009</bioguideId>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+          <lisID>616</lisID>
+        </identifiers>
+        <state>OH</state>
+        <middleName />
+        <party>D</party>
+        <firstName>MARCY</firstName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <district>19</district>
+        <lastName>Delgado</lastName>
+        <bioguideId>D000630</bioguideId>
+        <identifiers>
+          <bioguideId>D000630</bioguideId>
+          <gpoId />
+          <lisID>2428</lisID>
+        </identifiers>
+        <state>NY</state>
+        <middleName />
+        <party>D</party>
+        <firstName>Antonio</firstName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <district>2</district>
+        <lastName>Van Drew</lastName>
+        <bioguideId>V000133</bioguideId>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NJ</state>
+        <middleName />
+        <party>D</party>
+        <firstName>Jefferson</firstName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <district>8</district>
+        <lastName>Gallagher</lastName>
+        <bioguideId>G000579</bioguideId>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+          <lisID>2355</lisID>
+        </identifiers>
+        <state>WI</state>
+        <middleName />
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Raul</firstName>
+        <byRequestType />
+        <middleName />
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <lastName>Ruiz</lastName>
+        <district>36</district>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <gpoId />
+          <lisID>2109</lisID>
+        </identifiers>
+        <bioguideId>R000599</bioguideId>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-03-07</actionDate>
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <billReferrals>1</billReferrals>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+        <considerationByHouse>2</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-03-06</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionTime>18:58:22</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionDate>2019-03-05</actionDate>
+      </item>
+      <item>
+        <actionTime>18:58:21</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 104). (text: CR H2332)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2332</url>
+            <name>H2332</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll104.xml</url>
+            <name>Roll no. 104</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <actionDate>2019-03-05</actionDate>
+      </item>
+      <item>
+        <actionTime>18:58:21</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 104).(text: CR H2332)</text>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll104.xml</url>
+            <name>Roll no. 104</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionDate>2019-03-05</actionDate>
+      </item>
+      <item>
+        <actionTime>18:30:47</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H2340-2341)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2340-2341</url>
+            <name>H2340-2341</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionDate>2019-03-05</actionDate>
+      </item>
+      <item>
+        <actionTime>16:58:43</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <links />
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37220</actionCode>
+        <actionDate>2019-03-05</actionDate>
+      </item>
+      <item>
+        <actionTime>16:34:45</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1381.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/1381</url>
+            <name>H.R. 1381</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2019-03-05</actionDate>
+      </item>
+      <item>
+        <actionTime>16:34:44</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H2332-2335)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2332-2335</url>
+            <name>H2332-2335</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionDate>2019-03-05</actionDate>
+      </item>
+      <item>
+        <actionTime>16:34:21</actionTime>
+        <text>Mr. Takano moved to suspend the rules and pass the bill.</text>
+        <links />
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <actionDate>2019-03-05</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-03-01</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-02-26</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-02-26</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-02-26</actionDate>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUIZ:H.R. 1381.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, Clauses 1 and 18 of the United StatesConstitution, to provide for the general welfare and make alllaws necessary and proper to carry out the powers ofCongress.[Page H2235]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <title>Burn Pit Registry Enhancement Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To direct the Secretary of Veterans Affairs to take actions necessary to ensure that certain individuals may update the burn pit registry with a registered individual's cause of death, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Burn Pit Registry Enhancement Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Burn Pit Registry Enhancement Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Burn Pit Registry Enhancement Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes>
+      <recordedVote>
+        <date>2019-03-05T23:58:21Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <congress>116</congress>
+        <rollNumber>104</rollNumber>
+        <url>http://clerk.house.gov/evs/2019/roll104.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <committeeReports />
+    <title>Burn Pit Registry Enhancement Act</title>
+    <congress>116</congress>
+    <updateDate>2019-04-04T22:18:50Z</updateDate>
+    <billNumber>1381</billNumber>
+    <relatedBills>
+      <item>
+        <latestTitle>Burn Pit Registry Enhancement Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-02-26</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <number>554</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <calendarNumbers>
+      <item>
+        <number>0032</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+      <item>
+        <number />
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

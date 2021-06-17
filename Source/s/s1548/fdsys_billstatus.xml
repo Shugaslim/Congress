@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <introducedDate>2019-05-20</introducedDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-05-20T22:05:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions />
+    <cboCostEstimates />
+    <createDate>2019-05-21T04:27:10Z</createDate>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the rate of tax on corporations participating in labor lockouts and to prohibit deductions and credits for wages and benefits paid to temporary workers during labor knockouts.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the rate of tax on corporations participating in labor lockouts and to prohibit deductions and credits for wages and benefits paid to temporary workers during labor knockouts.</title>
+      </item>
+    </titles>
+    <updateDate>2019-05-21T04:31:37Z</updateDate>
+    <amendments />
+    <cosponsors />
+    <billNumber>1548</billNumber>
+    <committeeReports />
+    <relatedBills />
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-05-20</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <title>A bill to amend the Internal Revenue Code of 1986 to modify the rate of tax on corporations participating in labor lockouts and to prohibit deductions and credits for wages and benefits paid to temporary workers during labor knockouts.</title>
+    <policyArea />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-20</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-05-20</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <middleName />
+        <lastName>Tester</lastName>
+        <byRequestType />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

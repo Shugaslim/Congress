@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2645-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001093", 
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-09", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001085", 
+      "district": "6", 
+      "name": "Houlahan, Chrissy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-09", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000813", 
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-09", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-09", 
+  "number": "2645", 
+  "official_title": "To amend title 38, United States Code, to improve the care provided by the Secretary of Veterans Affairs to newborn children.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Newborn Care Improvement Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000590", 
+    "district": "3", 
+    "name": "Lee, Susie", 
+    "state": "NV", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-09", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Child health", 
+    "Congressional oversight", 
+    "Veterans' medical care", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to improve the care provided by the Secretary of Veterans Affairs to newborn children.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Newborn Care Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Newborn Care Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Newborn Care Improvement Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T18:00:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2645.xml"
+}

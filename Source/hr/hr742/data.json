@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-11", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr742-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-24", 
+  "number": "742", 
+  "official_title": "To amend the Migratory Bird Treaty Act to establish January 31 of each year as the Federal framework closing date for the duck hunting season and to establish special duck hunting days for youths, veterans, and active military personnel, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Migratory Bird Framework and Hunting Opportunities for Veterans Act", 
+  "sponsor": {
+    "bioguide_id": "B001250", 
+    "district": "1", 
+    "name": "Bishop, Rob", 
+    "state": "UT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-24", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Animals", 
+    "Birds", 
+    "Department of the Interior", 
+    "Hunting and fishing", 
+    "Military personnel and dependents", 
+    "National Guard and reserves", 
+    "Veterans' organizations and recognition", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Animals", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Migratory Bird Framework and Hunting Opportunities for Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Migratory Bird Framework and Hunting Opportunities for Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Migratory Bird Treaty Act to establish January 31 of each year as the Federal framework closing date for the duck hunting season and to establish special duck hunting days for youths, veterans, and active military personnel, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Migratory Bird Framework and Hunting Opportunities for Veterans Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-27T08:14:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr742.xml"
+}

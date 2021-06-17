@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1471-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000449", 
+      "district": null, 
+      "name": "Portman, Rob", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-15", 
+      "state": "OH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-15", 
+  "number": "1471", 
+  "official_title": "A bill to require digital engineering as a core competency of the Armed Forces, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "H001046", 
+    "district": null, 
+    "name": "Heinrich, Martin", 
+    "state": "NM", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-15", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require digital engineering as a core competency of the Armed Forces, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to require digital engineering as a core competency of the Armed Forces, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-16T05:02:43Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1471.xml"
+}

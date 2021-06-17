@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>765</billNumber>
+    <sponsors>
+      <item>
+        <bioguideId>G000579</bioguideId>
+        <lastName>Gallagher</lastName>
+        <byRequestType />
+        <middleName />
+        <firstName>Mike</firstName>
+        <district>8</district>
+        <state>WI</state>
+        <party>R</party>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <createDate>2019-01-25T08:10:13Z</createDate>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-24T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr765ih/xml/BILLS-116hr765ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <laws />
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-05T17:19:01Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-24T14:05:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-24T14:05:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <name>Oversight and Reform Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-24T14:05:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-24T14:05:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hsbu00</systemCode>
+          <type>Standing</type>
+          <name>Budget Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-24T14:05:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-01-24</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-03-05</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+    </latestAction>
+    <notes />
+    <updateDate>2019-05-21T18:15:07Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>5</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on the Budget, Rules, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-01-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on the Budget, Rules, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-01-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on the Budget, Rules, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-01-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on the Budget, Rules, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-01-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on the Budget, Rules, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-01-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-24</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-24</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <party>R</party>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <firstName>Brian</firstName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GALLAGHER:H.R. 765.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests isenumerated in Article I, Section 8, Clause 18 of the UnitedStates Constitution, which gives Congress the power to ``makeall Laws which shall be necessary and proper for carryinginto Execution the foregoing Powers, and all other Powersvested by this Constitution in the Government of the UnitedStates, or in any Department or Officer thereof.''[Page H1212]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>To prohibit congressional recesses until Congress adopts a concurrent resolution on the budget that results in a balanced Federal budget by the last fiscal year covered by such resolution, to establish a 5-year ban on individuals appointed to Executive Schedule positions and Members of Congress engaging in lobbying activities at the Federal level, to provide for the termination of further retirement coverage for Members of Congress under the Federal Employees Retirement System, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Serve the People, Not the Swamp Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Serve the People, Not the Swamp Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Serve the People, Not the Swamp Act</title>
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>1158</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Cleaning Up Washington's Act</latestTitle>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-04-11</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <title>Serve the People, Not the Swamp Act</title>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

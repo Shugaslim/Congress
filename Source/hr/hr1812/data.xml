@@ -1,0 +1,83 @@
+<bill session="116" type="h" number="1812" updated="2019-05-23T09:16:51Z">
+  <state datetime="2019-05-21T15:49:09-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-05-21T15:49:09-04:00"/>
+  </status>
+  <introduced datetime="2019-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Vet Center Eligibility Expansion Act</title>
+    <title type="short" as="introduced">Vet Center Eligibility Expansion Act</title>
+    <title type="short" as="reported to house">Vet Center Eligibility Expansion Act</title>
+    <title type="short" as="passed house">Vet Center Eligibility Expansion Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to furnish Vet Center readjustment counseling and related mental health services to certain individuals.</title>
+    <title type="display">Vet Center Eligibility Expansion Act</title>
+  </titles>
+  <sponsor bioguide_id="R000582"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000628" joined="2019-05-20"/>
+    <cosponsor bioguide_id="L000593" joined="2019-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-03-18">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2019-04-11">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2019-05-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2019-05-08" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2019-05-20">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-75.</text>
+    </action>
+    <calendar datetime="2019-05-20" calendar="Union" number="51">
+      <text>Placed on the Union Calendar, Calendar No. 51.</text>
+    </calendar>
+    <action datetime="2019-05-21T15:39:08-04:00">
+      <text>Mr. Takano moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2019-05-21T15:39:21-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4034-4035" label="consideration"/>
+    </action>
+    <action datetime="2019-05-21T15:39:22-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1812.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2019-05-21T15:49:09-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4034" label="text"/>
+    </vote>
+    <action datetime="2019-05-21T15:49:10-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-05-22">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil disturbances"/>
+    <term name="Coast guard"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Mental health"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Natural disasters"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 116-75</report>
+  </committee-reports>
+</bill>

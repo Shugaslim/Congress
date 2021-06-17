@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <bioguideId>R000602</bioguideId>
+        <lastName>Rice</lastName>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <firstName>Kathleen</firstName>
+        <district>4</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-05-20</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-20</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-20</actionDate>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2019-05-21T07:12:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-20T16:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Public Health Service Act to ensure that healthy research dogs and cats are adopted into suitable homes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Public Health Service Act to ensure that healthy research dogs and cats are adopted into suitable homes.</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>To amend the Public Health Service Act to ensure that healthy research dogs and cats are adopted into suitable homes.</title>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+      <actionDate>2019-05-20</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <middleName />
+        <bioguideId>K000386</bioguideId>
+        <lastName>Katko</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <district>24</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-24T07:15:52Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-05-20</introducedDate>
+    <policyArea />
+    <committeeReports />
+    <textVersions />
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Miss RICE of New York:H.R. 2850.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H4010]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2850</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

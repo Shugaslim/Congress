@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-01-30T05:40:17Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-29</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <billNumber>267</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-29T22:51:25Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <bioguideId>F000062</bioguideId>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <party>D</party>
+        <lastName>FEINSTEIN</lastName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>DIANNE</firstName>
+      </item>
+      <item>
+        <state>AZ</state>
+        <bioguideId>M001197</bioguideId>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <party>R</party>
+        <lastName>McSally</lastName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Martha</firstName>
+      </item>
+      <item>
+        <state>AZ</state>
+        <bioguideId>S001191</bioguideId>
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <party>D</party>
+        <lastName>Sinema</lastName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kyrsten</firstName>
+      </item>
+      <item>
+        <state>NM</state>
+        <bioguideId>U000039</bioguideId>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <party>D</party>
+        <lastName>UDALL</lastName>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>TOM</firstName>
+      </item>
+      <item>
+        <state>NM</state>
+        <bioguideId>H001046</bioguideId>
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <party>D</party>
+        <lastName>Heinrich</lastName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Martin</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-01-29</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>S</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestTitle>North American Development Bank Improvement Act of 2019</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <number>132</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-10T05:36:28Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Foreign loans and debt</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Multilateral development programs</name>
+          </item>
+          <item>
+            <name>North America</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Pipelines</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to provide for a general capital increase for the North American Development Bank, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>North American Development Bank Improvement Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>North American Development Bank Improvement Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>North American Development Bank Improvement Act of 2019</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-01-29</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s267is/xml/BILLS-116s267is.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-29T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <lastName>Cornyn</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <byRequestType />
+        <firstName>John</firstName>
+        <bioguideId>C001056</bioguideId>
+        <middleName />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>North American Development Bank Improvement Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

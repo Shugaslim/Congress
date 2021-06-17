@@ -1,0 +1,182 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s737-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001243", 
+      "district": null, 
+      "name": "Blackburn, Marsha", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "TN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-13", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001047", 
+      "district": null, 
+      "name": "Capito, Shelley Moore", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "WV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001113", 
+      "district": null, 
+      "name": "Cortez Masto, Catherine", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "NV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000463", 
+      "district": null, 
+      "name": "Fischer, Deb", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "NE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001194", 
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-11", 
+  "number": "737", 
+  "official_title": "A bill to direct the National Science Foundation to support STEM education research focused on early childhood.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1665-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Building Blocks of STEM Act", 
+  "sponsor": {
+    "bioguide_id": "R000608", 
+    "district": null, 
+    "name": "Rosen, Jacky", 
+    "state": "NV", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-15", 
+  "subjects": [
+    "Education programs funding", 
+    "Educational technology and distance education", 
+    "Elementary and secondary education", 
+    "Preschool education", 
+    "Research administration and funding", 
+    "Science and engineering education", 
+    "Science, technology, communications", 
+    "Teaching, teachers, curricula", 
+    "Women's education"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the National Science Foundation to support STEM education research focused on early childhood.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Building Blocks of STEM Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Building Blocks of STEM Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Building Blocks of STEM Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T18:57:14Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s737.xml"
+}

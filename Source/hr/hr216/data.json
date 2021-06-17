@@ -1,0 +1,488 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr216-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001306", 
+      "district": "12", 
+      "name": "Balderson, Troy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001282", 
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-09", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001305", 
+      "district": "13", 
+      "name": "Budd, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001309", 
+      "district": "2", 
+      "name": "Burchett, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001053", 
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001092", 
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001108", 
+      "district": "1", 
+      "name": "Comer, James", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001094", 
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001063", 
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-23", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000619", 
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000294", 
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-27", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000298", 
+      "district": "4", 
+      "name": "Estes, Ron", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000465", 
+      "district": "3", 
+      "name": "Ferguson, A. Drew, IV", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-27", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000461", 
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000588", 
+      "district": "16", 
+      "name": "Gonzalez, Anthony", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000583", 
+      "district": "5", 
+      "name": "Gottheimer, Josh", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-27", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001082", 
+      "district": "1", 
+      "name": "Hern, Kevin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001056", 
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001058", 
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000386", 
+      "district": "24", 
+      "name": "Katko, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000388", 
+      "district": "1", 
+      "name": "Kelly, Trent", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000585", 
+      "district": "18", 
+      "name": "LaHood, Darin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-27", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000578", 
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000566", 
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000589", 
+      "district": "8", 
+      "name": "Lesko, Debbie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000569", 
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001158", 
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001201", 
+      "district": "10", 
+      "name": "Mitchell, Paul", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-16", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000190", 
+      "district": "5", 
+      "name": "Norman, Ralph", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000181", 
+      "district": "22", 
+      "name": "Nunes, Devin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-10", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000601", 
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000585", 
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000610", 
+      "district": "14", 
+      "name": "Reschenthaler, Guy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-26", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001172", 
+      "district": "3", 
+      "name": "Smith, Adrian", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "NE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000479", 
+      "district": "3", 
+      "name": "Taylor, Van", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000463", 
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000824", 
+      "district": "2", 
+      "name": "Watkins, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "216", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to make permanent the deduction for qualified business income.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1149-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Main Street Tax Certainty Act", 
+  "sponsor": {
+    "bioguide_id": "S001195", 
+    "district": "8", 
+    "name": "Smith, Jason", 
+    "state": "MO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Income tax deductions", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-03T05:00:00Z", 
+    "text": "Main Street Tax Certainty Act \n\nThis bill makes permanent the tax deduction for qualified business income. (Under current law, the deduction expires after December 31, 2025.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to make permanent the deduction for qualified business income.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Main Street Tax Certainty Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Main Street Tax Certainty Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Main Street Tax Certainty Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T07:15:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr216.xml"
+}

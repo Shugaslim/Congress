@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <date>2019-04-10T17:34:04Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sscm00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1112</billNumber>
+    <latestAction>
+      <actionDate>2019-04-10</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-04-10</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <policyArea />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <firstName>Richard</firstName>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-02T20:11:15Z</updateDate>
+    <createDate>2019-04-11T04:57:12Z</createDate>
+    <relatedBills />
+    <introducedDate>2019-04-10</introducedDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <amendments />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MARKEY</lastName>
+        <firstName>EDWARD</firstName>
+        <state>MA</state>
+        <bioguideId>M000133</bioguideId>
+      </item>
+      <item>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>FEINSTEIN</lastName>
+        <firstName>DIANNE</firstName>
+        <state>CA</state>
+        <bioguideId>F000062</bioguideId>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1112is/xml/BILLS-116s1112is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>116</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to improve the safety of the air supply on commercial aircraft, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Cabin Air Safety Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Cabin Air Safety Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Cabin Air Safety Act of 2019</title>
+      </item>
+    </titles>
+    <title>Cabin Air Safety Act of 2019</title>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,179 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-31", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr360-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Energy", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001090", 
+      "district": "10", 
+      "name": "Harder, Josh", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-22", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001166", 
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-09", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000190", 
+      "district": "5", 
+      "name": "Norman, Ralph", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-22", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-09", 
+  "number": "360", 
+  "official_title": "To require the Secretary of Energy to establish a voluntary Cyber Sense program to test the cybersecurity of products and technologies intended for use in the bulk-power system, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Cyber Sense Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000566", 
+    "district": "5", 
+    "name": "Latta, Robert E.", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-09", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Crime prevention", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Public utilities and utility rates", 
+    "Research and development", 
+    "Technology assessment"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-09T05:00:00Z", 
+    "text": "Cyber Sense Act of 2019\n\nThis bill requires the Department of Energy to establish a voluntary Cyber Sense program to test the cybersecurity of products and technologies intended for use in the bulk-power system. The bulk-power system includes facilities and control systems necessary for operating an interconnected electric energy transmission network."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Energy to establish a voluntary Cyber Sense program to test the cybersecurity of products and technologies intended for use in the bulk-power system, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cyber Sense Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cyber Sense Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Cyber Sense Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-17T07:12:49Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr360.xml"
+}

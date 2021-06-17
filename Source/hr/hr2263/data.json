@@ -1,0 +1,132 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2263-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001302", 
+      "district": "5", 
+      "name": "Biggs, Andy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000565", 
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001183", 
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-10", 
+  "number": "2263", 
+  "official_title": "To allow a State to submit a State management decision to the Secretary of Education to combine certain funds to improve the academic achievement of students.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Make Education Local Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000589", 
+    "district": "8", 
+    "name": "Lesko, Debbie", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-10", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Government information and archives", 
+    "Intergovernmental relations", 
+    "State and local finance"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To allow a State to submit a State management decision to the Secretary of Education to combine certain funds to improve the academic achievement of students.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Make Education Local Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Make Education Local Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Make Education Local Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-09T18:30:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2263.xml"
+}

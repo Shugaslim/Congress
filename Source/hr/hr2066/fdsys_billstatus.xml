@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <laws />
+    <cboCostEstimates />
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <date>2019-05-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2066eh/xml/BILLS-116hr2066eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <date>2019-04-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2066ih/xml/BILLS-116hr2066ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <amendments />
+    <introducedDate>2019-04-03</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-15T17:28:24Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Intelligence and Counterterrorism Subcommittee</name>
+              <systemCode>hshm05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-23T16:23:33Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hshm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-03T13:00:26Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Homeland Security Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-05-18T09:19:07Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2019-05-14</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionTime>16:56:29</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3762</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3762</url>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3762)</text>
+        <actionDate>2019-05-14</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>H37300</actionCode>
+        <actionTime>16:56:25</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3762</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3762</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3762)</text>
+        <actionDate>2019-05-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionTime>16:56:25</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 2066</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/2066</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2066.</text>
+        <actionDate>2019-05-14</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:51:51</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3762-3763</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3762-3763</url>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H3762-3763)</text>
+        <actionDate>2019-05-14</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionTime>16:51:50</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links />
+        <text>Ms. Torres Small (NM) moved to suspend the rules and pass the bill.</text>
+        <actionDate>2019-05-14</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>H30300</actionCode>
+        <actionTime>16:51:37</actionTime>
+      </item>
+      <item>
+        <actionDate>2019-04-23</actionDate>
+        <committee>
+          <systemCode>hshm05</systemCode>
+          <name>Intelligence and Counterterrorism Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Intelligence and Counterterrorism.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <actionDate>2019-04-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-04-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-04-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <generalDebate>1</generalDebate>
+        <referredToCommittee>1</referredToCommittee>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>1</placeholderTextForH>
+        <considerationByHouse>1</considerationByHouse>
+        <billReferrals>1</billReferrals>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2019-05-15</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Taylor</lastName>
+        <middleName />
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <district>3</district>
+        <bioguideId>T000479</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+          <lisID>2444</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Van</firstName>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <createDate>2019-04-04T07:12:09Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Emergency Management</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>2066</billNumber>
+    <recordedVotes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GALLAGHER:H.R. 2066.Congress has the power to enact this legislation pursuantto the following:Artcile 1 of the Constitution gives Congress the power toprovide for the common defense and general welfare of theUnited States.[Page H3069]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend the Homeland Security Act of 2002 to establish the Intelligence Rotational Assignment Program in the Department of Homeland Security, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>DHS Intelligence Rotational Assignment Program Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <title>DHS Intelligence Rotational Assignment Program Act of 2019</title>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>DHS Intelligence Rotational Assignment Program Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <title>DHS Intelligence Rotational Assignment Program Act of 2019</title>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>DHS Intelligence Rotational Assignment Program Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <title>DHS Intelligence Rotational Assignment Program Act of 2019</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Gallagher</lastName>
+        <bioguideId>G000579</bioguideId>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <state>WI</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

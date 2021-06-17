@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-12T19:45:29Z</updateDate>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName>Scott</middleName>
+        <byRequestType />
+        <district>10</district>
+        <firstName>Bradley</firstName>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <lastName>Schneider</lastName>
+        <identifiers>
+          <bioguideId>S001190</bioguideId>
+          <lisID>2124</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <bioguideId>S001190</bioguideId>
+        <state>IL</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-15T15:02:50Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-07T20:56:49Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw13</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-15T15:02:45Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-15T15:02:40Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-15T15:02:35Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2019-01-15</introducedDate>
+    <createDate>2019-01-16T08:10:17Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, Rules, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-01-15</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, Rules, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-01-15</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, Rules, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-01-15</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, Rules, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-01-15</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-01-15</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-01-15</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>4</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>577</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+      <links />
+      <actionDate>2019-02-07</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHNEIDER:H.R. 577.Congress has the power to enact this legislation pursuantto the following:Article I, sections 4, 6, and 8.[Page H603]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Prohibiting Perks and Privileges Act</title>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>U.S. Capitol</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Prohibiting Perks and Privileges Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To provide that a former Member of Congress receiving compensation as a lobbyist shall be ineligible to receive certain Federal retirement benefits or to use certain congressional benefits and services, to require each Member of Congress to post on the Member's official public website a hyperlink to the most recent annual financial disclosure report filed by the Member under the Ethics in Government Act of 1978, to prohibit the use of appropriated funds to pay for the costs of travel by the spouse of a Member of Congress who accompanies the Member on official travel, to restrict the use of travel promotional awards by Members of Congress who receive such awards in connection with official air travel, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Prohibiting Perks and Privileges Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Prohibiting Perks and Privileges Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,339 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-20", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2443-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000374", 
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001282", 
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000755", 
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001289", 
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001092", 
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001087", 
+      "district": "1", 
+      "name": "Crawford, Eric A. \"Rick\"", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000578", 
+      "district": "1", 
+      "name": "Gaetz, Matt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000589", 
+      "district": "5", 
+      "name": "Gooden, Lance", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000576", 
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001077", 
+      "district": "3", 
+      "name": "Higgins, Clay", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000292", 
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000299", 
+      "district": "4", 
+      "name": "Johnson, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000376", 
+      "district": "16", 
+      "name": "Kelly, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000569", 
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001187", 
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001205", 
+      "district": "3", 
+      "name": "Miller, Carol D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001201", 
+      "district": "10", 
+      "name": "Mitchell, Paul", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001195", 
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000395", 
+      "district": "5", 
+      "name": "Rogers, Harold", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001183", 
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000819", 
+      "district": "6", 
+      "name": "Walker, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000814", 
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-01", 
+  "number": "2443", 
+  "official_title": "To amend chapter 44 of title 18, United States Code, to update certain procedures applicable to commerce in firearms and remove certain Federal restrictions on interstate firearms transactions.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Firearms Interstate Commerce Reform Act", 
+  "sponsor": {
+    "bioguide_id": "S001176", 
+    "district": "1", 
+    "name": "Scalise, Steve", 
+    "state": "LA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-01", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Firearms and explosives", 
+    "Licensing and registrations", 
+    "Military personnel and dependents", 
+    "Retail and wholesale trades"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend chapter 44 of title 18, United States Code, to update certain procedures applicable to commerce in firearms and remove certain Federal restrictions on interstate firearms transactions.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Firearms Interstate Commerce Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Firearms Interstate Commerce Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Firearms Interstate Commerce Reform Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T07:15:48Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2443.xml"
+}

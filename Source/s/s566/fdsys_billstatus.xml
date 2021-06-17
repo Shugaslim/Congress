@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>566</billNumber>
+    <recordedVotes />
+    <introducedDate>2019-02-26</introducedDate>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-02-26</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2019-02-27T05:25:07Z</createDate>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2019-02-26</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Securities and Exchange Act of 1934 to expand access to capital for rural-area small businesses, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Expanding Access to Capital for Rural Job Creators Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Expanding Access to Capital for Rural Job Creators Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Expanding Access to Capital for Rural Job Creators Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2019-02-26T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-05-29T14:29:35Z</lastSummaryUpdateDate>
+          <actionDate>2019-02-26</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Expanding Access to Capital for Rural Job Creators Act</b></p> <p>This bill requires the Advocate for Small Business Capital Formation within the Securities and Exchange Commission to report on issues encountered by rural-area small businesses.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-05-29T14:30:06Z</updateDate>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>2409</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-04-30</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <latestTitle>Expanding Access to Capital for Rural Job Creators Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-26T20:29:03Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Expanding Access to Capital for Rural Job Creators Act</title>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <gpoId />
+          <lisID>2364</lisID>
+        </identifiers>
+        <lastName>Jones</lastName>
+        <state>AL</state>
+        <bioguideId>J000300</bioguideId>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <party>D</party>
+        <firstName>Doug</firstName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>K000393</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <party>R</party>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <firstName>John</firstName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <middleName>Neely</middleName>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Kennedy</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <party>D</party>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <lastName>Smith</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billType>S</billType>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Securities and Exchange Commission (SEC)</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <date>2019-02-26T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s566is/xml/BILLS-116s566is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

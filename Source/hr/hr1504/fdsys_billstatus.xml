@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-03-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-03-05</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-03-05</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-05-09T18:15:08Z</updateDate>
+    <latestAction>
+      <actionDate>2019-03-05</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1504ih/xml/BILLS-116hr1504ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>1504</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <middleName>G.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Brown</lastName>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <bioguideId>B001304</bioguideId>
+        <district>4</district>
+        <firstName>Anthony</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>B001304</bioguideId>
+          <lisID>2331</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sewell</lastName>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <bioguideId>S001185</bioguideId>
+        <district>7</district>
+        <firstName>Terri</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>AL</state>
+        <identifiers>
+          <lisID>1988</lisID>
+          <bioguideId>S001185</bioguideId>
+          <gpoId>7792</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Casten</lastName>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+        <bioguideId>C001117</bioguideId>
+        <district>6</district>
+        <firstName>Sean</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2398</lisID>
+          <bioguideId>C001117</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <bioguideId>C001068</bioguideId>
+        <district>9</district>
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <middleName>C. "Hank"</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <bioguideId>J000288</bioguideId>
+        <district>4</district>
+        <firstName>Henry</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Foster</lastName>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <bioguideId>F000454</bioguideId>
+        <district>11</district>
+        <firstName>Bill</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>F000454</bioguideId>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Allred</lastName>
+        <party>D</party>
+        <middleName>Z.</middleName>
+        <firstName>Colin</firstName>
+        <district>32</district>
+        <byRequestType />
+        <state>TX</state>
+        <bioguideId>A000376</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000376</bioguideId>
+          <lisID>2451</lisID>
+        </identifiers>
+        <fullName>Rep. Allred, Colin Z. [D-TX-32]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-05T17:07:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <name>House Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Help America Vote Act of 2002 to establish minimum notification requirements for voters affected by polling place changes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Know Your Polling Place Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Know Your Polling Place Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Know Your Polling Place Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-03-06T08:12:09Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Know Your Polling Place Act</title>
+    <committeeReports />
+    <introducedDate>2019-03-05</introducedDate>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>For the People Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-14</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.</text>
+        </latestAction>
+        <number>1</number>
+      </item>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>For the People Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-28</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>949</number>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Voter Empowerment Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-22</actionDate>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        </latestAction>
+        <number>1275</number>
+      </item>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Voter Empowerment Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-02-25</actionDate>
+          <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        </latestAction>
+        <number>549</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Voting rights</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ALLRED:H.R. 1504.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 18 of the UnitedStates Constitution[Page H2368]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

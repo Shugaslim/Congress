@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1392</billNumber>
+    <recordedVotes />
+    <introducedDate>2019-05-09</introducedDate>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-09</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-09</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2019-05-10T04:42:11Z</createDate>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2019-05-09</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>A bill to direct the Comptroller General of the United States to conduct an assessment of the responsibilities, workload, and vacancy rates of suicide prevention coordinators of the Department of Veterans Affairs, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Support for Suicide Prevention Coordinators Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Support for Suicide Prevention Coordinators Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Support for Suicide Prevention Coordinators Act</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-29T04:27:12Z</updateDate>
+    <relatedBills>
+      <item>
+        <number>2333</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-05-22</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <latestTitle>Support for Suicide Prevention Coordinators Act</latestTitle>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-09T16:48:22Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Support for Suicide Prevention Coordinators Act</title>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Sullivan</lastName>
+        <state>AK</state>
+        <bioguideId>S001198</bioguideId>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <party>R</party>
+        <firstName>Dan</firstName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jon</firstName>
+        <state>MT</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Martha</firstName>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001197</bioguideId>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <lastName>McSally</lastName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billType>S</billType>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1392is/xml/BILLS-116s1392is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-09T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

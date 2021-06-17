@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>UNDERSTAND Act</title>
+    <createDate>2019-05-07T04:27:09Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-06</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-05-06</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <introducedDate>2019-05-06</introducedDate>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-06T20:37:01Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>PORTMAN</lastName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <byRequestType />
+        <firstName>ROB</firstName>
+        <middleName />
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <party>R</party>
+        <bioguideId>P000449</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billNumber>1323</billNumber>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-05-06</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2019-05-21T04:29:19Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to amend title XVIII and XIX of the Social Security Act to collect information under Medicare, Medicaid, and the Children's Health Insurance Program related to social determinants of health, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Utilizing National Data, Effectively Reforming Standards and Tools, to Address Negative Determinates of Health Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>UNDERSTAND Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>UNDERSTAND Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Utilizing National Data, Effectively Reforming Standards and Tools, to Address Negative Determinates of Health Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>UNDERSTAND Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <lastName>Casey</lastName>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001070</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <firstName>Bob</firstName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1323is/xml/BILLS-116s1323is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-06T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,345 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2579-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001292", 
+      "district": "8", 
+      "name": "Beyer, Donald S., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001090", 
+      "district": "8", 
+      "name": "Cartwright, Matt", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000197", 
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000559", 
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001080", 
+      "district": "1", 
+      "name": "Haaland, Debra A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001068", 
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000593", 
+      "district": "49", 
+      "name": "Levin, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000570", 
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000179", 
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000486", 
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-08", 
+  "number": "2579", 
+  "official_title": "To modify the requirements applicable to locatable minerals on public domain lands, consistent with the principles of self-initiation of mining claims, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Hardrock Leasing and Reclamation Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "G000551", 
+    "district": "3", 
+    "name": "Grijalva, Raul M.", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-08", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Business records", 
+    "Civil actions and liability", 
+    "Department of Agriculture", 
+    "Department of the Interior", 
+    "Federal-Indian relations", 
+    "Government Accountability Office (GAO)", 
+    "Government information and archives", 
+    "Government trust funds", 
+    "Hazardous wastes and toxic substances", 
+    "Indian lands and resources rights", 
+    "Intellectual property", 
+    "Intergovernmental relations", 
+    "Land use and conservation", 
+    "Lease and rental services", 
+    "Licensing and registrations", 
+    "Mining", 
+    "Monuments and memorials", 
+    "Parks, recreation areas, trails", 
+    "Pollution liability", 
+    "Public lands and natural resources", 
+    "State and local finance", 
+    "State and local government operations", 
+    "User charges and fees", 
+    "Water quality", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To modify the requirements applicable to locatable minerals on public domain lands, consistent with the principles of self-initiation of mining claims, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hardrock Leasing and Reclamation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hardrock Leasing and Reclamation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Materials Act of 1947", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Surface Resources Act of 1955", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Hardrock Leasing and Reclamation Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-20T19:45:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2579.xml"
+}

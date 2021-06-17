@@ -1,0 +1,191 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-18", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1979-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001124", 
+      "district": "21", 
+      "name": "Cox, TJ", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-28", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000551", 
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-15", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000804", 
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-28", 
+  "number": "1979", 
+  "official_title": "To improve the management of driftnet fishing.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s906-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Driftnet Modernization and Bycatch Reduction Act", 
+  "sponsor": {
+    "bioguide_id": "L000582", 
+    "district": "33", 
+    "name": "Lieu, Ted", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-28", 
+  "subjects": [
+    "Animal protection and human-animal relationships", 
+    "Fishes", 
+    "Hunting and fishing", 
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-03-28T04:00:00Z", 
+    "text": "Driftnet Modernization and Bycatch Reduction Act\n\nThis bill addresses certain driftnet fishing. (Driftnet fishing is a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.)\n\nCurrently, the use of large-scale drift gillnets with a total length of 2.5 kilometers or more is prohibited in the United States.The bill expands the definition of large-scale driftnet fishing to prohibit the use of gillnets with a mesh size of 14 inches or greater outside the U.S. exclusive economic zone.\n\nThe Department of Commerce must conduct a transition program to facilitate the phase out of large-scale driftnet fishing and to promote the adoption of alternative fishing practices that minimize the incidental catch of living marine resources.\n\nCommerce must award grants to program participants."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve the management of driftnet fishing.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Driftnet Modernization and Bycatch Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Driftnet Modernization and Bycatch Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Driftnet Modernization and Bycatch Reduction Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T07:15:33Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1979.xml"
+}

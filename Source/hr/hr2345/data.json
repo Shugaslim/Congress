@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2345-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001119", 
+      "district": "2", 
+      "name": "Craig, Angie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000592", 
+      "district": "2", 
+      "name": "Golden, Jared F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-18", 
+      "state": "ME", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-18", 
+  "number": "2345", 
+  "official_title": "To amend the Small Business Act to clarify the intention of Congress that the Administrator of the Small Business Administration is subject to certain requirements with respect to establishing size standards for small business concerns, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Clarifying the Small Business Runway Extension Act", 
+  "sponsor": {
+    "bioguide_id": "S001212", 
+    "district": "8", 
+    "name": "Stauber, Pete", 
+    "state": "MN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Commerce", 
+    "Government information and archives", 
+    "Small Business Administration", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Small Business Act to clarify the intention of Congress that the Administrator of the Small Business Administration is subject to certain requirements with respect to establishing size standards for small business concerns, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clarifying the Small Business Runway Extension Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clarifying the Small Business Runway Extension Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Clarifying the Small Business Runway Extension Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-10T07:15:58Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2345.xml"
+}

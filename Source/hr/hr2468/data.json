@@ -1,0 +1,155 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2468-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001124", 
+      "district": "21", 
+      "name": "Cox, TJ", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000389", 
+      "district": "17", 
+      "name": "Khanna, Ro", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000582", 
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-02", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000826", 
+      "district": "7", 
+      "name": "Wild, Susan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-02", 
+  "number": "2468", 
+  "official_title": "To amend the Public Health Service Act to increase the preference given, in awarding certain allergies and asthma-related grants, to States that require certain public schools to have allergies and asthma management programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "School-Based Allergies and Asthma Management Program Act", 
+  "sponsor": {
+    "bioguide_id": "H000874", 
+    "district": "5", 
+    "name": "Hoyer, Steny H.", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-02", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to increase the preference given, in awarding certain allergies and asthma-related grants, to States that require certain public schools to have allergies and asthma management programs, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "School-Based Allergies and Asthma Management Program Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "School-Based Allergies and Asthma Management Program Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "School-Based Allergies and Asthma Management Program Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-15T07:16:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2468.xml"
+}

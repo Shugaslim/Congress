@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <billNumber>1334</billNumber>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>2519</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Improving Mental Health Access from the Emergency Department Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-05-03</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-05-06</introducedDate>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-06T22:27:17Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <createDate>2019-05-07T04:27:09Z</createDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1334is/xml/BILLS-116s1334is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-06T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <title>Improving Mental Health Access from the Emergency Department</title>
+    <latestAction>
+      <actionDate>2019-05-06</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <party>R</party>
+        <lastName>CAPITO</lastName>
+        <middleName>MOORE</middleName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <state>WV</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill authorizing a program to promote innovative approaches to securing prompt access to appropriate care for individuals presenting at emergency departments with acute mental health illness.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Improving Mental Health Access from the Emergency Department</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Improving Mental Health Access from the Emergency Department</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Improving Mental Health Access from the Emergency Department</title>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>Margaret</firstName>
+        <middleName>Wood</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hassan</lastName>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <bioguideId>H001076</bioguideId>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+          <lisID>2302</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <laws />
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-06</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-06</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2019-05-21T04:27:25Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

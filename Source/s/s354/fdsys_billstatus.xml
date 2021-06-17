@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2019-02-06</introducedDate>
+    <billNumber>354</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s354is/xml/BILLS-116s354is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>1994</number>
+        <latestAction>
+          <text>Ordered to be Reported by Voice Vote.</text>
+          <actionDate>2019-04-02</actionDate>
+        </latestAction>
+        <latestTitle>Setting Every Community Up for Retirement Enhancement Act of 2019</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <number>1007</number>
+        <latestAction>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-02-06</actionDate>
+        </latestAction>
+        <latestTitle>Retirement Enhancement and Savings Act of 2019</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <number>982</number>
+        <latestAction>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-02-05</actionDate>
+        </latestAction>
+        <latestTitle>To avoid duplicative annual reporting under the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>A bill to avoid duplicative annual reporting under the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974, and for other purposes.</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Warner</lastName>
+        <firstName>Mark</firstName>
+        <bioguideId>W000805</bioguideId>
+        <byRequestType />
+        <middleName>R.</middleName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <state>VA</state>
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to avoid duplicative annual reporting under the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to avoid duplicative annual reporting under the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974, and for other purposes.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <middleName>MARGARET</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>COLLINS</lastName>
+        <firstName>SUSAN</firstName>
+        <state>ME</state>
+        <bioguideId>C001035</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Income tax deferral</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-06T17:55:14Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-02-06</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-02-07T06:10:16Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2019-02-06T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-25T18:01:12Z</lastSummaryUpdateDate>
+          <actionDate>2019-02-06</actionDate>
+          <text><![CDATA[<p>This bill requires the Department of the Treasury and the Department of Labor to cooperate to modify specified returns required for deferred compensation plans and other employee benefit plans to permit all members of a group of plans to file a single aggregated annual return or report satisfying the requirements of both the Internal Revenue Code and the Employee Retirement Income Security Act of 1974 (ERISA). </p> <p>The requirement applies to a group in which all of the plans </p> <ul> <li> are individual account plans or defined contribution plans; </li> <li> have the same trustee, the same one or more named fiduciaries, the same administrator, and plan years beginning on the same date; and </li> <li> provide the same investments or investment options to participants and beneficiaries. </li> </ul> <p>The bill also specifies that, for the purposes of applying the numerical limitations related to the electronic filing of returns for deferred compensation plans, each plan for which information is provided on the return must be treated as a separate return. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-05-01T13:00:10Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

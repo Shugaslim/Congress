@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T14:04:50Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-23T16:26:09Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T14:04:45Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hshm00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <createDate>2019-05-23T07:12:08Z</createDate>
+    <billNumber>2932</billNumber>
+    <billType>HR</billType>
+    <title>To amend the Homeland Security Act of 2002 to ensure that the needs of children are considered in homeland security planning, and for other purposes.</title>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+    </actions>
+    <policyArea />
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>P000604</bioguideId>
+        <state>NJ</state>
+        <district>10</district>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <firstName>Donald</firstName>
+        <lastName>Payne</lastName>
+        <party>D</party>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-05-22</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000193</bioguideId>
+        <firstName>BENNIE</firstName>
+        <district>2</district>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>THOMPSON</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <identifiers>
+          <gpoId>8020</gpoId>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <state>MS</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PAYNE:H.R. 2932.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8[Page H4121]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend the Homeland Security Act of 2002 to ensure that the needs of children are considered in homeland security planning, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Homeland Security Act of 2002 to ensure that the needs of children are considered in homeland security planning, and for other purposes.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <textVersions />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-24T07:13:47Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+      <links />
+      <actionDate>2019-05-23</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

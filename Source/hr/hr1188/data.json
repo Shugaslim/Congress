@@ -1,0 +1,171 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1188-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001117", 
+      "district": "6", 
+      "name": "Casten, Sean", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-13", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001123", 
+      "district": "39", 
+      "name": "Cisneros, Gilbert Ray, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-13", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000597", 
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-13", 
+      "state": "ME", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000613", 
+      "district": "11", 
+      "name": "Rose, Max", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-13", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001208", 
+      "district": "8", 
+      "name": "Slotkin, Elissa", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-13", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-13", 
+  "number": "1188", 
+  "official_title": "To shorten monopoly periods for prescription drugs that are the subjects of sudden price hikes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s366-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "FLAT Prices Act", 
+  "sponsor": {
+    "bioguide_id": "G000592", 
+    "district": "2", 
+    "name": "Golden, Jared F.", 
+    "state": "ME", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-13", 
+  "subjects": [
+    "Business records", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Government information and archives", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Inflation and prices", 
+    "Licensing and registrations", 
+    "Prescription drugs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FLAT Prices Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FLAT Prices Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Forcing Limits on Abusive and Tumultuous Prices", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Forcing Limits on Abusive and Tumultuous Prices", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To shorten monopoly periods for prescription drugs that are the subjects of sudden price hikes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "FLAT Prices Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-14T21:45:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1188.xml"
+}

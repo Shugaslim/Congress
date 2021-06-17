@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2756-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001299", 
+      "district": "3", 
+      "name": "Banks, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-15", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-15", 
+  "number": "2756", 
+  "official_title": "To direct the Secretary of Defense to develop workforce development investment incentives and to consider a qualified training program of an offeror as part of the past performance rating of such offeror, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Developing the National Security Workforce Act", 
+  "sponsor": {
+    "bioguide_id": "B001304", 
+    "district": "4", 
+    "name": "Brown, Anthony G.", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-15", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Developing the National Security Workforce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Defense to develop workforce development investment incentives and to consider a qualified training program of an offeror as part of the past performance rating of such offeror, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Defense to develop workforce development investment incentives and to consider a qualified training program of an offeror as part of the past performance rating of such offeror, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-30T04:45:05Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2756.xml"
+}

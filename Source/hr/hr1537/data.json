@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-05", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E242", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1537-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-05", 
+  "number": "1537", 
+  "official_title": "To direct the Postmaster General to issue a forever stamp depicting Bayard Rustin, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Bayard Rustin Stamp Act", 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-05", 
+  "subjects": [
+    "Civil Rights and Liberties, Minority Issues", 
+    "Government operations and politics", 
+    "Postal service", 
+    "Racial and ethnic relations", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Postmaster General to issue a forever stamp depicting Bayard Rustin, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bayard Rustin Stamp Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bayard Rustin Stamp Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Bayard Rustin Stamp Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-07T18:45:46Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1537.xml"
+}

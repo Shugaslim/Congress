@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <textVersions />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <amendments />
+    <actions>
+      <item>
+        <actionDate>2019-05-24</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2019-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2019-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2019-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-05-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-05-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <updateDate>2019-05-29T07:12:17Z</updateDate>
+    <createDate>2019-05-24T07:12:17Z</createDate>
+    <title>To ensure that State and local law enforcement may cooperate with Federal officials to protect our communities from violent criminals and suspected terrorists who are illegally present in the United States.</title>
+    <congress>116</congress>
+    <notes />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000585</bioguideId>
+          <lisID>2295</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Darin</firstName>
+        <party>R</party>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <lastName>LaHood</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>L000585</bioguideId>
+        <middleName />
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1987</lisID>
+          <bioguideId>B001274</bioguideId>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <firstName>Mo</firstName>
+        <party>R</party>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <lastName>Brooks</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>AL</state>
+        <bioguideId>B001274</bioguideId>
+        <middleName />
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2436</lisID>
+          <bioguideId>R000610</bioguideId>
+        </identifiers>
+        <firstName>Guy</firstName>
+        <party>R</party>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <lastName>Reschenthaler</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>PA</state>
+        <bioguideId>R000610</bioguideId>
+        <middleName />
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000601</bioguideId>
+          <gpoId />
+          <lisID>2268</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <lastName>Ratcliffe</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>TX</state>
+        <bioguideId>R000601</bioguideId>
+        <middleName />
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2100</lisID>
+          <bioguideId>L000578</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Doug</firstName>
+        <party>R</party>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <lastName>LaMalfa</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>L000578</bioguideId>
+        <middleName />
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <firstName>Matt</firstName>
+        <party>R</party>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <lastName>Gaetz</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>FL</state>
+        <bioguideId>G000578</bioguideId>
+        <middleName />
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <firstName>Jeff</firstName>
+        <party>R</party>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <lastName>Duncan</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>SC</state>
+        <bioguideId>D000615</bioguideId>
+        <middleName />
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>AZ</state>
+        <bioguideId>G000565</bioguideId>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <gpoId />
+          <lisID>2336</lisID>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <lastName>Budd</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>NC</state>
+        <bioguideId>B001305</bioguideId>
+        <middleName />
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2033</lisID>
+          <bioguideId>L000576</bioguideId>
+          <gpoId>8015</gpoId>
+        </identifiers>
+        <firstName>Billy</firstName>
+        <party>R</party>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <lastName>Long</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>MO</state>
+        <bioguideId>L000576</bioguideId>
+        <middleName />
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000819</bioguideId>
+          <gpoId />
+          <lisID>2255</lisID>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <party>R</party>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <lastName>Walker</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>NC</state>
+        <bioguideId>W000819</bioguideId>
+        <middleName />
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+          <lisID>2270</lisID>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <lastName>Babin</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>TX</state>
+        <bioguideId>B001291</bioguideId>
+        <middleName />
+        <district>36</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2350</lisID>
+          <bioguideId>A000375</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Jodey</firstName>
+        <party>R</party>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <lastName>Arrington</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>TX</state>
+        <bioguideId>A000375</bioguideId>
+        <middleName>C.</middleName>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2460</lisID>
+          <bioguideId>M001205</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Carol</firstName>
+        <party>R</party>
+        <fullName>Rep. Miller, Carol D. [R-WV-3]</fullName>
+        <lastName>Miller</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>WV</state>
+        <bioguideId>M001205</bioguideId>
+        <middleName>D.</middleName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <lastName>Cook</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>C001094</bioguideId>
+        <middleName />
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8108</gpoId>
+          <lisID>2049</lisID>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+        <firstName>Bob</firstName>
+        <party>R</party>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <lastName>Gibbs</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>OH</state>
+        <bioguideId>G000563</bioguideId>
+        <middleName />
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8151</gpoId>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <party>R</party>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <lastName>DesJarlais</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>TN</state>
+        <bioguideId>D000616</bioguideId>
+        <middleName />
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001048</bioguideId>
+          <gpoId>7857</gpoId>
+          <lisID>1909</lisID>
+        </identifiers>
+        <firstName>Duncan</firstName>
+        <party>R</party>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <lastName>Hunter</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>H001048</bioguideId>
+        <middleName>D.</middleName>
+        <district>50</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8157</gpoId>
+          <lisID>1801</lisID>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <firstName>Louie</firstName>
+        <party>R</party>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <lastName>Gohmert</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>TX</state>
+        <bioguideId>G000552</bioguideId>
+        <middleName />
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2248</lisID>
+          <bioguideId>M001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <lastName>Moolenaar</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>MI</state>
+        <bioguideId>M001194</bioguideId>
+        <middleName>R.</middleName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <lisID>2307</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Andy</firstName>
+        <party>R</party>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <lastName>Biggs</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>AZ</state>
+        <bioguideId>B001302</bioguideId>
+        <middleName />
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2446</lisID>
+          <bioguideId>W000827</bioguideId>
+        </identifiers>
+        <firstName>Ron</firstName>
+        <party>R</party>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <lastName>Wright</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>TX</state>
+        <bioguideId>W000827</bioguideId>
+        <middleName />
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <introducedDate>2019-05-23</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <state>CA</state>
+        <party>R</party>
+        <byRequestType />
+        <middleName />
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <lastName>McClintock</lastName>
+        <bioguideId>M001177</bioguideId>
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <district>4</district>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McCLINTOCK:H.R. 3000.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 4 of the United StatesConstitution[Page H4166]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+      <actionDate>2019-05-24</actionDate>
+    </latestAction>
+    <policyArea />
+    <titles>
+      <item>
+        <title>To ensure that State and local law enforcement may cooperate with Federal officials to protect our communities from violent criminals and suspected terrorists who are illegally present in the United States.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To ensure that State and local law enforcement may cooperate with Federal officials to protect our communities from violent criminals and suspected terrorists who are illegally present in the United States.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T13:10:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+              <systemCode>hspw13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-24T18:01:07Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T13:10:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T13:10:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <laws />
+    <billNumber>3000</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

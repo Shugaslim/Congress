@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2019-03-14</introducedDate>
+    <billNumber>799</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-03-14</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s799is/xml/BILLS-116s799is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <title>Securities Fraud Enforcement and Investor Compensation Act of 2019</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Warner</lastName>
+        <firstName>Mark</firstName>
+        <bioguideId>W000805</bioguideId>
+        <byRequestType />
+        <middleName>R.</middleName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <state>VA</state>
+        <identifiers>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Securities Exchange Act of 1934 to clarify that the Security and Exchange Commission may seek disgorgement and restitution as a result of a violation of the securities laws, to establish the statute of limitations for disgorgement and equitable actions brought by the Commission, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Securities Fraud Enforcement and Investor Compensation Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Securities Fraud Enforcement and Investor Compensation Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Securities Fraud Enforcement and Investor Compensation Act of 2019</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <firstName>John</firstName>
+        <middleName>Neely</middleName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Kennedy</lastName>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <bioguideId>K000393</bioguideId>
+        <state>LA</state>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2019-03-14T15:02:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-03-14</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-03-15T04:42:08Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-01T04:30:05Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

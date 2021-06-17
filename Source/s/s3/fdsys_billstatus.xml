@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>3</billNumber>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-01-04T13:32:58Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-01-03</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <title>Keeping Health Insurance Affordable Act of 2019</title>
+    <congress>116</congress>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <party>D</party>
+        <bioguideId>C000141</bioguideId>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <state>MD</state>
+        <byRequestType />
+        <middleName>L.</middleName>
+        <lastName>CARDIN</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2019-01-03</actionDate>
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s3is/xml/BILLS-116s3is.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to bring stability to the individual insurance market, make insurance coverage more affordable, lower prescription drug prices, and improve Medicaid.</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Keeping Health Insurance Affordable Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Keeping Health Insurance Affordable Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Keeping Health Insurance Affordable Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <cosponsors />
+    <amendments />
+    <introducedDate>2019-01-03</introducedDate>
+    <updateDate>2019-04-02T18:26:07Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T19:38:38Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

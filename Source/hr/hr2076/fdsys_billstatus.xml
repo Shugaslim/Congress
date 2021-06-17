@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2458</lisID>
+          <bioguideId>S001216</bioguideId>
+        </identifiers>
+        <lastName>Schrier</lastName>
+        <district>8</district>
+        <middleName />
+        <firstName>Kim</firstName>
+        <bioguideId>S001216</bioguideId>
+        <state>WA</state>
+        <party>D</party>
+        <fullName>Rep. Schrier, Kim [D-WA-8]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <latestTitle>Early Detection to Stop Infant Abuse and Prevent Fatalities Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-04-03</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <number>1009</number>
+        <type>S</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-04-04T07:12:09Z</createDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <party>R</party>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <identifiers>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <district>15</district>
+        <middleName />
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <bioguideId>S001187</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <lastName>Stivers</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <party>R</party>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <identifiers>
+          <lisID>2326</lisID>
+          <bioguideId>B001299</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <middleName />
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <bioguideId>B001299</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jim</firstName>
+        <lastName>Banks</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <party>D</party>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <identifiers>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <middleName />
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <bioguideId>T000193</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BENNIE</firstName>
+        <lastName>THOMPSON</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <party>D</party>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <district>13</district>
+        <middleName />
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>TIM</firstName>
+        <lastName>RYAN</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <party>D</party>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <middleName />
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>K000381</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <party>D</party>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <identifiers>
+          <lisID>2406</lisID>
+          <bioguideId>T000483</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>T000483</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <lastName>Trone</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OK</state>
+        <party>R</party>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <district>4</district>
+        <middleName />
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <bioguideId>C001053</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <lastName>Cole</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <party>D</party>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <identifiers>
+          <gpoId>7946</gpoId>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <middleName />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <bioguideId>C001072</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Andre</firstName>
+        <lastName>Carson</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <party>D</party>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <middleName />
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <bioguideId>K000188</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>RON</firstName>
+        <lastName>KIND</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <party>R</party>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <identifiers>
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <middleName />
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <bioguideId>G000579</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <lastName>Gallagher</lastName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2076ih/xml/BILLS-116hr2076ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-03T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billNumber>2076</billNumber>
+    <notes />
+    <updateDate>2019-05-17T07:15:44Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <title>Early Detection to Stop Infant Abuse and Prevent Fatalities Act</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SCHRIER:H.R. 2076.Congress has the power to enact this legislation pursuantto the following:Article I[Page H3069]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To establish a demonstration program to explore effective practices to improve early detection and management of injuries indicative of potential abuse in infants under the age of 7 months, in order to prevent future cases of child abuse and related fatalities.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Early Detection to Stop Infant Abuse and Prevent Fatalities Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Early Detection to Stop Infant Abuse and Prevent Fatalities Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Early Detection to Stop Infant Abuse and Prevent Fatalities Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <actionDate>2019-04-03</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and Labor</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-03T13:06:25Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <introducedDate>2019-04-03</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

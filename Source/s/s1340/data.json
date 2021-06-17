@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1340-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001088", 
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "DE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000595", 
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-07", 
+  "number": "1340", 
+  "official_title": "A bill to authorize activities to combat the Ebola outbreak in the Democratic Republic of the Congo, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ebola Eradication Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "M000639", 
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-22", 
+  "subjects": [
+    "International affairs"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ebola Eradication Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize activities to combat the Ebola outbreak in the Democratic Republic of the Congo, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to authorize activities to combat the Ebola outbreak in the Democratic Republic of the Congo, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T04:55:55Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1340.xml"
+}

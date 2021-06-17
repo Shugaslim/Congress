@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2209-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "F000469", 
+      "district": "1", 
+      "name": "Fulcher, Russ", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "ID", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001067", 
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-10", 
+  "number": "2209", 
+  "official_title": "To establish the position of Chief Pharmaceutical Negotiator in the Office of the United States Trade Representative responsible for conducting trade negotiations and enforcing trade agreements related to acts, policies, and practices of foreign governments that fail to appropriately reward United States innovation with respect to pharmaceuticals, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fixing Global Freeloading Act", 
+  "sponsor": {
+    "bioguide_id": "M001187", 
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-10", 
+  "subjects": [
+    "Competitiveness, trade promotion, trade deficits", 
+    "Congressional oversight", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Foreign trade and international finance", 
+    "Government employee pay, benefits, personnel management", 
+    "Prescription drugs", 
+    "Trade agreements and negotiations"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fixing Global Freeloading Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fixing Global Freeloading Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the position of Chief Pharmaceutical Negotiator in the Office of the United States Trade Representative responsible for conducting trade negotiations and enforcing trade agreements related to acts, policies, and practices of foreign governments that fail to appropriately reward United States innovation with respect to pharmaceuticals, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Fixing Global Freeloading Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:15:57Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2209.xml"
+}

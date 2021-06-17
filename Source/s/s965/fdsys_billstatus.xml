@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s965is/xml/BILLS-116s965is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-01T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <introducedDate>2019-04-01</introducedDate>
+    <committeeReports />
+    <recordedVotes />
+    <relatedBills />
+    <sponsors>
+      <item>
+        <lastName>Jones</lastName>
+        <middleName />
+        <byRequestType />
+        <state>AL</state>
+        <firstName>Doug</firstName>
+        <bioguideId>J000300</bioguideId>
+        <party>D</party>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Ceiling and Visibility Unlimited Act</title>
+    <cboCostEstimates />
+    <createDate>2019-04-02T04:27:11Z</createDate>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to provide for programs of scholarships for members of Junior Reserve Officers' Training Corps units toward obtaining private pilot's licenses, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Ceiling and Visibility Unlimited Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Ceiling and Visibility Unlimited Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Ceiling and Visibility Unlimited Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <cosponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <middleName />
+        <lastName>Cotton</lastName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <state>AR</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <policyArea />
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-01T20:23:25Z</date>
+            </item>
+          </activities>
+          <systemCode>ssas00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>965</billNumber>
+    <amendments />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-04-01</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-01</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2019-04-01</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-04-16T04:42:21Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

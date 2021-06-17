@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3025-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000590", 
+      "district": "3", 
+      "name": "Lee, Susie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-24", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-24", 
+  "number": "3025", 
+  "official_title": "To direct the Architect of the Capitol to display the POW/MIA flag outside of the entrance of the office of each Member of Congress, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M001187", 
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-24", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Architect of the Capitol to display the POW/MIA flag outside of the entrance of the office of each Member of Congress, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To direct the Architect of the Capitol to display the POW/MIA flag outside of the entrance of the office of each Member of Congress, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-25T07:15:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3025.xml"
+}

@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1009-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-06", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-06", 
+  "number": "1009", 
+  "official_title": "To provide for the study and evaluation of net metering, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s346-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "National Evaluation of Techniques for Making Energy Technologies More Efficient and Resilient Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001097", 
+    "district": "29", 
+    "name": "Cardenas, Tony", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-06", 
+  "subjects": [
+    "Alternative and renewable resources", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Energy storage, supplies, demand", 
+    "Government studies and investigations", 
+    "Public utilities and utility rates"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Evaluation of Techniques for Making Energy Technologies More Efficient and Resilient Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Evaluation of Techniques for Making Energy Technologies More Efficient and Resilient Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the study and evaluation of net metering, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National Evaluation of Techniques for Making Energy Technologies More Efficient and Resilient Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-26T15:36:25Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1009.xml"
+}

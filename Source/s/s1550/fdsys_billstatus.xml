@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1550</billNumber>
+    <sponsors>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <lastName>DURBIN</lastName>
+        <byRequestType />
+        <middleName>J.</middleName>
+        <firstName>RICHARD</firstName>
+        <state>IL</state>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <createDate>2019-05-21T04:27:10Z</createDate>
+    <amendments />
+    <textVersions />
+    <laws />
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-20T22:29:26Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-05-20</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-05-20</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance. (text: CR S2967)</text>
+    </latestAction>
+    <notes />
+    <updateDate>2019-05-21T15:42:06Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-20</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2967</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2967</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (text: CR S2967)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-05-20</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <lastName>Duckworth</lastName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000622</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Tammy</firstName>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <party>D</party>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the work opportunity credit for certain youth employees, and to extend empowerment zones.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the work opportunity credit for certain youth employees, and to extend empowerment zones.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <relatedBills />
+    <title>A bill to amend the Internal Revenue Code of 1986 to modify the work opportunity credit for certain youth employees, and to extend empowerment zones.</title>
+    <policyArea />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

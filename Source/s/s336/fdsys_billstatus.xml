@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-05T19:48:15Z</date>
+            </item>
+          </activities>
+          <type>Other</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>336</billNumber>
+    <latestAction>
+      <actionDate>2019-02-05</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-05</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <billType>S</billType>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <firstName>Jon</firstName>
+        <middleName />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <lastName>Tester</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-01T06:31:14Z</updateDate>
+    <createDate>2019-02-06T06:10:16Z</createDate>
+    <relatedBills>
+      <item>
+        <number>2029</number>
+        <latestTitle>Studying the Missing and Murdered Indian Crisis Act of 2019</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-04-02</actionDate>
+          <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>1585</number>
+        <latestTitle>Violence Against Women Reauthorization Act of 2019</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-04-10</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 66.</text>
+        </latestAction>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <introducedDate>2019-02-05</introducedDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Missing persons</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <amendments />
+    <cosponsors>
+      <item>
+        <firstName>Steve</firstName>
+        <middleName />
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Daines</lastName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <bioguideId>D000618</bioguideId>
+        <state>MT</state>
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <middleName />
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Lankford</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+        <bioguideId>L000575</bioguideId>
+        <state>OK</state>
+      </item>
+      <item>
+        <firstName>Catherine</firstName>
+        <middleName />
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Cortez Masto</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+        <bioguideId>C001113</bioguideId>
+        <state>NV</state>
+      </item>
+      <item>
+        <firstName>Tina</firstName>
+        <middleName />
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Smith</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <bioguideId>S001203</bioguideId>
+        <state>MN</state>
+      </item>
+      <item>
+        <firstName>TOM</firstName>
+        <middleName />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>UDALL</lastName>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Warren</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s336is/xml/BILLS-116s336is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>116</congress>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to direct the Comptroller General of the United States to submit a report on the response of law enforcement agencies to reports of missing or murdered Indians.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Studying the Missing and Murdered Indian Crisis Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Studying the Missing and Murdered Indian Crisis Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Studying the Missing and Murdered Indian Crisis Act of 2019</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Studying the Missing and Murdered Indian Crisis Act of 2019</title>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

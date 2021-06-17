@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr746-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001209", 
+      "district": "7", 
+      "name": "Spanberger, Abigail Davis", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-24", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-24", 
+  "number": "746", 
+  "official_title": "To amend the Federal Election Campaign Act of 1971 to apply the ban on contributions and expenditures by foreign nationals under such Act to foreign-controlled, foreign-influenced, and foreign-owned domestic corporations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s949-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Get Foreign Money Out of U.S. Elections Act", 
+  "sponsor": {
+    "bioguide_id": "R000606", 
+    "district": "8", 
+    "name": "Raskin, Jamie", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-24", 
+  "subjects": [
+    "Business ethics", 
+    "Corporate finance and management", 
+    "Elections, voting, political campaign regulation", 
+    "Foreign and international corporations", 
+    "Government operations and politics", 
+    "U.S. and foreign investments"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Election Campaign Act of 1971 to apply the ban on contributions and expenditures by foreign nationals under such Act to foreign-controlled, foreign-influenced, and foreign-owned domestic corporations, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Get Foreign Money Out of U.S. Elections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Get Foreign Money Out of U.S. Elections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Get Foreign Money Out of U.S. Elections Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-03T14:45:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr746.xml"
+}

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-03</actionDate>
+        <committee>
+          <systemCode>hsju03</systemCode>
+          <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-04-01</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-04-01</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-04-01</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2149</lisID>
+          <bioguideId>J000294</bioguideId>
+        </identifiers>
+        <lastName>Jeffries</lastName>
+        <district>8</district>
+        <middleName>S.</middleName>
+        <firstName>Hakeem</firstName>
+        <bioguideId>J000294</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>963</number>
+        <latestTitle>FLAG Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-04-01</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-04-02T07:12:08Z</createDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Roby</lastName>
+        <middleName />
+        <fullName>Rep. Roby, Martha [R-AL-2]</fullName>
+        <district>2</district>
+        <bioguideId>R000591</bioguideId>
+        <state>AL</state>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7787</gpoId>
+          <bioguideId>R000591</bioguideId>
+          <lisID>1986</lisID>
+        </identifiers>
+        <firstName>Martha</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <district>1</district>
+        <bioguideId>F000466</bioguideId>
+        <state>PA</state>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Harder</lastName>
+        <middleName />
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <district>10</district>
+        <bioguideId>H001090</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>2377</lisID>
+          <bioguideId>H001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Josh</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Spanberger</lastName>
+        <middleName>Davis</middleName>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <district>7</district>
+        <bioguideId>S001209</bioguideId>
+        <state>VA</state>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001209</bioguideId>
+          <lisID>2456</lisID>
+        </identifiers>
+        <firstName>Abigail</firstName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1999ih/xml/BILLS-116hr1999ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-01T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billNumber>1999</billNumber>
+    <notes />
+    <updateDate>2019-05-15T07:15:57Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <title>Fair Licensing Access for Governments Act of 2019</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>National symbols</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JEFFRIES:H.R. 1999.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 (Commerce Clause)[Page H2938]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Fair Licensing Access for Governments Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Trademark Act of 1946 to provide for the registration of marks consisting of the flag, coat of arms, or other official insignia of the United States, any State or municipality of the United States, or any foreign nation.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>FLAG Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Fair Licensing Access for Governments Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Fair Licensing Access for Governments Act of 2019</title>
+      </item>
+    </titles>
+    <latestAction>
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+      <actionDate>2019-05-03</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-04-01T16:00:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-05-03T17:52:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju03</systemCode>
+              <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <introducedDate>2019-04-01</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

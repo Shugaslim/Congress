@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr589-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-16", 
+  "number": "589", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to apply current income tax bracket breakpoints to capital gains brackets.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Middle Class Savings Act", 
+  "sponsor": {
+    "bioguide_id": "B001282", 
+    "district": "6", 
+    "name": "Barr, Andy", 
+    "state": "KY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-16", 
+  "subjects": [
+    "Capital gains tax", 
+    "Income tax rates", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-16T05:00:00Z", 
+    "text": "Middle Class Savings Act\n\n This bill modifies the tax brackets that apply to taxes on capital gains. The bill aligns the thresholds with the brackets for the regular income tax rates enacted in P.L. 115-97 (commonly known as the the Tax Cuts and Jobs Act)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to apply current income tax bracket breakpoints to capital gains brackets.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Middle Class Savings Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Middle Class Savings Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Middle Class Savings Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-09T10:26:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr589.xml"
+}

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1510</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-16</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <state>IN</state>
+        <party>R</party>
+        <bioguideId>Y000064</bioguideId>
+        <byRequestType />
+        <lastName>Young</lastName>
+        <middleName />
+        <firstName>Todd</firstName>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <title>A bill to amend the Internal Revenue Code of 1986 to modify the definition of full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act.</title>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <party>D</party>
+        <state>WV</state>
+        <lastName>Manchin</lastName>
+        <firstName>Joe</firstName>
+        <middleName />
+        <bioguideId>M001183</bioguideId>
+        <identifiers>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <party>R</party>
+        <state>WY</state>
+        <lastName>Barrasso</lastName>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>B001261</bioguideId>
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <party>D</party>
+        <state>AZ</state>
+        <lastName>Sinema</lastName>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <bioguideId>S001191</bioguideId>
+        <identifiers>
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the definition of full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the definition of full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-05-17T04:47:47Z</updateDate>
+    <congress>116</congress>
+    <introducedDate>2019-05-16</introducedDate>
+    <laws />
+    <createDate>2019-05-17T04:42:08Z</createDate>
+    <billType>S</billType>
+    <relatedBills />
+    <calendarNumbers />
+    <committeeReports />
+    <policyArea />
+    <textVersions />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2019-05-16</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-16T16:46:12Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

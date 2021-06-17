@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <introducedDate>2019-03-13</introducedDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <recordedVotes />
+    <amendments />
+    <updateDate>2019-04-10T05:14:56Z</updateDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend the Higher Education Act of 1965 to provide for the refinancing of certain Federal student loans, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Bank on Students Emergency Loan Refinancing Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Bank on Students Emergency Loan Refinancing Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Bank on Students Emergency Loan Refinancing Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-13</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-13</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+    </actions>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s768is/xml/BILLS-116s768is.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-13T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <byRequestType />
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Baldwin</lastName>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>B001230</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tammy</firstName>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>B001267</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Richard</firstName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Booker</lastName>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Brown</lastName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>B000944</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Sherrod</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CANTWELL</lastName>
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>C000127</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>MARIA</firstName>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARDIN</lastName>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BENJAMIN</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Casey</lastName>
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>C001070</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>PA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bob</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cortez Masto</lastName>
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <lisID>2299</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <bioguideId>C001113</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>NV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Catherine</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Duckworth</lastName>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tammy</firstName>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>DURBIN</lastName>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>FEINSTEIN</lastName>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>F000062</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DIANNE</firstName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gillibrand</lastName>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kirsten</firstName>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Harris</lastName>
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>H001075</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kamala</firstName>
+      </item>
+      <item>
+        <middleName>Wood</middleName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hassan</lastName>
+        <identifiers>
+          <lisID>2302</lisID>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Margaret</firstName>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hirono</lastName>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>H001042</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mazie</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Amy</firstName>
+      </item>
+      <item>
+        <middleName>JOSEPH</middleName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEAHY</lastName>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>L000174</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>PATRICK</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Manchin</lastName>
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>M001183</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MARKEY</lastName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>EDWARD</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Menendez</lastName>
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>M000639</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Murphy</lastName>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>M001169</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Christopher</firstName>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Peters</lastName>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gary</firstName>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>REED</lastName>
+        <identifiers>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>R000122</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>RI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sanders</lastName>
+        <identifiers>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <party>I</party>
+        <bioguideId>S000033</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bernard</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jeanne</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Smith</lastName>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tina</firstName>
+      </item>
+      <item>
+        <middleName>ANN</middleName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>STABENOW</lastName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DEBORAH</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>UDALL</lastName>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>U000039</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>TOM</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Van Hollen</lastName>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Whitehouse</lastName>
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>W000802</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>RI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Sheldon</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>WYDEN</lastName>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RON</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heinrich</lastName>
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>H001046</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Martin</firstName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHUMER</lastName>
+        <identifiers>
+          <gpoId>8279</gpoId>
+          <lisID>1036</lisID>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>S000148</bioguideId>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>CHARLES</firstName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Bank on Students Emergency Loan Refinancing Act</title>
+    <laws />
+    <calendarNumbers />
+    <congress>116</congress>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>1707</number>
+        <latestTitle>Bank on Students Emergency Loan Refinancing Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-03-13</actionDate>
+          <text>Referred to the Committee on Education and Labor, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2019-03-13</actionDate>
+    </latestAction>
+    <createDate>2019-03-14T04:42:07Z</createDate>
+    <billNumber>768</billNumber>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-13T15:16:33Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

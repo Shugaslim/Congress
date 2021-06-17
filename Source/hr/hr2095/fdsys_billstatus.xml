@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <latestAction>
+      <actionDate>2019-04-04</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <createDate>2019-04-05T07:12:08Z</createDate>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeSAULNIER:H.R. 2095.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H3101]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <title>To direct the Secretary of Health and Human Services, for the purpose of addressing public health crises, to require the manufacturers of covered products to develop, maintain, and update a plan to mitigate the effects of such products on public health, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>National Public Health Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>National Public Health Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>National Public Health Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2019-04-23T17:15:08Z</updateDate>
+    <congress>116</congress>
+    <title>National Public Health Act of 2019</title>
+    <laws />
+    <textVersions>
+      <item>
+        <date>2019-04-04T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2095ih/xml/BILLS-116hr2095ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <introducedDate>2019-04-04</introducedDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors />
+    <committeeReports />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-04-04T13:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Mark</firstName>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <bioguideId>D000623</bioguideId>
+        <party>D</party>
+        <byRequestType />
+        <lastName>DeSaulnier</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <billNumber>2095</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

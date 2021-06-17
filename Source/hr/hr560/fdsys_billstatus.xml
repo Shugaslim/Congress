@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-02-27T17:35:00Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2019-01-15T15:05:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-15T15:05:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2019-02-25T21:53:10Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Northern Mariana Islands Residents Relief Act</title>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr560ih/xml/BILLS-116hr560ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-15T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2019-01-15</introducedDate>
+    <billNumber>560</billNumber>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Northern Mariana Islands</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2019-02-27</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <congress>116</congress>
+    <updateDate>2019-05-13T14:45:08Z</updateDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend section 6 of the Joint Resolution entitled "A Joint Resolution to approve the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, and for other purposes".</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Northern Mariana Islands Residents Relief Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Northern Mariana Islands Residents Relief Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Northern Mariana Islands Residents Relief Act</title>
+      </item>
+    </titles>
+    <createDate>2019-01-16T08:10:16Z</createDate>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Northern Mariana Islands Long-Term Legal Residents Relief Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>559</number>
+        <latestAction>
+          <actionDate>2019-02-25</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Gregorio</firstName>
+        <lastName>Sablan</lastName>
+        <byRequestType />
+        <middleName>Kilili Camacho</middleName>
+        <bioguideId>S001177</bioguideId>
+        <state>MP</state>
+        <party>D</party>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <identifiers>
+          <gpoId>8018</gpoId>
+          <lisID>1962</lisID>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+        <district>0</district>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Committee Hearings Held.</text>
+      <actionDate>2019-02-27</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <middleName>M.</middleName>
+        <state>AZ</state>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Grijalva</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Raul</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <middleName>Luis</middleName>
+        <state>CA</state>
+        <bioguideId>C001110</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Correa</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>46</district>
+        <identifiers>
+          <lisID>2312</lisID>
+          <bioguideId>C001110</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>J.</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <sponsorshipDate>2019-02-22</sponsorshipDate>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>V000130</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Vargas</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>51</district>
+        <identifiers>
+          <lisID>2112</lisID>
+          <gpoId />
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Juan</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <middleName>Coleman</middleName>
+        <state>AS</state>
+        <bioguideId>R000600</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Radewagen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000600</bioguideId>
+          <lisID>2222</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>Aumua Amata</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <middleName />
+        <state>UT</state>
+        <bioguideId>B001250</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bishop</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <identifiers>
+          <gpoId>8189</gpoId>
+          <bioguideId>B001250</bioguideId>
+          <lisID>1753</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>Rob</firstName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SABLAN:H.R. 560.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 8, Clauses 4 and Article IV,Section 3, Clause 2 of the Constitution of the United States.[Page H602]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

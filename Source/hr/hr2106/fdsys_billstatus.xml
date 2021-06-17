@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2019-04-26</actionDate>
+        <committee>
+          <name>Conservation and Forestry Subcommittee</name>
+          <systemCode>hsag15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-23</actionDate>
+        <committee>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-04</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-04</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-04-04</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-04-04</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1885</lisID>
+          <gpoId>8095</gpoId>
+          <bioguideId>L000566</bioguideId>
+        </identifiers>
+        <lastName>Latta</lastName>
+        <district>5</district>
+        <middleName>E.</middleName>
+        <firstName>Robert</firstName>
+        <bioguideId>L000566</bioguideId>
+        <state>OH</state>
+        <party>R</party>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-04-05T07:12:08Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <lastName>Cole</lastName>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <bioguideId>C001053</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>4</district>
+        <party>R</party>
+        <state>OK</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <lastName>RYAN</lastName>
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <firstName>TIM</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <bioguideId>R000577</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>13</district>
+        <party>D</party>
+        <state>OH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <lastName>Scott</lastName>
+        <identifiers>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <firstName>Austin</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <bioguideId>S001189</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>8</district>
+        <party>R</party>
+        <state>GA</state>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2106ih/xml/BILLS-116hr2106ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-04T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billNumber>2106</billNumber>
+    <notes />
+    <updateDate>2019-05-16T21:30:07Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <title>To amend section 100905 of title 54, United States Code, to direct the Secretary of the Interior and the Secretary of Agriculture to require annual permits and assess annual fees for commercial filming activities on Federal land for film crews of 5 persons or fewer, and for other purposes.</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Television and film</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LATTA:H.R. 2106.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2The Congress shall have Power to dispose of and make allneedful Rules and Regulations respecting the Territory orother Property belonging to the United StatesArticle I, Section 8, Clause 3The Congress shall have Power to regulate Commerce withforeign Nations and among the several States[Page H3101]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To amend section 100905 of title 54, United States Code, to direct the Secretary of the Interior and the Secretary of Agriculture to require annual permits and assess annual fees for commercial filming activities on Federal land for film crews of 5 persons or fewer, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To amend section 100905 of title 54, United States Code, to direct the Secretary of the Interior and the Secretary of Agriculture to require annual permits and assess annual fees for commercial filming activities on Federal land for film crews of 5 persons or fewer, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+      <actionDate>2019-04-26</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-04-26T13:51:04Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsag15</systemCode>
+              <name>Conservation and Forestry Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2019-04-04T13:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-04-23T20:33:08Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2019-04-04T13:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <introducedDate>2019-04-04</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

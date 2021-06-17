@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+          <systemCode>hsju05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-30</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2019-01-30</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR E110-111)</text>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <name>E110-111</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E110-111</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-01-30</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-01-30</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <lastName>Cohen</lastName>
+        <district>9</district>
+        <middleName />
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <state>TN</state>
+        <party>D</party>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-01-31T08:10:18Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>Courtney</lastName>
+        <firstName>Joe</firstName>
+        <identifiers>
+          <lisID>1836</lisID>
+          <bioguideId>C001069</bioguideId>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <bioguideId>C001069</bioguideId>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>DAVIS</lastName>
+        <firstName>DANNY</firstName>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <bioguideId>D000096</bioguideId>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <state>IL</state>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>Johnson</lastName>
+        <firstName>Henry</firstName>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <bioguideId>J000288</bioguideId>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <state>GA</state>
+        <middleName>C. "Hank"</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>McNerney</lastName>
+        <firstName>Jerry</firstName>
+        <identifiers>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <firstName>Gwen</firstName>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <bioguideId>M001160</bioguideId>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <state>WI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <state>DC</state>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>Swalwell</lastName>
+        <firstName>Eric</firstName>
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001193</bioguideId>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>Titus</lastName>
+        <firstName>Dina</firstName>
+        <identifiers>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+          <gpoId>7493</gpoId>
+        </identifiers>
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <state>NV</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>Welch</lastName>
+        <firstName>Peter</firstName>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <bioguideId>W000800</bioguideId>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <state>VT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>D</party>
+        <lastName>Yarmuth</lastName>
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId>7955</gpoId>
+          <bioguideId>Y000062</bioguideId>
+          <lisID>1853</lisID>
+        </identifiers>
+        <bioguideId>Y000062</bioguideId>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <state>KY</state>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <party>D</party>
+        <lastName>Hayes</lastName>
+        <firstName>Jahana</firstName>
+        <identifiers>
+          <lisID>2386</lisID>
+          <bioguideId>H001081</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001081</bioguideId>
+        <fullName>Rep. Hayes, Jahana [D-CT-5]</fullName>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-04</sponsorshipDate>
+        <party>D</party>
+        <lastName>Pingree</lastName>
+        <firstName>Chellie</firstName>
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <bioguideId>P000597</bioguideId>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <state>ME</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <party>D</party>
+        <lastName>Rouda</lastName>
+        <firstName>Harley</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2382</lisID>
+          <bioguideId>R000616</bioguideId>
+        </identifiers>
+        <bioguideId>R000616</bioguideId>
+        <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>48</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <party>D</party>
+        <lastName>Bass</lastName>
+        <firstName>Karen</firstName>
+        <identifiers>
+          <gpoId>7838</gpoId>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+        </identifiers>
+        <bioguideId>B001270</bioguideId>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>37</district>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr885ih/xml/BILLS-116hr885ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-30T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billNumber>885</billNumber>
+    <notes />
+    <updateDate>2019-05-18T07:15:23Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <title>Private Student Loan Bankruptcy Fairness Act of 2019</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COHEN:H.R. 885.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1337]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 11 of the United States Code to modify the dischargeability of debts for certain educational payments and loans.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Private Student Loan Bankruptcy Fairness Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Private Student Loan Bankruptcy Fairness Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Private Student Loan Bankruptcy Fairness Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+      <actionDate>2019-03-25</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-03-25T14:59:10Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju05</systemCode>
+              <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2019-01-30T14:03:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <introducedDate>2019-01-30</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

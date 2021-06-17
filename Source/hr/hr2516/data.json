@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Budget.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2516-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "N000190", 
+      "district": "5", 
+      "name": "Norman, Ralph", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-15", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000810", 
+      "district": "7", 
+      "name": "Woodall, Rob", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-03", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-03", 
+  "number": "2516", 
+  "official_title": "To establish a direct spending safeguard limitation on any direct spending program without a specific level of authorized spending, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Spending Safeguard Act", 
+  "sponsor": {
+    "bioguide_id": "F000450", 
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-03", 
+  "subjects": [
+    "Budget process", 
+    "Congressional oversight", 
+    "Economics and public finance", 
+    "Executive agency funding and structure", 
+    "Government information and archives"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a direct spending safeguard limitation on any direct spending program without a specific level of authorized spending, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Spending Safeguard Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Spending Safeguard Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Spending Safeguard Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-16T07:15:51Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2516.xml"
+}

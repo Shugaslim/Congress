@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr778-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000564", 
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-30", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000609", 
+      "district": "6", 
+      "name": "Palmer, Gary J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-30", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-24", 
+  "number": "778", 
+  "official_title": "To expand school choice in the District of Columbia.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Educational Freedom Accounts Act", 
+  "sponsor": {
+    "bioguide_id": "M001187", 
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-24", 
+  "subjects": [
+    "Bank accounts, deposits, capital", 
+    "District of Columbia", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Educational technology and distance education", 
+    "Elementary and secondary education", 
+    "Higher education", 
+    "Preschool education", 
+    "Public contracts and procurement", 
+    "Religion", 
+    "Student aid and college costs", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Educational Freedom Accounts Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Educational Freedom Accounts Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To expand school choice in the District of Columbia.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Educational Freedom Accounts Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-11T19:54:04Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr778.xml"
+}

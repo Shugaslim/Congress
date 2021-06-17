@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>hspw02</systemCode>
+          <name>Water Resources and Environment Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-02-05</actionDate>
+      </item>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr977ih/xml/BILLS-116hr977ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Corps of Engineers to notify affected communities before releasing water contaminated with cyanobacteria from flood risk management projects, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Toxic Health Threat Warning Act of 2019</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Toxic Health Threat Warning Act of 2019</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Toxic Health Threat Warning Act of 2019</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <updateDate>2019-04-09T07:15:42Z</updateDate>
+    <calendarNumbers />
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2315</lisID>
+          <bioguideId>D000628</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>D000628</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <lastName>Dunn</lastName>
+        <firstName>Neal</firstName>
+        <party>R</party>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+      </item>
+      <item>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2316</lisID>
+          <gpoId />
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>R000609</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+        <lastName>Rutherford</lastName>
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000578</bioguideId>
+          <lisID>2314</lisID>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>G000578</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Gaetz</lastName>
+        <firstName>Matt</firstName>
+        <party>R</party>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+      </item>
+      <item>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7880</gpoId>
+          <lisID>2002</lisID>
+          <bioguideId>W000806</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>W000806</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Webster</lastName>
+        <firstName>Daniel</firstName>
+        <party>R</party>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+      </item>
+      <item>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001210</bioguideId>
+          <lisID>2388</lisID>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>S001210</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Spano</lastName>
+        <firstName>Ross</firstName>
+        <party>R</party>
+        <fullName>Rep. Spano, Ross [R-FL-15]</fullName>
+      </item>
+      <item>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2387</lisID>
+          <gpoId />
+          <bioguideId>W000823</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>W000823</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Waltz</lastName>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <fullName>Rep. Waltz, Michael [R-FL-6]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MAST:H.R. 977.Congress has the power to enact this legislation pursuantto the following:The Necessary and Proper Clause in Article I, Section 8,Clause 18 of the United States Constitution.[Page H1362]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>977</billNumber>
+    <committeeReports />
+    <title>Toxic Health Threat Warning Act of 2019</title>
+    <relatedBills />
+    <latestAction>
+      <actionDate>2019-02-07</actionDate>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <links />
+    </latestAction>
+    <createDate>2019-02-06T08:10:16Z</createDate>
+    <laws />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <lastName>Mast</lastName>
+        <district>18</district>
+        <state>FL</state>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>2322</lisID>
+          <gpoId />
+          <bioguideId>M001199</bioguideId>
+        </identifiers>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <byRequestType />
+        <bioguideId>M001199</bioguideId>
+        <middleName>J.</middleName>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <name>Water Resources and Environment Subcommittee</name>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-07T21:06:06Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-05T17:00:54Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <introducedDate>2019-02-05</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

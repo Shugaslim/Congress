@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s90-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000615", 
+      "district": null, 
+      "name": "Romney, Mitt", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "UT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001198", 
+      "district": null, 
+      "name": "Sullivan, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-04", 
+      "state": "AK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-10", 
+  "number": "90", 
+  "official_title": "A bill to limit the establishment or extension of national monuments in the State of Utah.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protect Utah's Rural Economy Act", 
+  "sponsor": {
+    "bioguide_id": "L000577", 
+    "district": null, 
+    "name": "Lee, Mike", 
+    "state": "UT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-10", 
+  "subjects": [
+    "Congressional oversight", 
+    "Land use and conservation", 
+    "Monuments and memorials", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "State and local government operations", 
+    "Utah", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to limit the establishment or extension of national monuments in the State of Utah.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect Utah's Rural Economy Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect Utah\u2019s Rural Economy Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protect Utah's Rural Economy Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-09T10:26:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s90.xml"
+}

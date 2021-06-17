@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1760-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001166", 
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-14", 
+  "number": "1760", 
+  "official_title": "To require the Secretary of Energy to establish and carry out a program to support the availability of HA-LEU for domestic commercial use, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Advanced Nuclear Fuel Availability Act", 
+  "sponsor": {
+    "bioguide_id": "F000461", 
+    "district": "17", 
+    "name": "Flores, Bill", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-14", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Energy", 
+    "Licensing and registrations", 
+    "Nuclear Regulatory Commission (NRC)", 
+    "Nuclear power"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-03-14T04:00:00Z", 
+    "text": "Advanced Nuclear Fuel Availability Act\n\nThis bill directs the Office of Nuclear Energy in the Department of Energy to develop and deploy high-assay low-enriched uranium for domestic commercial use and to develop a schedule for recovering costs associated with such development."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Energy to establish and carry out a program to support the availability of HA-LEU for domestic commercial use, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advanced Nuclear Fuel Availability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advanced Nuclear Fuel Availability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Advanced Nuclear Fuel Availability Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T22:30:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1760.xml"
+}

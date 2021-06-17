@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-31</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-31</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-31</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <date>2019-01-31T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr942ih/xml/BILLS-116hr942ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <amendments />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to provide an enhanced research credit for the development of smart gun technologies.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>SAFETY Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Start Advancing Firearms Enhancements and Technology Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>SAFETY Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>SAFETY Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Start Advancing Firearms Enhancements and Technology Act of 2018</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-31T17:00:42Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <middleName>M.</middleName>
+        <state>NH</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <lastName>Kuster</lastName>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ann</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Hill, Katie [D-CA-25]</fullName>
+        <middleName />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2379</lisID>
+          <bioguideId>H001087</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>25</district>
+        <party>D</party>
+        <lastName>Hill</lastName>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001087</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Katie</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <middleName>D.</middleName>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <lastName>Clarke</lastName>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001067</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Yvette</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <middleName>E.</middleName>
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <district>22</district>
+        <party>D</party>
+        <lastName>Deutch</lastName>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000610</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Theodore</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <middleName />
+        <state>CO</state>
+        <identifiers>
+          <gpoId>7865</gpoId>
+          <lisID>1835</lisID>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <party>D</party>
+        <lastName>Perlmutter</lastName>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000593</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ed</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <middleName />
+        <state>FL</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <lastName>Soto</lastName>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001200</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Darren</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <middleName>N.</middleName>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2318</lisID>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <party>D</party>
+        <lastName>Murphy</lastName>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001202</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Stephanie</firstName>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2019-01-31</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <createDate>2019-02-01T08:10:15Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HIMES:H.R. 942.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution, as this legislation provides for the generalwelfare of the United States.[Page H1342]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-03-14T13:38:12Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-31T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Start Advancing Firearms Enhancements and Technology Act of 2018 or the SAFETY Act </b></p> <p>This bill increases the rate of the research tax credit from 20% to 30% for research expenses to develop smart gun technologies. The bill also modifies the excise tax on the sale of firearms to exempt the portion of the sale price that is attributable to smart gun technology. </p> <p>&quot;Smart gun technology&quot; is technology (other than a simple mechanical lock) that is designed to (1) prevent a firearm from being fired by any individual other than an authorized user; and (2) convert the firearm from the inoperable condition to the operable condition in less than two seconds after the authorized user makes contact with the firearm, the firearm's arming device, or an external safe or locking device. </p>]]></text>
+          <actionDate>2019-01-31</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2019-01-31</introducedDate>
+    <cboCostEstimates />
+    <updateDate>2019-03-14T15:45:07Z</updateDate>
+    <billType>HR</billType>
+    <notes />
+    <title>SAFETY Act</title>
+    <billNumber>942</billNumber>
+    <sponsors>
+      <item>
+        <firstName>James</firstName>
+        <bioguideId>H001047</bioguideId>
+        <state>CT</state>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <lastName>Himes</lastName>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <byRequestType />
+        <district>4</district>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+          <gpoId>7869</gpoId>
+          <lisID>1913</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,153 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-23", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR H4150", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2931-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001304", 
+      "district": "4", 
+      "name": "Brown, Anthony G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-22", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001123", 
+      "district": "39", 
+      "name": "Cisneros, Gilbert Ray, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-22", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000379", 
+      "district": "4", 
+      "name": "Kennedy, Joseph P., III", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-22", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000593", 
+      "district": "49", 
+      "name": "Levin, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-22", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000602", 
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-22", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001175", 
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-22", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-22", 
+  "number": "2931", 
+  "official_title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide hospital care, medical services, and nursing home care for certain individuals discharged from service in the Armed Forces by reason of sexual orientation or gender identity, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "P000614", 
+    "district": "1", 
+    "name": "Pappas, Chris", 
+    "state": "NH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-22", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide hospital care, medical services, and nursing home care for certain individuals discharged from service in the Armed Forces by reason of sexual orientation or gender identity, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide hospital care, medical services, and nursing home care for certain individuals discharged from service in the Armed Forces by reason of sexual orientation or gender identity, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T15:27:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2931.xml"
+}

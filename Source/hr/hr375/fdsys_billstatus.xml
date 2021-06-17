@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2019-01-10T08:10:16Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2019-05-17T09:18:36Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <prayer>1</prayer>
+        <introducedInHouse>1</introducedInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <considerationByHouse>2</considerationByHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <generalDebate>1</generalDebate>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>4</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>16:05:46</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>16:05:45</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 323 - 96 (Roll no. 208). (text: CR H3813)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3813</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3813</url>
+          </link>
+          <link>
+            <name>Roll no. 208</name>
+            <url>http://clerk.house.gov/evs/2019/roll208.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>16:05:45</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 323 - 96 (Roll no. 208).(text: CR H3813)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3813</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3813</url>
+          </link>
+          <link>
+            <name>Roll no. 208</name>
+            <url>http://clerk.house.gov/evs/2019/roll208.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>15:57:48</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H3824-3825)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3824-3825</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3824-3825</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>14:21:11</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37220</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>13:55:32</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 375.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 375</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/375</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>13:55:14</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H3813-3816)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3813-3816</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3813-3816</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <actionTime>13:54:54</actionTime>
+        <text>Mr. Grijalva moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 7.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee for Indigenous Peoples of the United States Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-09</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2019-01-09</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-01-09</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <lastName>Cole</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <middleName />
+        <state>OK</state>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <bioguideId>C001053</bioguideId>
+        <byRequestType />
+        <district>4</district>
+      </item>
+    </sponsors>
+    <title>To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian Tribes, and for other purposes.</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <district>4</district>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001143</bioguideId>
+        <lastName>MCCOLLUM</lastName>
+        <sponsorshipDate>2019-01-09</sponsorshipDate>
+        <firstName>BETTY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <district>4</district>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001160</bioguideId>
+        <lastName>Moore</lastName>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <firstName>Gwen</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7920</gpoId>
+          <lisID>1590</lisID>
+          <bioguideId>S001148</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <district>2</district>
+        <state>ID</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001148</bioguideId>
+        <lastName>SIMPSON</lastName>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <firstName>MICHAEL</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <district>6</district>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000381</bioguideId>
+        <lastName>Kilmer</lastName>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <firstName>Derek</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7849</gpoId>
+          <lisID>165</lisID>
+          <bioguideId>C000059</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Calvert, Ken [R-CA-42]</fullName>
+        <district>42</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000059</bioguideId>
+        <lastName>CALVERT</lastName>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <firstName>KEN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8206</gpoId>
+          <lisID>1675</lisID>
+          <bioguideId>L000560</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <district>2</district>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000560</bioguideId>
+        <lastName>LARSEN</lastName>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <firstName>RICK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <district>29</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001097</bioguideId>
+        <lastName>Cardenas</lastName>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <firstName>Tony</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <district>7</district>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000574</bioguideId>
+        <lastName>Gallego</lastName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <firstName>Ruben</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <district>9</district>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000375</bioguideId>
+        <lastName>Keating</lastName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <firstName>William</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <district>9</district>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001145</bioguideId>
+        <lastName>SCHAKOWSKY</lastName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <firstName>JANICE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001080</bioguideId>
+          <lisID>2423</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <district>1</district>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001080</bioguideId>
+        <lastName>Haaland</lastName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <firstName>Debra</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <district>1</district>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>O000171</bioguideId>
+        <lastName>O'Halleran</lastName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2362</lisID>
+          <bioguideId>G000585</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+        <district>34</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000585</bioguideId>
+        <lastName>Gomez</lastName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <firstName>Jimmy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2230</lisID>
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <district>33</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000582</bioguideId>
+        <lastName>Lieu</lastName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <district>1</district>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000597</bioguideId>
+        <lastName>Pingree</lastName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <firstName>Chellie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2170</lisID>
+          <gpoId />
+          <bioguideId>H001064</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <district>10</district>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001064</bioguideId>
+        <lastName>Heck</lastName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <firstName>Denny</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <district>14</district>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000295</bioguideId>
+        <lastName>Joyce</lastName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <district>8</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001094</bioguideId>
+        <lastName>Cook</lastName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <district>2</district>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000607</bioguideId>
+        <lastName>Pocan</lastName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2109</lisID>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <district>36</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000599</bioguideId>
+        <lastName>Ruiz</lastName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <firstName>Raul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2424</lisID>
+          <bioguideId>T000484</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Torres Small, Xochitl [D-NM-2]</fullName>
+        <district>2</district>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000484</bioguideId>
+        <lastName>Torres Small</lastName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <firstName>Xochitl</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <district>1</district>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000617</bioguideId>
+        <lastName>DelBene</lastName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <firstName>Suzan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2231</lisID>
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <district>35</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000474</bioguideId>
+        <lastName>Torres</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Norma</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+          <gpoId>8058</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName>Ray</middleName>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <district>3</district>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000570</bioguideId>
+        <lastName>Lujan</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Ben</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2229</lisID>
+          <bioguideId>A000371</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <district>31</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000371</bioguideId>
+        <lastName>Aguilar</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Pete</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000380</bioguideId>
+          <lisID>2134</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <district>5</district>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000380</bioguideId>
+        <lastName>Kildee</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Daniel</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2156</lisID>
+          <bioguideId>M001190</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <district>2</district>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001190</bioguideId>
+        <lastName>Mullin</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Markwayne</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2403</lisID>
+          <bioguideId>D000629</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Davids, Sharice [D-KS-3]</fullName>
+        <district>3</district>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000629</bioguideId>
+        <lastName>Davids</lastName>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <firstName>Sharice</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>375</billNumber>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>slia00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-16T15:07:21Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Indian Affairs Committee</name>
+          <type>Other</type>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2019-05-01T16:19:47Z</date>
+                </item>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-04-03T18:36:43Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-05T18:08:16Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2019-05-01T16:28:57Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-09T15:03:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COLE:H.R. 375.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to Article I, Section 8 whichgrants Congress the power to regulate Commerce with theIndian Tribes.This bill is enacted pursuant to Article II, Section 2,Clause 2 in order the enforce treaties made between theUnited States and several Indian Tribes.[Page H359]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-05-16</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian Tribes, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian Tribes, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-01-09</introducedDate>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr375eh/xml/BILLS-116hr375eh.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-15T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr375ih/xml/BILLS-116hr375ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-09T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2019/roll208.xml</url>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <date>2019-05-15T20:05:45Z</date>
+        <congress>116</congress>
+        <rollNumber>208</rollNumber>
+      </recordedVote>
+    </recordedVotes>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

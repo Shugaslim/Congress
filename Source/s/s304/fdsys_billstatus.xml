@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2019-01-31</introducedDate>
+    <billNumber>304</billNumber>
+    <actions>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S804-807</url>
+            <name>S804-807</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S804-807)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-01-31</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s304is/xml/BILLS-116s304is.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-31T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>1191</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2019-04-11</actionDate>
+        </latestAction>
+        <latestTitle>Training the Next Generation of Primary Care Doctors Act of 2019</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>Training the Next Generation of Primary Care Doctors Act of 2019</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>COLLINS</lastName>
+        <firstName>SUSAN</firstName>
+        <bioguideId>C001035</bioguideId>
+        <byRequestType />
+        <middleName>MARGARET</middleName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to reauthorize section 340H of the Public Health Service Act to continue to encourage the expansion, maintenance, and the establishment of approved graduate medical residency programs at qualified teaching health centers, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Training the Next Generation of Primary Care Doctors Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Training the Next Generation of Primary Care Doctors Act of 2019</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Training the Next Generation of Primary Care Doctors Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <firstName>Jon</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <lastName>CAPITO</lastName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <firstName>SHELLEY</firstName>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>J000300</bioguideId>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <lastName>Jones</lastName>
+        <identifiers>
+          <lisID>2364</lisID>
+          <bioguideId>J000300</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <firstName>Doug</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <firstName>John</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <lastName>Manchin</lastName>
+        <identifiers>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <firstName>Joe</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>H001075</bioguideId>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <lastName>Harris</lastName>
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <firstName>Kamala</firstName>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-31T21:20:04Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-01-31</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S804-807)</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-02-01T05:40:16Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-04-30T19:45:08Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

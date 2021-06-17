@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cosponsors>
+      <item>
+        <lastName>Rounds</lastName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>SD</state>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2288</lisID>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>UDALL</lastName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <firstName>TOM</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>U000039</bioguideId>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Heinrich</lastName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <firstName>Martin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Barrasso</lastName>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Tester</lastName>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <firstName>Jon</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>A bill to allow tribal grant schools to participate in the Federal Employee Health Benefits Program.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Tribal School Federal Insurance Parity Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Tribal School Federal Insurance Parity Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Tribal School Federal Insurance Parity Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <introducedDate>2019-01-30</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <orderedReported>1</orderedReported>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-30</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-01-30</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <billType>S</billType>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s279is/xml/BILLS-116s279is.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-30T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Tribal School Federal Insurance Parity Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-15</actionDate>
+          <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        </latestAction>
+        <number>895</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <title>Tribal School Federal Insurance Parity Act</title>
+    <billNumber>279</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-28T15:42:08Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates>
+      <item>
+        <title>S. 279, Tribal School Federal Insurance Parity Act</title>
+        <pubDate>2019-05-28T15:25:05Z</pubDate>
+        <url>https://www.cbo.gov/publication/55302</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2019-05-15</actionDate>
+      <links />
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>SD</state>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <middleName>R.</middleName>
+        <lastName>THUNE</lastName>
+        <firstName>JOHN</firstName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <createDate>2019-01-31T05:40:16Z</createDate>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Indian Affairs Committee</name>
+          <type>Other</type>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2019-05-15T18:30:36Z</date>
+            </item>
+            <item>
+              <name>Hearings by</name>
+              <date>2019-05-01T18:30:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-30T19:11:57Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>slia00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

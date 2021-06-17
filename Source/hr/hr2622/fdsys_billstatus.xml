@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-05-09</introducedDate>
+    <billNumber>2622</billNumber>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <lastName>Gianforte</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2359</lisID>
+          <bioguideId>G000584</bioguideId>
+        </identifiers>
+        <firstName>Greg</firstName>
+        <party>R</party>
+        <state>MT</state>
+        <bioguideId>G000584</bioguideId>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <middleName />
+        <district>0</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-05-29T16:15:07Z</updateDate>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <title>To amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.</title>
+    <calendarNumbers />
+    <congress>116</congress>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2019-05-09</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-05-09</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-05-09</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GIANFORTE:H.R. 2622.Congress has the power to enact this legislation pursuantto the following:Article 1, Clause 8, Section 1[Page H3680]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-05-09T14:03:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>1405</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A bill to amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-05-09</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <createDate>2019-05-10T07:12:12Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <identifiers>
+          <gpoId>8222</gpoId>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <lastName>McKinley</lastName>
+        <district>1</district>
+        <bioguideId>M001180</bioguideId>
+        <state>WV</state>
+        <firstName>David</firstName>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <identifiers>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <lastName>Tipton</lastName>
+        <district>3</district>
+        <bioguideId>T000470</bioguideId>
+        <state>CO</state>
+        <firstName>Scott</firstName>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <originChamber>House</originChamber>
+    <notes />
+    <latestAction>
+      <actionDate>2019-05-09</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2622ih/xml/BILLS-116hr2622ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-09T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

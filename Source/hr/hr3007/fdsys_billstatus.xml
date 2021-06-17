@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <constitutionalAuthorityStatementText />
+    <congress>116</congress>
+    <recordedVotes />
+    <textVersions />
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+    </actions>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+      <actionDate>2019-05-23</actionDate>
+    </latestAction>
+    <laws />
+    <updateDate>2019-05-24T07:31:36Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T13:04:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <lastName>Pocan</lastName>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <middleName />
+        <byRequestType />
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <district>2</district>
+        <bioguideId>P000607</bioguideId>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>To establish an Employee Ownership and Participation Initiative, and for other purposes.</title>
+    <amendments />
+    <notes />
+    <billType>HR</billType>
+    <introducedDate>2019-05-23</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>To establish an Employee Ownership and Participation Initiative, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>To establish an Employee Ownership and Participation Initiative, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2019-05-24T07:12:17Z</createDate>
+    <originChamber>House</originChamber>
+    <policyArea />
+    <billNumber>3007</billNumber>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

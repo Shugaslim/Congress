@@ -1,0 +1,170 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2191-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001123", 
+      "district": "39", 
+      "name": "Cisneros, Gilbert Ray, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-09", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000578", 
+      "district": "1", 
+      "name": "Gaetz, Matt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000033", 
+      "district": null, 
+      "name": "Young, Don", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "AK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-04-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-09", 
+  "number": "2191", 
+  "official_title": "To prohibit the Secretary of Veterans Affairs from denying a veteran benefits administered by the Secretary by reason of the veteran participating in a State-approved marijuana program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans Cannabis Use for Safe Healing Act", 
+  "sponsor": {
+    "bioguide_id": "S001214", 
+    "district": "17", 
+    "name": "Steube, W. Gregory", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-09", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Drug, alcohol, tobacco use", 
+    "Health care coverage and access", 
+    "Health information and medical records", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the Secretary of Veterans Affairs from denying a veteran benefits administered by the Secretary by reason of the veteran participating in a State-approved marijuana program, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Cannabis Use for Safe Healing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Cannabis Use for Safe Healing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Veterans Cannabis Use for Safe Healing Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-02T07:16:22Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2191.xml"
+}

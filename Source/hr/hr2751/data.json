@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2751-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000624", 
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-15", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001080", 
+      "district": "1", 
+      "name": "Haaland, Debra A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-15", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-15", 
+  "number": "2751", 
+  "official_title": "To amend title XIX of the Social Security Act to provide coverage under the Medicaid program for services provided by doulas and midwives, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Mamas First Act", 
+  "sponsor": {
+    "bioguide_id": "M001160", 
+    "district": "4", 
+    "name": "Moore, Gwen", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-15", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Mamas First Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to provide coverage under the Medicaid program for services provided by doulas and midwives, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to provide coverage under the Medicaid program for services provided by doulas and midwives, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-30T04:45:05Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2751.xml"
+}

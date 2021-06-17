@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Responsible Path to Full Obamacare Repeal Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Responsible Path to Full Obamacare Repeal Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Responsible Path to Full Obamacare Repeal Act</title>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, Ways and Means, the Judiciary, Natural Resources, Rules, House Administration, Appropriations, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-05-07</actionDate>
+        </latestAction>
+        <number>2536</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+          <actionDate>2019-02-05</actionDate>
+        </latestAction>
+        <number>185</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>ObamaCare Repeal Act</latestTitle>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <billNumber>83</billNumber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <date>2019-02-05T18:06:11Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-03T16:19:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <date>2019-01-31T18:14:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-03T16:19:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2019-01-31T16:09:24Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-03T16:18:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hsap00</systemCode>
+          <type>Standing</type>
+          <name>Appropriations Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-03T16:19:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-03T16:19:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-03T16:19:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-03T16:19:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <name>Education and Labor</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-03T16:19:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <lastName>Biggs</lastName>
+        <party>R</party>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2307</lisID>
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>AZ</state>
+        <district>5</district>
+        <bioguideId>B001302</bioguideId>
+        <middleName />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <createDate>2019-01-04T13:32:51Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>8</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <notes />
+    <calendarNumbers />
+    <updateDate>2019-05-20T19:15:07Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BIGGS:H.R. 83.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution[Page H213]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>Gaetz</lastName>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <identifiers>
+          <bioguideId>G000578</bioguideId>
+          <lisID>2314</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>G000578</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <firstName>Matt</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Massie</lastName>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <identifiers>
+          <bioguideId>M001184</bioguideId>
+          <lisID>2094</lisID>
+          <gpoId>8371</gpoId>
+        </identifiers>
+        <bioguideId>M001184</bioguideId>
+        <state>KY</state>
+        <middleName />
+        <firstName>Thomas</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Gosar</lastName>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Roy</lastName>
+        <district>21</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Roy, Chip [R-TX-21]</fullName>
+        <identifiers>
+          <bioguideId>R000614</bioguideId>
+          <gpoId />
+          <lisID>2449</lisID>
+        </identifiers>
+        <bioguideId>R000614</bioguideId>
+        <state>TX</state>
+        <middleName />
+        <firstName>Chip</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-01-16T17:52:32Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Responsible Path to Full Obamacare Repeal Act</b></p> <p>This bill repeals the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010, effective at the beginning of FY2020. Provisions of law amended by those Acts are restored. </p>]]></text>
+          <name>Introduced in House</name>
+          <actionDate>2019-01-03</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2019-02-05</actionDate>
+      <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr83ih/xml/BILLS-116hr83ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-01-03</introducedDate>
+    <title>Responsible Path to Full Obamacare Repeal Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

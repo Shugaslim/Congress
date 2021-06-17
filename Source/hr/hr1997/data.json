@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-29", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1997-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001072", 
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-29", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-09", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001053", 
+      "district": "4", 
+      "name": "Hartzler, Vicky", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001087", 
+      "district": "25", 
+      "name": "Hill, Katie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-09", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000588", 
+      "district": "17", 
+      "name": "Lamb, Conor", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000589", 
+      "district": "8", 
+      "name": "Lesko, Debbie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-09", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001199", 
+      "district": "18", 
+      "name": "Mast, Brian J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-09", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000600", 
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-29", 
+      "state": "AS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000610", 
+      "district": "14", 
+      "name": "Reschenthaler, Guy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-29", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001187", 
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-09", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001201", 
+      "district": "3", 
+      "name": "Suozzi, Thomas R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-29", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000824", 
+      "district": "2", 
+      "name": "Watkins, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-29", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000826", 
+      "district": "7", 
+      "name": "Wild, Susan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000804", 
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-29", 
+  "number": "1997", 
+  "official_title": "To direct the Secretary of Veterans Affairs to conduct a pilot program on posttraumatic growth, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans Posttraumatic Growth Act", 
+  "sponsor": {
+    "bioguide_id": "R000577", 
+    "district": "13", 
+    "name": "Ryan, Tim", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-29", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Health promotion and preventive care", 
+    "Medical research", 
+    "Mental health", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to conduct a pilot program on posttraumatic growth, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Posttraumatic Growth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Posttraumatic Growth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Veterans Posttraumatic Growth Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-10T07:15:52Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1997.xml"
+}

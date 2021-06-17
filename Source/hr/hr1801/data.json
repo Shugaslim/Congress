@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-15", 
+      "action_code": "", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1801-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001112", 
+      "district": "24", 
+      "name": "Carbajal, Salud O.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-14", 
+  "number": "1801", 
+  "official_title": "To direct the Secretary of Defense to develop a strategy to recruit and retain mental health providers, to direct the Secretaries of the military departments to develop medication monitoring programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Warrior Wellness Act", 
+  "sponsor": {
+    "bioguide_id": "S001199", 
+    "district": "11", 
+    "name": "Smucker, Lloyd", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-14", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Department of Defense", 
+    "Government studies and investigations", 
+    "Health personnel", 
+    "Mental health", 
+    "Military medicine", 
+    "Prescription drugs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Defense to develop a strategy to recruit and retain mental health providers, to direct the Secretaries of the military departments to develop medication monitoring programs, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Warrior Wellness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Warrior Wellness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Warrior Wellness Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T23:14:33Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1801.xml"
+}

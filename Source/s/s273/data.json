@@ -1,0 +1,144 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-30", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-30", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [
+        {
+          "reference": "CR S770-771", 
+          "type": "Sponsor introductory remarks on measure"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s273-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000575", 
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-30", 
+      "state": "MO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000463", 
+      "district": null, 
+      "name": "Fischer, Deb", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-30", 
+      "state": "NE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000934", 
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-30", 
+      "state": "KS", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-30", 
+  "number": "273", 
+  "official_title": "A bill to amend the Communications Act of 1934 to require providers of a covered service to provide location information concerning the telecommunications device of a user of such service to an investigative or law enforcement officer or an employee or other agent of a public safety answering point in an emergency situation involving risk of death or serious physical harm or in order to respond to the user's call for emergency services.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1818-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Kelsey Smith Act", 
+  "sponsor": {
+    "bioguide_id": "R000307", 
+    "district": null, 
+    "name": "Roberts, Pat", 
+    "state": "KS", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-30", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Emergency communications systems", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "State and local government operations", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Communications Act of 1934 to require providers of a covered service to provide location information concerning the telecommunications device of a user of such service to an investigative or law enforcement officer or an employee or other agent of a public safety answering point in an emergency situation involving risk of death or serious physical harm or in order to respond to the user's call for emergency services.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Kelsey Smith Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Kelsey Smith Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Kelsey Smith Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T21:00:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s273.xml"
+}

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-05-21T20:33:58Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-05T16:42:39Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-04T13:03:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-04T13:03:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-04-05T07:12:08Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>DOGGETT</lastName>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <bioguideId>D000399</bioguideId>
+        <firstName>LLOYD</firstName>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8181</gpoId>
+          <lisID>303</lisID>
+          <bioguideId>D000399</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>35</district>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <district>16</district>
+        <party>R</party>
+        <firstName>Vern</firstName>
+        <bioguideId>B001260</bioguideId>
+        <state>FL</state>
+        <lastName>Buchanan</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1840</lisID>
+          <gpoId>7885</gpoId>
+          <bioguideId>B001260</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>2087</billNumber>
+    <laws />
+    <congress>116</congress>
+    <title>Drug Price Transparency Act</title>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <prayer>1</prayer>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-21</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-05</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-04</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-04</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-04-04</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-04-04</actionDate>
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DOGGETT:H.R. 2087.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article I of the United StatesConstitution.[Page H3101]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-04-04</introducedDate>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Prescription Drug STAR Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-04-08</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <number>2113</number>
+      </item>
+    </relatedBills>
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2019-05-23T07:12:50Z</updateDate>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend title XVIII of the Social Security Act to require certain manufacturers to report drug pricing information with respect to drugs under the Medicare program, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Drug Price Transparency Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Drug Price Transparency Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Drug Price Transparency Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Subcommittee Hearings Held.</text>
+      <actionDate>2019-05-21</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2087ih/xml/BILLS-116hr2087ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-04T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

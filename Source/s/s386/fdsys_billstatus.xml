@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <lastName>Lee</lastName>
+        <middleName />
+        <firstName>Mike</firstName>
+        <bioguideId>L000577</bioguideId>
+        <state>UT</state>
+        <party>R</party>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-02-08T05:55:25Z</createDate>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>1044</number>
+        <latestAction>
+          <actionDate>2019-03-22</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        </latestAction>
+        <latestTitle>Fairness for High-Skilled Immigrants Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>328</number>
+        <latestAction>
+          <actionDate>2019-02-04</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <latestTitle>Startup Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-02-07</actionDate>
+          <updateDate>2019-02-07T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-28T19:41:10Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Fairness for High-Skilled Immigrants Act of 2019</b></p> <p>This bill increases the per-country cap on family-based immigrant visas from 7% of the total number of such visas available that year to 15%, and eliminates the 7% cap for employment-based immigrant visas. It also removes an offset that reduced the number of visas for individuals from China.</p> <p>The bill also establishes transition rules for employment-based visas from FY2020-FY2022, by reserving a percentage of EB-2 (workers with advanced degrees or exceptional ability) and EB-3 (skilled and other workers) visas for individuals not from the two countries with the largest number of recipients of such visas. Of the unreserved visas, not more than 85% shall be allotted to immigrants from any single country. </p> <p><br> </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+        <state>CA</state>
+        <lastName>Harris</lastName>
+        <firstName>Kamala</firstName>
+        <middleName>D.</middleName>
+        <bioguideId>H001075</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>R</party>
+        <state>ND</state>
+        <lastName>Cramer</lastName>
+        <firstName>Kevin</firstName>
+        <middleName />
+        <bioguideId>C001096</bioguideId>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>R</party>
+        <state>MO</state>
+        <lastName>Blunt</lastName>
+        <firstName>Roy</firstName>
+        <middleName />
+        <bioguideId>B000575</bioguideId>
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>R</party>
+        <state>ME</state>
+        <lastName>COLLINS</lastName>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>R</party>
+        <state>KS</state>
+        <lastName>Moran</lastName>
+        <firstName>Jerry</firstName>
+        <middleName />
+        <bioguideId>M000934</bioguideId>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+        <state>DE</state>
+        <lastName>CARPER</lastName>
+        <firstName>THOMAS</firstName>
+        <middleName>R.</middleName>
+        <bioguideId>C000174</bioguideId>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+        <state>OR</state>
+        <lastName>WYDEN</lastName>
+        <firstName>RON</firstName>
+        <middleName />
+        <bioguideId>W000779</bioguideId>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+        <state>WA</state>
+        <lastName>CANTWELL</lastName>
+        <firstName>MARIA</firstName>
+        <middleName />
+        <bioguideId>C000127</bioguideId>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>R</party>
+        <state>CO</state>
+        <lastName>Gardner</lastName>
+        <firstName>Cory</firstName>
+        <middleName />
+        <bioguideId>G000562</bioguideId>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>R</party>
+        <state>AR</state>
+        <lastName>Cotton</lastName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <bioguideId>C001095</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+        <state>WI</state>
+        <lastName>Baldwin</lastName>
+        <firstName>Tammy</firstName>
+        <middleName />
+        <bioguideId>B001230</bioguideId>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+        <state>OR</state>
+        <lastName>Merkley</lastName>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+        <state>CO</state>
+        <lastName>Bennet</lastName>
+        <firstName>Michael</firstName>
+        <middleName>F.</middleName>
+        <bioguideId>B001267</bioguideId>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <party>D</party>
+        <state>AZ</state>
+        <lastName>Sinema</lastName>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <bioguideId>S001191</bioguideId>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <state>OH</state>
+        <lastName>PORTMAN</lastName>
+        <firstName>ROB</firstName>
+        <middleName />
+        <bioguideId>P000449</bioguideId>
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <state>MS</state>
+        <lastName>WICKER</lastName>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <state>OK</state>
+        <lastName>Lankford</lastName>
+        <firstName>James</firstName>
+        <middleName />
+        <bioguideId>L000575</bioguideId>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>D</party>
+        <state>IL</state>
+        <lastName>Duckworth</lastName>
+        <firstName>Tammy</firstName>
+        <middleName />
+        <bioguideId>D000622</bioguideId>
+        <identifiers>
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <state>ID</state>
+        <lastName>CRAPO</lastName>
+        <firstName>MICHAEL</firstName>
+        <middleName>D.</middleName>
+        <bioguideId>C000880</bioguideId>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <state>AZ</state>
+        <lastName>McSally</lastName>
+        <firstName>Martha</firstName>
+        <middleName />
+        <bioguideId>M001197</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <party>R</party>
+        <state>IN</state>
+        <lastName>Braun</lastName>
+        <firstName>Mike</firstName>
+        <middleName />
+        <bioguideId>B001310</bioguideId>
+        <identifiers>
+          <lisID>2462</lisID>
+          <gpoId />
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <state>ND</state>
+        <lastName>Hoeven</lastName>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>H001061</bioguideId>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <party>D</party>
+        <state>MN</state>
+        <lastName>Klobuchar</lastName>
+        <firstName>Amy</firstName>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <party>D</party>
+        <state>DE</state>
+        <lastName>Coons</lastName>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <bioguideId>C001088</bioguideId>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <party>R</party>
+        <state>ID</state>
+        <lastName>Risch</lastName>
+        <firstName>James</firstName>
+        <middleName>E.</middleName>
+        <bioguideId>R000584</bioguideId>
+        <identifiers>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <party>D</party>
+        <state>AL</state>
+        <lastName>Jones</lastName>
+        <firstName>Doug</firstName>
+        <middleName />
+        <bioguideId>J000300</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <party>D</party>
+        <state>VA</state>
+        <lastName>Warner</lastName>
+        <firstName>Mark</firstName>
+        <middleName>R.</middleName>
+        <bioguideId>W000805</bioguideId>
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <party>R</party>
+        <state>IN</state>
+        <lastName>Young</lastName>
+        <firstName>Todd</firstName>
+        <middleName />
+        <bioguideId>Y000064</bioguideId>
+        <identifiers>
+          <gpoId>7948</gpoId>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <party>R</party>
+        <state>UT</state>
+        <lastName>Romney</lastName>
+        <firstName>Mitt</firstName>
+        <middleName />
+        <bioguideId>R000615</bioguideId>
+        <identifiers>
+          <lisID>2466</lisID>
+          <bioguideId>R000615</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Romney, Mitt  [R-UT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-13</sponsorshipDate>
+        <party>R</party>
+        <state>TX</state>
+        <lastName>Cornyn</lastName>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <party>R</party>
+        <state>IA</state>
+        <lastName>Ernst</lastName>
+        <firstName>Joni</firstName>
+        <middleName />
+        <bioguideId>E000295</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s386is/xml/BILLS-116s386is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-07T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <billNumber>386</billNumber>
+    <notes />
+    <updateDate>2019-05-15T09:17:43Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <title>Fairness for High-Skilled Immigrants Act of 2019</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend the Immigration and Nationality Act to eliminate the per-country numerical limitation for employment-based immigrants, to increase the per-country numerical limitation for family-sponsored immigrants, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Fairness for High-Skilled Immigrants Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Fairness for High-Skilled Immigrants Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Fairness for High-Skilled Immigrants Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2019-02-07</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2019-02-07</introducedDate>
+    <congress>116</congress>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T18:54:47Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

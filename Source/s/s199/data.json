@@ -1,0 +1,172 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "", 
+      "committee": "Indian Affairs", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-3.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "33", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s199-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 116-3"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000367", 
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-24", 
+      "state": "MN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-03-07", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-24", 
+  "number": "199", 
+  "official_title": "A bill to provide for the transfer of certain Federal land in the State of Minnesota for the benefit of the Leech Lake Band of Ojibwe.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr733-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Leech Lake Band of Ojibwe Reservation Restoration Act", 
+  "sponsor": {
+    "bioguide_id": "S001203", 
+    "district": null, 
+    "name": "Smith, Tina", 
+    "state": "MN", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-01-29", 
+  "subjects": [
+    "Congressional oversight", 
+    "Federal-Indian relations", 
+    "Forests, forestry, trees", 
+    "Indian claims", 
+    "Indian lands and resources rights", 
+    "Land transfers", 
+    "Minnesota", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2019-01-24T05:00:00Z", 
+    "text": "Leech Lake Band of Ojibwe Reservation Restoration Act\n\nThis bill directs the Department of Agriculture to transfer to the administrative jurisdiction of the Department of the Interior all right, title, and interest of the United States in and to approximately 11,760 acres of identified federal land in the Chippewa National Forest in Cass County, Minnesota. Immediately upon transfer, the federal land shall be held in trust for the benefit of the Leech Lake Band of Ojibwe and considered as a part of its reservation.\n\nThe federal land shall not become eligible or be used for gaming activities under the Indian Gaming Regulatory Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for the transfer of certain Federal land in the State of Minnesota for the benefit of the Leech Lake Band of Ojibwe.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Leech Lake Band of Ojibwe Reservation Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Leech Lake Band of Ojibwe Reservation Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Leech Lake Band of Ojibwe Reservation Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Leech Lake Band of Ojibwe Reservation Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Leech Lake Band of Ojibwe Reservation Restoration Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-20T05:27:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s199.xml"
+}

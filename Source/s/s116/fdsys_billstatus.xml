@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to address maternal mortality and morbidity.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>MOMS Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Modernizing Obstetric Medicine Standards Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>MOMS Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>MOMS Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Modernizing Obstetric Medicine Standards Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-01-15</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <createDate>2019-01-16T05:40:16Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-15</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-16T09:21:28Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-01-15T17:10:28Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <version>1.0.0</version>
+    <relatedBills />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s116is/xml/BILLS-116s116is.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-15T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Surgery and anesthesia</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <title>MOMS Act</title>
+    <notes />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <bioguideId>G000555</bioguideId>
+        <firstName>Kirsten</firstName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <bioguideId>B001288</bioguideId>
+      </item>
+      <item>
+        <firstName>Kamala</firstName>
+        <lastName>Harris</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <bioguideId>H001075</bioguideId>
+      </item>
+      <item>
+        <firstName>DIANNE</firstName>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <bioguideId>F000062</bioguideId>
+      </item>
+      <item>
+        <firstName>Mazie</firstName>
+        <lastName>Hirono</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <party>D</party>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <bioguideId>H001042</bioguideId>
+      </item>
+    </cosponsors>
+    <laws />
+    <introducedDate>2019-01-15</introducedDate>
+    <billNumber>116</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

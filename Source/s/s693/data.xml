@@ -1,0 +1,73 @@
+<bill session="116" type="s" number="693" updated="2019-05-28T15:45:09Z">
+  <state datetime="2019-05-02">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2019-05-02"/>
+  </status>
+  <introduced datetime="2019-03-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 36, United States Code, to require that the POW/MIA flag be displayed on all days that the flag of the United States is displayed on certain Federal property.</title>
+    <title type="short" as="passed senate">National POW/MIA Flag Act</title>
+    <title type="short" as="passed senate">National POW/MIA Flag Act</title>
+    <title type="short" as="introduced">National POW/MIA Flag Act</title>
+    <title type="short" as="introduced">National POW/MIA Flag Act</title>
+    <title type="display">National POW/MIA Flag Act</title>
+  </titles>
+  <sponsor bioguide_id="W000817"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001095" joined="2019-03-07"/>
+    <cosponsor bioguide_id="H001076" joined="2019-03-14"/>
+    <cosponsor bioguide_id="R000122" joined="2019-04-11"/>
+    <cosponsor bioguide_id="R000595" joined="2019-03-14"/>
+    <cosponsor bioguide_id="S001191" joined="2019-03-07"/>
+    <cosponsor bioguide_id="T000250" joined="2019-03-07"/>
+    <cosponsor bioguide_id="T000461" joined="2019-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-03-07">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-03-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2019-05-02">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S2624" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2019-05-02" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2624" label="text"/>
+    </vote>
+    <action datetime="2019-05-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2019-05-07T14:09:29-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2019-05-07">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2019-05-20">
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution, Civil Rights, and Civil Liberties" code="HSJU10" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="identical" number="1579"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Conflicts and wars"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National symbols"/>
+  </subjects>
+  <amendments/>
+  <summary date="2019-05-02T13:59:15Z" status="Passed Senate">National POW/MIA Flag Act
+
+The bill changes the days on which the POW/MIA flag is required to be displayed at specified locations to all days on which the U.S. flag is displayed. (Current law requires the POW/MIA flag to be displayed only on Armed Forces Day, Memorial Day, Flag Day, Independence Day, National POW/MIA Recognition Day, and Veterans Day.)</summary>
+  <committee-reports/>
+</bill>

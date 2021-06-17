@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName>L.</middleName>
+        <state>NY</state>
+        <bioguideId>E000179</bioguideId>
+        <lastName>ENGEL</lastName>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <firstName>ELIOT</firstName>
+        <district>16</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-03-06</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-03-06</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-03-06</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-03-06</actionDate>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-03-07T08:12:22Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-06T15:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-06T15:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend title XI of the Social Security Act to improve the quality, health outcomes, and value of maternity care under the Medicaid and CHIP programs by developing maternity care quality measures and supporting maternity care quality collaboratives.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Quality Care for Moms and Babies Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Quality Care for Moms and Babies Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Quality Care for Moms and Babies Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Quality Care for Moms and Babies Act</title>
+    <latestAction>
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+      <actionDate>2019-03-06</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <middleName />
+        <bioguideId>S001187</bioguideId>
+        <lastName>Stivers</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <district>15</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <middleName />
+        <bioguideId>K000389</bioguideId>
+        <lastName>Khanna</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <firstName>Ro</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <district>17</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <middleName>K.</middleName>
+        <bioguideId>D000096</bioguideId>
+        <lastName>DAVIS</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <firstName>DANNY</firstName>
+        <identifiers>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <district>7</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <middleName />
+        <bioguideId>M001160</bioguideId>
+        <lastName>Moore</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <firstName>Gwen</firstName>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <middleName>P.</middleName>
+        <bioguideId>K000379</bioguideId>
+        <lastName>Kennedy</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <firstName>Joseph</firstName>
+        <identifiers>
+          <lisID>2172</lisID>
+          <bioguideId>K000379</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+        <middleName />
+        <bioguideId>C001117</bioguideId>
+        <lastName>Casten</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <firstName>Sean</firstName>
+        <identifiers>
+          <lisID>2398</lisID>
+          <bioguideId>C001117</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <middleName />
+        <bioguideId>M001196</bioguideId>
+        <lastName>Moulton</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <firstName>Seth</firstName>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <middleName>T.</middleName>
+        <bioguideId>K000210</bioguideId>
+        <lastName>KING</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <middleName />
+        <bioguideId>B000574</bioguideId>
+        <lastName>BLUMENAUER</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <firstName>EARL</firstName>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <middleName>K.</middleName>
+        <bioguideId>F000466</bioguideId>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Levin, Mike [D-CA-49]</fullName>
+        <middleName />
+        <bioguideId>L000593</bioguideId>
+        <lastName>Levin</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000593</bioguideId>
+          <lisID>2383</lisID>
+        </identifiers>
+        <district>49</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <middleName>M.</middleName>
+        <bioguideId>R000602</bioguideId>
+        <lastName>Rice</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <firstName>Kathleen</firstName>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <middleName>Davis</middleName>
+        <bioguideId>S001209</bioguideId>
+        <lastName>Spanberger</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <firstName>Abigail</firstName>
+        <identifiers>
+          <lisID>2456</lisID>
+          <bioguideId>S001209</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <middleName />
+        <bioguideId>S000344</bioguideId>
+        <lastName>SHERMAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <firstName>BRAD</firstName>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <district>30</district>
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-24T07:15:42Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-03-06</introducedDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date>2019-03-06T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1551ih/xml/BILLS-116hr1551ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ENGEL:H.R. 1551.Congress has the power to enact this legislation pursuantto the following:The bill is enacted pursuant to the power granted toCongress under the following provisions of the United StatesConstitution:<bullet> Article I, Section 1;<bullet> Article I, Section 8, Clause 1;<bullet> Article I, Section 8, Clause 3; and<bullet> Article I, Section 8, Clause 18.[Page H2505]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1551</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

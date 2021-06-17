@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-04-26T04:42:11Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rounds</lastName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>SD</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <party>R</party>
+        <bioguideId>R000605</bioguideId>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <state>OR</state>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-04-10T21:42:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <title>A bill to establish family and medical leave banks to provide paid leave for employees of the Department of Defense, and for other purposes.</title>
+    <latestAction>
+      <actionDate>2019-04-10</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+    </latestAction>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <createDate>2019-04-11T04:57:13Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-10</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish family and medical leave banks to provide paid leave for employees of the Department of Defense, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to establish family and medical leave banks to provide paid leave for employees of the Department of Defense, and for other purposes.</title>
+      </item>
+    </titles>
+    <introducedDate>2019-04-10</introducedDate>
+    <billType>S</billType>
+    <congress>116</congress>
+    <notes />
+    <textVersions>
+      <item>
+        <date>2019-04-10T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1131is/xml/BILLS-116s1131is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <recordedVotes />
+    <laws />
+    <version>1.0.0</version>
+    <billNumber>1131</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

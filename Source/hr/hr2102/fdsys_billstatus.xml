@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-29</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-29</actionDate>
+        <committee>
+          <systemCode>hsvr09</systemCode>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+        </identifiers>
+        <lastName>Kildee</lastName>
+        <district>5</district>
+        <middleName>T.</middleName>
+        <firstName>Daniel</firstName>
+        <bioguideId>K000380</bioguideId>
+        <state>MI</state>
+        <party>D</party>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <latestTitle>Veterans Exposed to Toxic PFAS Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-04-03</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <number>1023</number>
+        <type>S</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-04-05T07:12:08Z</createDate>
+    <cosponsors>
+      <item>
+        <district>12</district>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>D000624</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Dingell</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Debbie</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>8</district>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <identifiers>
+          <lisID>2407</lisID>
+          <bioguideId>S001208</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001208</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Slotkin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Elissa</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>9</district>
+        <fullName>Rep. Levin, Andy [D-MI-9]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000592</bioguideId>
+          <lisID>2408</lisID>
+        </identifiers>
+        <bioguideId>L000592</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Levin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Andy</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>13</district>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000481</bioguideId>
+          <lisID>2410</lisID>
+        </identifiers>
+        <bioguideId>T000481</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Tlaib</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Rashida</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>17</district>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <bioguideId>K000389</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Khanna</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ro</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>19</district>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2428</lisID>
+          <bioguideId>D000630</bioguideId>
+        </identifiers>
+        <bioguideId>D000630</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Delgado</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Antonio</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Torres Small, Xochitl [D-NM-2]</fullName>
+        <identifiers>
+          <lisID>2424</lisID>
+          <bioguideId>T000484</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000484</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Torres Small</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Xochitl</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000614</bioguideId>
+          <lisID>2418</lisID>
+        </identifiers>
+        <bioguideId>P000614</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Pappas</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <bioguideId>B001296</bioguideId>
+        <middleName>F.</middleName>
+        <party>D</party>
+        <lastName>Boyle</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brendan</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>18</district>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <bioguideId>M001185</bioguideId>
+        <middleName>Patrick</middleName>
+        <party>D</party>
+        <lastName>Maloney</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Sean</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <identifiers>
+          <bioguideId>D000631</bioguideId>
+          <lisID>2432</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>D000631</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Dean</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Madeleine</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>9</district>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <bioguideId>C001068</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <lastName>Kuster</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ann</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>14</district>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <identifiers>
+          <bioguideId>L000581</bioguideId>
+          <lisID>2252</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>L000581</bioguideId>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <lastName>Lawrence</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brenda</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>11</district>
+        <fullName>Rep. Stevens, Haley M. [D-MI-11]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001215</bioguideId>
+          <lisID>2409</lisID>
+        </identifiers>
+        <bioguideId>S001215</bioguideId>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <lastName>Stevens</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Haley</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Trahan, Lori [D-MA-3]</fullName>
+        <identifiers>
+          <bioguideId>T000482</bioguideId>
+          <lisID>2404</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000482</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Trahan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Lori</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Kim, Andy [D-NJ-3]</fullName>
+        <identifiers>
+          <lisID>2420</lisID>
+          <gpoId />
+          <bioguideId>K000394</bioguideId>
+        </identifiers>
+        <bioguideId>K000394</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Kim</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Andy</firstName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-04-04T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2102ih/xml/BILLS-116hr2102ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billNumber>2102</billNumber>
+    <notes />
+    <updateDate>2019-05-16T21:15:08Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <title>VET PFAS Act</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KILDEE:H.R. 2102.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H3101]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To amend title 38, United States Code, to furnish hospital care and medical services to veterans and dependents who were stationed at military installations at which the veterans and dependents were exposed to perfluorooctanoic acid or other per- and polyfluoroalkyl substances, to provide for a presumption of service connection for certain veterans who were stationed at military installations at which the veterans were exposed to such substances, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Veterans Exposed to Toxic PFAS Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>VET PFAS Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>VET PFAS Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Veterans Exposed to Toxic PFAS Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>VET PFAS Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2019-04-29</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <date>2019-04-29T17:20:32Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+            <item>
+              <systemCode>hsvr09</systemCode>
+              <activities>
+                <item>
+                  <date>2019-04-29T17:20:22Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-04-04T13:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <introducedDate>2019-04-04</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

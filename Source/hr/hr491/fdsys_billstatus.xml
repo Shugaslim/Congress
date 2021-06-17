@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2019-01-24</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+    <createDate>2019-01-12T08:10:15Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2019-01-24</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-11</actionDate>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-11</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-11</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <relatedBills />
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <date>2019-01-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr491ih/xml/BILLS-116hr491ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-11T14:02:45Z</date>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-24T17:33:10Z</date>
+                </item>
+              </activities>
+              <systemCode>hsas02</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOHMERT:H.R. 491.Congress has the power to enact this legislation pursuantto the following:Article I, Section 9, Clause 7 of the U.S. Constitutionsets forth the power of appropriations and states that ``NoMoney shall be drawn from the Treasury but in Consequence ofAppropriations made by Law. . . .''In addition, Article I, Section 8, Clause 1 states that``The Congress shall have the Power . . . to pay the Debtsand provide for the common Defense and general Welfare of theUnited States. . . .''Also, Article I, Section 8, Clauses 12 and 13 states thatCongress shall have power ``to raise and support Armies . ..'' and ``to provide and maintain a Navy.''[Page H519]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>491</billNumber>
+    <title>ASAP Act</title>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <middleName />
+        <party>R</party>
+        <byRequestType />
+        <state>TX</state>
+        <firstName>Louie</firstName>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+        </identifiers>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <district>1</district>
+        <lastName>Gohmert</lastName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>ASAP Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Armed Services Always Paid Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 37, United States Code, to provide for the continuance of pay and allowances for members of the Armed Forces, including reserve components thereof, during lapses in appropriations.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>ASAP Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>ASAP Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Armed Services Always Paid Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <updateDate>2019-02-27T08:14:04Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Coast guard</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-01-11</introducedDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <firstName>Markwayne</firstName>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>M001190</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <state>OK</state>
+        <lastName>Mullin</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>K000362</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <state>IA</state>
+        <lastName>King</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <bioguideId>G000565</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <state>AZ</state>
+        <lastName>Gosar</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <firstName>WALTER</firstName>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+        </identifiers>
+        <middleName>B.</middleName>
+        <bioguideId>J000255</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <state>NC</state>
+        <lastName>JONES</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>M001187</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <state>NC</state>
+        <lastName>Meadows</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <firstName>Lee</firstName>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>M.</middleName>
+        <bioguideId>Z000017</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>NY</state>
+        <lastName>Zeldin</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>P000599</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <state>FL</state>
+        <lastName>Posey</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>C001053</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <state>OK</state>
+        <lastName>Cole</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <firstName>Scott</firstName>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <bioguideId>T000470</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <state>CO</state>
+        <lastName>Tipton</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>G000576</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <state>WI</state>
+        <lastName>Grothman</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>H001058</bioguideId>
+          <lisID>2028</lisID>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>H001058</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <state>MI</state>
+        <lastName>Huizenga</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <identifiers>
+          <lisID>2161</lisID>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <bioguideId>W000814</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <state>TX</state>
+        <lastName>Weber</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <firstName>Clay</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001077</bioguideId>
+          <lisID>2329</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>H001077</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <state>LA</state>
+        <lastName>Higgins</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <lisID>2026</lisID>
+          <gpoId>7976</gpoId>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>H001052</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>MD</state>
+        <lastName>Harris</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <firstName>Elise</firstName>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>M.</middleName>
+        <bioguideId>S001196</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <state>NY</state>
+        <lastName>Stefanik</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <firstName>Greg</firstName>
+        <identifiers>
+          <bioguideId>G000584</bioguideId>
+          <lisID>2359</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>G000584</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <state>MT</state>
+        <lastName>Gianforte</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <firstName>Jack</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001301</bioguideId>
+          <lisID>2333</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>B001301</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>MI</state>
+        <lastName>Bergman</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <firstName>Pete</firstName>
+        <identifiers>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>O000168</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>22</district>
+        <state>TX</state>
+        <lastName>Olson</lastName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <firstName>Jodey</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000375</bioguideId>
+          <lisID>2350</lisID>
+        </identifiers>
+        <middleName>C.</middleName>
+        <bioguideId>A000375</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <state>TX</state>
+        <lastName>Arrington</lastName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>J000302</bioguideId>
+          <lisID>2435</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>J000302</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <state>PA</state>
+        <lastName>Joyce</lastName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <firstName>Ralph</firstName>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+          <lisID>2361</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>N000190</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <state>SC</state>
+        <lastName>Norman</lastName>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <firstName>Dan</firstName>
+        <identifiers>
+          <bioguideId>N000189</bioguideId>
+          <gpoId />
+          <lisID>2275</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>N000189</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <state>WA</state>
+        <lastName>Newhouse</lastName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <notes />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <createDate>2019-05-24T05:27:14Z</createDate>
+    <calendarNumbers />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T13:49:12Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <title>A bill to amend the Internal Revenue Code of 1986 to extend the employer credit for paid family and medical leave, and for other purposes.</title>
+    <notes />
+    <cboCostEstimates />
+    <billNumber>1628</billNumber>
+    <updateDate>2019-05-24T05:31:54Z</updateDate>
+    <congress>116</congress>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-23</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <introducedDate>2019-05-23</introducedDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to extend the employer credit for paid family and medical leave, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to extend the employer credit for paid family and medical leave, and for other purposes.</title>
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-05-23</actionDate>
+    </latestAction>
+    <billType>S</billType>
+    <textVersions />
+    <cosponsors>
+      <item>
+        <lastName>King</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>I</party>
+        <bioguideId>K000383</bioguideId>
+        <firstName>Angus</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+        </identifiers>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>ME</state>
+      </item>
+      <item>
+        <lastName>COLLINS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>C001035</bioguideId>
+        <firstName>SUSAN</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <middleName>MARGARET</middleName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>ME</state>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <sponsors>
+      <item>
+        <lastName>Fischer</lastName>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>F000463</bioguideId>
+        <party>R</party>
+        <state>NE</state>
+        <firstName>Deb</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <policyArea />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

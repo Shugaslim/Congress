@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-30", 
+      "action_code": "", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr859-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-29", 
+  "number": "859", 
+  "official_title": "To authorize the honorary appointment of Robert J. Dole to the grade of colonel in the regular Army.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M001198", 
+    "district": "1", 
+    "name": "Marshall, Roger W.", 
+    "state": "KS", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-29", 
+  "subjects": [
+    "Private Legislation"
+  ], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-29T05:00:00Z", 
+    "text": "This bill provides for the honorary appointment of Robert J. Dole, of Kansas, to the grade of colonel in the regular Army."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the honorary appointment of Robert J. Dole to the grade of colonel in the regular Army.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To authorize the honorary appointment of Robert J. Dole to the grade of colonel in the regular Army.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-27T08:14:05Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr859.xml"
+}

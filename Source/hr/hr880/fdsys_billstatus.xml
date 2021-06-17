@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Energy assistance for the poor and aged</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Taxation of foreign income</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Surface Transportation Investment Act of 2019</title>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Gilbert</firstName>
+        <district>39</district>
+        <identifiers>
+          <lisID>2380</lisID>
+          <bioguideId>C001123</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001123</bioguideId>
+        <middleName>Ray</middleName>
+        <lastName>Cisneros</lastName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Surface Transportation Investment Act of 2019</b></p> <p> This bill limits or repeals certain tax benefits for major integrated oil companies, including (1) the foreign tax credit for companies that are dual capacity taxpayers, (2) the tax deduction for intangible drilling and development costs, (3) the percentage depletion allowance for oil and gas wells, and (4) the tax deduction for qualified tertiary injectant expenses.</p> <p>The bill modifies the definition of &quot;major integrated oil company&quot; to include certain successors in interest that control more than 50% of the crude oil production or natural gas production of the company.</p> <p>The bill establishes a Transportation Block Grant Fund and appropriates to the fund amounts equal to the increase in revenues as a result of this bill. The funds must be used for making grants under the Surface Transportation Block Grant Program. </p>]]></text>
+          <updateDate>2019-01-30T05:00:00Z</updateDate>
+          <actionDate>2019-01-30</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-05-24T15:54:08Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <date>2019-01-30T14:07:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-02-07T21:26:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Highways and Transit Subcommittee</name>
+              <systemCode>hspw12</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2019-01-30T14:07:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <laws />
+    <billNumber>880</billNumber>
+    <createDate>2019-01-31T08:10:17Z</createDate>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-01-30</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-01-30</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-30</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-30</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BROWNLEY of California:H.R. 880.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8; Amendment XVI[Page H1337]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2019-02-07</actionDate>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to repeal loopholes for major integrated oil companies, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Surface Transportation Investment Act of 2019</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Surface Transportation Investment Act of 2019</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Surface Transportation Investment Act of 2019</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <state>CA</state>
+        <byRequestType />
+        <firstName>Julia</firstName>
+        <bioguideId>B001285</bioguideId>
+        <district>26</district>
+        <middleName />
+        <lastName>Brownley</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-24T16:00:06Z</updateDate>
+    <introducedDate>2019-01-30</introducedDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr880ih/xml/BILLS-116hr880ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-30T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

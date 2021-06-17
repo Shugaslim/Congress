@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <relatedBills />
+    <recordedVotes />
+    <laws />
+    <createDate>2019-01-17T08:10:12Z</createDate>
+    <amendments />
+    <calendarNumbers />
+    <updateDate>2019-05-01T07:16:14Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-04</actionDate>
+        <committee>
+          <name>Border Security, Facilitation, and Operations Subcommittee</name>
+          <systemCode>hshm11</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border Security, Facilitation, and Operations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <state>LA</state>
+        <party>R</party>
+        <bioguideId>J000299</bioguideId>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <lastName>Johnson</lastName>
+        <identifiers>
+          <lisID>2330</lisID>
+          <gpoId />
+          <bioguideId>J000299</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <firstName>Mike</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <title>Securing Our Borders and Wilderness Act</title>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2019-02-06</actionDate>
+      <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <billNumber>612</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-16T15:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-02-06T20:17:26Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-16T15:02:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hshm11</systemCode>
+              <name>Border Security, Facilitation, and Operations Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-02-04T21:32:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2161</lisID>
+          <bioguideId>W000814</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Weber</lastName>
+        <bioguideId>W000814</bioguideId>
+        <state>TX</state>
+        <district>14</district>
+        <firstName>Randy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Palmer, Gary J. [R-AL-6]</fullName>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2221</lisID>
+          <bioguideId>P000609</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Palmer</lastName>
+        <bioguideId>P000609</bioguideId>
+        <state>AL</state>
+        <district>6</district>
+        <firstName>Gary</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <identifiers>
+          <lisID>2224</lisID>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Westerman</lastName>
+        <bioguideId>W000821</bioguideId>
+        <state>AR</state>
+        <district>4</district>
+        <firstName>Bruce</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <lastName>Gosar</lastName>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <district>4</district>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cloud, Michael [R-TX-27]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <identifiers>
+          <lisID>2369</lisID>
+          <bioguideId>C001115</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Cloud</lastName>
+        <bioguideId>C001115</bioguideId>
+        <state>TX</state>
+        <district>27</district>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOHNSON of Louisiana:H.R. 612.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8; Article IV, Section 3[Page H677]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <date>2019-01-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr612ih/xml/BILLS-116hr612ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Wilderness Act to authorize U.S. Customs and Border Protection to conduct certain activities to secure the international land borders of the United States, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Securing Our Borders and Wilderness Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Securing Our Borders and Wilderness Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Securing Our Borders and Wilderness Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-01-16</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

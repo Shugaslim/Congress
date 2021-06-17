@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>452</billNumber>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-04</actionDate>
+        <committee>
+          <systemCode>hshm05</systemCode>
+          <name>Intelligence and Counterterrorism Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Intelligence and Counterterrorism.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <createDate>2019-01-11T08:10:16Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Intelligence and Counterterrorism Subcommittee</name>
+              <systemCode>hshm05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-04T21:30:29Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-10T15:02:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <committeeReports />
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FLEISCHMANN:H.R. 452.Congress has the power to enact this legislation pursuantto the following:Clause 3 of Section 8 of Article 1 of the Constitution.[Page H464]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <middleName>J. "Chuck"</middleName>
+        <lastName>Fleischmann</lastName>
+        <bioguideId>F000459</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>F000459</bioguideId>
+          <lisID>2061</lisID>
+          <gpoId>8150</gpoId>
+        </identifiers>
+        <firstName>Charles</firstName>
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <district>3</district>
+        <party>R</party>
+        <state>TN</state>
+      </item>
+    </sponsors>
+    <cosponsors />
+    <laws />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr452ih/xml/BILLS-116hr452ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-10T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To require the Secretary of Homeland Security to use the testimonials of former violent extremists or their associates in order to counter terrorist recruitment, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Combating Terrorist Recruitment Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Combating Terrorist Recruitment Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Combating Terrorist Recruitment Act of 2019</title>
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Political movements and philosophies</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-27T13:26:07Z</updateDate>
+    <recordedVotes />
+    <congress>116</congress>
+    <introducedDate>2019-01-10</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-02-04</actionDate>
+      <text>Referred to the Subcommittee on Intelligence and Counterterrorism.</text>
+      <links />
+    </latestAction>
+    <title>Combating Terrorist Recruitment Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr409-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-09", 
+  "number": "409", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to repeal the limitation on the cover over of distilled spirits taxes to the Virgin Islands and Puerto Rico.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1786-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "P000610", 
+    "district": null, 
+    "name": "Plaskett, Stacey E.", 
+    "state": "VI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-09", 
+  "subjects": [
+    "Alcoholic beverages", 
+    "Caribbean area", 
+    "Intergovernmental relations", 
+    "Puerto Rico", 
+    "Sales and excise taxes", 
+    "State and local finance", 
+    "Taxation", 
+    "U.S. territories and protectorates", 
+    "Virgin Islands"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-09T05:00:00Z", 
+    "text": "This bill repeals the limitation on the amount of distilled spirits excise taxes covered over (paid) to the treasuries of the Virgin Islands and Puerto Rico."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to repeal the limitation on the cover over of distilled spirits taxes to the Virgin Islands and Puerto Rico.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to repeal the limitation on the cover over of distilled spirits taxes to the Virgin Islands and Puerto Rico.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-02T19:15:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr409.xml"
+}

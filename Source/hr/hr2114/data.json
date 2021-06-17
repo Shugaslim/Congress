@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2114-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Energy", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "U000031", 
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-08", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-04-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-08", 
+  "number": "2114", 
+  "official_title": "To amend the Energy Policy and Conservation Act to provide Federal financial assistance to States to implement, review, and revise State energy security plans, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Enhancing State Energy Security Planning and Emergency Preparedness Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "R000515", 
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-08", 
+  "subjects": [
+    "Coal", 
+    "Computer security and identity theft", 
+    "Electric power generation and transmission", 
+    "Emergency planning and evacuation", 
+    "Energy", 
+    "Energy storage, supplies, demand", 
+    "Motor fuels", 
+    "Oil and gas", 
+    "Public utilities and utility rates", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Energy Policy and Conservation Act to provide Federal financial assistance to States to implement, review, and revise State energy security plans, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Enhancing State Energy Security Planning and Emergency Preparedness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Enhancing State Energy Security Planning and Emergency Preparedness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Enhancing State Energy Security Planning and Emergency Preparedness Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-14T07:12:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2114.xml"
+}

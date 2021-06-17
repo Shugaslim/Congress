@@ -1,0 +1,142 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr298-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-08", 
+  "number": "298", 
+  "official_title": "To reduce a portion of the annual pay of Members of Congress for the failure to adopt a concurrent resolution on the budget which does not provide for a balanced budget, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s44-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Balanced Budget Accountability Act", 
+  "sponsor": {
+    "bioguide_id": "G000584", 
+    "district": null, 
+    "name": "Gianforte, Greg", 
+    "state": "MT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-08", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Budget process", 
+    "Congress", 
+    "Economics and Public Finance", 
+    "Government employee pay, benefits, personnel management", 
+    "Income tax rates", 
+    "Legislative rules and procedure", 
+    "Members of Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reduce a portion of the annual pay of Members of Congress for the failure to adopt a concurrent resolution on the budget which does not provide for a balanced budget, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Balanced Budget Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Balanced Budget Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Balanced Budget Accountability Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T21:45:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr298.xml"
+}

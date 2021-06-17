@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-04", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr241-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-04", 
+  "number": "241", 
+  "official_title": "To amend the Bank Service Company Act to provide improvements with respect to State banking agencies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Bank Service Company Examination Coordination Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "W000816", 
+    "district": "25", 
+    "name": "Williams, Roger", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-04", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Finance and financial sector", 
+    "Government information and archives", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-04T05:00:00Z", 
+    "text": "Bank Service Company Examination Coordination Act of 2019\n\nThis bill requires the coordination of state banking agencies with federal banking agencies in regulating and examining the activities of bank service companies. It also allows for the sharing of\u00a0information related to examinations and regulations between federal and state agencies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bank Service Company Examination Coordination Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bank Service Company Examination Coordination Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Bank Service Company Act to provide improvements with respect to State banking agencies, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Bank Service Company Examination Coordination Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-01-23T12:39:58Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr241.xml"
+}

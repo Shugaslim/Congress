@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <laws />
+    <cboCostEstimates />
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1858ih/xml/BILLS-116hr1858ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-25T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <amendments />
+    <introducedDate>2019-03-25</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-25T16:01:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-05-14T19:00:12Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+      <actionDate>2019-03-25</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>907</number>
+        <latestAction>
+          <actionDate>2019-03-27</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <latestTitle>FOCA Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2323</lisID>
+          <bioguideId>R000607</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <district>19</district>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000607</bioguideId>
+        <lastName>Rooney</lastName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <firstName>Francis</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <district>11</district>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001187</bioguideId>
+        <lastName>Meadows</lastName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000819</bioguideId>
+          <lisID>2255</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <district>6</district>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000819</bioguideId>
+        <lastName>Walker</lastName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2143</lisID>
+          <bioguideId>H001065</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Holding, George [R-NC-2]</fullName>
+        <district>2</district>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001065</bioguideId>
+        <lastName>Holding</lastName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <firstName>George</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <district>4</district>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000362</bioguideId>
+        <lastName>King</lastName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2446</lisID>
+          <bioguideId>W000827</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <district>6</district>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000827</bioguideId>
+        <lastName>Wright</lastName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <firstName>Ron</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <district>1</district>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000578</bioguideId>
+        <lastName>Gaetz</lastName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2416</lisID>
+          <bioguideId>G000591</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Guest, Michael [R-MS-3]</fullName>
+        <district>3</district>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000591</bioguideId>
+        <lastName>Guest</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2026</lisID>
+          <gpoId>7976</gpoId>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <district>1</district>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001052</bioguideId>
+        <lastName>Harris</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <firstName>Andy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <district>1</district>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000582</bioguideId>
+        <lastName>Roe</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001302</bioguideId>
+          <lisID>2307</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <district>5</district>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001302</bioguideId>
+        <lastName>Biggs</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <firstName>Andy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2445</lisID>
+          <gpoId />
+          <bioguideId>G000589</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Gooden, Lance [R-TX-5]</fullName>
+        <district>5</district>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000589</bioguideId>
+        <lastName>Gooden</lastName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>Lance</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2233</lisID>
+          <bioguideId>B001297</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <district>4</district>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001297</bioguideId>
+        <lastName>Buck</lastName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>Ken</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001092</bioguideId>
+          <lisID>2151</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <district>27</district>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001092</bioguideId>
+        <lastName>Collins</lastName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>Chris</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2152</lisID>
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <district>2</district>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000815</bioguideId>
+        <lastName>Wenstrup</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>Brad</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2368</lisID>
+          <bioguideId>L000589</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <district>8</district>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000589</bioguideId>
+        <lastName>Lesko</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <district>4</district>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001053</bioguideId>
+        <lastName>Cole</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000301</bioguideId>
+          <lisID>2439</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Johnson, Dusty [R-SD-At Large]</fullName>
+        <district>0</district>
+        <state>SD</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000301</bioguideId>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>Dusty</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <createDate>2019-03-26T07:12:09Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1858</billNumber>
+    <recordedVotes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BUDD:H.R. 1858.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8.[Page H2796]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Fair and Open Competition Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>FOCA Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To preserve open competition and Federal Government neutrality towards the labor relations of Federal Government contractors on Federal and federally funded construction projects, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>FOCA Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Fair and Open Competition Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Fair and Open Competition Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Fair and Open Competition Act</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Budd</lastName>
+        <bioguideId>B001305</bioguideId>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+        </identifiers>
+        <district>13</district>
+        <party>R</party>
+        <state>NC</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

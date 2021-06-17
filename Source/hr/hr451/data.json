@@ -1,0 +1,203 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-31", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr451-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000553", 
+      "district": "9", 
+      "name": "Green, Al", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000210", 
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000480", 
+      "district": "17", 
+      "name": "Lowey, Nita M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000562", 
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000613", 
+      "district": "11", 
+      "name": "Rose, Max", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001150", 
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000474", 
+      "district": "35", 
+      "name": "Torres, Norma J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Z000017", 
+      "district": "1", 
+      "name": "Zeldin, Lee M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-10", 
+  "number": "451", 
+  "official_title": "To repeal the section of the Middle Class Tax Relief and Job Creation Act of 2012 that requires the Federal Communications Commission to reallocate and auction the T-Band spectrum.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Don't Break Up the T-Band Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "E000179", 
+    "district": "16", 
+    "name": "Engel, Eliot L.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-10", 
+  "subjects": [
+    "Federal Communications Commission (FCC)", 
+    "Internet and video services", 
+    "Licensing and registrations", 
+    "Radio spectrum allocation", 
+    "Science, technology, communications", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-10T05:00:00Z", 
+    "text": "Don't Break Up the T-Band Act of 2019\n\nThis bill repeals the requirement for\u00a0the Federal Communications Commission to reallocate and auction the 470-512 MHz band (referred to as the \"T-Band spectrum\"). The T-Band spectrum is a frequency range currently utilized by public-safety entities in\u00a0certain urban areas."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the section of the Middle Class Tax Relief and Job Creation Act of 2012 that requires the Federal Communications Commission to reallocate and auction the T-Band spectrum.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Don't Break Up the T-Band Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Don\u2019t Break Up the T-Band Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Don't Break Up the T-Band Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-10T07:15:27Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr451.xml"
+}

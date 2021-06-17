@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-09</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-05-08</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:47:50</actionTime>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-05-08</actionDate>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3488-3489)</text>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3488-3489</url>
+            <name>H3488-3489</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:47:46</actionTime>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-05-08</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3488-3489)</text>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3488-3489</url>
+            <name>H3488-3489</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionTime>12:47:46</actionTime>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-05-08</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1328.</text>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/1328</url>
+            <name>H.R. 1328</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:37:41</actionTime>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-05-08</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H3488-3490)</text>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3488-3490</url>
+            <name>H3488-3490</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:37:40</actionTime>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-05-08</actionDate>
+        <text>Mr. Tonko moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:37:26</actionTime>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-02-25</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-02-25</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-02-25</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <billReferrals>1</billReferrals>
+        <considerationByHouse>1</considerationByHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-05-10T09:19:15Z</updateDate>
+    <latestAction>
+      <actionDate>2019-05-09</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-05-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1328eh/xml/BILLS-116hr1328eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-25T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1328ih/xml/BILLS-116hr1328ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>1328</billNumber>
+    <cosponsors>
+      <item>
+        <state>IN</state>
+        <bioguideId>B001284</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <firstName>Susan</firstName>
+        <district>5</district>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <lastName>Brooks</lastName>
+        <middleName>W.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001284</bioguideId>
+          <lisID>2129</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>WV</state>
+        <bioguideId>M001180</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <firstName>David</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>McKinley</lastName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>VT</state>
+        <bioguideId>W000800</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <firstName>Peter</firstName>
+        <district>0</district>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Welch</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>S001196</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <firstName>Elise</firstName>
+        <district>21</district>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Stefanik</lastName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>B001308</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <firstName>Anthony</firstName>
+        <district>22</district>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Brindisi</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2429</lisID>
+          <bioguideId>B001308</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>C001092</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <firstName>Chris</firstName>
+        <district>27</district>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <lastName>Collins</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2151</lisID>
+          <bioguideId>C001092</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <bioguideId>E000215</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <firstName>ANNA</firstName>
+        <district>18</district>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <lastName>ESHOO</lastName>
+        <middleName>G.</middleName>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>M001188</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <firstName>Grace</firstName>
+        <district>6</district>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <lastName>Meng</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2148</lisID>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>VA</state>
+        <bioguideId>G000568</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <firstName>H.</firstName>
+        <district>9</district>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <lastName>Griffith</lastName>
+        <middleName>Morgan</middleName>
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+          <lisID>2070</lisID>
+          <gpoId>8200</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>OH</state>
+        <bioguideId>J000292</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <firstName>Bill</firstName>
+        <district>6</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <lastName>Johnson</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IL</state>
+        <bioguideId>C001117</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+        <firstName>Sean</firstName>
+        <district>6</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <lastName>Casten</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2398</lisID>
+          <bioguideId>C001117</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>PA</state>
+        <bioguideId>R000610</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <firstName>Guy</firstName>
+        <district>14</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <lastName>Reschenthaler</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000610</bioguideId>
+          <lisID>2436</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <bioguideId>H001090</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <firstName>Josh</firstName>
+        <district>10</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <lastName>Harder</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2377</lisID>
+          <bioguideId>H001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>VA</state>
+        <bioguideId>L000591</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <firstName>Elaine</firstName>
+        <district>2</district>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <lastName>Luria</lastName>
+        <middleName>G.</middleName>
+        <identifiers>
+          <bioguideId>L000591</bioguideId>
+          <lisID>2453</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MN</state>
+        <bioguideId>C001119</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <firstName>Angie</firstName>
+        <district>2</district>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <lastName>Craig</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001119</bioguideId>
+          <lisID>2412</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+        <identifiers>
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IA</state>
+        <bioguideId>A000378</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <firstName>Cynthia</firstName>
+        <district>3</district>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <lastName>Axne</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2395</lisID>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>WA</state>
+        <bioguideId>M001159</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <firstName>Cathy</firstName>
+        <district>5</district>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <lastName>Rodgers</lastName>
+        <middleName>McMorris</middleName>
+        <identifiers>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AZ</state>
+        <bioguideId>O000171</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <firstName>Tom</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <lastName>O'Halleran</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IA</state>
+        <bioguideId>F000467</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Finkenauer, Abby [D-IA-1]</fullName>
+        <firstName>Abby</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Finkenauer</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2394</lisID>
+          <bioguideId>F000467</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NC</state>
+        <bioguideId>M001187</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <firstName>Mark</firstName>
+        <district>11</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Meadows</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>TX</state>
+        <bioguideId>T000479</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <firstName>Van</firstName>
+        <district>3</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Taylor</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2444</lisID>
+          <bioguideId>T000479</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>PA</state>
+        <bioguideId>C001090</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <firstName>Matt</firstName>
+        <district>8</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Cartwright</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>D000630</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <firstName>Antonio</firstName>
+        <district>19</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Delgado</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000630</bioguideId>
+          <lisID>2428</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MI</state>
+        <bioguideId>S001208</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <firstName>Elissa</firstName>
+        <district>8</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Slotkin</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001208</bioguideId>
+          <lisID>2407</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Tonko</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>Paul</firstName>
+        <district>20</district>
+        <byRequestType />
+        <state>NY</state>
+        <bioguideId>T000469</bioguideId>
+        <identifiers>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+        </identifiers>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-05-09T15:08:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>sscm00</systemCode>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-02-25T19:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <title>ACCESS BROADBAND Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <title>Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>ACCESS BROADBAND Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>ACCESS BROADBAND Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To establish the Office of Internet Connectivity and Growth, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>ACCESS BROADBAND Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-02-26T08:10:15Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>ACCESS BROADBAND Act</title>
+    <committeeReports />
+    <introducedDate>2019-02-25</introducedDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2019-04-04</actionDate>
+        </latestAction>
+        <latestTitle>Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act</latestTitle>
+        <congress>116</congress>
+        <number>1046</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Commerce</name>
+          </item>
+          <item>
+            <name>Digital media</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Educational technology and distance education</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Libraries and archives</name>
+          </item>
+          <item>
+            <name>Public housing</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TONKO:H.R. 1328.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause IProvides Congress with the power to ``lay and collectTaxes, Duties, Imposts and Excises'' in order to ``providefor the . . . general Welfare of the United States.''[Page H2101]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

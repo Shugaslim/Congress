@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-13T05:40:23Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-12</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-02-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <billNumber>454</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-12T19:47:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <middleName />
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Hoeven</lastName>
+        <party>R</party>
+        <bioguideId>H001061</bioguideId>
+        <state>ND</state>
+        <middleName />
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+        </identifiers>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>WYDEN</lastName>
+        <party>D</party>
+        <bioguideId>W000779</bioguideId>
+        <state>OR</state>
+        <middleName />
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>CRAPO</lastName>
+        <party>R</party>
+        <bioguideId>C000880</bioguideId>
+        <state>ID</state>
+        <middleName>D.</middleName>
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <firstName>MICHAEL</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <bioguideId>R000608</bioguideId>
+        <state>NV</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-02-12</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>S</billType>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <relatedBills />
+    <updateDate>2019-04-11T15:46:41Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Telecommunication rates and fees</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to direct the Federal Communications Commission to establish the Office of Rural Broadband, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Office of Rural Broadband Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Office of Rural Broadband Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Office of Rural Broadband Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-02-12</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s454is/xml/BILLS-116s454is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-12T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Kevin</firstName>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Office of Rural Broadband Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

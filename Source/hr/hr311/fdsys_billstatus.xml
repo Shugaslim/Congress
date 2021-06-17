@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-12T17:15:12Z</updateDate>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <district>3</district>
+        <firstName>WALTER</firstName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <lastName>JONES</lastName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>J000255</bioguideId>
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-08T17:04:00Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2019-01-08</introducedDate>
+    <createDate>2019-01-09T08:10:17Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2019-01-08</actionDate>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-08</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-08</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>311</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2019-01-08T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill redesignates: (1) the Department of the Navy as the Department of the Navy and Marine Corps, and (2) the Secretary of the Navy as the Secretary of the Navy and Marine Corps. The bill makes similar redesignations with respect to the Department Under Secretary, the Department Assistant Secretaries, and the General Counsel.</p>]]></text>
+          <lastSummaryUpdateDate>2019-02-12T17:02:13Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-08</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Armed Services.</text>
+      <links />
+      <actionDate>2019-01-08</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JONES:H.R. 311.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article 1, section 8 of the United StatesConstitution (clauses 12, 13, 14, and 16), which grantsCongress the power to raise and support an Army; to provideand maintain a Navy; to make rules for the government andregulation of the land and naval forces; and to provide fororganizing, arming, and disciplining the militia.[Page H286]</pre>]]></constitutionalAuthorityStatementText>
+    <title>To redesignate the Department of the Navy as the Department of the Navy and Marine Corps.</title>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Military command and structure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To redesignate the Department of the Navy as the Department of the Navy and Marine Corps.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To redesignate the Department of the Navy as the Department of the Navy and Marine Corps.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

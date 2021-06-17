@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-09</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-09</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-09</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Wireless Communications and Public Safety Act of 1999, to clarify acceptable 9-1-1 obligations or expenditures, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>9-1-1 Fee Integrity Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>9-1-1 Fee Integrity Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>9–1–1 Fee Integrity Act</title>
+      </item>
+    </titles>
+    <title>9-1-1 Fee Integrity Act</title>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2019-04-09</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>C001092</bioguideId>
+          <lisID>2151</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001092</bioguideId>
+        <middleName />
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <firstName>Chris</firstName>
+        <party>R</party>
+        <lastName>Collins</lastName>
+        <district>27</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-19T15:45:07Z</updateDate>
+    <relatedBills />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-09T14:01:45Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-04-10T07:12:09Z</createDate>
+    <introducedDate>2019-04-09</introducedDate>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>2165</billNumber>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <firstName>ANNA</firstName>
+        <identifiers>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>ESHOO</lastName>
+        <middleName>G.</middleName>
+        <district>18</district>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>E000215</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>ME</state>
+        <firstName>Chellie</firstName>
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pingree</lastName>
+        <middleName />
+        <district>1</district>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>P000597</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COLLINS of New York:H.R. 2165.Congress has the power to enact this legislation pursuantto the following :ARTICLE I SECTION 8[Page H3218]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-04-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2165ih/xml/BILLS-116hr2165ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

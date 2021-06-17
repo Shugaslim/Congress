@@ -1,0 +1,335 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-30", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-30", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-15", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr877-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000059", 
+      "district": "42", 
+      "name": "Calvert, Ken", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001109", 
+      "district": null, 
+      "name": "Cheney, Liz", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-25", 
+      "state": "WY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001053", 
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-25", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000616", 
+      "district": "4", 
+      "name": "DesJarlais, Scott", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000624", 
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-30", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000584", 
+      "district": null, 
+      "name": "Gianforte, Greg", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "MT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001071", 
+      "district": "10", 
+      "name": "Hice, Jody B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-25", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001072", 
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001067", 
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-30", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000392", 
+      "district": "8", 
+      "name": "Kustoff, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-15", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000566", 
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-06", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001201", 
+      "district": "10", 
+      "name": "Mitchell, Paul", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-25", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001195", 
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "U000031", 
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-26", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000131", 
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-30", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000798", 
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-06", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000806", 
+      "district": "11", 
+      "name": "Webster, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-08", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000816", 
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000804", 
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-25", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-03-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-30", 
+  "number": "877", 
+  "official_title": "To amend the Pittman-Robertson Wildlife Restoration Act to modernize the funding of wildlife conservation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act", 
+  "sponsor": {
+    "bioguide_id": "S001189", 
+    "district": "8", 
+    "name": "Scott, Austin", 
+    "state": "GA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-30", 
+  "subjects": [
+    "Congressional oversight", 
+    "Firearms and explosives", 
+    "Government studies and investigations", 
+    "Hunting and fishing", 
+    "Land use and conservation", 
+    "Outdoor recreation", 
+    "Public lands and natural resources", 
+    "Sales and excise taxes", 
+    "State and local finance", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Pittman-Robertson Wildlife Restoration Act to modernize the funding of wildlife conservation, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Modernizing the Pittman-Robertson Fund for Tomorrow\u2019s Needs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T07:15:40Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr877.xml"
+}

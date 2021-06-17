@@ -1,0 +1,97 @@
+<bill session="116" type="s" number="820" updated="2019-05-23T04:42:55Z">
+  <state datetime="2019-05-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2019-05-16"/>
+  </status>
+  <introduced datetime="2019-03-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to strengthen programs authorized under the Debbie Smith Act of 2004.</title>
+    <title type="short" as="passed senate">Debbie Smith Act of 2019</title>
+    <title type="short" as="passed senate">Debbie Smith Act of 2019</title>
+    <title type="short" as="reported to senate">Debbie Smith Act of 2019</title>
+    <title type="short" as="reported to senate">Debbie Smith Act of 2019</title>
+    <title type="short" as="introduced">Debbie Smith Act of 2019</title>
+    <title type="short" as="introduced">Debbie Smith Act of 2019</title>
+    <title type="display">Debbie Smith Act of 2019</title>
+  </titles>
+  <sponsor bioguide_id="C001056"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001243" joined="2019-03-14"/>
+    <cosponsor bioguide_id="B001277" joined="2019-03-14"/>
+    <cosponsor bioguide_id="B001310" joined="2019-03-25"/>
+    <cosponsor bioguide_id="B001135" joined="2019-03-14"/>
+    <cosponsor bioguide_id="C000127" joined="2019-05-13"/>
+    <cosponsor bioguide_id="C001035" joined="2019-05-14"/>
+    <cosponsor bioguide_id="C001113" joined="2019-05-14"/>
+    <cosponsor bioguide_id="C000880" joined="2019-03-14"/>
+    <cosponsor bioguide_id="D000563" joined="2019-04-30"/>
+    <cosponsor bioguide_id="E000295" joined="2019-03-14"/>
+    <cosponsor bioguide_id="F000062" joined="2019-03-14"/>
+    <cosponsor bioguide_id="F000463" joined="2019-05-15"/>
+    <cosponsor bioguide_id="G000386" joined="2019-05-02"/>
+    <cosponsor bioguide_id="H001089" joined="2019-03-14"/>
+    <cosponsor bioguide_id="K000393" joined="2019-04-10"/>
+    <cosponsor bioguide_id="K000367" joined="2019-03-14"/>
+    <cosponsor bioguide_id="L000174" joined="2019-03-14"/>
+    <cosponsor bioguide_id="M001197" joined="2019-03-14"/>
+    <cosponsor bioguide_id="S001184" joined="2019-03-14"/>
+    <cosponsor bioguide_id="S001181" joined="2019-05-14"/>
+    <cosponsor bioguide_id="T000476" joined="2019-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-03-14">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-03-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2019-05-02" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="2019-05-09">
+      <text>Committee on the Judiciary. Reported by Senator Graham with amendments. Without written report.</text>
+    </action>
+    <calendar datetime="2019-05-09" calendar="Senate Legislative" under="General Orders" number="80">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2019-05-16" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S2946-2948" label="consideration"/>
+      <reference ref="CR S2947-2948" label="text"/>
+    </vote>
+    <action datetime="2019-05-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2019-05-20T14:03:14-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2019-05-20">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="777"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Congressional oversight"/>
+    <term name="Crimes against women"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Genetics"/>
+    <term name="Government studies and investigations"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Sex offenses"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

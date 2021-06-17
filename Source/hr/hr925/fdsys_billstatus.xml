@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2019-01-31T08:10:19Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2019-05-16T07:15:30Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2019-02-19</actionDate>
+        <committee>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-30</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-01-30</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-01-30</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Wetlands</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>MIKE</firstName>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <middleName />
+        <state>CA</state>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <bioguideId>T000460</bioguideId>
+        <byRequestType />
+        <district>5</district>
+      </item>
+    </sponsors>
+    <title>North American Wetlands Conservation Extension Act</title>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wittman</lastName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <district>1</district>
+        <bioguideId>W000804</bioguideId>
+        <state>VA</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8192</gpoId>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Garamendi</lastName>
+        <middleName />
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <district>3</district>
+        <bioguideId>G000559</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moore</lastName>
+        <middleName />
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <district>4</district>
+        <bioguideId>M001160</bioguideId>
+        <state>WI</state>
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <firstName>Gwen</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cook</lastName>
+        <middleName />
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <district>8</district>
+        <bioguideId>C001094</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001094</bioguideId>
+          <lisID>2103</lisID>
+        </identifiers>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Graves</lastName>
+        <middleName />
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <district>6</district>
+        <bioguideId>G000577</bioguideId>
+        <state>LA</state>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2245</lisID>
+          <bioguideId>G000577</bioguideId>
+        </identifiers>
+        <firstName>Garret</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Johnson</lastName>
+        <middleName />
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <district>4</district>
+        <bioguideId>J000299</bioguideId>
+        <state>LA</state>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000299</bioguideId>
+          <lisID>2330</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kildee</lastName>
+        <middleName>T.</middleName>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <district>5</district>
+        <bioguideId>K000380</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Daniel</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Marshall</lastName>
+        <middleName>W.</middleName>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <district>1</district>
+        <bioguideId>M001198</bioguideId>
+        <state>KS</state>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+        <firstName>Roger</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cunningham</lastName>
+        <middleName />
+        <fullName>Rep. Cunningham, Joe [D-SC-1]</fullName>
+        <district>1</district>
+        <bioguideId>C001122</bioguideId>
+        <state>SC</state>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001122</bioguideId>
+          <lisID>2437</lisID>
+        </identifiers>
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kustoff</lastName>
+        <middleName />
+        <fullName>Rep. Kustoff, David [R-TN-8]</fullName>
+        <district>8</district>
+        <bioguideId>K000392</bioguideId>
+        <state>TN</state>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000392</bioguideId>
+          <lisID>2348</lisID>
+        </identifiers>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>KIND</lastName>
+        <middleName />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <district>3</district>
+        <bioguideId>K000188</bioguideId>
+        <state>WI</state>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <firstName>RON</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>VELAZQUEZ</lastName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <district>7</district>
+        <bioguideId>V000081</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <firstName>NYDIA</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pappas</lastName>
+        <middleName />
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <district>1</district>
+        <bioguideId>P000614</bioguideId>
+        <state>NH</state>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000614</bioguideId>
+          <lisID>2418</lisID>
+        </identifiers>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Watkins</lastName>
+        <middleName />
+        <fullName>Rep. Watkins, Steve [R-KS-2]</fullName>
+        <district>2</district>
+        <bioguideId>W000824</bioguideId>
+        <state>KS</state>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2402</lisID>
+          <gpoId />
+          <bioguideId>W000824</bioguideId>
+        </identifiers>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Krishnamoorthi</lastName>
+        <middleName />
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <district>8</district>
+        <bioguideId>K000391</bioguideId>
+        <state>IL</state>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>2325</lisID>
+          <bioguideId>K000391</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Raja</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Maloney</lastName>
+        <middleName>Patrick</middleName>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <district>18</district>
+        <bioguideId>M001185</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <firstName>Sean</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Van Drew</lastName>
+        <middleName />
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <district>2</district>
+        <bioguideId>V000133</bioguideId>
+        <state>NJ</state>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>2419</lisID>
+          <bioguideId>V000133</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Jefferson</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Delgado</lastName>
+        <middleName />
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <district>19</district>
+        <bioguideId>D000630</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000630</bioguideId>
+          <lisID>2428</lisID>
+        </identifiers>
+        <firstName>Antonio</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Quigley</lastName>
+        <middleName />
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <district>5</district>
+        <bioguideId>Q000023</bioguideId>
+        <state>IL</state>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pocan</lastName>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <district>2</district>
+        <bioguideId>P000607</bioguideId>
+        <state>WI</state>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+        </identifiers>
+        <firstName>Mark</firstName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>925</billNumber>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <latestTitle>North American Wetlands Conservation Extension Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-01-29</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <number>261</number>
+        <type>S</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <date>2019-02-19T21:43:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-30T14:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THOMPSON of California:H.R. 925.Congress has the power to enact this legislation pursuantto the following:Article I[Page H1338]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-02-19</actionDate>
+      <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <title>To extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>North American Wetlands Conservation Extension Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>North American Wetlands Conservation Extension Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>North American Wetlands Conservation Extension Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-01-30</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr925ih/xml/BILLS-116hr925ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

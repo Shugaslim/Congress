@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <firstName>Timothy</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <state>VA</state>
+        <lastName>Kaine</lastName>
+        <middleName />
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to create a refundable tax credit for foster families, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to create a refundable tax credit for foster families, and for other purposes.</title>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Jones</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>J000300</bioguideId>
+        <firstName>Doug</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2364</lisID>
+          <gpoId />
+          <bioguideId>J000300</bioguideId>
+        </identifiers>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <state>AL</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <title>A bill to amend the Internal Revenue Code of 1986 to create a refundable tax credit for foster families, and for other purposes.</title>
+    <committeeReports />
+    <version>1.0.0</version>
+    <introducedDate>2019-05-22</introducedDate>
+    <recordedVotes />
+    <policyArea />
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S3062</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3062</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S3062)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-23T17:42:07Z</updateDate>
+    <createDate>2019-05-23T04:42:06Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S3062)</text>
+      <actionDate>2019-05-22</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>1599</billNumber>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T17:38:36Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions />
+    <relatedBills />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

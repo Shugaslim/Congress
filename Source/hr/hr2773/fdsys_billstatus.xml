@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2773</billNumber>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-15</actionDate>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR E597)</text>
+        <links>
+          <link>
+            <name>E597</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E597</url>
+          </link>
+        </links>
+        <actionDate>2019-05-15</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-05-15</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-05-15</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <district>0</district>
+        <identifiers>
+          <gpoId>8018</gpoId>
+          <lisID>1962</lisID>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+        <state>MP</state>
+        <party>D</party>
+        <bioguideId>S001177</bioguideId>
+        <byRequestType />
+        <lastName>Sablan</lastName>
+        <middleName>Kilili Camacho</middleName>
+        <firstName>Gregorio</firstName>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <amendments />
+    <title>To amend title 13, United States Code, to direct the Secretary of Commerce to conduct a mid-decade census of population for the Northern Mariana Islands, Guam, American Samoa, and the U.S. Virgin Islands, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title 13, United States Code, to direct the Secretary of Commerce to conduct a mid-decade census of population for the Northern Mariana Islands, Guam, American Samoa, and the U.S. Virgin Islands, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To amend title 13, United States Code, to direct the Secretary of Commerce to conduct a mid-decade census of population for the Northern Mariana Islands, Guam, American Samoa, and the U.S. Virgin Islands, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-05-16T13:27:17Z</updateDate>
+    <introducedDate>2019-05-15</introducedDate>
+    <textVersions />
+    <relatedBills />
+    <congress>116</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <lastName>San Nicolas</lastName>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F. Q.</middleName>
+        <bioguideId>S001204</bioguideId>
+        <state>GU</state>
+        <identifiers>
+          <lisID>2393</lisID>
+          <bioguideId>S001204</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. San Nicolas, Michael F. Q. [D-GU-At Large]</fullName>
+        <district>0</district>
+      </item>
+      <item>
+        <lastName>Radewagen</lastName>
+        <firstName>Aumua Amata</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Coleman</middleName>
+        <bioguideId>R000600</bioguideId>
+        <state>AS</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000600</bioguideId>
+          <lisID>2222</lisID>
+        </identifiers>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <district>0</district>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-05-15T14:03:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <policyArea />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2019-05-15</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <createDate>2019-05-16T07:12:19Z</createDate>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SABLAN:H.R. 2773.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 2, Clause 3 and Article IV,Section 3, Clause 2 of the Constitution.[Page H3843]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

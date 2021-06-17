@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>205</billNumber>
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-24</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2019-01-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-01-24T19:18:38Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <number>1839</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-03-21</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>To amend title XIX to extend protection for Medicaid recipients of home and community-based services against spousal impoverishment, establish a State Medicaid option to provide coordinated care to children with complex medical conditions through health homes, prevent the misclassification of drugs for purposes of the Medicaid drug rebate program, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <number>937</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-01-31</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Right Rebate Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <notes />
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Right Rebate Act of </b><b>2019</b></p> <p>This bill requires drug manufacturers with Medicaid rebate agreements for covered outpatient drugs to disclose drug product information. Manufacturers are subject to civil penalties for knowingly misclassifying drugs. Manufacturers are also required to compensate for rebates that were initially underpaid as a result of misclassification (whether or not such misclassification was committed knowingly).</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-24T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-01-24</actionDate>
+          <lastSummaryUpdateDate>2019-02-07T21:02:49Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>WYDEN</lastName>
+        <bioguideId>W000779</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <party>D</party>
+        <state>OR</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <firstName>CHARLES</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000386</bioguideId>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IA</state>
+        <identifiers>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+        </identifiers>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <middleName>ERNEST</middleName>
+        <lastName>GRASSLEY</lastName>
+      </item>
+      <item>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CT</state>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <middleName />
+        <lastName>Blumenthal</lastName>
+      </item>
+      <item>
+        <firstName>Sherrod</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+        <lastName>Brown</lastName>
+      </item>
+      <item>
+        <firstName>Catherine</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001113</bioguideId>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+          <lisID>2299</lisID>
+        </identifiers>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <middleName />
+        <lastName>Cortez Masto</lastName>
+      </item>
+      <item>
+        <firstName>Margaret</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+          <lisID>2302</lisID>
+        </identifiers>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <middleName>Wood</middleName>
+        <lastName>Hassan</lastName>
+      </item>
+      <item>
+        <firstName>DEBORAH</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <middleName>ANN</middleName>
+        <lastName>STABENOW</lastName>
+      </item>
+      <item>
+        <firstName>Amy</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+      </item>
+      <item>
+        <firstName>Bob</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001070</bioguideId>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <middleName />
+        <lastName>Casey</lastName>
+      </item>
+      <item>
+        <firstName>Joni</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000295</bioguideId>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <middleName />
+        <lastName>Ernst</lastName>
+      </item>
+      <item>
+        <firstName>Tina</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <middleName />
+        <lastName>Smith</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s205is/xml/BILLS-116s205is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-01-24T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Right Rebate Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to amend title XIX of the Social Security Act to prevent the misclassification of drugs for purposes of the Medicaid drug rebate program.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Right Rebate Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Right Rebate Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-25T14:30:10Z</updateDate>
+    <createDate>2019-01-25T06:10:13Z</createDate>
+    <title>Right Rebate Act of 2019</title>
+    <introducedDate>2019-01-24</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-01-24</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

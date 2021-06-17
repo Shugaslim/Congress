@@ -1,0 +1,218 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-20", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Water, Oceans, and Wildlife Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1809-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000582", 
+      "district": null, 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-18", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000610", 
+      "district": null, 
+      "name": "Plaskett, Stacey E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-21", 
+      "state": "VI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000600", 
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-18", 
+      "state": "AS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001204", 
+      "district": null, 
+      "name": "San Nicolas, Michael F. Q.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-18", 
+      "state": "GU", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-15", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-03-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-18", 
+  "number": "1809", 
+  "official_title": "To amend the Pittman-Robertson Wildlife Restoration Act and the Dingell-Johnson Sport Fish Restoration Act, to provide parity for United States territories and the District of Columbia, to make technical corrections to such Acts and related laws, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001177", 
+    "district": null, 
+    "name": "Sablan, Gregorio Kilili Camacho", 
+    "state": "MP", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-01", 
+  "subjects": [
+    "American Samoa", 
+    "District of Columbia", 
+    "Firearms and explosives", 
+    "Fishes", 
+    "Guam", 
+    "Northern Mariana Islands", 
+    "Public lands and natural resources", 
+    "Puerto Rico", 
+    "Sales and excise taxes", 
+    "State and local finance", 
+    "U.S. territories and protectorates", 
+    "Virgin Islands"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Pittman-Robertson Wildlife Restoration Act and the Dingell-Johnson Sport Fish Restoration Act, to provide parity for United States territories and the District of Columbia, to make technical corrections to such Acts and related laws, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Pittman-Robertson Wildlife Restoration Act and the Dingell-Johnson Sport Fish Restoration Act, to provide parity for United States territories and the District of Columbia, to make technical corrections to such Acts and related laws, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-14T16:12:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1809.xml"
+}

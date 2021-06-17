@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <state>IN</state>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <bioguideId>B001299</bioguideId>
+        <identifiers>
+          <lisID>2326</lisID>
+          <bioguideId>B001299</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>3</district>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Banks</lastName>
+        <firstName>Jim</firstName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <billNumber>698</billNumber>
+    <textVersions>
+      <item>
+        <date>2019-01-22T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr698ih/xml/BILLS-116hr698ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2019-02-08</actionDate>
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+    </latestAction>
+    <congress>116</congress>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-22T17:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr08</systemCode>
+              <name>Oversight and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-02-08T22:10:51Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>M001187</bioguideId>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <lastName>Meadows</lastName>
+        <district>11</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <state>NC</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BANKS:H.R. 698.Congress has the power to enact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation is provided by Article I, section 8 of the UnitedStates Constitution, specifically clause 18 (relating to thepower to make all laws necessary and proper for carrying outthe powers vested in Congress).[Page H997]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-08</actionDate>
+        <committee>
+          <name>Oversight and Investigations Subcommittee</name>
+          <systemCode>hsvr08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-22</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-22</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-22</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <createDate>2019-01-23T08:10:10Z</createDate>
+    <notes />
+    <laws />
+    <originChamber>House</originChamber>
+    <updateDate>2019-04-13T07:15:59Z</updateDate>
+    <title>Department of Veterans Affairs Oversight Enhancement Act of 2019</title>
+    <titles>
+      <item>
+        <title>To direct the Secretary of Veterans Affairs to report biennially on actions taken to address areas of concern regarding the Department of Veterans Affairs in the High Risk List of the Government Accountability Office, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Department of Veterans Affairs Oversight Enhancement Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Department of Veterans Affairs Oversight Enhancement Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Department of Veterans Affairs Oversight Enhancement Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <relatedBills />
+    <introducedDate>2019-01-22</introducedDate>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2019-01-03</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2019-01-03</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2019-01-03</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <introducedDate>2019-01-03</introducedDate>
+    <latestAction>
+      <actionDate>2019-01-03</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <middleName />
+        <bioguideId>S001183</bioguideId>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schweikert</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <billType>HR</billType>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <amendments />
+    <title>Let Lenders Lend Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Housing discrimination</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Housing industry and standards</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-03</actionDate>
+          <text><![CDATA[<p><strong>Let Lenders Lend Act</strong></p> <p>This bill nullifies the&nbsp;"Home Mortgage Disclosure (Regulation C)" rule&nbsp;finalized by the Consumer Financial Protection Bureau&nbsp;on October 28, 2015. (The rule expanded the scope of information that must be disclosed with regards to home mortgages.)</p>]]></text>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-01-17T22:49:08Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr72ih/xml/BILLS-116hr72ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BIGGS:H.R. 72.Congress has the power to enact this legislation pursuantto the following:Article I of the U.S. Constitution[Page H213]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2019-03-27T13:26:07Z</updateDate>
+    <createDate>2019-01-04T13:32:51Z</createDate>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <firstName>Andy</firstName>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <lisID>2307</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Biggs</lastName>
+        <bioguideId>B001302</bioguideId>
+        <middleName />
+        <district>5</district>
+      </item>
+    </sponsors>
+    <notes />
+    <billNumber>72</billNumber>
+    <titles>
+      <item>
+        <title>To provide that the final rule of the Bureau of Consumer Financial Protection titled "Home Mortgage Disclosure (Regulation C)" shall have no force or effect.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Let Lenders Lend Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Let Lenders Lend Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Let Lenders Lend Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-01-03T16:17:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

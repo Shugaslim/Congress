@@ -1,0 +1,239 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-23", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border Security, Facilitation, and Operations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Citizenship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2203-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border Security, Facilitation, and Operations", 
+      "subcommittee_id": "11"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001300", 
+      "district": "44", 
+      "name": "Barragan, Nanette Diaz", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-12", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001091", 
+      "district": "20", 
+      "name": "Castro, Joaquin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000297", 
+      "district": "13", 
+      "name": "Espaillat, Adriano", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000587", 
+      "district": "29", 
+      "name": "Garcia, Sylvia R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-10", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000132", 
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-10", 
+  "number": "2203", 
+  "official_title": "To increase transparency, accountability, and community engagement within the Department of Homeland Security, provide independent oversight of border security activities, improve training for agents and officers of U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Homeland Security Improvement Act", 
+  "sponsor": {
+    "bioguide_id": "E000299", 
+    "district": "16", 
+    "name": "Escobar, Veronica", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-10", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Border security and unlawful immigration", 
+    "Child safety and welfare", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Department of Homeland Security", 
+    "Employee performance", 
+    "Employment and training programs", 
+    "Evidence and witnesses", 
+    "Executive agency funding and structure", 
+    "Families", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Immigrant health and welfare", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Photography and imaging", 
+    "Specialized courts", 
+    "Technology assessment"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Homeland Security Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Homeland Security Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To increase transparency, accountability, and community engagement within the Department of Homeland Security, provide independent oversight of border security activities, improve training for agents and officers of U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Homeland Security Improvement Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:13:03Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2203.xml"
+}

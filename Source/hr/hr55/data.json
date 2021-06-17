@@ -1,0 +1,153 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-31", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr55-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001067", 
+      "district": "9", 
+      "name": "Clarke, Yvette D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-11", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001143", 
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000172", 
+      "district": "14", 
+      "name": "Ocasio-Cortez, Alexandria", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-25", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "55", 
+  "official_title": "To amend the Communications Act of 1934 to direct the Federal Communications Commission to conduct an annual inquiry on the availability of advanced telecommunications capability in broadband deserts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Connecting Broadband Deserts Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "R000515", 
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Administrative remedies", 
+    "Government studies and investigations", 
+    "Internet and video services", 
+    "Science, technology, communications", 
+    "Telephone and wireless communication", 
+    "Urban and suburban affairs and development"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-03T05:00:00Z", 
+    "text": "Connecting Broadband Deserts Act of 2019\n\nThis bill requires the Federal Communications Commission (FCC)\u00a0to conduct an annual inquiry on the availability of advanced telecommunications capability in broadband deserts, including whether such capability is being deployed in a reasonable and timely fashion. If it is not, the FCC shall take immediate action to accelerate deployment of such capability by removing barriers to infrastructure investment and promoting competition. The term \"broadband desert\" means a census block in an urban area in which fewer than 33% of end-user premises do not have access to advanced telecommunications capability."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to direct the Federal Communications Commission to conduct an annual inquiry on the availability of advanced telecommunications capability in broadband deserts, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Connecting Broadband Deserts Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Connecting Broadband Deserts Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Connecting Broadband Deserts Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-04T07:15:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr55.xml"
+}

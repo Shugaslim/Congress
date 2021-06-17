@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s79-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000880", 
+      "district": null, 
+      "name": "Crapo, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "ID", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-10", 
+  "number": "79", 
+  "official_title": "A bill to authorize the Secretary of Agriculture to maintain or replace certain facilities and structures for commercial recreation services at Smith Gulch in Idaho, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s47-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "R000584", 
+    "district": null, 
+    "name": "Risch, James E.", 
+    "state": "ID", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-10", 
+  "subjects": [
+    "Alternative and renewable resources", 
+    "Electric power generation and transmission", 
+    "Energy storage, supplies, demand", 
+    "Government buildings, facilities, and property", 
+    "Idaho", 
+    "Lighting, heating, cooling", 
+    "Outdoor recreation", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize the Secretary of Agriculture to maintain or replace certain facilities and structures for commercial recreation services at Smith Gulch in Idaho, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to authorize the Secretary of Agriculture to maintain or replace certain facilities and structures for commercial recreation services at Smith Gulch in Idaho, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-09T10:26:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s79.xml"
+}

@@ -1,0 +1,157 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2063-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001299", 
+      "district": "3", 
+      "name": "Banks, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-03", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001284", 
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-03", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000132", 
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-03", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-03", 
+  "number": "2063", 
+  "official_title": "To prohibit the President or a Federal agency from constructing, operating, or offering wholesale or retail services on broadband networks without authorization from Congress, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s918-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "E-FRONTIER Act", 
+  "sponsor": {
+    "bioguide_id": "C001097", 
+    "district": "29", 
+    "name": "Cardenas, Tony", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-03", 
+  "subjects": [
+    "Asia", 
+    "China", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Executive agency funding and structure", 
+    "Government studies and investigations", 
+    "Internet and video services", 
+    "Iran", 
+    "Middle East", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Russia", 
+    "Science, technology, communications", 
+    "Subversive activities", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the President or a Federal agency from constructing, operating, or offering wholesale or retail services on broadband networks without authorization from Congress, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "E-FRONTIER Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "E-FRONTIER Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Eliminate From Regulators Opportunities to Nationalize The Internet in Every Respect Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Eliminate From Regulators Opportunities to Nationalize The Internet in Every Respect Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "E-FRONTIER Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-20T22:15:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2063.xml"
+}

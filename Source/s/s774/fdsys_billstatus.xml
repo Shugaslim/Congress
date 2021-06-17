@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2019-03-13</introducedDate>
+    <billNumber>774</billNumber>
+    <actions>
+      <item>
+        <actionDate>2019-03-13</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1849</url>
+            <name>S1849</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1849)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-03-13</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s774is/xml/BILLS-116s774is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>1708</number>
+        <latestAction>
+          <text>Subcommittee Hearings Held.</text>
+          <actionDate>2019-04-02</actionDate>
+        </latestAction>
+        <latestTitle>Rim of the Valley Corridor Preservation Act</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>Rim of the Valley Corridor Preservation Act</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>FEINSTEIN</lastName>
+        <firstName>DIANNE</firstName>
+        <bioguideId>F000062</bioguideId>
+        <byRequestType />
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to adjust the boundary of the Santa Monica Mountains National Recreation Area to include the Rim of the Valley Corridor, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Rim of the Valley Corridor Preservation Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Rim of the Valley Corridor Preservation Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Rim of the Valley Corridor Preservation Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Harris</lastName>
+        <firstName>Kamala</firstName>
+        <state>CA</state>
+        <bioguideId>H001075</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-13T17:52:17Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-03-13</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1849)</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-03-14T04:42:07Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDate>2019-03-13</actionDate>
+          <lastSummaryUpdateDate>2019-04-10T16:46:39Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Rim of the Valley Corridor Preservation Act</b></p> <p>This bill adjusts the boundary of the Santa Monica Mountains National Recreation Area in California as depicted on a specified map to include the Rim of the Valley Unit. </p> <p>The Rim of the Valley Unit, and any lands or interests acquired by the United States and located within its boundaries, shall be administered as part of the recreation area. </p> <p>The Department of the Interior may acquire only through exchange, donation, or purchase from a willing seller any nonfederal land within the boundaries of the Rim of the Valley Unit. </p>]]></text>
+          <updateDate>2019-03-13T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-04-30T09:18:34Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

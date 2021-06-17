@@ -1,0 +1,72 @@
+<bill session="116" type="h" number="501" updated="2019-03-22T16:27:48Z">
+  <state datetime="2019-02-25T16:45:04-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-02-25T16:45:04-05:00"/>
+  </status>
+  <introduced datetime="2019-01-11"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Public Health Service Act to reauthorize and enhance the poison center national toll-free number, national media campaign, and grant program, and for other purposes.</title>
+    <title type="short" as="passed house">Poison Center Network Enhancement Act of 2019</title>
+    <title type="short" as="passed house">Poison Center Network Enhancement Act of 2019</title>
+    <title type="short" as="introduced">Poison Center Network Enhancement Act of 2019</title>
+    <title type="short" as="introduced">Poison Center Network Enhancement Act of 2019</title>
+    <title type="display">Poison Center Network Enhancement Act of 2019</title>
+  </titles>
+  <sponsor bioguide_id="E000179"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001284" joined="2019-01-11"/>
+    <cosponsor bioguide_id="D000197" joined="2019-01-11"/>
+    <cosponsor bioguide_id="H001056" joined="2019-01-11"/>
+    <cosponsor bioguide_id="T000479" joined="2019-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-01-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-01-11" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2019-01-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2019-02-25T16:38:32-05:00">
+      <text>Mr. Engel moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2019-02-25T16:39:13-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2052-2053" label="consideration"/>
+    </action>
+    <action datetime="2019-02-25T16:39:15-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 501.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2019-02-25T16:45:04-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2052-2053" label="text"/>
+    </vote>
+    <action datetime="2019-02-25T16:45:07-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-02-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Emergency communications systems"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

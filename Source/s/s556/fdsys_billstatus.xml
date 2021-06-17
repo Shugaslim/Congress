@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-26T16:35:18Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <sponsors>
+      <item>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <middleName>ERNEST</middleName>
+        <firstName>CHARLES</firstName>
+        <bioguideId>G000386</bioguideId>
+        <identifiers>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+        </identifiers>
+        <state>IA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-03-22T22:16:05Z</updateDate>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-26</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <lastName>Cotton</lastName>
+        <middleName />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <party>R</party>
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>C001095</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>CAPITO</lastName>
+        <middleName>MOORE</middleName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <party>R</party>
+        <state>WV</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHELLEY</firstName>
+        <identifiers>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>C001047</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Ernst</lastName>
+        <middleName />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <party>R</party>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joni</firstName>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>E000295</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Blackburn</lastName>
+        <middleName />
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <party>R</party>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marsha</firstName>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+          <lisID>1748</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>B001243</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>INHOFE</lastName>
+        <middleName />
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <party>R</party>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>JIM</firstName>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>I000024</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Lankford</lastName>
+        <middleName />
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <party>R</party>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>L000575</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Boozman</lastName>
+        <middleName />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <party>R</party>
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>B001236</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Perdue</lastName>
+        <middleName>Alfred</middleName>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <party>R</party>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>P000612</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>ENZI</lastName>
+        <middleName>B.</middleName>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <party>R</party>
+        <state>WY</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+          <lisID>1542</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>E000285</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Hyde-Smith</lastName>
+        <middleName />
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <party>R</party>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cindy</firstName>
+        <identifiers>
+          <bioguideId>H001079</bioguideId>
+          <gpoId />
+          <lisID>2366</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>H001079</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Lee</lastName>
+        <middleName />
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <party>R</party>
+        <state>UT</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <identifiers>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>L000577</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>WICKER</lastName>
+        <middleName>F.</middleName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <party>R</party>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROGER</firstName>
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>W000437</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <party>R</party>
+        <state>SD</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>T000250</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2019-02-26</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to expand the use of E-Verify, to hold employers accountable, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Accountability Through Electronic Verification Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Accountability Through Electronic Verification Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Accountability Through Electronic Verification Act</title>
+      </item>
+    </titles>
+    <laws />
+    <billNumber>556</billNumber>
+    <title>Accountability Through Electronic Verification Act</title>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>1399</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-02-27</actionDate>
+        </latestAction>
+        <latestTitle>Accountability Through Electronic Verification Act</latestTitle>
+      </item>
+    </relatedBills>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s556is/xml/BILLS-116s556is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-26T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2019-02-26</introducedDate>
+    <createDate>2019-02-27T05:25:07Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

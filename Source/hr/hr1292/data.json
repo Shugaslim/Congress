@@ -1,0 +1,142 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border Security, Facilitation, and Operations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1292-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border Security, Facilitation, and Operations", 
+      "subcommittee_id": "11"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000581", 
+      "district": "15", 
+      "name": "Gonzalez, Vicente", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-11", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-14", 
+  "number": "1292", 
+  "official_title": "To amend the Homeland Security Act of 2002 to require border community stakeholder consultation before the Secretary of Homeland Security may construct, install, deploy, operate, or maintain additional physical barriers, tactical infrastructure, or technology between ports of entry along the land border with Mexico, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Border Community Input in Border Security Act", 
+  "sponsor": {
+    "bioguide_id": "V000132", 
+    "district": "34", 
+    "name": "Vela, Filemon", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-14", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Community life and organization", 
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Homeland security", 
+    "Immigration", 
+    "Latin America", 
+    "Mexico", 
+    "Property rights"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to require border community stakeholder consultation before the Secretary of Homeland Security may construct, install, deploy, operate, or maintain additional physical barriers, tactical infrastructure, or technology between ports of entry along the land border with Mexico, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Border Community Input in Border Security Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Border Community Input in Border Security Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Border Community Input in Border Security Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-01T21:30:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1292.xml"
+}

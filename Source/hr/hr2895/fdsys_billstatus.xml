@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName>Scott</middleName>
+        <state>IL</state>
+        <bioguideId>S001190</bioguideId>
+        <lastName>Schneider</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2124</lisID>
+          <bioguideId>S001190</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <firstName>Bradley</firstName>
+        <district>10</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2019-05-23T07:12:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-22T14:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To provide incentives to physicians to practice in rural and medically underserved communities, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To provide incentives to physicians to practice in rural and medically underserved communities, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>To provide incentives to physicians to practice in rural and medically underserved communities, and for other purposes.</title>
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2019-05-22</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <district>2</district>
+        <party>R</party>
+        <firstName>Don</firstName>
+        <bioguideId>B001298</bioguideId>
+        <state>NE</state>
+        <lastName>Bacon</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Finkenauer, Abby [D-IA-1]</fullName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <district>1</district>
+        <party>D</party>
+        <firstName>Abby</firstName>
+        <bioguideId>F000467</bioguideId>
+        <state>IA</state>
+        <lastName>Finkenauer</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000467</bioguideId>
+          <lisID>2394</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <district>1</district>
+        <party>R</party>
+        <firstName>David</firstName>
+        <bioguideId>M001180</bioguideId>
+        <state>WV</state>
+        <lastName>McKinley</lastName>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <district>19</district>
+        <party>D</party>
+        <firstName>Antonio</firstName>
+        <bioguideId>D000630</bioguideId>
+        <state>NY</state>
+        <lastName>Delgado</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2428</lisID>
+          <gpoId />
+          <bioguideId>D000630</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-24T07:15:52Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-05-22</introducedDate>
+    <policyArea />
+    <committeeReports />
+    <textVersions />
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHNEIDER:H.R. 2895.Congress has the power to enact this legislation pursuantto the following:Article I, Sec. 8[Page H4120]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2895</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>S001215</bioguideId>
+        <firstName>Haley</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2409</lisID>
+          <bioguideId>S001215</bioguideId>
+        </identifiers>
+        <fullName>Rep. Stevens, Haley M. [D-MI-11]</fullName>
+        <state>MI</state>
+        <lastName>Stevens</lastName>
+        <district>11</district>
+        <middleName>M.</middleName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To explicitly make unauthorized access to Department of Education information technology systems and the misuse of identification devices issued by the Department of Education a criminal act.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To explicitly make unauthorized access to Department of Education information technology systems and the misuse of identification devices issued by the Department of Education a criminal act.</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001199</bioguideId>
+        <firstName>Lloyd</firstName>
+        <district>11</district>
+        <fullName>Rep. Smucker, Lloyd [R-PA-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Smucker</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001199</bioguideId>
+          <lisID>2346</lisID>
+        </identifiers>
+        <state>PA</state>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <notes />
+    <title>To explicitly make unauthorized access to Department of Education information technology systems and the misuse of identification devices issued by the Department of Education a criminal act.</title>
+    <committeeReports />
+    <version>1.0.0</version>
+    <introducedDate>2019-05-22</introducedDate>
+    <recordedVotes />
+    <policyArea />
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Referred to the House Committee on Education and Labor.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-23T07:31:14Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <createDate>2019-05-23T07:12:07Z</createDate>
+    <latestAction>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <actionDate>2019-05-22</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>2888</billNumber>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <date>2019-05-22T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions />
+    <relatedBills />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

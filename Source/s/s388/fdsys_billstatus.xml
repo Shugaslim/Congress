@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Families, Not Facilities Act of 2019</title>
+    <createDate>2019-02-08T05:55:25Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-02-07</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <introducedDate>2019-02-07</introducedDate>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-07T19:01:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>Harris</lastName>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <byRequestType />
+        <firstName>Kamala</firstName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <bioguideId>H001075</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billNumber>388</billNumber>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2019-02-07</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <updateDate>2019-05-22T07:28:30Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to reduce the ability of the U.S. Immigration and Customs Enforcement to engage in inappropriate civil immigration enforcement actions that harm unaccompanied alien children and to ensure the safety and welfare of unaccompanied alien children.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Families, Not Facilities Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Families, Not Facilities Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Families, Not Facilities Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>WYDEN</lastName>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000779</bioguideId>
+        <middleName />
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>FEINSTEIN</lastName>
+        <firstName>DIANNE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000062</bioguideId>
+        <middleName />
+        <state>CA</state>
+        <identifiers>
+          <gpoId>8338</gpoId>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Blumenthal</lastName>
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <state>CT</state>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Gillibrand</lastName>
+        <firstName>Kirsten</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000555</bioguideId>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Sanders</lastName>
+        <firstName>Bernard</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>I</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000033</bioguideId>
+        <middleName />
+        <state>VT</state>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>MARKEY</lastName>
+        <firstName>EDWARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000133</bioguideId>
+        <middleName>J.</middleName>
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+        </identifiers>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Cortez Masto</lastName>
+        <firstName>Catherine</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001113</bioguideId>
+        <middleName />
+        <state>NV</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001113</bioguideId>
+          <lisID>2299</lisID>
+        </identifiers>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Booker</lastName>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001288</bioguideId>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+          <lisID>2194</lisID>
+        </identifiers>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Merkley</lastName>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Klobuchar</lastName>
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <middleName />
+        <state>MN</state>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Bureau of Investigation (FBI)</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>2217</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Families, Not Facilities Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-05-20</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s388is/xml/BILLS-116s388is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

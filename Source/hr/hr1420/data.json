@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1420-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000378", 
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001180", 
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-11", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000469", 
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000800", 
+      "district": null, 
+      "name": "Welch, Peter", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "VT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-28", 
+  "number": "1420", 
+  "official_title": "To amend the Energy Independence and Security Act of 2007 to promote energy efficiency via information and computing technologies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Energy Efficient Government Technology Act", 
+  "sponsor": {
+    "bioguide_id": "E000215", 
+    "district": "18", 
+    "name": "Eshoo, Anna G.", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-28", 
+  "subjects": [
+    "Computers and information technology", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Environmental technology", 
+    "Government buildings, facilities, and property", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "Telephone and wireless communication", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Energy Independence and Security Act of 2007 to promote energy efficiency via information and computing technologies, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Energy Efficient Government Technology Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Energy Efficient Government Technology Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Energy Efficient Government Technology Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-19T19:45:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1420.xml"
+}

@@ -1,0 +1,165 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 26 - 20.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2574-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000370", 
+      "district": "12", 
+      "name": "Adams, Alma S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000002", 
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001177", 
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "MP", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-08", 
+  "number": "2574", 
+  "official_title": "To amend title VI of the Civil Rights Act of 1964 to restore the right to individual civil actions in cases involving disparate impact, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Equity and Inclusion Enforcement Act", 
+  "sponsor": {
+    "bioguide_id": "S000185", 
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-16", 
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ], 
+  "subjects_top_term": "Civil rights and liberties, minority issues", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title VI of the Civil Rights Act of 1964 to restore the right to individual civil actions in cases involving disparate impact, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Equity and Inclusion Enforcement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Equity and Inclusion Enforcement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Equity and Inclusion Enforcement Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T07:13:43Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2574.xml"
+}

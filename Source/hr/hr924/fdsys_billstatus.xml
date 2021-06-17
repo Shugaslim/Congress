@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-30T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-30T14:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2019-01-30</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <number>277</number>
+        <latestTitle>Fred Korematsu Congressional Gold Medal Act of 2019</latestTitle>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <createDate>2019-01-31T08:10:19Z</createDate>
+    <billNumber>924</billNumber>
+    <billType>HR</billType>
+    <title>Fred Korematsu Congressional Gold Medal Act of 2019</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-30</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-30</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-30</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-30</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>T000472</bioguideId>
+        <state>CA</state>
+        <district>41</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+        <lastName>Takano</lastName>
+        <party>D</party>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-01-30</introducedDate>
+    <cosponsors>
+      <item>
+        <district>0</district>
+        <middleName>Kilili Camacho</middleName>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Sablan</lastName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <bioguideId>S001177</bioguideId>
+        <firstName>Gregorio</firstName>
+        <identifiers>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+        <state>MP</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <middleName>K.</middleName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>F000466</bioguideId>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>18</district>
+        <middleName>G.</middleName>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>ESHOO</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>E000215</bioguideId>
+        <firstName>ANNA</firstName>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>MCCOLLUM</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>M001143</bioguideId>
+        <firstName>BETTY</firstName>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>7</district>
+        <middleName />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Gallego</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>G000574</bioguideId>
+        <firstName>Ruben</firstName>
+        <identifiers>
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>17</district>
+        <middleName />
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Khanna</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>K000389</bioguideId>
+        <firstName>Ro</firstName>
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To award posthumously a Congressional Gold Medal to Fred Korematsu, in recognition of his contributions to civil rights, his loyalty and patriotism to the Nation, and his dedication to justice and equality.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fred Korematsu Congressional Gold Medal Act of 2019</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fred Korematsu Congressional Gold Medal Act of 2019</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fred Korematsu Congressional Gold Medal Act of 2019</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr924ih/xml/BILLS-116hr924ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-30T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Fred Korematsu Congressional Gold Medal Act of 2019</b></p> <p>This bill requires the President pro tempore of the Senate and the Speaker of the House of Representatives to make arrangements for the posthumous award of a Congressional Gold Medal to Fred Korematsu, in recognition of his contributions to civil rights, his loyalty and patriotism to the United States, and his dedication to justice and equality. The medal shall be given to the Smithsonian Institution and will be available for display and research, and can be loaned, as appropriate, for display elsewhere.</p>]]></text>
+          <updateDate>2019-01-30T05:00:00Z</updateDate>
+          <actionDate>2019-01-30</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-02-19T18:34:09Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Due process and equal protection</name>
+          </item>
+          <item>
+            <name>Japan</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Smithsonian Institution</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-23T07:15:41Z</updateDate>
+    <latestAction>
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+      <actionDate>2019-01-30</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

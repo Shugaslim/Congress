@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2019-01-08</actionDate>
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 4.</text>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+    <createDate>2019-01-05T05:40:15Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-08</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 4.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-01-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S27</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S27</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (text: CR S27)</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-01-04</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <relatedBills>
+      <item>
+        <number>1</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-06</actionDate>
+          <text>Held at the desk.</text>
+          <actionTime>15:27:50</actionTime>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>Strengthening America's Security in the Middle East Act of 2019</latestTitle>
+      </item>
+      <item>
+        <number>336</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-12</actionDate>
+          <text>Referred to the Subcommittee on Space and Aeronautics.</text>
+        </latestAction>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestTitle>Strengthening America's Security in the Middle East Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <billNumber>28</billNumber>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <type>Placed on Calendar Senate</type>
+        <date>2019-01-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s28pcs/xml/BILLS-116s28pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees />
+    </committees>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number />
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0004</number>
+      </item>
+    </calendarNumbers>
+    <committeeReports />
+    <cboCostEstimates />
+    <amendments />
+    <title>United States-Jordan Defense Cooperation Extension Act</title>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <middleName />
+        <byRequestType />
+        <state>KY</state>
+        <firstName>MITCH</firstName>
+        <identifiers>
+          <bioguideId>M000355</bioguideId>
+          <lisID>1395</lisID>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <party>R</party>
+        <lastName>MCCONNELL</lastName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>United States-Jordan Defense Cooperation Extension Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to reauthorize the United States-Jordan Defense Cooperation Act of 2015, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>United States-Jordan Defense Cooperation Extension Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-01-16T17:05:22Z</lastSummaryUpdateDate>
+          <actionDate>2019-01-04</actionDate>
+          <text><![CDATA[<p><b>United States-Jordan Defense Cooperation Extension Act</b></p> <p>The bill extends through 2022 arrangements that allow certain defense articles to be transferred to Jordan on an expedited basis. The bill also directs the President to submit a report to Congress assessing the costs and benefits of establishing a fund to support private investment in Jordan.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2019-01-04T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-02-27T14:27:06Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Jordan</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-01-04</introducedDate>
+    <cosponsors />
+    <notes />
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

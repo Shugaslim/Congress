@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-16T19:33:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <createDate>2019-05-17T04:42:08Z</createDate>
+    <billNumber>1520</billNumber>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to reauthorize the National Flood Insurance Program.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to reauthorize the National Flood Insurance Program.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <recordedVotes />
+    <actions>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-16</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <policyArea />
+    <committeeReports />
+    <cboCostEstimates />
+    <title>A bill to reauthorize the National Flood Insurance Program.</title>
+    <sponsors>
+      <item>
+        <bioguideId>K000393</bioguideId>
+        <state>LA</state>
+        <middleName>Neely</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <lastName>Kennedy</lastName>
+        <party>R</party>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000639</bioguideId>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <middleName />
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001075</bioguideId>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001096</bioguideId>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws />
+    <introducedDate>2019-05-16</introducedDate>
+    <textVersions />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-24T06:27:02Z</updateDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2019-05-16</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

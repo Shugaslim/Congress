@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-02-14T15:09:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <lastName>DAVIS</lastName>
+        <bioguideId>D000096</bioguideId>
+        <byRequestType />
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <middleName>K.</middleName>
+        <district>7</district>
+        <firstName>DANNY</firstName>
+        <identifiers>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2019-02-14</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DANNY K. DAVIS of Illinois:H.R. 1260.Congress has the power to enact this legislation pursuantto the following:Article I of the Constitution and its subsequent amendmentsand further clarified and interpreted by the Supreme Court ofthe United States.[Page H2034]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Charitable contributions</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to extend the charitable deduction to all taxpayers regardless of whether a taxpayer itemizes deductions in order to encourage and increase charitable giving.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to extend the charitable deduction to all taxpayers regardless of whether a taxpayer itemizes deductions in order to encourage and increase charitable giving.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <firstName>Ilhan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2414</lisID>
+          <bioguideId>O000173</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <lastName>Omar</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <bioguideId>O000173</bioguideId>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <relatedBills />
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2019-02-14</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2019-02-14</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2019-02-14</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <notes />
+    <createDate>2019-02-15T08:10:16Z</createDate>
+    <laws />
+    <billNumber>1260</billNumber>
+    <title>To amend the Internal Revenue Code of 1986 to extend the charitable deduction to all taxpayers regardless of whether a taxpayer itemizes deductions in order to encourage and increase charitable giving.</title>
+    <amendments />
+    <updateDate>2019-03-29T07:15:58Z</updateDate>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1260ih/xml/BILLS-116hr1260ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-02-14</introducedDate>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2718-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001064", 
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-14", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-14", 
+  "number": "2718", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to include green infrastructure bonds in the definition of qualified private activity bonds.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "P3 Act", 
+  "sponsor": {
+    "bioguide_id": "K000381", 
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-14", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to include green infrastructure bonds in the definition of qualified private activity bonds.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "P3 Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "P3 Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preventing Pollution through Partnerships Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preventing Pollution through Partnerships Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "P3 Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T15:45:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2718.xml"
+}

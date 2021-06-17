@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <date>2019-03-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s817is/xml/BILLS-116s817is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to remove silencers from the definition of firearms, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Hearing Protection Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Hearing Protection Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Hearing Protection Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <updateDate>2019-04-10T04:48:49Z</updateDate>
+    <calendarNumbers />
+    <congress>116</congress>
+    <billNumber>817</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>State and local taxation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cornyn</lastName>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>C001056</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cassidy</lastName>
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>C001075</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>LA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Risch</lastName>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>R000584</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>ID</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Boozman</lastName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>B001236</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rounds</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>R000605</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>SD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hyde-Smith</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2366</lisID>
+          <bioguideId>H001079</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>H001079</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>MS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cindy</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fischer</lastName>
+        <identifiers>
+          <lisID>2179</lisID>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>F000463</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>NE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Deb</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moran</lastName>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>M000934</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>KS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jerry</firstName>
+      </item>
+      <item>
+        <middleName>Roland</middleName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tillis</lastName>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <bioguideId>T000476</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sullivan</lastName>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <bioguideId>S001198</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>AK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Dan</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ernst</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>E000295</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joni</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>INHOFE</lastName>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>I000024</bioguideId>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JIM</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>ROBERTS</lastName>
+        <identifiers>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>R000307</bioguideId>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <state>KS</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>PAT</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lankford</lastName>
+        <identifiers>
+          <lisID>2050</lisID>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>L000575</bioguideId>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <state>OK</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <middleName>Neely</middleName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kennedy</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000393</bioguideId>
+          <lisID>2303</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>K000393</bioguideId>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <state>LA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-14T17:29:38Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <title>Hearing Protection Act</title>
+    <latestAction>
+      <actionDate>2019-03-14</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <createDate>2019-03-15T04:42:08Z</createDate>
+    <laws />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <lastName>CRAPO</lastName>
+        <bioguideId>C000880</bioguideId>
+        <state>ID</state>
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <byRequestType />
+        <middleName>D.</middleName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>155</number>
+        <latestTitle>Hearing Protection Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <introducedDate>2019-03-14</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

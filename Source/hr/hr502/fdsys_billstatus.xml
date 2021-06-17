@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-01-12T08:10:15Z</createDate>
+    <introducedDate>2019-01-11</introducedDate>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-01-29T05:00:00Z</date>
+        <type>Referred in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr502rfs/xml/BILLS-116hr502rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-01-28T05:00:00Z</date>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr502eh/xml/BILLS-116hr502eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-01-11T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr502ih/xml/BILLS-116hr502ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-29T15:43:25Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-11T14:04:35Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-11T14:04:30Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Currency</name>
+          </item>
+          <item>
+            <name>Digital media</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <bioguideId>W000812</bioguideId>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <lastName>Wagner</lastName>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <bioguideId>F000466</bioguideId>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <district>1</district>
+        <middleName>K.</middleName>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <firstName>Cynthia</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IA</state>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <bioguideId>A000378</bioguideId>
+        <identifiers>
+          <bioguideId>A000378</bioguideId>
+          <gpoId />
+          <lisID>2395</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>3</district>
+        <middleName />
+        <lastName>Axne</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Juan</firstName>
+        <byRequestType />
+        <middleName />
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <lastName>Vargas</lastName>
+        <district>51</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <bioguideId>V000130</bioguideId>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-01-29</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <considerationByHouse>2</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <actionDate>2019-01-28</actionDate>
+        <actionCode>H38310</actionCode>
+        <actionTime>19:07:08</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 53). (text: CR H1223-1224)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H1223-1224</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1223-1224</url>
+          </link>
+          <link>
+            <name>Roll no. 53</name>
+            <url>http://clerk.house.gov/evs/2019/roll053.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2019-01-28</actionDate>
+        <actionCode>H37300</actionCode>
+        <actionTime>19:07:07</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 53).(text: CR H1223-1224)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>Roll no. 53</name>
+            <url>http://clerk.house.gov/evs/2019/roll053.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2019-01-28</actionDate>
+        <actionCode>8000</actionCode>
+        <actionTime>19:07:07</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered as unfinished business. (consideration: CR H1232-1233)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H1232-1233</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1232-1233</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2019-01-28</actionDate>
+        <actionCode>H30000</actionCode>
+        <actionTime>18:58:55</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <actionDate>2019-01-28</actionDate>
+        <actionCode>H37220</actionCode>
+        <actionTime>17:42:12</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 502.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 502</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/502</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2019-01-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <actionTime>17:12:24</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H1223-1227)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H1223-1227</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1223-1227</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2019-01-28</actionDate>
+        <actionCode>H30000</actionCode>
+        <actionTime>17:12:23</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Ms. Waters moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <actionDate>2019-01-28</actionDate>
+        <actionCode>H30300</actionCode>
+        <actionTime>17:12:12</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2019-01-11</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2019-01-11</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-01-23T19:08:34Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Fight Illicit Networks and Detect Trafficking Act or the FIND Trafficking Act </b></p> <p>This bill directs the Government Accountability Office (GAO) to report on the use of virtual currencies and online marketplaces in sex and drug trafficking. The GAO must study topics including </p> <ul> <li>how illicit proceeds are transferred into the U.S. banking system, </li> <li>state and non-state actors that participate in such activity, </li> <li>preventative efforts from federal and state agencies, and</li> <li>the extent to which the unique characteristics of virtual currencies can contribute to the tracking and prosecution of illicit funding. </li> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-11</actionDate>
+          <updateDate>2019-01-11T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2019-02-05T13:40:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Fight Illicit Networks and Detect Trafficking Act or the FIND Trafficking Act </b></p> <p>This bill directs the Government Accountability Office (GAO) to report on the use of virtual currencies and online marketplaces in sex and drug trafficking. The GAO must study topics including </p> <ul> <li>how illicit proceeds are transferred into the U.S. banking system, </li> <li>state and non-state actors that participate in such activity, </li> <li>preventative efforts from federal and state agencies, and</li> <li>the extent to which the unique characteristics of virtual currencies can contribute to the tracking and prosecution of illicit funding. </li> </ul>]]></text>
+          <versionCode>53</versionCode>
+          <actionDate>2019-01-28</actionDate>
+          <updateDate>2019-01-28T14:42:29Z</updateDate>
+          <name>Passed House</name>
+          <actionDesc>Passed House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. VARGAS:H.R. 502.Congress has the power to enact this legislation pursuantto the following:(1) To regulate commerce with foreign nations, and amongthe several states, and with the Indian tribes, as enumeratedin Article 1, Section 8, Clause 3 of the U.S. Constitution;(2) To coin Money, regulate the Value thereof, and offoreign Coin, and fix the Standard of Weights and Measures,as enumerated in Article 1, Section 8, Clause 5 of the U.S.Constitution; and(3) To make all laws necessary and proper for executingpowers vested by the Constitution in the Government of theUnited States, as enumerated in Article I, Section 8, Clause18 of the United States Constitution.[Page H519]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <titles>
+      <item>
+        <title>To require the Comptroller General of the United States to carry out a study on how virtual currencies and online marketplaces are used to buy, sell, or facilitate the financing of goods or services associated with sex trafficking or drug trafficking, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>FIND Trafficking Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Fight Illicit Networks and Detect Trafficking Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>FIND Trafficking Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <title>Fight Illicit Networks and Detect Trafficking Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <title>FIND Trafficking Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>FIND Trafficking Act</title>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <title>Fight Illicit Networks and Detect Trafficking Act</title>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <title>FIND Trafficking Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Fight Illicit Networks and Detect Trafficking Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes>
+      <recordedVote>
+        <date>2019-01-29T00:07:07Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <congress>116</congress>
+        <rollNumber>53</rollNumber>
+        <url>http://clerk.house.gov/evs/2019/roll053.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <committeeReports />
+    <title>FIND Trafficking Act</title>
+    <congress>116</congress>
+    <updateDate>2019-04-04T22:17:51Z</updateDate>
+    <billNumber>502</billNumber>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2019-02-07</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>FIND Trafficking Act</latestTitle>
+        <number>410</number>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr340-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-08", 
+  "number": "340", 
+  "official_title": "To authorize the conveyance of and remove the reversionary interest of the United States in certain lands in the City of Tulare, California.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Tulare Youth Recreation and Women's History Enhancement Act", 
+  "sponsor": {
+    "bioguide_id": "N000181", 
+    "district": "22", 
+    "name": "Nunes, Devin", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-08", 
+  "subjects": [
+    "California", 
+    "Historic sites and heritage areas", 
+    "Land transfers", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Railroads"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tulare Youth Recreation and Women's History Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tulare Youth Recreation and Women\u2019s History Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the conveyance of and remove the reversionary interest of the United States in certain lands in the City of Tulare, California.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Tulare Youth Recreation and Women's History Enhancement Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-13T17:31:43Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr340.xml"
+}

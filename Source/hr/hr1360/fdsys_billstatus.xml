@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <billNumber>1360</billNumber>
+    <amendments />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2019-03-14</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-02-26T15:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-14T20:26:10Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <bioguideId>B001295</bioguideId>
+        <party>R</party>
+        <district>12</district>
+        <state>IL</state>
+        <lastName>Bost</lastName>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <introducedDate>2019-02-26</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-02-27T08:10:14Z</createDate>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BOST:H.R. 1360.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1.[Page H2234]</pre>]]></constitutionalAuthorityStatementText>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-02-26</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2105</url>
+            <name>H2105</name>
+          </link>
+        </links>
+        <actionDate>2019-02-26</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H2105)</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-02-26</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-02-26</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <updateDate>2019-05-15T07:15:47Z</updateDate>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <identifiers>
+          <gpoId>7825</gpoId>
+          <lisID>1774</lisID>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>C001059</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <party>R</party>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>D000619</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Rodney</firstName>
+        <lastName>Davis</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+        </identifiers>
+        <district>15</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>S001193</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Eric</firstName>
+        <lastName>Swalwell</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <party>R</party>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001301</bioguideId>
+          <lisID>2333</lisID>
+        </identifiers>
+        <district>1</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>B001301</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jack</firstName>
+        <lastName>Bergman</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <party>D</party>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>D000624</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Debbie</firstName>
+        <lastName>Dingell</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+        <party>R</party>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <identifiers>
+          <lisID>2032</lisID>
+          <bioguideId>H001053</bioguideId>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <district>4</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>H001053</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Vicky</firstName>
+        <lastName>Hartzler</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <party>D</party>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <identifiers>
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>O000171</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <lastName>O'Halleran</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <party>D</party>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+          <lisID>2341</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>S001201</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>HI</state>
+        <party>D</party>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>G000571</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tulsi</firstName>
+        <lastName>Gabbard</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PR</state>
+        <party>R</party>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000582</bioguideId>
+          <lisID>2347</lisID>
+        </identifiers>
+        <district>0</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>G000582</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <party>D</party>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>TIM</firstName>
+        <lastName>RYAN</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <identifiers>
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>47</district>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>L000579</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Alan</firstName>
+        <lastName>Lowenthal</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <party>D</party>
+        <fullName>Rep. Evans, Dwight [D-PA-3]</fullName>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>E000296</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dwight</firstName>
+        <lastName>Evans</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VT</state>
+        <party>D</party>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <district>0</district>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>W000800</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Peter</firstName>
+        <lastName>Welch</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AL</state>
+        <party>D</party>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <identifiers>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>S001185</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Terri</firstName>
+        <lastName>Sewell</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VA</state>
+        <party>D</party>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2352</lisID>
+          <bioguideId>M001200</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <middleName>Donald</middleName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>M001200</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>A.</firstName>
+        <lastName>McEachin</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <party>D</party>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <identifiers>
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>K000380</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <lastName>Kildee</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <party>R</party>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2151</lisID>
+          <bioguideId>C001092</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <middleName />
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <bioguideId>C001092</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chris</firstName>
+        <lastName>Collins</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <party>R</party>
+        <fullName>Rep. Riggleman, Denver [R-VA-5]</fullName>
+        <identifiers>
+          <bioguideId>R000611</bioguideId>
+          <lisID>2454</lisID>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <middleName />
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <bioguideId>R000611</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Denver</firstName>
+        <lastName>Riggleman</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <party>R</party>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001212</bioguideId>
+          <lisID>2415</lisID>
+        </identifiers>
+        <district>8</district>
+        <middleName />
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <bioguideId>S001212</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pete</firstName>
+        <lastName>Stauber</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IA</state>
+        <party>R</party>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>K000362</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <lastName>King</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <party>R</party>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+        </identifiers>
+        <district>6</district>
+        <middleName />
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <bioguideId>G000576</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Glenn</firstName>
+        <lastName>Grothman</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <party>D</party>
+        <fullName>Rep. Lamb, Conor [D-PA-17]</fullName>
+        <identifiers>
+          <lisID>2367</lisID>
+          <bioguideId>L000588</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <middleName />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <bioguideId>L000588</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Conor</firstName>
+        <lastName>Lamb</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+        <party>R</party>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+        </identifiers>
+        <district>11</district>
+        <middleName />
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <bioguideId>M001187</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <lastName>Meadows</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <party>D</party>
+        <fullName>Rep. Sherrill, Mikie [D-NJ-11]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2422</lisID>
+          <bioguideId>S001207</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <middleName />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <bioguideId>S001207</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mikie</firstName>
+        <lastName>Sherrill</lastName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To direct the Secretary of Veterans Affairs to develop and implement a plan to hire directors of the medical centers of the Department of Veterans Affairs.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>VA Health Center Management Stability and Improvement Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>VA Health Center Management Stability and Improvement Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>VA Health Center Management Stability and Improvement Act</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <date>2019-02-26T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1360ih/xml/BILLS-116hr1360ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <laws />
+    <title>VA Health Center Management Stability and Improvement Act</title>
+    <recordedVotes />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

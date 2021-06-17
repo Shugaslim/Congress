@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-10T13:12:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <createDate>2019-04-11T07:12:10Z</createDate>
+    <billNumber>2244</billNumber>
+    <billType>HR</billType>
+    <title>Higher Education Transparency Act of 2019</title>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <district>4</district>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-04-10</introducedDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>AL</state>
+        <firstName>Mo</firstName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <bioguideId>B001274</bioguideId>
+        <middleName />
+        <lastName>Brooks</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Riggleman, Denver [R-VA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>VA</state>
+        <firstName>Denver</firstName>
+        <district>5</district>
+        <identifiers>
+          <lisID>2454</lisID>
+          <gpoId />
+          <bioguideId>R000611</bioguideId>
+        </identifiers>
+        <bioguideId>R000611</bioguideId>
+        <middleName />
+        <lastName>Riggleman</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>FL</state>
+        <firstName>W.</firstName>
+        <district>17</district>
+        <identifiers>
+          <lisID>2389</lisID>
+          <bioguideId>S001214</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001214</bioguideId>
+        <middleName>Gregory</middleName>
+        <lastName>Steube</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <state>IA</state>
+        <firstName>Steve</firstName>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <bioguideId>K000362</bioguideId>
+        <middleName />
+        <lastName>King</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOSAR:H.R. 2244.Congress has the power to enact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation is provided by Article I, section 8 of the UnitedStates Constitution, specifically clause 18 (relating to thepower to make all laws necessary and proper for carrying outthe powers vested in Congress).[Page H3258]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Higher Education Act of 1965 to require the disclosure of agreements between institutions of higher education and certain foreign sources, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Higher Education Transparency Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Higher Education Transparency Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Higher Education Transparency Act of 2019</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2244ih/xml/BILLS-116hr2244ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-04-10T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Area studies and international education</name>
+          </item>
+          <item>
+            <name>Foreign language and bilingual programs</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-24T20:30:06Z</updateDate>
+    <latestAction>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+      <actionDate>2019-04-10</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

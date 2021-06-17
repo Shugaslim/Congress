@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>MOMMA's Act</title>
+    <calendarNumbers />
+    <billType>S</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2019-05-23T09:18:42Z</updateDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance. (text: CR S2050-2054)</text>
+      <links />
+      <actionDate>2019-03-27</actionDate>
+    </latestAction>
+    <billNumber>916</billNumber>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <createDate>2019-03-28T04:42:09Z</createDate>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2050-2054</url>
+            <name>S2050-2054</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (text: CR S2050-2054)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-03-27</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to improve Federal efforts with respect to the prevention of maternal mortality, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Mothers and Offspring Mortality and Morbidity Awareness Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>MOMMA's Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>MOMMA's Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Mothers and Offspring Mortality and Morbidity Awareness Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>MOMMA’s Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-27T21:27:58Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <lastName>DURBIN</lastName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <middleName>J.</middleName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s916is/xml/BILLS-116s916is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-03-27</actionDate>
+        </latestAction>
+        <latestTitle>MOMMA's Act</latestTitle>
+        <type>HR</type>
+        <congress>116</congress>
+        <number>1897</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <lastName>Duckworth</lastName>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <middleName />
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>D</party>
+        <firstName>Tammy</firstName>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <middleName />
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Van Hollen</lastName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <middleName />
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>D</party>
+        <firstName>Chris</firstName>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Merkley</lastName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <middleName />
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Brown</lastName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>D</party>
+        <firstName>Sherrod</firstName>
+        <bioguideId>B000944</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Sanders</lastName>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <middleName />
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>I</party>
+        <firstName>Bernard</firstName>
+        <bioguideId>S000033</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Smith</lastName>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <middleName />
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>D</party>
+        <firstName>Tina</firstName>
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>King</lastName>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <middleName />
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>I</party>
+        <firstName>Angus</firstName>
+        <bioguideId>K000383</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>MARKEY</lastName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <middleName>J.</middleName>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>D</party>
+        <firstName>EDWARD</firstName>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Klobuchar</lastName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Warren</lastName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <party>D</party>
+        <firstName>Elizabeth</firstName>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Shaheen</lastName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <middleName />
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <party>D</party>
+        <firstName>Jeanne</firstName>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Hirono</lastName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <middleName>K.</middleName>
+        <state>HI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <party>D</party>
+        <firstName>Mazie</firstName>
+        <bioguideId>H001042</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>STABENOW</lastName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <introducedDate>2019-03-27</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Dental care</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Surgery and anesthesia</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

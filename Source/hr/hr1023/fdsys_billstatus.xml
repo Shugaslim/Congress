@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <laws />
+    <cboCostEstimates />
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1023ih/xml/BILLS-116hr1023ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-06T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <amendments />
+    <introducedDate>2019-02-06</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-05-08T16:37:19Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-26T18:03:29Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii13</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-06T15:02:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-05-15T07:15:40Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <prayer>1</prayer>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-08</actionDate>
+        <committee>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <committee>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <actionDate>2019-05-08</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>446</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Great Lakes Fishery Research Authorization Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-02-12</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>UPTON</lastName>
+        <middleName />
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <district>6</district>
+        <bioguideId>U000031</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7991</gpoId>
+          <lisID>1177</lisID>
+          <bioguideId>U000031</bioguideId>
+        </identifiers>
+        <firstName>FRED</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Dingell</lastName>
+        <middleName />
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <district>12</district>
+        <bioguideId>D000624</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <firstName>Debbie</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Higgins</lastName>
+        <middleName />
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <district>26</district>
+        <bioguideId>H001038</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <middleName>D.</middleName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <district>9</district>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <firstName>JANICE</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kildee</lastName>
+        <middleName>T.</middleName>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <district>5</district>
+        <bioguideId>K000380</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Daniel</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Huizenga</lastName>
+        <middleName />
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <district>2</district>
+        <bioguideId>H001058</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2028</lisID>
+          <bioguideId>H001058</bioguideId>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Joyce</lastName>
+        <middleName>P.</middleName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <district>14</district>
+        <bioguideId>J000295</bioguideId>
+        <state>OH</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2154</lisID>
+          <bioguideId>J000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mitchell</lastName>
+        <middleName />
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <district>10</district>
+        <bioguideId>M001201</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001201</bioguideId>
+          <lisID>2334</lisID>
+        </identifiers>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Collins</lastName>
+        <middleName />
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <district>27</district>
+        <bioguideId>C001092</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2151</lisID>
+          <bioguideId>C001092</bioguideId>
+        </identifiers>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bergman</lastName>
+        <middleName />
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <district>1</district>
+        <bioguideId>B001301</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001301</bioguideId>
+          <lisID>2333</lisID>
+        </identifiers>
+        <firstName>Jack</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Stauber</lastName>
+        <middleName />
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <district>8</district>
+        <bioguideId>S001212</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001212</bioguideId>
+          <lisID>2415</lisID>
+        </identifiers>
+        <firstName>Pete</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Slotkin</lastName>
+        <middleName />
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <district>8</district>
+        <bioguideId>S001208</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2407</lisID>
+          <bioguideId>S001208</bioguideId>
+        </identifiers>
+        <firstName>Elissa</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gonzalez</lastName>
+        <middleName />
+        <fullName>Rep. Gonzalez, Anthony [R-OH-16]</fullName>
+        <district>16</district>
+        <bioguideId>G000588</bioguideId>
+        <state>OH</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2430</lisID>
+          <bioguideId>G000588</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Anthony</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kelly</lastName>
+        <middleName />
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <district>16</district>
+        <bioguideId>K000376</bioguideId>
+        <state>PA</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moolenaar</lastName>
+        <middleName>R.</middleName>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <district>4</district>
+        <bioguideId>M001194</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-22</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2248</lisID>
+          <bioguideId>M001194</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>VISCLOSKY</lastName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Visclosky, Peter J. [D-IN-1]</fullName>
+        <district>1</district>
+        <bioguideId>V000108</bioguideId>
+        <state>IN</state>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>1188</lisID>
+          <bioguideId>V000108</bioguideId>
+          <gpoId>7940</gpoId>
+        </identifiers>
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>KIND</lastName>
+        <middleName />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <district>3</district>
+        <bioguideId>K000188</bioguideId>
+        <state>WI</state>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <firstName>RON</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>KAPTUR</lastName>
+        <middleName />
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <district>9</district>
+        <bioguideId>K000009</bioguideId>
+        <state>OH</state>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+        </identifiers>
+        <firstName>MARCY</firstName>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <createDate>2019-02-07T08:10:17Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Canada</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Great Lakes</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Science, Technology, Communications</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1023</billNumber>
+    <recordedVotes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. QUIGLEY:H.R. 1023.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the U.S. Constitution[Page H1393]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Great Lakes Fishery Research Authorization Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To authorize the Director of the United States Geological Survey to conduct monitoring, assessment, science, and research, in support of the binational fisheries within the Great Lakes Basin, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Great Lakes Fishery Research Authorization Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Great Lakes Fishery Research Authorization Act of 2019</title>
+      </item>
+    </titles>
+    <title>Great Lakes Fishery Research Authorization Act of 2019</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Quigley</lastName>
+        <bioguideId>Q000023</bioguideId>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <gpoId>7925</gpoId>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <state>IL</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

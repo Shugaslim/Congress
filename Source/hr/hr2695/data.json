@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2695-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "N000181", 
+      "district": "22", 
+      "name": "Nunes, Devin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-14", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-14", 
+  "number": "2695", 
+  "official_title": "To rename the Success Dam in Tulare County, California, as the Richard L. Schafer Dam.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M001165", 
+    "district": "23", 
+    "name": "McCarthy, Kevin", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-14", 
+  "subjects": [
+    "Water resources development"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-05-14T04:00:00Z", 
+    "text": "This bill designates the Success Dam in Tulare County, California, as the \"Richard L. Schafer Dam.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To rename the Success Dam in Tulare County, California, as the Richard L. Schafer Dam.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To rename the Success Dam in Tulare County, California, as the Richard L. Schafer Dam.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T22:30:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2695.xml"
+}

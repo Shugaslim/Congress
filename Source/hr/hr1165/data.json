@@ -1,0 +1,153 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1165-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001117", 
+      "district": "6", 
+      "name": "Casten, Sean", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-13", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000563", 
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-13", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001190", 
+      "district": "10", 
+      "name": "Schneider, Bradley Scott", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-13", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-13", 
+  "number": "1165", 
+  "official_title": "To modernize the National Air Toxics Assessment, the Integrated Risk Information System, and the Agency for Toxic Substances and Disease Registry, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s451-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "ETO is Toxic Act", 
+  "sponsor": {
+    "bioguide_id": "F000454", 
+    "district": "11", 
+    "name": "Foster, Bill", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-13", 
+  "subjects": [
+    "Air quality", 
+    "Congressional oversight", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Hazardous wastes and toxic substances", 
+    "Intergovernmental relations"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To modernize the National Air Toxics Assessment, the Integrated Risk Information System, and the Agency for Toxic Substances and Disease Registry, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ETO is Toxic Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ETO is Toxic Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Transparency of Information and Safeguarding Toxics Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Transparency of Information and Safeguarding Toxics Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "ETO is Toxic Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-25T18:45:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1165.xml"
+}

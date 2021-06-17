@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-11", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-11", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "", 
+      "committee": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s434-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on Public Lands, Forests, and Mining", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001061", 
+      "district": null, 
+      "name": "Hoeven, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "ND", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-11", 
+  "number": "434", 
+  "official_title": "A bill to provide for a report on the maintenance of Federal land holdings under the jurisdiction of the Secretary of the Interior.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001310", 
+    "district": null, 
+    "name": "Braun, Mike", 
+    "state": "IN", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-11", 
+  "subjects": [
+    "Congressional oversight", 
+    "Land use and conservation", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for a report on the maintenance of Federal land holdings under the jurisdiction of the Secretary of the Interior.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to provide for a report on the maintenance of Federal land holdings under the jurisdiction of the Secretary of the Interior.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-15T04:57:25Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s434.xml"
+}

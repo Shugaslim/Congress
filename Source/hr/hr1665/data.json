@@ -1,0 +1,169 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Subcommittee on Research and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1665-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Research and Technology", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001307", 
+      "district": "4", 
+      "name": "Baird, James R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000582", 
+      "district": null, 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-11", 
+  "number": "1665", 
+  "official_title": "To direct the National Science Foundation to support STEM education research focused on early childhood.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s737-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Building Blocks of STEM Act", 
+  "sponsor": {
+    "bioguide_id": "S001215", 
+    "district": "11", 
+    "name": "Stevens, Haley M.", 
+    "state": "MI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-11", 
+  "subjects": [
+    "Education programs funding", 
+    "Educational technology and distance education", 
+    "Elementary and secondary education", 
+    "Preschool education", 
+    "Research administration and funding", 
+    "Science and engineering education", 
+    "Science, technology, communications", 
+    "Teaching, teachers, curricula", 
+    "Women's education"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the National Science Foundation to support STEM education research focused on early childhood.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Building Blocks of STEM Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Building Blocks of STEM Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Building Blocks of STEM Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:15:51Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1665.xml"
+}

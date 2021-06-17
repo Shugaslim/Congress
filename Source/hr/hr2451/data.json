@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2451-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000559", 
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "RI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-01", 
+  "number": "2451", 
+  "official_title": "To designate the facility of the United States Postal Service located at 575 Dexter Street in Central Falls, Rhode Island, as the \"Elizabeth Buffum Chace Post Office\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1272-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C001084", 
+    "district": "1", 
+    "name": "Cicilline, David N.", 
+    "state": "RI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-01", 
+  "subjects": [
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Postal service", 
+    "Rhode Island"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-05-01T04:00:00Z", 
+    "text": "Designates the facility of the United States Postal Service located at 575 Dexter Street in Central Falls, Rhode Island, as the \"Elizabeth Buffum Chace Post Office.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 575 Dexter Street in Central Falls, Rhode Island, as the \"Elizabeth Buffum Chace Post Office\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 575 Dexter Street in Central Falls, Rhode Island, as the \"Elizabeth Buffum Chace Post Office\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-06T18:00:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2451.xml"
+}

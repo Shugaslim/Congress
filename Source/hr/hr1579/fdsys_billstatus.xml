@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-08T20:47:39Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-07T15:00:09Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <latestTitle>National POW/MIA Flag Act</latestTitle>
+        <congress>116</congress>
+        <number>693</number>
+        <type>S</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+          <actionDate>2019-05-20</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2019-03-08T08:12:08Z</createDate>
+    <billNumber>1579</billNumber>
+    <billType>HR</billType>
+    <title>National POW/MIA Flag Act</title>
+    <actions>
+      <item>
+        <actionDate>2019-04-08</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2019-03-07</actionDate>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-03-07</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-03-07</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>P000614</bioguideId>
+        <state>NH</state>
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <lisID>2418</lisID>
+          <bioguideId>P000614</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Chris</firstName>
+        <lastName>Pappas</lastName>
+        <party>D</party>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-03-07</introducedDate>
+    <cosponsors>
+      <item>
+        <bioguideId>B001301</bioguideId>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <identifiers>
+          <lisID>2333</lisID>
+          <bioguideId>B001301</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <state>MI</state>
+        <middleName />
+        <firstName>Jack</firstName>
+        <lastName>Bergman</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000610</bioguideId>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2436</lisID>
+          <bioguideId>R000610</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>R</party>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <state>PA</state>
+        <middleName />
+        <firstName>Guy</firstName>
+        <lastName>Reschenthaler</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000557</bioguideId>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <identifiers>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <state>CT</state>
+        <middleName>B.</middleName>
+        <firstName>JOHN</firstName>
+        <lastName>LARSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001090</bioguideId>
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>D</party>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <state>PA</state>
+        <middleName />
+        <firstName>Matt</firstName>
+        <lastName>Cartwright</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <state>PA</state>
+        <middleName>K.</middleName>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000034</bioguideId>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <identifiers>
+          <gpoId>8048</gpoId>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <state>NJ</state>
+        <middleName />
+        <firstName>FRANK</firstName>
+        <lastName>PALLONE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001205</bioguideId>
+        <fullName>Rep. Scanlon, Mary Gay [D-PA-5]</fullName>
+        <identifiers>
+          <lisID>2373</lisID>
+          <gpoId />
+          <bioguideId>S001205</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <state>PA</state>
+        <middleName>Gay</middleName>
+        <firstName>Mary</firstName>
+        <lastName>Scanlon</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <state>OK</state>
+        <middleName />
+        <firstName>Tom</firstName>
+        <lastName>Cole</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>WA</state>
+        <middleName />
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000562</bioguideId>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>MA</state>
+        <middleName>F.</middleName>
+        <firstName>Stephen</firstName>
+        <lastName>Lynch</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001203</bioguideId>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <identifiers>
+          <lisID>2421</lisID>
+          <bioguideId>M001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <state>NJ</state>
+        <middleName />
+        <firstName>Tom</firstName>
+        <lastName>Malinowski</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <state>MA</state>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001124</bioguideId>
+        <fullName>Rep. Cox, TJ [D-CA-21]</fullName>
+        <identifiers>
+          <lisID>2378</lisID>
+          <bioguideId>C001124</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <state>CA</state>
+        <middleName />
+        <firstName>TJ</firstName>
+        <lastName>Cox</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001119</bioguideId>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001119</bioguideId>
+          <lisID>2412</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <state>MN</state>
+        <middleName />
+        <firstName>Angie</firstName>
+        <lastName>Craig</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001097</bioguideId>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <identifiers>
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>29</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <state>CA</state>
+        <middleName />
+        <firstName>Tony</firstName>
+        <lastName>Cardenas</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000394</bioguideId>
+        <fullName>Rep. Kim, Andy [D-NJ-3]</fullName>
+        <identifiers>
+          <bioguideId>K000394</bioguideId>
+          <lisID>2420</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <state>NJ</state>
+        <middleName />
+        <firstName>Andy</firstName>
+        <lastName>Kim</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000613</bioguideId>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <identifiers>
+          <lisID>2426</lisID>
+          <bioguideId>R000613</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <party>D</party>
+        <sponsorshipDate>2019-05-10</sponsorshipDate>
+        <state>NY</state>
+        <middleName />
+        <firstName>Max</firstName>
+        <lastName>Rose</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000586</bioguideId>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2317</lisID>
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>D</party>
+        <sponsorshipDate>2019-05-10</sponsorshipDate>
+        <state>FL</state>
+        <middleName />
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000369</bioguideId>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <identifiers>
+          <gpoId>8366</gpoId>
+          <bioguideId>A000369</bioguideId>
+          <lisID>2090</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <state>NV</state>
+        <middleName>E.</middleName>
+        <firstName>Mark</firstName>
+        <lastName>Amodei</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <identifiers>
+          <gpoId>7825</gpoId>
+          <lisID>1774</lisID>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>16</district>
+        <party>D</party>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <state>CA</state>
+        <middleName />
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000591</bioguideId>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <identifiers>
+          <lisID>2453</lisID>
+          <gpoId />
+          <bioguideId>L000591</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <state>VA</state>
+        <middleName>G.</middleName>
+        <firstName>Elaine</firstName>
+        <lastName>Luria</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PAPPAS:H.R. 1579.Congress has the power to enact this legislation pursuantto the following:Article I, Sec. 8, Clause 1, of the United StatesConstitution states that ``Congress shall have power to layand collect taxes, duties, imposts and excises, to pay thedebts and provide for the common defense and general welfareof the United States.'' [Page H473][Page H2584]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend title 36, United States Code, to require that the POW/MIA flag be displayed on all days that the flag of the United States is displayed on certain Federal property.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>National POW/MIA Flag Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>National POW/MIA Flag Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>National POW/MIA Flag Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1579ih/xml/BILLS-116hr1579ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-07T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National symbols</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-23T07:15:50Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+      <links />
+      <actionDate>2019-04-08</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

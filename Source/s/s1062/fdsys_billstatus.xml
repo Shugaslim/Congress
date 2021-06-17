@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <date>2019-04-08T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1062is/xml/BILLS-116s1062is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <title>Hammers' Law</title>
+    <createDate>2019-04-09T04:27:07Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-08T21:43:14Z</date>
+            </item>
+          </activities>
+          <systemCode>sscm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <state>NE</state>
+        <lastName>Fischer</lastName>
+        <firstName>Deb</firstName>
+        <bioguideId>F000463</bioguideId>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <middleName />
+        <state>CT</state>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <relatedBills />
+    <introducedDate>2019-04-08</introducedDate>
+    <calendarNumbers />
+    <billNumber>1062</billNumber>
+    <notes />
+    <policyArea />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-08</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2019-04-08</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-04-20T09:18:19Z</updateDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2019-04-08</actionDate>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to provide authorization for nonpecuniary damages in an action resulting from a cruise ship accident occurring on the high seas.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Hammers' Law</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Hammers' Law</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Hammers' Law</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

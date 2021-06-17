@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2019-01-16</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-16</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-16T22:19:41Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Life at Conception Act of 2019</title>
+    <congress>116</congress>
+    <updateDate>2019-02-06T06:18:46Z</updateDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2019-01-16</actionDate>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <version>1.0.0</version>
+    <billNumber>159</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Abortion</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>KY</state>
+        <bioguideId>P000603</bioguideId>
+        <identifiers>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+          <lisID>2082</lisID>
+        </identifiers>
+        <firstName>Rand</firstName>
+        <middleName />
+        <byRequestType />
+        <lastName>Paul</lastName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <date>2019-01-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s159is/xml/BILLS-116s159is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <createDate>2019-01-17T05:40:11Z</createDate>
+    <relatedBills />
+    <committeeReports />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <lastName>INHOFE</lastName>
+        <bioguideId>I000024</bioguideId>
+        <middleName />
+        <state>OK</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <identifiers>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+          <lisID>583</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>JIM</firstName>
+      </item>
+      <item>
+        <lastName>CRAPO</lastName>
+        <bioguideId>C000880</bioguideId>
+        <middleName>D.</middleName>
+        <state>ID</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <lastName>Risch</lastName>
+        <bioguideId>R000584</bioguideId>
+        <middleName>E.</middleName>
+        <state>ID</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <identifiers>
+          <gpoId>8274</gpoId>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <lastName>Hoeven</lastName>
+        <bioguideId>H001061</bioguideId>
+        <middleName />
+        <state>ND</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <lastName>Scott</lastName>
+        <bioguideId>S001184</bioguideId>
+        <middleName />
+        <state>SC</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <identifiers>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Tim</firstName>
+      </item>
+      <item>
+        <lastName>Rounds</lastName>
+        <bioguideId>R000605</bioguideId>
+        <middleName />
+        <state>SD</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+          <lisID>2288</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <lastName>Perdue</lastName>
+        <bioguideId>P000612</bioguideId>
+        <middleName>Alfred</middleName>
+        <state>GA</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+          <lisID>2286</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <lastName>Cramer</lastName>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+        <state>ND</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+          <lisID>2144</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>Kevin</firstName>
+      </item>
+      <item>
+        <lastName>Kennedy</lastName>
+        <bioguideId>K000393</bioguideId>
+        <middleName>Neely</middleName>
+        <state>LA</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <lastName>THUNE</lastName>
+        <bioguideId>T000250</bioguideId>
+        <middleName>R.</middleName>
+        <state>SD</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <lastName>Boozman</lastName>
+        <bioguideId>B001236</bioguideId>
+        <middleName />
+        <state>AR</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+          <lisID>1687</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <lastName>Blackburn</lastName>
+        <bioguideId>B001243</bioguideId>
+        <middleName />
+        <state>TN</state>
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Marsha</firstName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>Life at Conception Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to implement equal protection under the 14th Amendment to the Constitution of the United States for the right to life of each born and preborn human person.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Life at Conception Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Life at Conception Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <calendarNumbers />
+    <billType>S</billType>
+    <introducedDate>2019-01-16</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-04</actionDate>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <textVersions />
+    <billNumber>1051</billNumber>
+    <committeeReports />
+    <amendments />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <lastName>Cornyn</lastName>
+        <firstName>John</firstName>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>C001056</bioguideId>
+      </item>
+    </sponsors>
+    <notes />
+    <introducedDate>2019-04-04</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-04T20:24:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend the Endangered Species Act of 1973 to establish a program to allow States to assume certain Federal responsibilities under that Act with respect to agency actions applicable to highway projects within the States, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A bill to amend the Endangered Species Act of 1973 to establish a program to allow States to assume certain Federal responsibilities under that Act with respect to agency actions applicable to highway projects within the States, and for other purposes.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <policyArea />
+    <createDate>2019-04-05T04:42:10Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-04-08T18:38:54Z</updateDate>
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2019-04-04</actionDate>
+      <links />
+    </latestAction>
+    <billType>S</billType>
+    <title>A bill to amend the Endangered Species Act of 1973 to establish a program to allow States to assume certain Federal responsibilities under that Act with respect to agency actions applicable to highway projects within the States, and for other purposes.</title>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <lastName>Sullivan</lastName>
+        <party>R</party>
+        <bioguideId>S001198</bioguideId>
+        <state>AK</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <bioguideId>C001098</bioguideId>
+        <state>TX</state>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+        </identifiers>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <bioguideId>M001153</bioguideId>
+        <state>AK</state>
+        <middleName />
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

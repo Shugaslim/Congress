@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-03-14T16:15:08Z</updateDate>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <billType>HR</billType>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <actionDate>2019-02-26</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </latestAction>
+    <version>1.0.0</version>
+    <createDate>2019-02-27T08:10:15Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2019-02-26</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-02-26</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-02-26</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <laws />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>14</district>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <gpoId>7883</gpoId>
+          <lisID>1839</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Castor</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <firstName>Kathy</firstName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>C001066</bioguideId>
+      </item>
+      <item>
+        <state>TN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Cohen</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>C001068</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>18</district>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>J000032</bioguideId>
+      </item>
+      <item>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>12</district>
+        <identifiers>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>MALONEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <firstName>CAROLYN</firstName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>M000087</bioguideId>
+      </item>
+      <item>
+        <state>DC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+      </item>
+      <item>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>SCHAKOWSKY</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <bioguideId>S001145</bioguideId>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Flu Vaccine Act</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-26</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <number>570</number>
+      </item>
+    </relatedBills>
+    <amendments />
+    <title>Flu Vaccine Act</title>
+    <billNumber>1371</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DeLAURO:H.R. 1371.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I of the United States Constitutionand its subsequent amendments, and further clarified andinterpreted by the Supreme Court of the United States.[Page H2235]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-02-26</introducedDate>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To conduct or support further comprehensive research for the creation of a universal influenza vaccine.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Flu Vaccine Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Flu Vaccine Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Flu Vaccine Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Immunology and vaccination</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <firstName>ROSA</firstName>
+        <middleName />
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <district>3</district>
+        <lastName>DELAURO</lastName>
+        <bioguideId>D000216</bioguideId>
+        <state>CT</state>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-26T15:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1371ih/xml/BILLS-116hr1371ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-26T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

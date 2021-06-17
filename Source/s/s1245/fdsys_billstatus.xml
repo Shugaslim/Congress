@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+        <state>WV</state>
+        <lastName>Manchin</lastName>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills />
+    <version>1.0.0</version>
+    <introducedDate>2019-04-30</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-30T20:19:25Z</date>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to improve energy performance in Federal buildings, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>All-of-the-Above Federal Building Energy Conservation Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>All-of-the-Above Federal Building Energy Conservation Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>All-of-the-Above Federal Building Energy Conservation Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <createDate>2019-05-01T04:27:09Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2019-04-30</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>1245</billNumber>
+    <billType>S</billType>
+    <title>All-of-the-Above Federal Building Energy Conservation Act of 2019</title>
+    <notes />
+    <sponsors>
+      <item>
+        <lastName>Hoeven</lastName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <party>R</party>
+        <firstName>John</firstName>
+        <state>ND</state>
+        <byRequestType />
+        <bioguideId>H001061</bioguideId>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-30</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-30</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <congress>116</congress>
+    <laws />
+    <textVersions>
+      <item>
+        <date>2019-04-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1245is/xml/BILLS-116s1245is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <updateDate>2019-05-11T09:22:25Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

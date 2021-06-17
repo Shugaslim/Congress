@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <title>A bill to provide for the transfer of administrative jurisdiction over certain parcels of Federal land in Arlington, Virginia, and for other purposes.</title>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2019-04-11T15:46:57Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1152</billNumber>
+    <relatedBills />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+      <actionDate>2019-04-11</actionDate>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cotton</lastName>
+        <firstName>Tom</firstName>
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-11</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <laws />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <bioguideId>B001236</bioguideId>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <middleName />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>AR</state>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>S</billType>
+    <introducedDate>2019-04-11</introducedDate>
+    <createDate>2019-04-12T04:57:10Z</createDate>
+    <committeeReports />
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1152is/xml/BILLS-116s1152is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-11T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to provide for the transfer of administrative jurisdiction over certain parcels of Federal land in Arlington, Virginia, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to provide for the transfer of administrative jurisdiction over certain parcels of Federal land in Arlington, Virginia, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <updateDate>2019-05-01T04:30:21Z</updateDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

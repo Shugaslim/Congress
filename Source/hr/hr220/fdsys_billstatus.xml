@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Scientific communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2019-01-03T16:14:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-01-31T16:14:04Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-01-04T13:32:57Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>SMITH</lastName>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <bioguideId>S000522</bioguideId>
+        <firstName>CHRISTOPHER</firstName>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <party>R</party>
+        <district>4</district>
+        <middleName>H.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <firstName>COLLIN</firstName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <lastName>PETERSON</lastName>
+        <middleName>C.</middleName>
+        <bioguideId>P000258</bioguideId>
+        <party>D</party>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <lastName>Posey</lastName>
+        <middleName />
+        <bioguideId>P000599</bioguideId>
+        <party>R</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <firstName>Elise</firstName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <lastName>Stefanik</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>S001196</bioguideId>
+        <party>R</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>21</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+        <bioguideId>F000466</bioguideId>
+        <party>R</party>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <lisID>1818</lisID>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <firstName>Albio</firstName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <lastName>Sires</lastName>
+        <middleName />
+        <bioguideId>S001165</bioguideId>
+        <party>D</party>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <firstName>Chellie</firstName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <lastName>Pingree</lastName>
+        <middleName />
+        <bioguideId>P000597</bioguideId>
+        <party>D</party>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <firstName>Vicky</firstName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <lastName>Hartzler</lastName>
+        <middleName />
+        <bioguideId>H001053</bioguideId>
+        <party>R</party>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001092</bioguideId>
+          <lisID>2151</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2019-01-09</sponsorshipDate>
+        <lastName>Collins</lastName>
+        <middleName />
+        <bioguideId>C001092</bioguideId>
+        <party>R</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>27</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <firstName>Ann</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Kuster</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>K000382</bioguideId>
+        <party>D</party>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <firstName>Yvette</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Clarke</lastName>
+        <middleName>D.</middleName>
+        <bioguideId>C001067</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2167</lisID>
+          <bioguideId>V000132</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <firstName>Filemon</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <lastName>Vela</lastName>
+        <middleName />
+        <bioguideId>V000132</bioguideId>
+        <party>D</party>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>34</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001185</bioguideId>
+          <lisID>2150</lisID>
+        </identifiers>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <firstName>Sean</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <lastName>Maloney</lastName>
+        <middleName>Patrick</middleName>
+        <bioguideId>M001185</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <firstName>John</firstName>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <lastName>Katko</lastName>
+        <middleName />
+        <bioguideId>K000386</bioguideId>
+        <party>R</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>24</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <firstName>ZOE</firstName>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>LOFGREN</lastName>
+        <middleName />
+        <bioguideId>L000397</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2428</lisID>
+          <gpoId />
+          <bioguideId>D000630</bioguideId>
+        </identifiers>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <firstName>Antonio</firstName>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <lastName>Delgado</lastName>
+        <middleName />
+        <bioguideId>D000630</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2421</lisID>
+          <gpoId />
+          <bioguideId>M001203</bioguideId>
+        </identifiers>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <lastName>Malinowski</lastName>
+        <middleName />
+        <bioguideId>M001203</bioguideId>
+        <party>D</party>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <lastName>Higgins</lastName>
+        <middleName />
+        <bioguideId>H001038</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>26</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2426</lisID>
+          <bioguideId>R000613</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <firstName>Max</firstName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <lastName>Rose</lastName>
+        <middleName />
+        <bioguideId>R000613</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <lastName>Kelly</lastName>
+        <middleName />
+        <bioguideId>K000376</bioguideId>
+        <party>R</party>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>16</district>
+      </item>
+    </cosponsors>
+    <billNumber>220</billNumber>
+    <laws />
+    <congress>116</congress>
+    <title>National Lyme and Tick-Borne Diseases Control and Accountability Act of 2019</title>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of New Jersey:H.R. 220.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution.[Page H217]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-01-03</introducedDate>
+    <relatedBills />
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2019-05-24T07:15:34Z</updateDate>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To provide for a national strategy to address and overcome Lyme disease and other tick-borne diseases, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>National Lyme and Tick-Borne Diseases Control and Accountability Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>National Lyme and Tick-Borne Diseases Control and Accountability Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>National Lyme and Tick-Borne Diseases Control and Accountability Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2019-01-31</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr220ih/xml/BILLS-116hr220ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

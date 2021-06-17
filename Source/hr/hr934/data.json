@@ -1,0 +1,253 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-31", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-31", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-19", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr934-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000623", 
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-07", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000455", 
+      "district": "11", 
+      "name": "Fudge, Marcia L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000570", 
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-25", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000591", 
+      "district": "2", 
+      "name": "Luria, Elaine G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-19", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001180", 
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000172", 
+      "district": "14", 
+      "name": "Ocasio-Cortez, Alexandria", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-25", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001177", 
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "MP", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001185", 
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-25", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000826", 
+      "district": "7", 
+      "name": "Wild, Susan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000808", 
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-31", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-31", 
+  "number": "934", 
+  "official_title": "To amend the Surface Mining Control and Reclamation Act of 1977 to include certain retirees in the Multiemployer Health Benefit Plan, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s27-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Health Benefits for Miners Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S000185", 
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-31", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-31T05:00:00Z", 
+    "text": "Health Benefits for Miners Act of 2019\n\nThis bill requires the Department of the Treasury to transfer additional funds to provide health benefits for retired coal miners. The bill adds miners affected by 2018 coal company bankruptcies to the group whose retiree health benefits are taken into account in determining the amount that Treasury must transfer under current law to the Multiemployer Health Benefit Plan."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Surface Mining Control and Reclamation Act of 1977 to include certain retirees in the Multiemployer Health Benefit Plan, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Health Benefits for Miners Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Health Benefits for Miners Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Health Benefits for Miners Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-20T22:15:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr934.xml"
+}

@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2709-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000096", 
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-14", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000467", 
+      "district": "15", 
+      "name": "Thompson, Glenn", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-14", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-14", 
+  "number": "2709", 
+  "official_title": "To amend the Omnibus Crime Control and Safe Streets Act of 1968 to clarify the definition of firefighter for the purposes of the Public Safety Officers' Death Benefits Program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1208-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fire Police Fairness Act", 
+  "sponsor": {
+    "bioguide_id": "C001069", 
+    "district": "2", 
+    "name": "Courtney, Joe", 
+    "state": "CT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-14", 
+  "subjects": [
+    "Crime and law enforcement"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Omnibus Crime Control and Safe Streets Act of 1968 to clarify the definition of firefighter for the purposes of the Public Safety Officers' Death Benefits Program.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fire Police Fairness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fire Police Fairness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Fire Police Fairness Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T18:45:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2709.xml"
+}

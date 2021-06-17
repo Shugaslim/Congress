@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-13T04:27:07Z</createDate>
+    <introducedDate>2019-03-12</introducedDate>
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-03-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s740is/xml/BILLS-116s740is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-12T14:38:14Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <bioguideId>C001035</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <state>ME</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Amy</firstName>
+        <byRequestType />
+        <middleName />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <state>MN</state>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-03-12</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <titles>
+      <item>
+        <title>A bill to amend the Public Health Service Act to authorize grants for training and support services for families and caregivers of people living with Alzheimer's disease or a related dementia.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Alzheimer's Caregiver Support Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Alzheimer's Caregiver Support Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Alzheimer's Caregiver Support Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <committeeReports />
+    <title>Alzheimer's Caregiver Support Act</title>
+    <congress>116</congress>
+    <updateDate>2019-04-03T04:42:21Z</updateDate>
+    <billNumber>740</billNumber>
+    <relatedBills />
+    <billType>S</billType>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

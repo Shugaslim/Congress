@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2019-02-26T15:25:29Z</createDate>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>slin00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-25T22:14:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Intelligence Committee</name>
+          <type>Select</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <billType>S</billType>
+    <congress>116</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Director of National Intelligence to submit to Congress a report on the death of Jamal Khashoggi, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to require the Director of National Intelligence to submit to Congress a report on the death of Jamal Khashoggi, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>544</billNumber>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-25T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s544is/xml/BILLS-116s544is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Select Committee on Intelligence.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>News media and reporting</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Saudi Arabia</name>
+          </item>
+          <item>
+            <name>Turkey</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <state>OR</state>
+        <party>D</party>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <bioguideId>W000779</bioguideId>
+        <lastName>WYDEN</lastName>
+        <firstName>RON</firstName>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Select Committee on Intelligence.</text>
+      <links />
+      <actionDate>2019-02-25</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-02-25</introducedDate>
+    <updateDate>2019-03-23T00:55:15Z</updateDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <state>NM</state>
+        <middleName />
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+        </identifiers>
+        <firstName>Martin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heinrich</lastName>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <state>RI</state>
+        <middleName>F.</middleName>
+        <identifiers>
+          <gpoId>8272</gpoId>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>REED</lastName>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <bioguideId>R000122</bioguideId>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <firstName>Kamala</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Harris</lastName>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <bioguideId>H001075</bioguideId>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <state>DE</state>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Coons</lastName>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <title>A bill to require the Director of National Intelligence to submit to Congress a report on the death of Jamal Khashoggi, and for other purposes.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

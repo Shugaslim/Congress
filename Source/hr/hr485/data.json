@@ -1,0 +1,338 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-01", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr485-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001289", 
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-29", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001053", 
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-29", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000216", 
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "CT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001053", 
+      "district": "4", 
+      "name": "Hartzler, Vicky", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-16", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001077", 
+      "district": "3", 
+      "name": "Higgins, Clay", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-15", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001087", 
+      "district": "25", 
+      "name": "Hill, Katie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000255", 
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-15", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000389", 
+      "district": "17", 
+      "name": "Khanna, Ro", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-15", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000381", 
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-15", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001187", 
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001196", 
+      "district": "6", 
+      "name": "Moulton, Seth", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-15", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000258", 
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-23", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000597", 
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "ME", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000577", 
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001185", 
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-25", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001196", 
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-15", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000467", 
+      "district": "15", 
+      "name": "Thompson, Glenn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-15", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000806", 
+      "district": "11", 
+      "name": "Webster, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-30", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000821", 
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-06", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000804", 
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-10", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-10", 
+  "number": "485", 
+  "official_title": "To amend title 38, United States Code, to provide for the circumstances under which the Secretary of Veterans Affairs shall provide reimbursement for emergency ambulance services.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans Reimbursement for Emergency Ambulance Services Act", 
+  "sponsor": {
+    "bioguide_id": "T000470", 
+    "district": "3", 
+    "name": "Tipton, Scott  R.", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-10", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Emergency medical services and trauma care", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to provide for the circumstances under which the Secretary of Veterans Affairs shall provide reimbursement for emergency ambulance services.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Reimbursement for Emergency Ambulance Services Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Reimbursement for Emergency Ambulance Services Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "VREASA", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "VREASA", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "VREASA", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-30T07:15:40Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr485.xml"
+}

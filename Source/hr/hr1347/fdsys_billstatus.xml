@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <billNumber>1347</billNumber>
+    <sponsors>
+      <item>
+        <bioguideId>K000188</bioguideId>
+        <firstName>RON</firstName>
+        <byRequestType />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <state>WI</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <lastName>KIND</lastName>
+        <middleName />
+        <district>3</district>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8192</gpoId>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>W000804</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <district>1</district>
+        <firstName>Robert</firstName>
+        <middleName>J.</middleName>
+        <lastName>Wittman</lastName>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2019-03-08</actionDate>
+        <committee>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-25</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-25</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-25</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2019-02-26T08:10:16Z</createDate>
+    <updateDate>2019-03-16T07:12:17Z</updateDate>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <amendments />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>310</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Migratory Birds of the Americas Conservation Act</latestTitle>
+        <latestAction>
+          <text>By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-9.</text>
+          <actionDate>2019-03-14</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-25T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1347ih/xml/BILLS-116hr1347ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+      <actionDate>2019-03-08</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2019-02-25</introducedDate>
+    <congress>116</congress>
+    <title>Migratory Birds of the Americas Conservation Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-25T19:00:29Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-08T15:06:28Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii13</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Birds</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KIND:H.R. 1347.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2102]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Neotropical Migratory Bird Conservation Act to reauthorize the Act.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Migratory Birds of the Americas Conservation Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Migratory Birds of the Americas Conservation Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Migratory Birds of the Americas Conservation Act</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,468 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2015-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000374", 
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "A000055", 
+      "district": "4", 
+      "name": "Aderholt, Robert B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001295", 
+      "district": "12", 
+      "name": "Bost, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001308", 
+      "district": "22", 
+      "name": "Brindisi, Anthony", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-01", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001260", 
+      "district": "16", 
+      "name": "Buchanan, Vern", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001305", 
+      "district": "13", 
+      "name": "Budd, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001309", 
+      "district": "2", 
+      "name": "Burchett, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001289", 
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001055", 
+      "district": "1", 
+      "name": "Case, Ed", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "HI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000266", 
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001109", 
+      "district": null, 
+      "name": "Cheney, Liz", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-15", 
+      "state": "WY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001123", 
+      "district": "39", 
+      "name": "Cisneros, Gilbert Ray, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-16", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000467", 
+      "district": "1", 
+      "name": "Finkenauer, Abby", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000576", 
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-16", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001072", 
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001073", 
+      "district": "23", 
+      "name": "Hurd, Will", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-15", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000586", 
+      "district": "5", 
+      "name": "Lawson, Al, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-16", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001198", 
+      "district": "1", 
+      "name": "Marshall, Roger W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000189", 
+      "district": "4", 
+      "name": "Newhouse, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000582", 
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000612", 
+      "district": "6", 
+      "name": "Rose, John W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001183", 
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000522", 
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-20", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001199", 
+      "district": "11", 
+      "name": "Smucker, Lloyd", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-01", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001212", 
+      "district": "8", 
+      "name": "Stauber, Pete", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001192", 
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000467", 
+      "district": "15", 
+      "name": "Thompson, Glenn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000480", 
+      "district": "4", 
+      "name": "Timmons, William R. IV", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000821", 
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000809", 
+      "district": "3", 
+      "name": "Womack, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000827", 
+      "district": "6", 
+      "name": "Wright, Ron", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-01", 
+  "number": "2015", 
+  "official_title": "To deter criminal robocall violations and improve enforcement of section 227(b) of the Communications Act of 1934, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s151-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr721-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1602-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Telephone Robocall Abuse Criminal Enforcement and Deterrence Act", 
+  "sponsor": {
+    "bioguide_id": "K000392", 
+    "district": "8", 
+    "name": "Kustoff, David", 
+    "state": "TN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-01", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Department of Justice", 
+    "Executive agency funding and structure", 
+    "Federal Communications Commission (FCC)", 
+    "Fraud offenses and financial crimes", 
+    "Government studies and investigations", 
+    "Internet and video services", 
+    "Marketing and advertising", 
+    "Right of privacy", 
+    "Science, technology, communications", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To deter criminal robocall violations and improve enforcement of section 227(b) of the Communications Act of 1934, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Telephone Robocall Abuse Criminal Enforcement and Deterrence Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Telephone Robocall Abuse Criminal Enforcement and Deterrence Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TRACED Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TRACED Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "TRACED Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-25T07:15:24Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2015.xml"
+}

@@ -1,0 +1,185 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-30", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-30", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "", 
+      "committee": "Committee on Indian Affairs", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s279-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001261", 
+      "district": null, 
+      "name": "Barrasso, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-06", 
+      "state": "WY", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001046", 
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "NM", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000605", 
+      "district": null, 
+      "name": "Rounds, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-30", 
+      "state": "SD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000464", 
+      "district": null, 
+      "name": "Tester, Jon", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-12", 
+      "state": "MT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "U000039", 
+      "district": null, 
+      "name": "Udall, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-07", 
+      "state": "NM", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-01", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-30", 
+  "number": "279", 
+  "official_title": "A bill to allow tribal grant schools to participate in the Federal Employee Health Benefits Program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr895-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Tribal School Federal Insurance Parity Act", 
+  "sponsor": {
+    "bioguide_id": "T000250", 
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-15", 
+  "subjects": [
+    "Government employee pay, benefits, personnel management", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Indian social and development programs", 
+    "Life, casualty, property insurance", 
+    "Minority education", 
+    "Minority health", 
+    "Native Americans", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to allow tribal grant schools to participate in the Federal Employee Health Benefits Program.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tribal School Federal Insurance Parity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tribal School Federal Insurance Parity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Tribal School Federal Insurance Parity Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T15:42:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s279.xml"
+}

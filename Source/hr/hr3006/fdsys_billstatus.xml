@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T13:09:10Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-05-24T07:12:17Z</createDate>
+    <policyArea />
+    <sponsors>
+      <item>
+        <lastName>PETERSON</lastName>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <bioguideId>P000258</bioguideId>
+        <firstName>COLLIN</firstName>
+        <state>MN</state>
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <party>D</party>
+        <district>7</district>
+        <middleName>C.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <district>0</district>
+        <middleName />
+        <fullName>Rep. Johnson, Dusty [R-SD-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <bioguideId>J000301</bioguideId>
+        <firstName>Dusty</firstName>
+        <identifiers>
+          <lisID>2439</lisID>
+          <gpoId />
+          <bioguideId>J000301</bioguideId>
+        </identifiers>
+        <state>SD</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <middleName>W.</middleName>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Marshall</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <bioguideId>M001198</bioguideId>
+        <firstName>Roger</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001198</bioguideId>
+          <lisID>2328</lisID>
+        </identifiers>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>13</district>
+        <middleName />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <lastName>Davis</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <bioguideId>D000619</bioguideId>
+        <firstName>Rodney</firstName>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Loebsack</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <bioguideId>L000565</bioguideId>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>3006</billNumber>
+    <laws />
+    <congress>116</congress>
+    <title>To impose an annual deadline of June 1st for small refineries to submit petitions for exemptions from the renewable fuel requirements under section 211(o) of the Clean Air Act (42 U.S.C. 7545(o)) based on disproportionate economic hardship.</title>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-05-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-23</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2019-05-23</introducedDate>
+    <relatedBills />
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2019-05-24T07:31:35Z</updateDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To impose an annual deadline of June 1st for small refineries to submit petitions for exemptions from the renewable fuel requirements under section 211(o) of the Clean Air Act (42 U.S.C. 7545(o)) based on disproportionate economic hardship.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To impose an annual deadline of June 1st for small refineries to submit petitions for exemptions from the renewable fuel requirements under section 211(o) of the Clean Air Act (42 U.S.C. 7545(o)) based on disproportionate economic hardship.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2019-05-23</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <committeeReports />
+    <textVersions />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

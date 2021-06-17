@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T16:11:35Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T16:11:30Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-01-04T13:32:50Z</createDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>Curtis</lastName>
+        <fullName>Rep. Curtis, John R. [R-UT-3]</fullName>
+        <bioguideId>C001114</bioguideId>
+        <firstName>John</firstName>
+        <state>UT</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2363</lisID>
+          <bioguideId>C001114</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>3</district>
+        <middleName>R.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gianforte</lastName>
+        <identifiers>
+          <lisID>2359</lisID>
+          <bioguideId>G000584</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <bioguideId>G000584</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <party>R</party>
+        <state>MT</state>
+        <firstName>Greg</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Meadows</lastName>
+        <identifiers>
+          <lisID>2142</lisID>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <bioguideId>M001187</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <party>R</party>
+        <state>NC</state>
+        <firstName>Mark</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Posey</lastName>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <bioguideId>P000599</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <party>R</party>
+        <state>FL</state>
+        <firstName>Bill</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Watkins</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000824</bioguideId>
+          <lisID>2402</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <bioguideId>W000824</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Watkins, Steven C., Jr. [R-KS-2]</fullName>
+        <party>R</party>
+        <state>KS</state>
+        <firstName>Steven</firstName>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brooks</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2129</lisID>
+          <bioguideId>B001284</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-01-14</sponsorshipDate>
+        <bioguideId>B001284</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <party>R</party>
+        <state>IN</state>
+        <firstName>Susan</firstName>
+        <middleName>W.</middleName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Norman</lastName>
+        <identifiers>
+          <lisID>2361</lisID>
+          <gpoId />
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-01-14</sponsorshipDate>
+        <bioguideId>N000190</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <party>R</party>
+        <state>SC</state>
+        <firstName>Ralph</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>McAdams</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001209</bioguideId>
+          <lisID>2452</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <bioguideId>M001209</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McAdams, Ben [D-UT-4]</fullName>
+        <party>D</party>
+        <state>UT</state>
+        <firstName>Ben</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Thompson</lastName>
+        <identifiers>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <bioguideId>T000467</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Thompson, Glenn [R-PA-15]</fullName>
+        <party>R</party>
+        <state>PA</state>
+        <firstName>Glenn</firstName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <billNumber>26</billNumber>
+    <laws />
+    <congress>116</congress>
+    <title>No Work, No Pay Act of 2019</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-03</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-03</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CURTIS:H.R. 26.Congress has the power to enact this legislation pursuantto the following:Article I, Section 6 of the U.S. Constitution grants thepower to Congress to determine the laws regulating the payfor Senators and Representatives for their Services, to bepaid out of the Treasury of the United States.[Page H211]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-01-03</introducedDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Hold Congress Accountable Act</latestTitle>
+        <congress>116</congress>
+        <number>211</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-01-03</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Nonpartisan Bill For the People Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1612</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+          <actionDate>2019-04-12</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Solidarity in Salary Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>845</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Committee on Oversight and Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-01-29</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-01-15T17:27:17Z</lastSummaryUpdateDate>
+          <actionDate>2019-01-03</actionDate>
+          <text><![CDATA[<p><b>No Work, No Pay Act of 2019</b></p>  <p>This bill prohibits Members of Congress from being paid during a government shutdown, beginning with the 117th Congress.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2019-05-22T21:45:06Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>To prohibit the pay of Members of Congress during periods in which a Government shutdown is in effect, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>No Work, No Pay Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>No Work, No Pay Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>No Work, No Pay Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2019-01-03</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr26ih/xml/BILLS-116hr26ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

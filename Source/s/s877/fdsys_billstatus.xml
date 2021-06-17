@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-26</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-03-26</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-11T04:27:16Z</updateDate>
+    <latestAction>
+      <actionDate>2019-04-03</actionDate>
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s877is/xml/BILLS-116s877is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-03-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>877</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>CAPITO</lastName>
+        <party>R</party>
+        <middleName>MOORE</middleName>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <identifiers>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+      </item>
+      <item>
+        <lastName>CANTWELL</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>MARIA</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <bioguideId>C000127</bioguideId>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+      </item>
+      <item>
+        <lastName>PORTMAN</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>ROB</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <bioguideId>P000449</bioguideId>
+        <state>OH</state>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+      </item>
+      <item>
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>Sheldon</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+      </item>
+      <item>
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Martha</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <bioguideId>M001197</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+        </identifiers>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+      </item>
+      <item>
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+      </item>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+      </item>
+      <item>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>C001035</bioguideId>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+      </item>
+      <item>
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>B001310</bioguideId>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2462</lisID>
+          <gpoId />
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+      </item>
+      <item>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <middleName />
+        <firstName>Tammy</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>D000622</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+      </item>
+      <item>
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <firstName>Cory</firstName>
+        <byRequestType />
+        <state>NJ</state>
+        <bioguideId>B001288</bioguideId>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2019-04-03T13:30:06Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-26T19:26:22Z</date>
+            </item>
+          </activities>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to prohibit the sale of shark fins, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Shark Fin Sales Elimination Act of 2019</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Shark Fin Sales Elimination Act of 2019</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Shark Fin Sales Elimination Act of 2019</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Shark Fin Sales Elimination Act of 2019</b></p> <p>This bill makes it illegal to possess, buy, sell, or transport shark fins or any product containing shark fins, except for certain dogfish fins. A person may possess a shark fin that was lawfully taken consistent with a license or permit under certain circumstances.</p> <p>Penalties are imposed for violations under the Magnuson-Stevens Fishery Conservation and Management Act.The maximum civil penalty for each violation shall be $100,000, or the fair market value of the shark fins involved, whichever is greater.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-05-08T15:52:01Z</lastSummaryUpdateDate>
+          <actionDate>2019-03-26</actionDate>
+          <updateDate>2019-03-26T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2019-03-27T04:42:08Z</createDate>
+    <introducedDate>2019-03-26</introducedDate>
+    <cboCostEstimates />
+    <notes />
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Shark Fin Sales Elimination Act of 2019</title>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Subcommittee Hearings Held.</text>
+          <actionDate>2019-03-26</actionDate>
+        </latestAction>
+        <number>737</number>
+        <latestTitle>Shark Fin Sales Elimination Act of 2019</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+          <actionDate>2019-02-06</actionDate>
+        </latestAction>
+        <number>614</number>
+        <latestTitle>Shark Sales Elimination Act of 2019</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>S</billType>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

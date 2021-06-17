@@ -1,0 +1,303 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Water Resources and Environment Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2440-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001278", 
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001112", 
+      "district": "24", 
+      "name": "Carbajal, Salud O.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001119", 
+      "district": "2", 
+      "name": "Craig, Angie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000468", 
+      "district": "7", 
+      "name": "Fletcher, Lizzie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000563", 
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000582", 
+      "district": null, 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000577", 
+      "district": "6", 
+      "name": "Graves, Garret", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000546", 
+      "district": "6", 
+      "name": "Graves, Sam", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000376", 
+      "district": "16", 
+      "name": "Kelly, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001185", 
+      "district": "18", 
+      "name": "Maloney, Sean Patrick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000179", 
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001180", 
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000821", 
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-01", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000808", 
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-01", 
+  "number": "2440", 
+  "official_title": "To provide for the use of funds in the Harbor Maintenance Trust Fund for the purposes for which the funds were collected and to ensure that funds credited to the Harbor Maintenance Trust Fund are used to support navigation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Full Utilization of the Harbor Maintenance Trust Fund Act", 
+  "sponsor": {
+    "bioguide_id": "D000191", 
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-08", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the use of funds in the Harbor Maintenance Trust Fund for the purposes for which the funds were collected and to ensure that funds credited to the Harbor Maintenance Trust Fund are used to support navigation, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Full Utilization of the Harbor Maintenance Trust Fund Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Full Utilization of the Harbor Maintenance Trust Fund Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Full Utilization of the Harbor Maintenance Trust Fund Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T15:42:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2440.xml"
+}

@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2295-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "E000297", 
+      "district": "13", 
+      "name": "Espaillat, Adriano", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001188", 
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000172", 
+      "district": "14", 
+      "name": "Ocasio-Cortez, Alexandria", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-12", 
+  "number": "2295", 
+  "official_title": "To provide additional funding for the public housing Capital Fund for large public housing agencies, for mortgage foreclosure mitigation assistance, and for incremental rental assistance vouchers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Hardest Hit Housing Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001067", 
+    "district": "9", 
+    "name": "Clarke, Yvette D.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-12", 
+  "subjects": [
+    "Congressional oversight", 
+    "Housing and community development", 
+    "Housing finance and home ownership", 
+    "Lawyers and legal services", 
+    "Neighborhood Reinvestment Corporation", 
+    "Public housing"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide additional funding for the public housing Capital Fund for large public housing agencies, for mortgage foreclosure mitigation assistance, and for incremental rental assistance vouchers, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hardest Hit Housing Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hardest Hit Housing Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Hardest Hit Housing Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-10T16:00:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2295.xml"
+}

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-01T05:40:16Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-31</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <billNumber>291</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-01-31T16:44:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssbk00</systemCode>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <middleName />
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <bioguideId>B000575</bioguideId>
+        <state>MO</state>
+        <middleName />
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <bioguideId>H001076</bioguideId>
+        <state>NH</state>
+        <middleName>Wood</middleName>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Margaret</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-01-31</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Housing Choice Voucher Mobility Demonstration Act of 2019</b></p> <p>This bill authorizes the Department of Housing and Urban Development (HUD) to implement a mobility demonstration program to enable public housing agencies (PHAs) to administer housing-choice rental-assistance vouchers in a manner designed to (1)&nbsp;encourage low-income families receiving such assistance to move to lower-poverty areas, and (2) expand access to opportunity areas.</p> <p>HUD shall require PHAs applying to participate in the program to submit a specified Regional Housing Mobility Plan.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-03-08T17:13:08Z</lastSummaryUpdateDate>
+          <actionDate>2019-01-31</actionDate>
+          <updateDate>2019-01-31T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>S</billType>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestTitle>Consolidated Appropriations Act, 2019</latestTitle>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2019-02-15</actionDate>
+          <text>Became Public Law No: 116-6.</text>
+        </latestAction>
+        <number>31</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+      </item>
+      <item>
+        <latestTitle>Consolidated Appropriations Act, 2019</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-01-28</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.</text>
+        </latestAction>
+        <number>648</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+      </item>
+      <item>
+        <latestTitle>Housing Choice Voucher Mobility Demonstration Act of 2019</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-03-12</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <number>1122</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-09T11:26:06Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Housing supply and affordability</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+          <item>
+            <name>Public housing</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>A bill to authorize the Secretary of Housing and Urban Development to carry out a housing choice voucher mobility demonstration to encourage families receiving the voucher assistance to move to lower-poverty areas and expand access to opportunity areas.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-01-31</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s291is/xml/BILLS-116s291is.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-31T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <lastName>Young</lastName>
+        <state>IN</state>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Todd</firstName>
+        <bioguideId>Y000064</bioguideId>
+        <middleName>C.</middleName>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Housing Choice Voucher Mobility Demonstration Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

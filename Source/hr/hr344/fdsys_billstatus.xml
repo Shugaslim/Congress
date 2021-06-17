@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billNumber>344</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-24</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-01-08</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Armed Services.</text>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-01-08</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-01-08</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-01-08</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <number>30</number>
+        <latestTitle>Chiropractic Health Parity for Military Beneficiaries Act</latestTitle>
+      </item>
+    </relatedBills>
+    <createDate>2019-01-09T08:10:19Z</createDate>
+    <version>1.0.0</version>
+    <amendments />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+          <lisID>1846</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>L000565</bioguideId>
+        <state>IA</state>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Loebsack</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001214</bioguideId>
+          <gpoId />
+          <lisID>2389</lisID>
+        </identifiers>
+        <middleName>Gregory</middleName>
+        <bioguideId>S001214</bioguideId>
+        <state>FL</state>
+        <firstName>W.</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Steube</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <district>17</district>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001058</bioguideId>
+          <gpoId>7987</gpoId>
+          <lisID>2028</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>H001058</bioguideId>
+        <state>MI</state>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Huizenga</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <bioguideId>H000324</bioguideId>
+        <state>FL</state>
+        <firstName>ALCEE</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <district>20</district>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>1793</lisID>
+          <bioguideId>F000449</bioguideId>
+          <gpoId>8038</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>F000449</bioguideId>
+        <state>NE</state>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fortenberry</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>P000597</bioguideId>
+        <state>ME</state>
+        <firstName>Chellie</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pingree</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <bioguideId>C001067</bioguideId>
+        <state>NY</state>
+        <firstName>Yvette</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Clarke</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <district>9</district>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1654</lisID>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <middleName>LACY</middleName>
+        <bioguideId>C001049</bioguideId>
+        <state>MO</state>
+        <firstName>WM.</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CLAY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <bioguideId>P000258</bioguideId>
+        <state>MN</state>
+        <firstName>COLLIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>PETERSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <district>7</district>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <bioguideId>F000466</bioguideId>
+        <state>PA</state>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2436</lisID>
+          <bioguideId>R000610</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>R000610</bioguideId>
+        <state>PA</state>
+        <firstName>Guy</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Reschenthaler</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <district>14</district>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M001143</bioguideId>
+        <state>MN</state>
+        <firstName>BETTY</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCOLLUM</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <district>4</district>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <gpoId>8012</gpoId>
+          <lisID>2032</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>H001053</bioguideId>
+        <state>MO</state>
+        <firstName>Vicky</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hartzler</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <district>4</district>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>H.</middleName>
+        <bioguideId>R000609</bioguideId>
+        <state>FL</state>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rutherford</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <district>4</district>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>1931</lisID>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>L000569</bioguideId>
+        <state>MO</state>
+        <firstName>Blaine</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Luetkemeyer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <district>3</district>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1790</lisID>
+          <gpoId>8013</gpoId>
+          <bioguideId>C001061</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>C001061</bioguideId>
+        <state>MO</state>
+        <firstName>Emanuel</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cleaver</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <district>5</district>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>A000377</bioguideId>
+          <gpoId />
+          <lisID>2417</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>A000377</bioguideId>
+        <state>ND</state>
+        <firstName>Kelly</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Armstrong</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <district>0</district>
+        <fullName>Rep. Armstrong, Kelly [R-ND-At Large]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>W000812</bioguideId>
+        <state>MO</state>
+        <firstName>Ann</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wagner</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+        </identifiers>
+        <middleName>E.</middleName>
+        <bioguideId>Y000033</bioguideId>
+        <state>AK</state>
+        <firstName>DON</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>YOUNG</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <district>0</district>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2191</lisID>
+          <bioguideId>S001195</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>S001195</bioguideId>
+        <state>MO</state>
+        <firstName>Jason</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Smith</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <district>8</district>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <bioguideId>T000470</bioguideId>
+        <state>CO</state>
+        <firstName>Scott</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tipton</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>3</district>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2394</lisID>
+          <gpoId />
+          <bioguideId>F000467</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>F000467</bioguideId>
+        <state>IA</state>
+        <firstName>Abby</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Finkenauer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Finkenauer, Abby [D-IA-1]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>1656</lisID>
+          <bioguideId>G000546</bioguideId>
+          <gpoId>8014</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>G000546</bioguideId>
+        <state>MO</state>
+        <firstName>SAM</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRAVES</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>6</district>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2033</lisID>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>L000576</bioguideId>
+        <state>MO</state>
+        <firstName>Billy</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Long</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>7</district>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000616</bioguideId>
+          <gpoId />
+          <lisID>2413</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>P000616</bioguideId>
+        <state>MN</state>
+        <firstName>Dean</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Phillips</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <district>3</district>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>P000607</bioguideId>
+        <state>WI</state>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pocan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2395</lisID>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>A000378</bioguideId>
+        <state>IA</state>
+        <firstName>Cynthia</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Axne</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <district>3</district>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>F000461</bioguideId>
+        <state>TX</state>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Flores</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <district>17</district>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+      </item>
+    </cosponsors>
+    <introducedDate>2019-01-08</introducedDate>
+    <title>Chiropractic Health Parity for Military Beneficiaries Act</title>
+    <updateDate>2019-04-30T07:15:40Z</updateDate>
+    <billType>HR</billType>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>Rogers</lastName>
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <bioguideId>R000575</bioguideId>
+          <gpoId>7788</gpoId>
+          <lisID>1704</lisID>
+        </identifiers>
+        <bioguideId>R000575</bioguideId>
+        <state>AL</state>
+        <district>3</district>
+        <firstName>Mike</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><STRONG>Chiropractic Health Parity for Military Beneficiaries Act</STRONG></p> <p>This bill directs the Department of Defense to provide chiropractic health care services and benefits through the TRICARE program to uniformed service members who are not on active duty and to uniformed service retirees. (Active duty members of the uniformed services are currently eligible for chiropractic services and benefits through the Chiropractic Health Care Program.)</p>]]></text>
+          <lastSummaryUpdateDate>2019-02-11T22:43:23Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-08T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2019-01-08</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROGERS of Alabama:H.R. 344.Congress has the power to enact this legislation pursuantto the following:The power of Congress to make rues to provide for thecommon defenes, as enumerated in Article I, Section 8, Clause1 of the United States Constitution.[Page H287]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative treatments</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Musculoskeletal and skin diseases</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr344ih/xml/BILLS-116hr344ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-08T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>To require the Secretary of Defense to develop and implement a plan to provide chiropractic health care services for certain covered beneficiaries as part of the TRICARE program.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Chiropractic Health Parity for Military Beneficiaries Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Chiropractic Health Parity for Military Beneficiaries Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Chiropractic Health Parity for Military Beneficiaries Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-01-24</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-24T17:31:27Z</date>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-08T17:07:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

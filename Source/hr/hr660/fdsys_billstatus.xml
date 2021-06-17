@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-01-18T08:10:11Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2019-01-31</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-17</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-01-17</actionDate>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-01-17</actionDate>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billNumber>660</billNumber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>1793</lisID>
+          <gpoId>8038</gpoId>
+          <bioguideId>F000449</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>1</district>
+        <lastName>Fortenberry</lastName>
+        <byRequestType />
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <bioguideId>F000449</bioguideId>
+        <firstName>Jeff</firstName>
+        <state>NE</state>
+      </item>
+    </sponsors>
+    <updateDate>2019-03-22T16:27:49Z</updateDate>
+    <calendarNumbers />
+    <title>CHILD Act</title>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To improve the health outcomes in communities through community-relevant health information and new health supporting incentives and programs funded without further appropriations.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>CHILD Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Community Health Improvement, Leadership, and Development Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>CHILD Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>CHILD Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Community Health Improvement, Leadership, and Development Act of 2019</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <firstName>EDDIE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000126</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>599</lisID>
+          <gpoId>8186</gpoId>
+          <bioguideId>J000126</bioguideId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <middleName>BERNICE</middleName>
+        <lastName>JOHNSON</lastName>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <state>AR</state>
+        <firstName>J.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001072</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2223</lisID>
+          <gpoId />
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <middleName>French</middleName>
+        <lastName>Hill</lastName>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <notes />
+    <cboCostEstimates />
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-17T14:06:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-01-31T16:58:11Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FORTENBERRY:H.R. 660.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the United StatesConstitution.[Page H720]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-01-17</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <textVersions>
+      <item>
+        <date>2019-01-17T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr660ih/xml/BILLS-116hr660ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

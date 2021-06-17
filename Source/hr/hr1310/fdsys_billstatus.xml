@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-02-19</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-19</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-19</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <amendments />
+    <version>1.0.0</version>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Violence Against Women Act of 1994 to include the rural development voucher program as a covered housing program, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>VAWA Protections for Rural Women Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>VAWA Protections for Rural Women Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>VAWA Protections for Rural Women Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2019-02-20T14:35:38Z</createDate>
+    <billNumber>1310</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-02-19T19:31:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>H001074</bioguideId>
+          <lisID>2327</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Hollingsworth, Trey [R-IN-9]</fullName>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <firstName>Trey</firstName>
+        <lastName>Hollingsworth</lastName>
+        <bioguideId>H001074</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2450</lisID>
+          <bioguideId>G000587</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Garcia, Sylvia R. [D-TX-29]</fullName>
+        <district>29</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <firstName>Sylvia</firstName>
+        <lastName>Garcia</lastName>
+        <bioguideId>G000587</bioguideId>
+        <middleName>R.</middleName>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+        <bioguideId>W000812</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>A000378</bioguideId>
+          <gpoId />
+          <lisID>2395</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <firstName>Cynthia</firstName>
+        <lastName>Axne</lastName>
+        <bioguideId>A000378</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <billType>HR</billType>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <bioguideId>G000581</bioguideId>
+        <middleName />
+        <firstName>Vicente</firstName>
+        <party>D</party>
+        <lastName>Gonzalez</lastName>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000581</bioguideId>
+          <lisID>2349</lisID>
+        </identifiers>
+        <district>15</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2019-02-19</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <laws />
+    <updateDate>2019-03-15T07:16:12Z</updateDate>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GONZALEZ of Texas:H.R. 1310.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 5 of the U.S. Constitution;and Article I, Section 8, Clause 18 of the U.S. Constitution.[Page H2042]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1310ih/xml/BILLS-116hr1310ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-19T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>VAWA Protections for Rural Women Act of 2019</title>
+    <congress>116</congress>
+    <introducedDate>2019-02-19</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

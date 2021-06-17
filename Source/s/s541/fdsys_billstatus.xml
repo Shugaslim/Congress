@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <version>1.0.0</version>
+    <updateDate>2019-03-22T22:17:00Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-25T21:17:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-02-25</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <date>2019-02-25T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s541is/xml/BILLS-116s541is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billNumber>541</billNumber>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <middleName>R.</middleName>
+        <lastName>Warner</lastName>
+        <byRequestType />
+        <party>D</party>
+        <bioguideId>W000805</bioguideId>
+        <state>VA</state>
+        <identifiers>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to require the Secretary of Labor to establish a pilot program for providing portable benefits to eligible workers, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Portable Benefits for Independent Workers Pilot Program Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Portable Benefits for Independent Workers Pilot Program Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Portable Benefits for Independent Workers Pilot Program Act</title>
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <title>Portable Benefits for Independent Workers Pilot Program Act</title>
+    <billType>S</billType>
+    <laws />
+    <introducedDate>2019-02-25</introducedDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <congress>116</congress>
+    <cboCostEstimates />
+    <createDate>2019-02-26T15:25:28Z</createDate>
+    <cosponsors>
+      <item>
+        <middleName>C.</middleName>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <party>R</party>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <lastName>Young</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Y000064</bioguideId>
+        <firstName>Todd</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <party>R</party>
+        <state>ND</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <lastName>Hoeven</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001061</bioguideId>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <party>R</party>
+        <state>NE</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2289</lisID>
+          <bioguideId>S001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <lastName>Sasse</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001197</bioguideId>
+        <firstName>Ben</firstName>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <party>D</party>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <lastName>Bennet</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001267</bioguideId>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <party>I</party>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <lastName>King</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000383</bioguideId>
+        <firstName>Angus</firstName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

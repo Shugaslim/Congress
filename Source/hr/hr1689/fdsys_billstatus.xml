@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-13T07:12:08Z</createDate>
+    <introducedDate>2019-03-12</introducedDate>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1689ih/xml/BILLS-116hr1689ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-13T14:18:51Z</date>
+                </item>
+              </activities>
+              <name>Water Resources and Environment Subcommittee</name>
+            </item>
+            <item>
+              <systemCode>hspw07</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-13T14:18:41Z</date>
+                </item>
+              </activities>
+              <name>Coast Guard and Maritime Transportation Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-12T14:01:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-12T14:01:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-12T14:01:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Department of Commerce</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Theodore</firstName>
+        <byRequestType />
+        <middleName>E.</middleName>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <state>FL</state>
+        <party>D</party>
+        <lastName>Deutch</lastName>
+        <district>22</district>
+        <identifiers>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <bioguideId>D000610</bioguideId>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-03-13</actionDate>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-13</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-13</actionDate>
+        <committee>
+          <name>Coast Guard and Maritime Transportation Subcommittee</name>
+          <systemCode>hspw07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DEUTCH:H.R. 1689.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the U.S. Constitution.[Page H2680]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <titles>
+      <item>
+        <title>To establish the Climate Change Advisory Commission to develop recommendations, frameworks, and guidelines for projects to respond to the impacts of climate change, to issue Federal obligations, the proceeds of which shall be used to fund projects that aid in adaptation to climate change, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Climate Change Resiliency Fund for America Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Climate Change Resiliency Fund for America Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Climate Change Resiliency Fund for America Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <committeeReports />
+    <title>Climate Change Resiliency Fund for America Act of 2019</title>
+    <congress>116</congress>
+    <updateDate>2019-04-02T17:45:07Z</updateDate>
+    <billNumber>1689</billNumber>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance. (text: CR S1795-1797)</text>
+          <actionDate>2019-03-12</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>Climate Change Resiliency Fund for America Act of 2019</latestTitle>
+        <number>763</number>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-04-11</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <middleName />
+        <lastName>UDALL</lastName>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <state>NM</state>
+        <byRequestType />
+        <firstName>TOM</firstName>
+        <bioguideId>U000039</bioguideId>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-03T04:43:51Z</updateDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1180is/xml/BILLS-116s1180is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-11T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-11T18:35:47Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Urban Indian Health Parity Act</title>
+    <congress>116</congress>
+    <billNumber>1180</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-04-11</introducedDate>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2019-04-11</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to extend the full Federal medical assistance percentage to urban Indian organizations.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Urban Indian Health Parity Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Urban Indian Health Parity Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Urban Indian Health Parity Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-04-12T04:57:10Z</createDate>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Baldwin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>Tammy</firstName>
+        <bioguideId>B001230</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>CANTWELL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>MARIA</firstName>
+        <bioguideId>C000127</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <identifiers>
+          <lisID>2299</lisID>
+          <gpoId />
+          <bioguideId>C001113</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cortez Masto</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NV</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>Catherine</firstName>
+        <bioguideId>C001113</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Heinrich</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>Martin</firstName>
+        <bioguideId>H001046</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MARKEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>EDWARD</firstName>
+        <bioguideId>M000133</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>Jeff</firstName>
+        <bioguideId>M001176</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <identifiers>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+          <lisID>1409</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>PATTY</firstName>
+        <bioguideId>M001111</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Smith</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>Tina</firstName>
+        <bioguideId>S001203</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Tester</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MT</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>Jon</firstName>
+        <bioguideId>T000464</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <firstName>Elizabeth</firstName>
+        <bioguideId>W000817</bioguideId>
+      </item>
+    </cosponsors>
+    <notes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>To amend title XIX of the Social Security Act to require a Federal medical assistance percentage of 100 percent for urban Indian organizations, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-04-12</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <number>2316</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

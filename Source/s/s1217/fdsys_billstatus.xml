@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1217is/xml/BILLS-116s1217is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to eliminate the taxable income limit on percentage depletion for oil and natural gas produced from marginal properties.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to eliminate the taxable income limit on percentage depletion for oil and natural gas produced from marginal properties.</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <updateDate>2019-05-01T04:42:25Z</updateDate>
+    <cosponsors />
+    <cboCostEstimates />
+    <congress>116</congress>
+    <title>A bill to amend the Internal Revenue Code of 1986 to eliminate the taxable income limit on percentage depletion for oil and natural gas produced from marginal properties.</title>
+    <amendments />
+    <relatedBills />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <date>2019-04-11T20:45:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <party>R</party>
+        <byRequestType />
+        <middleName />
+        <lastName>INHOFE</lastName>
+        <state>OK</state>
+        <bioguideId>I000024</bioguideId>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-04-12T04:57:11Z</createDate>
+    <recordedVotes />
+    <billNumber>1217</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-11</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <actionDate>2019-04-11</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-04-11</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

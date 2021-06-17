@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>1361</number>
+        <latestTitle>Blockchain Promotion Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-02-26</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-26</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s553is/xml/BILLS-116s553is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-02-26T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <billNumber>553</billNumber>
+    <committeeReports />
+    <amendments />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName>C.</middleName>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <identifiers>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <lastName>Young</lastName>
+        <firstName>Todd</firstName>
+        <party>R</party>
+        <state>IN</state>
+        <bioguideId>Y000064</bioguideId>
+      </item>
+    </sponsors>
+    <notes />
+    <introducedDate>2019-02-26</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Currency</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-26T15:37:01Z</date>
+            </item>
+          </activities>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to direct the Secretary of Commerce to establish a working group to recommend to Congress a definition of blockchain technology, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Blockchain Promotion Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Blockchain Promotion Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Blockchain Promotion Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <createDate>2019-02-27T05:25:07Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-04-11T15:44:26Z</updateDate>
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2019-02-26</actionDate>
+      <links />
+    </latestAction>
+    <billType>S</billType>
+    <title>Blockchain Promotion Act of 2019</title>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <lastName>MARKEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <bioguideId>M000133</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>EDWARD</firstName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <middleName>J.</middleName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T14:06:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T14:06:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-05-23T07:12:08Z</createDate>
+    <policyArea />
+    <sponsors>
+      <item>
+        <lastName>BLUMENAUER</lastName>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <party>D</party>
+        <district>3</district>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Holding, George [R-NC-2]</fullName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001065</bioguideId>
+        <lastName>Holding</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2143</lisID>
+          <gpoId />
+          <bioguideId>H001065</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>2</district>
+        <firstName>George</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001251</bioguideId>
+        <lastName>Butterfield</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1761</lisID>
+          <bioguideId>B001251</bioguideId>
+          <gpoId>8024</gpoId>
+        </identifiers>
+        <party>D</party>
+        <district>1</district>
+        <firstName>G. K.</firstName>
+      </item>
+    </cosponsors>
+    <billNumber>2905</billNumber>
+    <laws />
+    <congress>116</congress>
+    <title>To provide for a demonstration project to further examine the benefits of providing coverage and payment for items and services necessary to administer intravenous immune globulin (IVIG) in the home, and for other purposes.</title>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E657</url>
+            <name>E657</name>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR E657)</text>
+        <actionCode>B00100</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BLUMENAUER:H.R. 2905.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H4120]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-05-22</introducedDate>
+    <relatedBills />
+    <amendments />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <updateDate>2019-05-23T12:57:09Z</updateDate>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To provide for a demonstration project to further examine the benefits of providing coverage and payment for items and services necessary to administer intravenous immune globulin (IVIG) in the home, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To provide for a demonstration project to further examine the benefits of providing coverage and payment for items and services necessary to administer intravenous immune globulin (IVIG) in the home, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2019-05-22</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <committeeReports />
+    <textVersions />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

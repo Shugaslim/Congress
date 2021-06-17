@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <introducedDate>2019-05-23</introducedDate>
+    <laws />
+    <relatedBills />
+    <createDate>2019-05-24T05:27:15Z</createDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <middleName>MARGARET</middleName>
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <party>R</party>
+        <firstName>SUSAN</firstName>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Gardner</lastName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <middleName />
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <party>R</party>
+        <firstName>Cory</firstName>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <updateDate>2019-05-24T05:31:56Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to require reporting on prescription drug expenditures under group health plans and on prescription drug price changes, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to require reporting on prescription drug expenditures under group health plans and on prescription drug price changes, and for other purposes.</title>
+      </item>
+    </titles>
+    <billNumber>1664</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions />
+    <title>A bill to require reporting on prescription drug expenditures under group health plans and on prescription drug price changes, and for other purposes.</title>
+    <congress>116</congress>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-05-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick  [R-FL]</fullName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001217</bioguideId>
+          <lisID>2470</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Rick</firstName>
+        <lastName>Scott</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2019-05-23</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T18:54:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

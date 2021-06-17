@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1527</billNumber>
+    <recordedVotes />
+    <introducedDate>2019-03-05</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-05T17:01:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-29T21:34:10Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-29</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionDate>2019-03-05</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-03-05</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-03-05</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <createDate>2019-03-06T08:12:10Z</createDate>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2019-03-29</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <titles>
+      <item>
+        <title>To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into contracts and agreements for the placement of veterans in non-Department medical foster homes for certain veterans who are unable to live independently.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Long-Term Care Veterans Choice Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Long-Term Care Veterans Choice Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Long-Term Care Veterans Choice Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HIGGINS of Louisiana:H.R. 1527.Congress has the power to enact this legislation pursuantto the following:Clause 18 of Section 8 of Article 1 of the Constitution[Page H2369]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-29T07:15:17Z</updateDate>
+    <relatedBills />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <title>Long-Term Care Veterans Choice Act</title>
+    <sponsors>
+      <item>
+        <district>3</district>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <bioguideId>H001077</bioguideId>
+          <gpoId />
+          <lisID>2329</lisID>
+        </identifiers>
+        <lastName>Higgins</lastName>
+        <state>LA</state>
+        <bioguideId>H001077</bioguideId>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <party>R</party>
+        <firstName>Clay</firstName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <state>PR</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000582</bioguideId>
+        <firstName>Jenniffer</firstName>
+        <party>R</party>
+        <district>0</district>
+        <middleName />
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+          <gpoId />
+          <lisID>2347</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gonzalez-Colon</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <state>AS</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000600</bioguideId>
+        <firstName>Aumua Amata</firstName>
+        <party>R</party>
+        <district>0</district>
+        <middleName>Coleman</middleName>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <identifiers>
+          <bioguideId>R000600</bioguideId>
+          <gpoId />
+          <lisID>2222</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Radewagen</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001214</bioguideId>
+        <firstName>W.</firstName>
+        <party>R</party>
+        <district>17</district>
+        <middleName>Gregory</middleName>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <identifiers>
+          <bioguideId>S001214</bioguideId>
+          <gpoId />
+          <lisID>2389</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Steube</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <state>KY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001282</bioguideId>
+        <firstName>Andy</firstName>
+        <party>R</party>
+        <district>6</district>
+        <middleName />
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <identifiers>
+          <lisID>2131</lisID>
+          <gpoId />
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Barr</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001110</bioguideId>
+        <firstName>J.</firstName>
+        <party>D</party>
+        <district>46</district>
+        <middleName>Luis</middleName>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <identifiers>
+          <lisID>2312</lisID>
+          <bioguideId>C001110</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Correa</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001285</bioguideId>
+        <firstName>Julia</firstName>
+        <party>D</party>
+        <district>26</district>
+        <middleName />
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brownley</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>KY</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001184</bioguideId>
+        <firstName>Thomas</firstName>
+        <party>R</party>
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <identifiers>
+          <gpoId>8371</gpoId>
+          <lisID>2094</lisID>
+          <bioguideId>M001184</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Massie</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001195</bioguideId>
+        <firstName>Jason</firstName>
+        <party>R</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <identifiers>
+          <lisID>2191</lisID>
+          <gpoId />
+          <bioguideId>S001195</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Smith</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001053</bioguideId>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cole</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000397</bioguideId>
+        <firstName>ZOE</firstName>
+        <party>D</party>
+        <district>19</district>
+        <middleName />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LOFGREN</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-28</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000599</bioguideId>
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Posey</lastName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billType>HR</billType>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1527ih/xml/BILLS-116hr1527ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-03-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

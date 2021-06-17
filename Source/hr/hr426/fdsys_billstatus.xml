@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <name>Energy and Mineral Resources Subcommittee</name>
+          <systemCode>hsii06</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionDate>2019-01-10</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-01-10</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-01-10</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <links />
+      <actionDate>2019-02-05</actionDate>
+    </latestAction>
+    <introducedDate>2019-01-10</introducedDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <bioguideId>G000584</bioguideId>
+        <state>MT</state>
+        <lastName>Gianforte</lastName>
+        <byRequestType />
+        <middleName />
+        <district>0</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000584</bioguideId>
+          <lisID>2359</lisID>
+        </identifiers>
+        <firstName>Greg</firstName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <cosponsors />
+    <committeeReports />
+    <updateDate>2019-02-06T08:13:05Z</updateDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GIANFORTE:H.R. 426.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18.[Page H463]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Natural Resources Management Act</latestTitle>
+        <number>47</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-05</actionDate>
+          <text>Motion to proceed to measure considered in Senate.</text>
+        </latestAction>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>Yellowstone Gateway Protection Act</latestTitle>
+        <number>60</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-01-09</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <title>Yellowstone Gateway Protection Act</title>
+    <calendarNumbers />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr426ih/xml/BILLS-116hr426ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-10T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <billNumber>426</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Mining</name>
+          </item>
+          <item>
+            <name>Montana</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Yellowstone Gateway Protection Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To withdraw certain National Forest System land in the Emigrant Crevice area located in the Custer Gallatin National Forest, Park County, Montana, from the mining and mineral leasing laws of the United States, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Yellowstone Gateway Protection Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Yellowstone Gateway Protection Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <createDate>2019-01-11T08:10:15Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-10T15:00:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Energy and Mineral Resources Subcommittee</name>
+              <systemCode>hsii06</systemCode>
+              <activities>
+                <item>
+                  <date>2019-02-05T18:05:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

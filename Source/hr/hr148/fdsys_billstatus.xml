@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+      </item>
+    </actions>
+    <introducedDate>2019-01-03</introducedDate>
+    <latestAction>
+      <actionDate>2019-01-31</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <middleName />
+        <district>18</district>
+        <party>D</party>
+        <firstName>SHEILA</firstName>
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+        </identifiers>
+        <lastName>JACKSON LEE</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <billType>HR</billType>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <amendments />
+    <title>Byron Nash Renal Medullary Carcinoma Awareness Act of 2019</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <actionDate>2019-01-03</actionDate>
+          <lastSummaryUpdateDate>2019-01-23T17:04:56Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Byron Nash Renal Medullary Carcinoma Awareness Act of </strong><b>2019</b></p> <p>This bill allows states to receive federal payment under Medicaid for 50% of their costs for providing education on the risk of renal medullary carcinoma to individuals with sickle cell disease. (Renal medullary carcinoma is a rare kidney disease usually found in individuals with the sickle cell trait.) </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <date>2019-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr148ih/xml/BILLS-116hr148ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GREEN of Texas:H.R. 148.Congress has the power to enact this legislation pursuantto the following:Commerce Clause (Art. 1, Sec. 8, Cl. 3)Necessary and Proper Clause (Art. 1, Sec. 8, Cl. 18)[Page H215]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2019-03-28T07:15:34Z</updateDate>
+    <createDate>2019-01-04T13:32:54Z</createDate>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <firstName>Al</firstName>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <gpoId>8165</gpoId>
+          <lisID>1803</lisID>
+        </identifiers>
+        <lastName>Green</lastName>
+        <bioguideId>G000553</bioguideId>
+        <middleName />
+        <district>9</district>
+      </item>
+    </sponsors>
+    <notes />
+    <billNumber>148</billNumber>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend title XIX of the Social Security Act to provide incentives for education on the risk of renal medullary carcinoma in individuals who are receiving medical assistance under such title and who have Sickle Cell Disease.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Byron Nash Renal Medullary Carcinoma Awareness Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Byron Nash Renal Medullary Carcinoma Awareness Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Byron Nash Renal Medullary Carcinoma Awareness Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-01-03T16:14:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2019-01-31T16:12:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

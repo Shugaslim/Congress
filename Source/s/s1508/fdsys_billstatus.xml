@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <cboCostEstimates />
+    <billNumber>1508</billNumber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-16T16:43:57Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <lastName>Toomey</lastName>
+        <party>R</party>
+        <firstName>Pat</firstName>
+        <identifiers>
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <middleName />
+        <bioguideId>T000461</bioguideId>
+        <state>PA</state>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <createDate>2019-05-17T04:42:08Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-05-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend title 18, United States Code, to provide enhanced penalties for convicted murderers who kill or target America's public safety officers.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend title 18, United States Code, to provide enhanced penalties for convicted murderers who kill or target America's public safety officers.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <updateDate>2019-05-21T09:19:30Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>Cornyn</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001056</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Tillis</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000476</bioguideId>
+        <middleName>Roland</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <party>R</party>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Perdue</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000612</bioguideId>
+        <middleName>Alfred</middleName>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+          <lisID>2286</lisID>
+        </identifiers>
+        <firstName>David</firstName>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <party>R</party>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Cotton</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001095</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <party>R</party>
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Lee</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000577</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <party>R</party>
+        <state>UT</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000293</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+        </identifiers>
+        <firstName>Ron</firstName>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <party>R</party>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Hoeven</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001061</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <party>R</party>
+        <state>ND</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>McSally</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001197</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+        </identifiers>
+        <firstName>Martha</firstName>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <party>R</party>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Braun</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001310</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+          <lisID>2462</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <party>R</party>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>CAPITO</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001047</bioguideId>
+        <middleName>MOORE</middleName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <party>R</party>
+        <state>WV</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Lankford</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000575</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <firstName>James</firstName>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <party>R</party>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>PORTMAN</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000449</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+          <lisID>924</lisID>
+        </identifiers>
+        <firstName>ROB</firstName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <party>R</party>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>INHOFE</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>I000024</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <party>R</party>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Ernst</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000295</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Joni</firstName>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <party>R</party>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Risch</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000584</bioguideId>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+        </identifiers>
+        <firstName>James</firstName>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <party>R</party>
+        <state>ID</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Rounds</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000605</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <party>R</party>
+        <state>SD</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Cruz</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001098</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Blunt</lastName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000575</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <firstName>Roy</firstName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <party>R</party>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <policyArea />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2019-05-16</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <textVersions />
+    <introducedDate>2019-05-16</introducedDate>
+    <title>A bill to amend title 18, United States Code, to provide enhanced penalties for convicted murderers who kill or target America's public safety officers.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [
+        {
+          "reference": "CR S2049-2050", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s908-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000555", 
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-27", 
+      "state": "NY", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-27", 
+  "number": "908", 
+  "official_title": "A bill to provide for an equitable management of summer flounder based on geographic, scientific, and economic data and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fluke Fairness Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S000148", 
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-04-03", 
+  "subjects": [
+    "Atlantic Ocean", 
+    "Congressional oversight", 
+    "Fishes", 
+    "Government studies and investigations", 
+    "Hunting and fishing", 
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for an equitable management of summer flounder based on geographic, scientific, and economic data and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fluke Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fluke Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Fluke Fairness Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-13T04:42:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s908.xml"
+}

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-30T21:34:35Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-30</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-04-30</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+        </identifiers>
+        <middleName />
+        <state>NJ</state>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <bioguideId>M000639</bioguideId>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <title>LOVE Act of 2019</title>
+    <cosponsors>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <lastName>CARDIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <party>D</party>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>C000141</bioguideId>
+      </item>
+      <item>
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <party>D</party>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <identifiers>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>M001169</bioguideId>
+      </item>
+      <item>
+        <firstName>TOM</firstName>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <party>D</party>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>U000039</bioguideId>
+      </item>
+      <item>
+        <firstName>EDWARD</firstName>
+        <lastName>MARKEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <party>D</party>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>M000133</bioguideId>
+      </item>
+      <item>
+        <firstName>Tammy</firstName>
+        <lastName>Baldwin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <party>D</party>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>B001230</bioguideId>
+      </item>
+      <item>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>G000555</bioguideId>
+      </item>
+      <item>
+        <firstName>DIANNE</firstName>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>F000062</bioguideId>
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+      </item>
+      <item>
+        <firstName>Timothy</firstName>
+        <lastName>Kaine</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <party>D</party>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>K000384</bioguideId>
+      </item>
+      <item>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <party>D</party>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>V000128</bioguideId>
+      </item>
+      <item>
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>DE</state>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+      </item>
+      <item>
+        <firstName>PATTY</firstName>
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <party>D</party>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <identifiers>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+          <lisID>1409</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>M001111</bioguideId>
+      </item>
+      <item>
+        <firstName>Kamala</firstName>
+        <lastName>Harris</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>H001075</bioguideId>
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <lastName>WYDEN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <party>D</party>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>W000779</bioguideId>
+      </item>
+      <item>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>K000367</bioguideId>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>B001288</bioguideId>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <lastName>Schatz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <party>D</party>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+      </item>
+      <item>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <party>D</party>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>W000802</bioguideId>
+      </item>
+      <item>
+        <firstName>Jacklyn</firstName>
+        <lastName>Rosen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <party>D</party>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <identifiers>
+          <lisID>2339</lisID>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <bioguideId>R000608</bioguideId>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>1252</billNumber>
+    <congress>116</congress>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills />
+    <calendarNumbers />
+    <createDate>2019-05-01T04:27:09Z</createDate>
+    <updateDate>2019-05-15T09:18:29Z</updateDate>
+    <latestAction>
+      <actionDate>2019-04-30</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to direct the Secretary of State to review the termination characterization of former members of the Department of State who were fired by reason of the sexual orientation of the official, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Lavender Offense Victim Exoneration Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>LOVE Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>LOVE Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Lavender Offense Victim Exoneration Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>LOVE Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-04-30</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1252is/xml/BILLS-116s1252is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

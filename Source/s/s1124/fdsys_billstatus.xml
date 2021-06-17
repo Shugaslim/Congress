@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <billNumber>1124</billNumber>
+    <actions>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-04-10</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <title>A bill to require the establishment of a working group to evaluate the food safety threat posed by beef and poultry imported from Brazil, and for other purposes.</title>
+    <createDate>2019-04-11T04:57:12Z</createDate>
+    <version>1.0.0</version>
+    <amendments />
+    <cosponsors />
+    <introducedDate>2019-04-10</introducedDate>
+    <relatedBills />
+    <updateDate>2019-05-01T04:30:40Z</updateDate>
+    <billType>S</billType>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <middleName />
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+        </identifiers>
+        <firstName>Jon</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1124is/xml/BILLS-116s1124is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to require the establishment of a working group to evaluate the food safety threat posed by beef and poultry imported from Brazil, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to require the establishment of a working group to evaluate the food safety threat posed by beef and poultry imported from Brazil, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-04-10</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-10T19:43:29Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

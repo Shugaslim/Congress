@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2019-03-25</introducedDate>
+    <billNumber>1855</billNumber>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-03-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-03-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-03-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DAVID P. ROE of Tennessee:H.R. 1855.Congress has the power to enact this legislation pursuantto the following:the authority enumerated in Clause 3 of Section 8 ofArticle I of the United States Constitution[Page H2796]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1855ih/xml/BILLS-116hr1855ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-25T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <title>Employee Rights Act</title>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Roe</lastName>
+        <firstName>David</firstName>
+        <bioguideId>R000582</bioguideId>
+        <district>1</district>
+        <middleName>P.</middleName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <state>TN</state>
+        <identifiers>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Employee Rights Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To provide protections for workers with respect to their right to select or refrain from selecting representation by a labor organization.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Employee Rights Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Employee Rights Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <district>5</district>
+        <bioguideId>F000450</bioguideId>
+        <firstName>Virginia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <lastName>Foxx</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000450</bioguideId>
+          <gpoId>8028</gpoId>
+          <lisID>1791</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>12</district>
+        <bioguideId>A000372</bioguideId>
+        <firstName>Rick</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <state>GA</state>
+        <party>R</party>
+        <lastName>Allen</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>C001108</bioguideId>
+        <firstName>James</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <state>KY</state>
+        <party>R</party>
+        <lastName>Comer</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001108</bioguideId>
+          <gpoId />
+          <lisID>2297</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>6</district>
+        <bioguideId>W000819</bioguideId>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <lastName>Walker</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2255</lisID>
+          <bioguideId>W000819</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <bioguideId>B001299</bioguideId>
+        <firstName>Jim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <state>IN</state>
+        <party>R</party>
+        <lastName>Banks</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2326</lisID>
+          <bioguideId>B001299</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>6</district>
+        <bioguideId>W000827</bioguideId>
+        <firstName>Ron</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <state>TX</state>
+        <party>R</party>
+        <lastName>Wright</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000827</bioguideId>
+          <lisID>2446</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <bioguideId>W000795</bioguideId>
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <state>SC</state>
+        <party>R</party>
+        <lastName>Wilson</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+          <lisID>1688</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>13</district>
+        <bioguideId>B001305</bioguideId>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <lastName>Budd</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2336</lisID>
+          <bioguideId>B001305</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <bioguideId>D000616</bioguideId>
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <state>TN</state>
+        <party>R</party>
+        <lastName>DesJarlais</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8151</gpoId>
+          <bioguideId>D000616</bioguideId>
+          <lisID>2062</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <bioguideId>M001177</bioguideId>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <state>CA</state>
+        <party>R</party>
+        <lastName>McClintock</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7809</gpoId>
+          <bioguideId>M001177</bioguideId>
+          <lisID>1908</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>B001289</bioguideId>
+        <firstName>Bradley</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <state>AL</state>
+        <party>R</party>
+        <lastName>Byrne</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2197</lisID>
+          <bioguideId>B001289</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>19</district>
+        <bioguideId>R000607</bioguideId>
+        <firstName>Francis</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <state>FL</state>
+        <party>R</party>
+        <lastName>Rooney</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2323</lisID>
+          <bioguideId>R000607</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>11</district>
+        <bioguideId>C001062</bioguideId>
+        <firstName>K.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Michael</middleName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <state>TX</state>
+        <party>R</party>
+        <lastName>Conaway</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001062</bioguideId>
+          <gpoId>8167</gpoId>
+          <lisID>1805</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>8</district>
+        <bioguideId>D000626</bioguideId>
+        <firstName>Warren</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <state>OH</state>
+        <party>R</party>
+        <lastName>Davidson</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000626</bioguideId>
+          <gpoId />
+          <lisID>2296</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <bioguideId>J000299</bioguideId>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <state>LA</state>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000299</bioguideId>
+          <gpoId />
+          <lisID>2330</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>0</district>
+        <bioguideId>A000377</bioguideId>
+        <firstName>Kelly</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <fullName>Rep. Armstrong, Kelly [R-ND-At Large]</fullName>
+        <state>ND</state>
+        <party>R</party>
+        <lastName>Armstrong</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2417</lisID>
+          <bioguideId>A000377</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>7</district>
+        <bioguideId>R000603</bioguideId>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <lastName>Rouzer</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000603</bioguideId>
+          <gpoId />
+          <lisID>2256</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>13</district>
+        <bioguideId>J000302</bioguideId>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <state>PA</state>
+        <party>R</party>
+        <lastName>Joyce</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000302</bioguideId>
+          <gpoId />
+          <lisID>2435</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>0</district>
+        <bioguideId>J000301</bioguideId>
+        <firstName>Dusty</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <fullName>Rep. Johnson, Dusty [R-SD-At Large]</fullName>
+        <state>SD</state>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2439</lisID>
+          <bioguideId>J000301</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <calendarNumbers />
+    <policyArea />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-25T16:00:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Education and Labor</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-03-25</actionDate>
+      <links />
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </latestAction>
+    <notes />
+    <createDate>2019-03-26T07:12:09Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-05-03T07:16:00Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

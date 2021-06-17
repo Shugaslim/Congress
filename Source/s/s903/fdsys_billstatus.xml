@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>903</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-30</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-03-27</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <state>AK</state>
+        <party>R</party>
+        <bioguideId>M001153</bioguideId>
+        <byRequestType />
+        <lastName>Murkowski</lastName>
+        <middleName />
+        <firstName>Lisa</firstName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <title>Nuclear Energy Leadership Act</title>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <lastName>Booker</lastName>
+        <bioguideId>B001288</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Cory</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>NJ</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <lastName>Alexander</lastName>
+        <bioguideId>A000360</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId>8304</gpoId>
+          <lisID>1695</lisID>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <firstName>Lamar</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>TN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <lastName>Manchin</lastName>
+        <bioguideId>M001183</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>WV</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <lastName>Risch</lastName>
+        <bioguideId>R000584</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <firstName>James</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>ID</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <firstName>Sheldon</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>RI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <lastName>CRAPO</lastName>
+        <bioguideId>C000880</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>ID</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <bioguideId>C001088</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>DE</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <lastName>CAPITO</lastName>
+        <bioguideId>C001047</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>WV</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <lastName>Duckworth</lastName>
+        <bioguideId>D000622</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+        </identifiers>
+        <firstName>Tammy</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>IL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <lastName>Sullivan</lastName>
+        <bioguideId>S001198</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Dan</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>AK</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <lastName>Bennet</lastName>
+        <bioguideId>B001267</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <identifiers>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>CO</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <lastName>GRAHAM</lastName>
+        <bioguideId>G000359</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>O.</middleName>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <firstName>LINDSEY</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>SC</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+        <bioguideId>P000449</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <firstName>ROB</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <lastName>Gardner</lastName>
+        <bioguideId>G000562</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <firstName>Cory</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>CO</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <lastName>Jones</lastName>
+        <bioguideId>J000300</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Doug</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>AL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <lastName>Cramer</lastName>
+        <bioguideId>C001096</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <firstName>Kevin</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>ND</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+        <bioguideId>C000141</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <firstName>BENJAMIN</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <state>MD</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to direct the Secretary of Energy to establish advanced nuclear goals, provide for a versatile, reactor-based fast neutron source, make available high-assay, low-enriched uranium for research, development, and demonstration of advanced nuclear reactor concepts, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Nuclear Energy Leadership Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Nuclear Energy Leadership Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Nuclear Energy Leadership Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-05-17T09:22:38Z</updateDate>
+    <congress>116</congress>
+    <introducedDate>2019-03-27</introducedDate>
+    <laws />
+    <createDate>2019-03-28T04:42:08Z</createDate>
+    <billType>S</billType>
+    <relatedBills />
+    <calendarNumbers />
+    <committeeReports />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <date>2019-03-27T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s903is/xml/BILLS-116s903is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2019-04-30</actionDate>
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2019-04-30T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-27T18:51:40Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Energy prices</name>
+          </item>
+          <item>
+            <name>Energy research</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Lighting, heating, cooling</name>
+          </item>
+          <item>
+            <name>Nuclear power</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Public utilities and utility rates</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Radioactive wastes and releases</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

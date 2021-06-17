@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2743</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-15</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-05-15</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-05-15</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <district>13</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2336</lisID>
+          <bioguideId>B001305</bioguideId>
+        </identifiers>
+        <state>NC</state>
+        <party>R</party>
+        <bioguideId>B001305</bioguideId>
+        <byRequestType />
+        <lastName>Budd</lastName>
+        <middleName />
+        <firstName>Ted</firstName>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <amendments />
+    <title>To repeal the Office of Financial Research, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To repeal the Office of Financial Research, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To repeal the Office of Financial Research, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-05-16T07:31:21Z</updateDate>
+    <introducedDate>2019-05-15</introducedDate>
+    <textVersions />
+    <relatedBills />
+    <congress>116</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <middleName>X.</middleName>
+        <state>WV</state>
+        <bioguideId>M001195</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mooney</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Alexander</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <middleName />
+        <state>OH</state>
+        <bioguideId>D000626</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Davidson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <identifiers>
+          <lisID>2296</lisID>
+          <bioguideId>D000626</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Warren</firstName>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-15T14:00:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <policyArea />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <actionDate>2019-05-15</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <createDate>2019-05-16T07:12:18Z</createDate>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

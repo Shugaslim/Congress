@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <state>OR</state>
+        <lastName>Merkley</lastName>
+        <middleName />
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to provide mandatory funding to the Secretary of Agriculture to carry out hazardous fuels reduction projects on National Forest System land, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to provide mandatory funding to the Secretary of Agriculture to carry out hazardous fuels reduction projects on National Forest System land, and for other purposes.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>WYDEN</lastName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <bioguideId>W000779</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>RON</firstName>
+      </item>
+    </cosponsors>
+    <notes />
+    <title>A bill to provide mandatory funding to the Secretary of Agriculture to carry out hazardous fuels reduction projects on National Forest System land, and for other purposes.</title>
+    <committeeReports />
+    <version>1.0.0</version>
+    <introducedDate>2019-05-23</introducedDate>
+    <recordedVotes />
+    <policyArea />
+    <billType>S</billType>
+    <actions>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-05-23</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-24T05:31:57Z</updateDate>
+    <createDate>2019-05-24T05:27:15Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2019-05-23</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>1691</billNumber>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2019-05-23T21:12:55Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions />
+    <relatedBills />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

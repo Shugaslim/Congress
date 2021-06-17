@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-13T05:40:23Z</createDate>
+    <introducedDate>2019-02-12</introducedDate>
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s461rfh/xml/BILLS-116s461rfh.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-13T05:00:00Z</date>
+        <type>Referred in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s461es/xml/BILLS-116s461es.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-12T05:00:00Z</date>
+        <type>Engrossed in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s461cps/xml/BILLS-116s461cps.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-12T05:00:00Z</date>
+        <type>Considered and Passed Senate</type>
+      </item>
+    </textVersions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-14T02:22:01Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-14T02:22:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Education</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <bioguideId>P000612</bioguideId>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <lastName>Perdue</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Doug</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>J000300</bioguideId>
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <lastName>Jones</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Kamala</firstName>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>H001075</bioguideId>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <lastName>Harris</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Marsha</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+          <lisID>1748</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>B001243</bioguideId>
+        <state>TN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <lastName>Blackburn</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Timothy</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+          <lisID>2176</lisID>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>K000384</bioguideId>
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <lastName>Kaine</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Cindy</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2366</lisID>
+          <gpoId />
+          <bioguideId>H001079</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>H001079</bioguideId>
+        <state>MS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <lastName>Hyde-Smith</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <lastName>Van Hollen</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <bioguideId>T000476</bioguideId>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <lastName>Tillis</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2194</lisID>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>B001288</bioguideId>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <lastName>Booker</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Amy</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Bernard</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <party>I</party>
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <lastName>Sanders</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2462</lisID>
+          <gpoId />
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>B001310</bioguideId>
+        <state>IN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <lastName>Braun</lastName>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Tim</firstName>
+        <byRequestType />
+        <middleName />
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <state>SC</state>
+        <party>R</party>
+        <bioguideId>S001184</bioguideId>
+        <identifiers>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+        <lastName>Scott</lastName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-02-13</actionDate>
+      <text>Referred to the Committee on Oversight and Reform, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the Committee on Oversight and Reform, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-02-13</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the Committee on Oversight and Reform, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-02-13</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H14000</actionCode>
+        <links />
+        <text>Received in the House.</text>
+        <actionDate>2019-02-13</actionDate>
+        <actionTime>12:07:51</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-02-12</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1281-1282</url>
+            <name>S1281-1282</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S1281-1282; text: CR S1281-1282)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+        <links />
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S1281-1282; text: CR S1281-1282)</text>
+        <actionDate>2019-02-12</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <sentToHouse>1</sentToHouse>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <billReferrals>2</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>HBCU PARTNERS Act</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>HBCU PARTNERS Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to strengthen the capacity and competitiveness of historically Black colleges and universities through robust public-sector, private-sector, and community partnerships and engagement, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>HBCU PARTNERS Act</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act</title>
+        <chamberCode>S</chamberCode>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <committeeReports />
+    <title>HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act</title>
+    <congress>116</congress>
+    <updateDate>2019-04-04T22:20:13Z</updateDate>
+    <billNumber>461</billNumber>
+    <relatedBills>
+      <item>
+        <latestTitle>HBCU PARTNERS Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-02-07</actionDate>
+          <text>Referred to the Committee on Oversight and Reform, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <number>1054</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <billType>S</billType>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

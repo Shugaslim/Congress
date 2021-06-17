@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HLIG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Intelligence (Permanent Select).", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1474-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000616", 
+      "district": "3", 
+      "name": "Phillips, Dean", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000597", 
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "ME", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001208", 
+      "district": "8", 
+      "name": "Slotkin, Elissa", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-28", 
+  "number": "1474", 
+  "official_title": "To require the Director of National Intelligence to submit a pre-election threat assessment prior to each regularly scheduled general election for Federal office, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s949-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Strengthening Elections Through Intelligence Act", 
+  "sponsor": {
+    "bioguide_id": "S001209", 
+    "district": "7", 
+    "name": "Spanberger, Abigail Davis", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-28", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Computer security and identity theft", 
+    "Congressional elections", 
+    "Congressional oversight", 
+    "Elections, voting, political campaign regulation", 
+    "Government studies and investigations", 
+    "Intelligence activities, surveillance, classified information", 
+    "State and local government operations", 
+    "Subversive activities"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Director of National Intelligence to submit a pre-election threat assessment prior to each regularly scheduled general election for Federal office, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Strengthening Elections Through Intelligence Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Strengthening Elections Through Intelligence Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Strengthening Elections Through Intelligence Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:15:49Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1474.xml"
+}

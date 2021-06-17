@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-01-09</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-09</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-09</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Patient Protection and Affordable Care Act to ensure that preexisting condition exclusions with respect to enrollment in health insurance coverage and group health plans continue to be prohibited.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Continuing Coverage for Preexisting Conditions Act of 2019</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Continuing Coverage for Preexisting Conditions Act of 2019</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Continuing Coverage for Preexisting Conditions Act of 2019</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <committeeReports />
+    <updateDate>2019-05-18T07:15:18Z</updateDate>
+    <createDate>2019-01-10T08:10:16Z</createDate>
+    <notes />
+    <amendments />
+    <cosponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <identifiers>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000463</bioguideId>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <lastName>Turner</lastName>
+        <district>10</district>
+        <sponsorshipDate>2019-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000386</bioguideId>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <lastName>Katko</lastName>
+        <district>24</district>
+        <sponsorshipDate>2019-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Anthony</firstName>
+        <fullName>Rep. Gonzalez, Anthony [R-OH-16]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2430</lisID>
+          <bioguideId>G000588</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000588</bioguideId>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <lastName>Gonzalez</lastName>
+        <district>16</district>
+        <sponsorshipDate>2019-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jaime</firstName>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <identifiers>
+          <gpoId>8207</gpoId>
+          <lisID>2071</lisID>
+          <bioguideId>H001056</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001056</bioguideId>
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <lastName>Herrera Beutler</lastName>
+        <district>3</district>
+        <sponsorshipDate>2019-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Dan</firstName>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2275</lisID>
+          <bioguideId>N000189</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000189</bioguideId>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <lastName>Newhouse</lastName>
+        <district>4</district>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Rodney</firstName>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000619</bioguideId>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <lastName>Davis</lastName>
+        <district>13</district>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001187</bioguideId>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <lastName>Stivers</lastName>
+        <district>15</district>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Susan</firstName>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001284</bioguideId>
+          <lisID>2129</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001284</bioguideId>
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>W.</middleName>
+        <party>R</party>
+        <lastName>Brooks</lastName>
+        <district>5</district>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Bryan</firstName>
+        <fullName>Rep. Steil, Bryan [R-WI-1]</fullName>
+        <identifiers>
+          <lisID>2459</lisID>
+          <bioguideId>S001213</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001213</bioguideId>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <lastName>Steil</lastName>
+        <district>1</district>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Pete</firstName>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2415</lisID>
+          <bioguideId>S001212</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001212</bioguideId>
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <lastName>Stauber</lastName>
+        <district>8</district>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billNumber>383</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-31T16:19:50Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-09T15:03:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2019-01-31</actionDate>
+    </latestAction>
+    <title>Continuing Coverage for Preexisting Conditions Act of 2019</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOYCE of Ohio:H.R. 383.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18The Congress shall have Power*** To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by theConstitution in the Government of the United States, or inany Department or Office thereof.The constitutional authority on which this bill rests isthe power of Congress to regulate commerce with foreignnations, and among the several states, and with the Indiantribes, as enumerated in Article I, Section 8, Clause 3 ofthe United States Constitution.[Page H359]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-01-09</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-01-09T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr383ih/xml/BILLS-116hr383ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <bioguideId>J000295</bioguideId>
+        <state>OH</state>
+        <middleName>P.</middleName>
+        <byRequestType />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2154</lisID>
+          <bioguideId>J000295</bioguideId>
+        </identifiers>
+        <lastName>Joyce</lastName>
+        <district>14</district>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <firstName>David</firstName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

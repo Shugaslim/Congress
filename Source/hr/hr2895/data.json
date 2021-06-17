@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2895-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001298", 
+      "district": "2", 
+      "name": "Bacon, Don", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-22", 
+      "state": "NE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000630", 
+      "district": "19", 
+      "name": "Delgado, Antonio", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000467", 
+      "district": "1", 
+      "name": "Finkenauer, Abby", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-22", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001180", 
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-22", 
+  "number": "2895", 
+  "official_title": "To provide incentives to physicians to practice in rural and medically underserved communities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001190", 
+    "district": "10", 
+    "name": "Schneider, Bradley Scott", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-22", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide incentives to physicians to practice in rural and medically underserved communities, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To provide incentives to physicians to practice in rural and medically underserved communities, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T07:15:52Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2895.xml"
+}

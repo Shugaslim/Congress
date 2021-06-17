@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-01-24</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-01-24</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-01-24</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-05-09T23:15:27Z</updateDate>
+    <latestAction>
+      <actionDate>2019-03-05</actionDate>
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-01-24T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr757ih/xml/BILLS-116hr757ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>757</billNumber>
+    <cosponsors>
+      <item>
+        <state>AZ</state>
+        <bioguideId>B001302</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <firstName>Andy</firstName>
+        <district>5</district>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>Biggs</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2307</lisID>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AZ</state>
+        <bioguideId>G000551</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <firstName>Raul</firstName>
+        <district>3</district>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <lastName>Grijalva</lastName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AZ</state>
+        <bioguideId>G000574</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <firstName>Ruben</firstName>
+        <district>7</district>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <lastName>Gallego</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>UT</state>
+        <bioguideId>S001192</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <firstName>Chris</firstName>
+        <district>2</district>
+        <sponsorshipDate>2019-01-31</sponsorshipDate>
+        <lastName>Stewart</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2168</lisID>
+          <gpoId />
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NV</state>
+        <bioguideId>L000590</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <firstName>Susie</firstName>
+        <district>3</district>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <lastName>Lee</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000590</bioguideId>
+          <lisID>2425</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <district>4</district>
+        <byRequestType />
+        <state>AZ</state>
+        <bioguideId>G000565</bioguideId>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-01-24T14:04:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-03-05T17:18:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Radiation Exposure Compensation Act for purposes of making claims under such Act based on exposure to atmospheric nuclear testing, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Downwinders Compensation Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Downwinders Compensation Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Downwinders Compensation Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-24</actionDate>
+          <lastSummaryUpdateDate>2019-04-08T19:55:39Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Downwinders Compensation Act of 2019</b></p> <p>This bill expands eligibility for restitution that is provided to certain individuals who were exposed to atmospheric nuclear testing and developed specified cancers. Specifically, the bill expands eligibility to include qualified individuals who were exposed in any part of Clark County, Nevada, or Mohave County, Arizona. </p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2019-01-24T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-01-25T08:10:13Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Downwinders Compensation Act of 2019</title>
+    <committeeReports />
+    <introducedDate>2019-01-24</introducedDate>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Downwinders Compensation Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>776</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2019-03-13</actionDate>
+        </latestAction>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+          <item>
+            <name>Radiation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOSAR:H.R. 757.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 (Spending Clause): ``TheCongress shall have the power to lay and collect taxes,duties, imposts and excises, to pay the debts and provide forthe common defense . . .'' The United States has incurredlegal liability for which it has waived its sovereignimmunity for illnesses and deaths associated with its NuclearWeapons testing programs during the 1950s and 1960s. Thisbill is grounded in scientific principles, represents anintent to apologize and offer compassionate compensation toan expanded list of individuals who were not included in the1990 Act but who, nonetheless, deserve restitution.[Page H1212]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

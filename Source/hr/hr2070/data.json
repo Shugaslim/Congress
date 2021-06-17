@@ -1,0 +1,258 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2070-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001049", 
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000754", 
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000295", 
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-03", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000562", 
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-15", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001180", 
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-25", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001195", 
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-22", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000576", 
+      "district": "2", 
+      "name": "Ruppersberger, C. A. Dutch", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000577", 
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-10", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001193", 
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-29", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000470", 
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-08", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000483", 
+      "district": "6", 
+      "name": "Trone, David J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-03", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-03", 
+  "number": "2070", 
+  "official_title": "To provide grants to State, local, territorial, and tribal law enforcement agencies to purchase chemical screening devices and train personnel to use chemical screening devices in order to enhance law enforcement efficiency and protect law enforcement officers.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s954-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "POWER Act", 
+  "sponsor": {
+    "bioguide_id": "L000588", 
+    "district": "17", 
+    "name": "Lamb, Conor", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-03", 
+  "subjects": [
+    "Chemistry", 
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Drug trafficking and controlled substances", 
+    "Employment and training programs", 
+    "Law enforcement officers"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide grants to State, local, territorial, and tribal law enforcement agencies to purchase chemical screening devices and train personnel to use chemical screening devices in order to enhance law enforcement efficiency and protect law enforcement officers.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "POWER Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "POWER Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing Officers With Electronic Resources Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing Officers With Electronic Resources Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "POWER Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:13:02Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2070.xml"
+}

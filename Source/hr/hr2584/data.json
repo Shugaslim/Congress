@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Budget.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2584-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001248", 
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-08", 
+  "number": "2584", 
+  "official_title": "To amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1361-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "D000197", 
+    "district": "1", 
+    "name": "DeGette, Diana", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-08", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Budget deficits and national debt", 
+    "Budget process", 
+    "Congressional oversight", 
+    "Economics and public finance", 
+    "Health care costs and insurance", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T16:30:10Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2584.xml"
+}

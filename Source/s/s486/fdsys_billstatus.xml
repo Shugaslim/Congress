@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <billNumber>486</billNumber>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>545</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Financial Relief for Feds Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-01-15</actionDate>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-02-14</introducedDate>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-14T15:38:28Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <createDate>2019-02-15T12:40:19Z</createDate>
+    <textVersions>
+      <item>
+        <date>2019-02-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s486is/xml/BILLS-116s486is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <title>A bill to waive the penalty for withdrawals from retirement plans for certain Federal employees and contractors affected by a lapse in appropriations, and for other purposes.</title>
+    <latestAction>
+      <actionDate>2019-02-14</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <party>R</party>
+        <lastName>Cassidy</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <state>LA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to waive the penalty for withdrawals from retirement plans for certain Federal employees and contractors affected by a lapse in appropriations, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to waive the penalty for withdrawals from retirement plans for certain Federal employees and contractors affected by a lapse in appropriations, and for other purposes.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <cosponsors>
+      <item>
+        <middleName>R.</middleName>
+        <state>VA</state>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <party>D</party>
+        <lastName>Warner</lastName>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000805</bioguideId>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <laws />
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-14</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <billType>S</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <updateDate>2019-05-22T12:30:07Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

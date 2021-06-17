@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <name>Immigration and Citizenship Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-30</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-30</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-30</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Immigration and Nationality Act to make changes related to family-sponsored immigrants and to reduce the number of such immigrants, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Nuclear Family Priority Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Nuclear Family Priority Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Nuclear Family Priority Act</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <committeeReports />
+    <updateDate>2019-05-18T07:15:23Z</updateDate>
+    <createDate>2019-01-31T08:10:18Z</createDate>
+    <notes />
+    <amendments />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gaetz</lastName>
+        <middleName />
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <district>1</district>
+        <bioguideId>G000578</bioguideId>
+        <state>FL</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Matt</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Meadows</lastName>
+        <middleName />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <district>11</district>
+        <bioguideId>M001187</bioguideId>
+        <state>NC</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Brooks</lastName>
+        <middleName />
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <district>5</district>
+        <bioguideId>B001274</bioguideId>
+        <state>AL</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <firstName>Mo</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Roe</lastName>
+        <middleName>P.</middleName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <district>1</district>
+        <bioguideId>R000582</bioguideId>
+        <state>TN</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <district>4</district>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Crawford</lastName>
+        <middleName>A. "Rick"</middleName>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <district>1</district>
+        <bioguideId>C001087</bioguideId>
+        <state>AR</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7793</gpoId>
+          <lisID>1989</lisID>
+          <bioguideId>C001087</bioguideId>
+        </identifiers>
+        <firstName>Eric</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Perry</lastName>
+        <middleName />
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <district>10</district>
+        <bioguideId>P000605</bioguideId>
+        <state>PA</state>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2157</lisID>
+          <bioguideId>P000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Babin</lastName>
+        <middleName />
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <district>36</district>
+        <bioguideId>B001291</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2270</lisID>
+          <gpoId />
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRAVES</lastName>
+        <middleName />
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <district>6</district>
+        <bioguideId>G000546</bioguideId>
+        <state>MO</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000546</bioguideId>
+          <lisID>1656</lisID>
+          <gpoId>8014</gpoId>
+        </identifiers>
+        <firstName>SAM</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Norman</lastName>
+        <middleName />
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <district>5</district>
+        <bioguideId>N000190</bioguideId>
+        <state>SC</state>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ralph</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Posey</lastName>
+        <middleName />
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <district>8</district>
+        <bioguideId>P000599</bioguideId>
+        <state>FL</state>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>ADERHOLT</lastName>
+        <middleName>B.</middleName>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <district>4</district>
+        <bioguideId>A000055</bioguideId>
+        <state>AL</state>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7789</gpoId>
+          <lisID>1460</lisID>
+          <bioguideId>A000055</bioguideId>
+        </identifiers>
+        <firstName>ROBERT</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cloud</lastName>
+        <middleName />
+        <fullName>Rep. Cloud, Michael [R-TX-27]</fullName>
+        <district>27</district>
+        <bioguideId>C001115</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2369</lisID>
+          <bioguideId>C001115</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wittman</lastName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <district>1</district>
+        <bioguideId>W000804</bioguideId>
+        <state>VA</state>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000804</bioguideId>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wright</lastName>
+        <middleName />
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <district>6</district>
+        <bioguideId>W000827</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <lisID>2446</lisID>
+          <bioguideId>W000827</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ron</firstName>
+      </item>
+    </cosponsors>
+    <billNumber>891</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-30T14:10:10Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-25T14:59:21Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <links />
+      <actionDate>2019-03-25</actionDate>
+    </latestAction>
+    <title>Nuclear Family Priority Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HICE of Georgia:H.R. 891.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 4, which states that Congresshas the power ``to establish a uniform Rule of Naturalizationand uniform Laws on the subject of Bankruptcies throughoutthe United States.''Article I, Section 8, Clause 18, which states that Congresshas the power to ``make all Laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States or in any Department orOfficer thereof . . .''[Page H1337]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-01-30</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr891ih/xml/BILLS-116hr891ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-30T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <bioguideId>H001071</bioguideId>
+        <state>GA</state>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+        <lastName>Hice</lastName>
+        <district>10</district>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <firstName>Jody</firstName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

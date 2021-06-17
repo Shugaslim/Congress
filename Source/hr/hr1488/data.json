@@ -1,0 +1,160 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-04", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1488-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000482", 
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-15", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001056", 
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-04", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000382", 
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-15", 
+      "state": "NH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001185", 
+      "district": "18", 
+      "name": "Maloney, Sean Patrick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000614", 
+      "district": "1", 
+      "name": "Pappas, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "NH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-04", 
+  "number": "1488", 
+  "official_title": "To assist States in carrying out projects to expand the child care workforce and child care facilities in the States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s605-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Child Care Workforce and Facilities Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "P000258", 
+    "district": "7", 
+    "name": "Peterson, Collin C.", 
+    "state": "MN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-04", 
+  "subjects": [
+    "Child care and development", 
+    "Congressional oversight", 
+    "Education programs funding", 
+    "Families", 
+    "Higher education", 
+    "Indian social and development programs", 
+    "Student aid and college costs", 
+    "Teaching, teachers, curricula", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Families", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To assist States in carrying out projects to expand the child care workforce and child care facilities in the States, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Child Care Workforce and Facilities Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Child Care Workforce and Facilities Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Child Care Workforce and Facilities Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-02T07:16:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1488.xml"
+}

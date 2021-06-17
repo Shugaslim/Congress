@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr715-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001281", 
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-23", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-23", 
+  "number": "715", 
+  "official_title": "To amend section 428 of the McKinney-Vento Homeless Assistance Act to provide incentives to grantees under the Continuum of Care program to re-house all former members of the Armed Forces, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "HOMeS Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S001187", 
+    "district": "15", 
+    "name": "Stivers, Steve", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-23", 
+  "subjects": [
+    "Congressional oversight", 
+    "Homelessness and emergency shelter", 
+    "Housing and community development", 
+    "Housing and community development funding", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "HOMeS Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "HOMeS Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Housing Our Military Servicemembers Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Housing Our Military Servicemembers Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend section 428 of the McKinney-Vento Homeless Assistance Act to provide incentives to grantees under the Continuum of Care program to re-house all former members of the Armed Forces, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "HOMeS Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-11T19:53:48Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr715.xml"
+}

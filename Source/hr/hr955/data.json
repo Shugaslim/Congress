@@ -1,0 +1,362 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-04", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-22", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr955-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001303", 
+      "district": null, 
+      "name": "Blunt Rochester, Lisa", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-04", 
+      "state": "DE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001078", 
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-28", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-04", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000617", 
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000624", 
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000482", 
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001064", 
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-04", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001047", 
+      "district": "4", 
+      "name": "Himes, James A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-04", 
+      "state": "CT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000032", 
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-04", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000381", 
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-04", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000394", 
+      "district": "3", 
+      "name": "Kim, Andy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001185", 
+      "district": "18", 
+      "name": "Maloney, Sean Patrick", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-04", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001143", 
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-05", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001188", 
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-17", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001196", 
+      "district": "6", 
+      "name": "Moulton, Seth", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-08", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-24", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-04", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000577", 
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-04", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-14", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-04", 
+  "number": "955", 
+  "official_title": "To improve the reproductive assistance provided by the Department of Defense and the Department of Veterans Affairs to severely wounded, ill, or injured members of the Armed Forces, veterans, and their spouses or partners, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Women Veterans and Families Health Services Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000560", 
+    "district": "2", 
+    "name": "Larsen, Rick", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-04", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Adoption and foster care", 
+    "Armed forces and national security", 
+    "Child care and development", 
+    "Congressional oversight", 
+    "Department of Veterans Affairs", 
+    "Medical research", 
+    "Mental health", 
+    "Military medicine", 
+    "Military personnel and dependents", 
+    "Sex and reproductive health", 
+    "Veterans' medical care", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Women Veterans and Families Health Services Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Women Veterans and Families Health Services Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve the reproductive assistance provided by the Department of Defense and the Department of Veterans Affairs to severely wounded, ill, or injured members of the Armed Forces, veterans, and their spouses or partners, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Women Veterans and Families Health Services Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T07:15:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr955.xml"
+}

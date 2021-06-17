@@ -1,0 +1,144 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border Security, Facilitation, and Operations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1609-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border Security, Facilitation, and Operations", 
+      "subcommittee_id": "11"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001077", 
+      "district": "3", 
+      "name": "Higgins, Clay", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000575", 
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-07", 
+  "number": "1609", 
+  "official_title": "To amend the Anti-Border Corruption Act of 2010 to authorize certain polygraph waiver authority, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Anti-Border Corruption Improvement Act", 
+  "sponsor": {
+    "bioguide_id": "C001120", 
+    "district": "2", 
+    "name": "Crenshaw, Dan", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-07", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Homeland Security", 
+    "Employee hiring", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Law enforcement officers", 
+    "Military personnel and dependents", 
+    "National Guard and reserves", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Anti-Border Corruption Act of 2010 to authorize certain polygraph waiver authority, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Anti-Border Corruption Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Anti-Border Corruption Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Anti-Border Corruption Improvement Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-01T19:00:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1609.xml"
+}

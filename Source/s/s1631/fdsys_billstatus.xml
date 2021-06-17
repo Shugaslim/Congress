@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <congress>116</congress>
+    <recordedVotes />
+    <textVersions />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-05-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2019-05-23</actionDate>
+    </latestAction>
+    <laws />
+    <updateDate>2019-05-24T05:31:54Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T15:48:05Z</date>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <lastName>Kennedy</lastName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <middleName>Neely</middleName>
+        <firstName>John</firstName>
+        <party>R</party>
+        <byRequestType />
+        <bioguideId>K000393</bioguideId>
+        <state>LA</state>
+        <identifiers>
+          <lisID>2303</lisID>
+          <gpoId />
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <amendments />
+    <notes />
+    <billType>S</billType>
+    <introducedDate>2019-05-23</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to establish criminal penalties for aliens who fail to depart before the expiration of their visas.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to establish criminal penalties for aliens who fail to depart before the expiration of their visas.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <relatedBills />
+    <createDate>2019-05-24T05:27:14Z</createDate>
+    <originChamber>Senate</originChamber>
+    <policyArea />
+    <title>A bill to establish criminal penalties for aliens who fail to depart before the expiration of their visas.</title>
+    <billNumber>1631</billNumber>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

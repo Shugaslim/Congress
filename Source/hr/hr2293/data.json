@@ -1,0 +1,495 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2293-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001278", 
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001295", 
+      "district": "12", 
+      "name": "Bost, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001305", 
+      "district": "13", 
+      "name": "Budd, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001067", 
+      "district": "9", 
+      "name": "Clarke, Yvette D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001053", 
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001078", 
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000294", 
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000297", 
+      "district": "13", 
+      "name": "Espaillat, Adriano", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000563", 
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001038", 
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000298", 
+      "district": "7", 
+      "name": "Jayapal, Pramila", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000292", 
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000289", 
+      "district": "4", 
+      "name": "Jordan, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000295", 
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000376", 
+      "district": "16", 
+      "name": "Kelly, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000210", 
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000362", 
+      "district": "4", 
+      "name": "King, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000559", 
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "RI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000565", 
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001159", 
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001137", 
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000599", 
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000523", 
+      "district": "4", 
+      "name": "Price, David E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000610", 
+      "district": "14", 
+      "name": "Reschenthaler, Guy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000602", 
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000616", 
+      "district": "48", 
+      "name": "Rouda, Harley", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000576", 
+      "district": "2", 
+      "name": "Ruppersberger, C. A. Dutch", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001165", 
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001196", 
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001193", 
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000469", 
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000463", 
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000108", 
+      "district": "1", 
+      "name": "Visclosky, Peter J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Z000017", 
+      "district": "1", 
+      "name": "Zeldin, Lee M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-12", 
+  "number": "2293", 
+  "official_title": "To amend title XVIII of the Social Security Act to exclude complex rehabilitative manual wheelchairs from the Medicare competitive acquisition program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protecting Access to Wheelchairs Act", 
+  "sponsor": {
+    "bioguide_id": "L000557", 
+    "district": "1", 
+    "name": "Larson, John B.", 
+    "state": "CT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-12", 
+  "subjects": [
+    "Disability and paralysis", 
+    "Health", 
+    "Health technology, devices, supplies", 
+    "Medicare"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to exclude complex rehabilitative manual wheelchairs from the Medicare competitive acquisition program, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Access to Wheelchairs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Access to Wheelchairs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protecting Access to Wheelchairs Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T07:15:47Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2293.xml"
+}

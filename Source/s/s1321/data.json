@@ -1,0 +1,172 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-06", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-06", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on the Judiciary. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "", 
+      "committee": "the Judiciary", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Judiciary. Reported by Senator Graham without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "95", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1321-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000359", 
+      "district": null, 
+      "name": "Graham, Lindsey", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-06", 
+      "state": "SC", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000802", 
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-06", 
+      "state": "RI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-06", 
+  "number": "1321", 
+  "official_title": "A bill to amend title 18, United States Code, to prohibit interference with voting systems under the Computer Fraud and Abuse Act.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s482-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Defending the Integrity of Voting Systems Act", 
+  "sponsor": {
+    "bioguide_id": "B001277", 
+    "district": null, 
+    "name": "Blumenthal, Richard", 
+    "state": "CT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-16", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Crime and law enforcement", 
+    "Elections, voting, political campaign regulation", 
+    "Fraud offenses and financial crimes"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 18, United States Code, to prohibit interference with voting systems under the Computer Fraud and Abuse Act.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Defending the Integrity of Voting Systems Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Defending the Integrity of Voting Systems Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Defending the Integrity of Voting Systems Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Defending the Integrity of Voting Systems Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Defending the Integrity of Voting Systems Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T20:30:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1321.xml"
+}

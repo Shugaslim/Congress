@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <title>Conflicts from Political Fundraising Act of 2019</title>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-28T21:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>232</billNumber>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>949</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-03-28</actionDate>
+        </latestAction>
+        <latestTitle>For the People Act of 2019</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <number>812</number>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Reform.</text>
+          <actionDate>2019-01-28</actionDate>
+        </latestAction>
+        <latestTitle>Conflicts from Political Fundraising Act of 2019</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <number>1</number>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.</text>
+          <actionDate>2019-03-14</actionDate>
+        </latestAction>
+        <latestTitle>For the People Act of 2019</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+      <actionDate>2019-01-28</actionDate>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <bioguideId>C000174</bioguideId>
+        <firstName>THOMAS</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <lastName>CARPER</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <state>DE</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <bioguideId>U000039</bioguideId>
+        <firstName>TOM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>UDALL</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <bioguideId>V000128</bioguideId>
+        <firstName>Chris</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <actions>
+      <item>
+        <actionDate>2019-01-28</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-01-28</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <bioguideId>W000802</bioguideId>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <party>D</party>
+        <state>RI</state>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>S</billType>
+    <introducedDate>2019-01-28</introducedDate>
+    <createDate>2019-01-29T05:25:15Z</createDate>
+    <committeeReports />
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-01-28T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s232is/xml/BILLS-116s232is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Office of Government Ethics</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Ethics in Government Act of 1978 to require individuals nominated or appointed to Senate-confirmed positions or to positions of a confidential or policymaking character to disclose certain types of contributions made or solicited by, or at the request of, the individuals.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Conflicts from Political Fundraising Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Conflicts from Political Fundraising Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Conflicts from Political Fundraising Act of 2019</title>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <updateDate>2019-05-03T15:00:15Z</updateDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

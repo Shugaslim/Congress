@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr277-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000266", 
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-08", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001119", 
+      "district": "2", 
+      "name": "Craig, Angie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000467", 
+      "district": "1", 
+      "name": "Finkenauer, Abby", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-08", 
+  "number": "277", 
+  "official_title": "To adjust collateral requirements under the Small Business Act for disaster loans, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Access to Sufficient Capital for Everyone in Natural Disaster areas Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "V000081", 
+    "district": "7", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-08", 
+  "subjects": [
+    "Commerce", 
+    "Disaster relief and insurance", 
+    "Government lending and loan guarantees", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To adjust collateral requirements under the Small Business Act for disaster loans, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Access to Sufficient Capital for Everyone in Natural Disaster areas Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Access to Sufficient Capital for Everyone in Natural Disaster areas Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ASCEND Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ASCEND Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "ASCEND Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-10T07:15:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr277.xml"
+}

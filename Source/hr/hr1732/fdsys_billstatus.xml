@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1732</billNumber>
+    <sponsors>
+      <item>
+        <bioguideId>J000301</bioguideId>
+        <lastName>Johnson</lastName>
+        <byRequestType />
+        <middleName />
+        <firstName>Dusty</firstName>
+        <district>0</district>
+        <state>SD</state>
+        <party>R</party>
+        <fullName>Rep. Johnson, Dusty [R-SD-At Large]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2439</lisID>
+          <bioguideId>J000301</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <createDate>2019-03-14T07:12:09Z</createDate>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1732ih/xml/BILLS-116hr1732ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-13T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hshm11</systemCode>
+              <name>Border Security, Facilitation, and Operations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-03T13:06:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-13T14:00:44Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-01T20:20:55Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-13T14:00:49Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-03-13</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-04-03</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Border Security, Facilitation, and Operations.</text>
+    </latestAction>
+    <notes />
+    <updateDate>2019-05-22T07:15:52Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>hshm11</systemCode>
+          <name>Border Security, Facilitation, and Operations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border Security, Facilitation, and Operations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-01</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-03-13</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-03-13</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-03-13</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-03-13</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wright</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <bioguideId>W000827</bioguideId>
+        <party>R</party>
+        <district>6</district>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <firstName>Ron</firstName>
+        <identifiers>
+          <bioguideId>W000827</bioguideId>
+          <gpoId />
+          <lisID>2446</lisID>
+        </identifiers>
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOHNSON of South Dakota:H.R. 1732.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defense and general Welfare of the United States;but all Duties, Imposts and Excises shall be uniformthroughout the United States;[Page H2718]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Ecology</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 to specify that the waiver authority under such Act includes the National Environmental Policy Act of 1969 and the Endangered Species Act of 1973 for purpose of construction of physical barriers along border, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Furthering American Security by Tempering Environmental Regulations Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>FASTER Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>FASTER Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Furthering American Security by Tempering Environmental Regulations Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>FASTER Act</title>
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <relatedBills />
+    <title>FASTER Act</title>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

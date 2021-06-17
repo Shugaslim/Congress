@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr225-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "225", 
+  "official_title": "To provide for small business concerns located in Puerto Rico, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Puerto Rico Small Business Assistance Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "V000081", 
+    "district": "7", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Business education", 
+    "Caribbean area", 
+    "Commerce", 
+    "Congressional oversight", 
+    "Criminal justice information and records", 
+    "Foreign labor", 
+    "Government lending and loan guarantees", 
+    "Government studies and investigations", 
+    "Immigration status and procedures", 
+    "Interest, dividends, interest rates", 
+    "Public contracts and procurement", 
+    "Puerto Rico", 
+    "Small Business Administration", 
+    "Small business", 
+    "User charges and fees", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for small business concerns located in Puerto Rico, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Puerto Rico Small Business Assistance Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Puerto Rico Small Business Assistance Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Puerto Rico Small Business Assistance Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-11T15:40:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr225.xml"
+}

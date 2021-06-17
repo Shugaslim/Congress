@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr224-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "224", 
+  "official_title": "To amend section 1908 of title 41, United States Code, to exempt certain contracts from the periodic inflation adjustments to an acquisition-related dollar threshold.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "V000081", 
+    "district": "7", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-03", 
+  "subjects": [
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Inflation and prices", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-03T05:00:00Z", 
+    "text": "This bill exempts certain public-buildings and public-works contracts from periodic inflation adjustments to a dollar threshold that\u00a0influences the applicability of a policy, procedure, requirement, or restriction to such a contract."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend section 1908 of title 41, United States Code, to exempt certain contracts from the periodic inflation adjustments to an acquisition-related dollar threshold.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend section 1908 of title 41, United States Code, to exempt certain contracts from the periodic inflation adjustments to an acquisition-related dollar threshold.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-01-28T17:00:10Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr224.xml"
+}

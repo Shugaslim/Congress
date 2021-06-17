@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Budget.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2735-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S000244", 
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-14", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-14", 
+  "number": "2735", 
+  "official_title": "To amend section 1105 of title 31, United States Code, to require that the annual budget submissions of the Presidents include the total dollar amount requested for intelligence or intelligence related activities of each element of the Government engaged in such activities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "W000800", 
+    "district": null, 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-14", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend section 1105 of title 31, United States Code, to require that the annual budget submissions of the Presidents include the total dollar amount requested for intelligence or intelligence related activities of each element of the Government engaged in such activities.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend section 1105 of title 31, United States Code, to require that the annual budget submissions of the Presidents include the total dollar amount requested for intelligence or intelligence related activities of each element of the Government engaged in such activities.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-15T07:16:29Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2735.xml"
+}

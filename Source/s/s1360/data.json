@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-08", 
+      "action_code": "", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1360-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000575", 
+      "district": null, 
+      "name": "Lankford, James", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-08", 
+      "state": "OK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-08", 
+  "number": "1360", 
+  "official_title": "A bill to amend title 10, United States Code, to ensure that the final pay and certificate of discharge or release for a reserve member of the Armed Forces is ready upon discharge or release of that member from active status.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Reserve Component DD-214 Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "P000595", 
+    "district": null, 
+    "name": "Peters, Gary C.", 
+    "state": "MI", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-08", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 10, United States Code, to ensure that the final pay and certificate of discharge or release for a reserve member of the Armed Forces is ready upon discharge or release of that member from active status.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reserve Component DD-214 Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reserve Component DD\u2013214 Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Reserve Component DD-214 Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T04:43:18Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1360.xml"
+}

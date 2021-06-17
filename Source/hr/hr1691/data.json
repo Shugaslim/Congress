@@ -1,0 +1,163 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E293", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1691-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-12", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000826", 
+      "district": "7", 
+      "name": "Wild, Susan", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-12", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000808", 
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-12", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-12", 
+  "number": "1691", 
+  "official_title": "To require the Secretary of Education to provide assistance to the immediate family of elementary or secondary school staff members killed in an act of violence while performing school duties.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Teacher Victims' Family Assistance Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "H000324", 
+    "district": "20", 
+    "name": "Hastings, Alcee L.", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-12", 
+  "subjects": [
+    "Cemeteries and funerals", 
+    "Crime victims", 
+    "Education", 
+    "Education programs funding", 
+    "Employee benefits and pensions", 
+    "Government trust funds", 
+    "Higher education", 
+    "Income tax exclusion", 
+    "Student aid and college costs", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Teacher Victims' Family Assistance Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Teacher Victims\u2019 Family Assistance Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Education to provide assistance to the immediate family of elementary or secondary school staff members killed in an act of violence while performing school duties.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Teacher Victims' Family Assistance Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-07T20:45:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1691.xml"
+}

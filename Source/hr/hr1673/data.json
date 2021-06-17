@@ -1,0 +1,319 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1673-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000374", 
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-02", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000490", 
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-14", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001289", 
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001124", 
+      "district": "21", 
+      "name": "Cox, TJ", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001087", 
+      "district": "1", 
+      "name": "Crawford, Eric A. \"Rick\"", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000628", 
+      "district": "2", 
+      "name": "Dunn, Neal P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000584", 
+      "district": null, 
+      "name": "Gianforte, Greg", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "MT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000388", 
+      "district": "1", 
+      "name": "Kelly, Trent", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000578", 
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000586", 
+      "district": "5", 
+      "name": "Lawson, Al, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000190", 
+      "district": "5", 
+      "name": "Norman, Ralph", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000601", 
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-10", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000615", 
+      "district": "6", 
+      "name": "Pence, Greg", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-08", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000575", 
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-10", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001180", 
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001214", 
+      "district": "17", 
+      "name": "Steube, W. Gregory", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000470", 
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-10", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000133", 
+      "district": "2", 
+      "name": "Van Drew, Jefferson", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-02", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000810", 
+      "district": "7", 
+      "name": "Woodall, Rob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-27", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-11", 
+  "number": "1673", 
+  "official_title": "To amend the Motor Carrier Safety Improvement Act of 1999 with respect to the definition of agricultural commodities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Agricultural Trucking Relief Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S001189", 
+    "district": "8", 
+    "name": "Scott, Austin", 
+    "state": "GA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-11", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Aquaculture", 
+    "Fruit and vegetables", 
+    "Horticulture and plants", 
+    "Livestock", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Motor Carrier Safety Improvement Act of 1999 with respect to the definition of agricultural commodities, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Agricultural Trucking Relief Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Agricultural Trucking Relief Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Agricultural Trucking Relief Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-24T07:15:43Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1673.xml"
+}

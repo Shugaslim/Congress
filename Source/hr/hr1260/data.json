@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1260-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-13", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000173", 
+      "district": "5", 
+      "name": "Omar, Ilhan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-28", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-14", 
+  "number": "1260", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to extend the charitable deduction to all taxpayers regardless of whether a taxpayer itemizes deductions in order to encourage and increase charitable giving.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "D000096", 
+    "district": "7", 
+    "name": "Davis, Danny K.", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-14", 
+  "subjects": [
+    "Charitable contributions", 
+    "Income tax deductions", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to extend the charitable deduction to all taxpayers regardless of whether a taxpayer itemizes deductions in order to encourage and increase charitable giving.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to extend the charitable deduction to all taxpayers regardless of whether a taxpayer itemizes deductions in order to encourage and increase charitable giving.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-29T07:15:58Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1260.xml"
+}

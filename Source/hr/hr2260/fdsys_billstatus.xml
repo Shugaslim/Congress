@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <introducedDate>2019-04-10</introducedDate>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2019-04-10T13:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-15T18:53:08Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2260ih/xml/BILLS-116hr2260ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-10T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <createDate>2019-04-11T07:12:10Z</createDate>
+    <congress>116</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of Iowa:H.R. 2260.Congress has the power to enact this legislation pursuantto the following:Article I Section 8 Clause 4 of the Constitution[Page H3258]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Migrant, seasonal, agricultural labor</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>To require the Secretary of Homeland Security to impose e-bonding requirements on certain nonimmigrant visa applicants, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>E-bonding for Immigration Integrity Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>E-bonding for Immigration Integrity Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>E-bonding for Immigration Integrity Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <updateDate>2019-05-22T07:13:03Z</updateDate>
+    <amendments />
+    <cosponsors />
+    <billNumber>2260</billNumber>
+    <committeeReports />
+    <relatedBills />
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <actionDate>2019-05-15</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <title>E-bonding for Immigration Integrity Act of 2019</title>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2019-04-10</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-10</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-10</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <middleName />
+        <lastName>King</lastName>
+        <district>4</district>
+        <byRequestType />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <bioguideId>K000362</bioguideId>
+        <state>IA</state>
+        <identifiers>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>SPIKE Act</title>
+    <calendarNumbers />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2019-05-23T07:12:50Z</updateDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <links />
+      <actionDate>2019-05-21</actionDate>
+    </latestAction>
+    <billNumber>2069</billNumber>
+    <laws />
+    <originChamber>House</originChamber>
+    <createDate>2019-04-04T07:12:09Z</createDate>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <prayer>1</prayer>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-21</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-03</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-03</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend title XI of the Social Security Act to provide for drug manufacturer price transparency.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Stopping the Pharmaceutical Industry from Keeping drugs Expensive Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>SPIKE Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>SPIKE Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Stopping the Pharmaceutical Industry from Keeping drugs Expensive Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>SPIKE Act</title>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-04-03T13:00:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-21T20:33:50Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2019-04-04T16:42:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-04-03T13:00:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HORSFORD:H.R. 2069.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution of theUnited States.[Page H3069]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <lastName>Horsford</lastName>
+        <district>4</district>
+        <bioguideId>H001066</bioguideId>
+        <fullName>Rep. Horsford, Steven [D-NV-4]</fullName>
+        <firstName>Steven</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2147</lisID>
+          <bioguideId>H001066</bioguideId>
+        </identifiers>
+        <state>NV</state>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2069ih/xml/BILLS-116hr2069ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-04-03T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <latestTitle>Prescription Drug STAR Act</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-04-08</actionDate>
+        </latestAction>
+        <number>2113</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <district>23</district>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <bioguideId>R000585</bioguideId>
+        <state>NY</state>
+        <lastName>Reed</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cox, TJ [D-CA-21]</fullName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <district>21</district>
+        <party>D</party>
+        <firstName>TJ</firstName>
+        <bioguideId>C001124</bioguideId>
+        <state>CA</state>
+        <lastName>Cox</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2378</lisID>
+          <bioguideId>C001124</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <district>7</district>
+        <party>D</party>
+        <firstName>Susan</firstName>
+        <bioguideId>W000826</bioguideId>
+        <state>PA</state>
+        <lastName>Wild</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000826</bioguideId>
+          <lisID>2374</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <district>1</district>
+        <party>D</party>
+        <firstName>Ed</firstName>
+        <bioguideId>C001055</bioguideId>
+        <state>HI</state>
+        <lastName>Case</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>1693</lisID>
+          <bioguideId>C001055</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Houlahan, Chrissy [D-PA-6]</fullName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <district>6</district>
+        <party>D</party>
+        <firstName>Chrissy</firstName>
+        <bioguideId>H001085</bioguideId>
+        <state>PA</state>
+        <lastName>Houlahan</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2433</lisID>
+          <gpoId />
+          <bioguideId>H001085</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <district>8</district>
+        <party>D</party>
+        <firstName>Jamie</firstName>
+        <bioguideId>R000606</bioguideId>
+        <state>MD</state>
+        <lastName>Raskin</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <district>7</district>
+        <party>D</party>
+        <firstName>Abigail</firstName>
+        <bioguideId>S001209</bioguideId>
+        <state>VA</state>
+        <lastName>Spanberger</lastName>
+        <middleName>Davis</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001209</bioguideId>
+          <lisID>2456</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <district>8</district>
+        <party>D</party>
+        <firstName>Elissa</firstName>
+        <bioguideId>S001208</bioguideId>
+        <state>MI</state>
+        <lastName>Slotkin</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2407</lisID>
+          <gpoId />
+          <bioguideId>S001208</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <district>0</district>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <introducedDate>2019-04-03</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

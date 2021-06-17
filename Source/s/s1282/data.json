@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1282-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001181", 
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-02", 
+      "state": "NH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-02", 
+  "number": "1282", 
+  "official_title": "A bill to amend the Internal Revenue Code of 1986 to repeal certain rules related to the determination of unrelated business taxable income.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s501-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1545-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s632-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr513-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Preserve Charities and Houses of Worship Act", 
+  "sponsor": {
+    "bioguide_id": "C001098", 
+    "district": null, 
+    "name": "Cruz, Ted", 
+    "state": "TX", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-02", 
+  "subjects": [
+    "Employee benefits and pensions", 
+    "Income tax rates", 
+    "Social work, volunteer service, charitable organizations", 
+    "Tax-exempt organizations", 
+    "Taxation", 
+    "Transportation costs"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Internal Revenue Code of 1986 to repeal certain rules related to the determination of unrelated business taxable income.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preserve Charities and Houses of Worship Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preserve Charities and Houses of Worship Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Preserve Charities and Houses of Worship Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-21T23:14:43Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1282.xml"
+}

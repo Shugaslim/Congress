@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2019-01-26T08:10:10Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2019-05-15T07:15:38Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionDate>2019-01-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-01-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-01-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Academic performance and assessments</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Education</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Educational guidance</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>National and community service</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+          <item>
+            <name>Youth employment and child labor</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>Suzanne</firstName>
+        <lastName>Bonamici</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <middleName />
+        <state>OR</state>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <bioguideId>B001278</bioguideId>
+        <byRequestType />
+        <district>1</district>
+      </item>
+    </sponsors>
+    <title>Opportunities for Success Act of 2019</title>
+    <cosponsors>
+      <item>
+        <firstName>Derek</firstName>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000381</bioguideId>
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>D</party>
+        <lastName>Kilmer</lastName>
+        <district>6</district>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jerry</firstName>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <identifiers>
+          <bioguideId>M001166</bioguideId>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001166</bioguideId>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>D</party>
+        <lastName>McNerney</lastName>
+        <district>9</district>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ADAM</firstName>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <identifiers>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001150</bioguideId>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <party>D</party>
+        <lastName>SCHIFF</lastName>
+        <district>28</district>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>792</billNumber>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <date>2019-01-25T19:00:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Education and Labor</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BONAMICI:H.R. 792.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1218]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-01-25</actionDate>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Higher Education Act of 1965 to reauthorize the Federal work-study program, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Opportunities for Success Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Opportunities for Success Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Opportunities for Success Act of 2019</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-01-25</introducedDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr792ih/xml/BILLS-116hr792ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-25T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

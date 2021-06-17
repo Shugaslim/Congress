@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-11</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <updateDate>2019-05-08T04:42:46Z</updateDate>
+    <latestAction>
+      <actionDate>2019-04-11</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-04-11T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1189is/xml/BILLS-116s1189is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>1189</billNumber>
+    <cosponsors>
+      <item>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000639</bioguideId>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NJ</state>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <middleName />
+        <lastName>Menendez</lastName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Cory</firstName>
+        <byRequestType />
+        <state>CO</state>
+        <bioguideId>G000562</bioguideId>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-04-11T20:02:38Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Secretary of State to determine whether the Russian Federation should be designated as a state sponsor of terrorism and whether Russian-sponsored armed entities in Ukraine should be designated as foreign terrorist organizations.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Stopping Malign Activities from Russian Terrorism Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Stopping Malign Activities from Russian Terrorism Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Stopping Malign Activities from Russian Terrorism Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-04-12T04:57:11Z</createDate>
+    <introducedDate>2019-04-11</introducedDate>
+    <cboCostEstimates />
+    <notes />
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Stopping Malign Activities from Russian Terrorism Act</title>
+    <committeeReports />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Ukraine</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>S</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-16T20:11:01Z</date>
+            </item>
+          </activities>
+          <systemCode>ssap00</systemCode>
+          <name>Appropriations Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <updateDate>2019-03-04T15:15:12Z</updateDate>
+    <latestAction>
+      <actionDate>2019-01-16</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+    </latestAction>
+    <title>Government Shutdown Prevention Act of 2019</title>
+    <recordedVotes />
+    <billNumber>147</billNumber>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <identifiers>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+        </identifiers>
+        <bioguideId>L000577</bioguideId>
+        <party>R</party>
+        <state>UT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lee</lastName>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>E000295</bioguideId>
+        <party>R</party>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Ernst</lastName>
+        <firstName>Joni</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <middleName />
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <createDate>2019-01-17T05:40:11Z</createDate>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <billType>S</billType>
+    <congress>116</congress>
+    <actions>
+      <item>
+        <actionDate>2019-01-16</actionDate>
+        <committee>
+          <systemCode>ssap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Appropriations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-16</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2019-01-16</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-02-14</actionDate>
+          <text>Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>No More Shutdowns Act</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1280</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-02-13</actionDate>
+          <text>Referred to the Committee on Appropriations, and in addition to the Committees on Oversight and Reform, House Administration, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>Ensure Washington Funds Government Responsibly Act</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1172</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-02-13</actionDate>
+          <text>Referred to the Committee on Appropriations, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>Deadline Enforcement Act</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1178</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-02-08</actionDate>
+          <text>Referred to the House Committee on Appropriations.</text>
+        </latestAction>
+        <latestTitle>Preventing Future Shutdowns Act of 2019</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1124</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-01-22</actionDate>
+          <text>Referred to the House Committee on Appropriations.</text>
+        </latestAction>
+        <latestTitle>Ban Government Shutdowns Act</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>696</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-01-16</actionDate>
+          <text>Referred to the House Committee on Appropriations.</text>
+        </latestAction>
+        <latestTitle>Government Shutdown Prevention Act</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>622</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-01-10</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <latestTitle>End Government Shutdowns Act</latestTitle>
+        <congress>116</congress>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>104</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-01-22</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <latestTitle>Stop the Shutdowns Transferring Unnecessary Pain and Inflicting Damage In The coming Years Act</latestTitle>
+        <congress>116</congress>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>198</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-01-29</actionDate>
+          <text>Referred to the Committee on Appropriations, and in addition to the Committees on Oversight and Reform, House Administration, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>The Shutdown to End All Shutdowns Act</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>834</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-01-25</actionDate>
+          <text>Referred to the House Committee on Appropriations.</text>
+        </latestAction>
+        <latestTitle>End Government Shutdowns Act</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>797</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2019-01-28</actionDate>
+          <text>Referred to the House Committee on Appropriations.</text>
+        </latestAction>
+        <latestTitle>Ban Government Shutdowns Act</latestTitle>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>809</number>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <state>KY</state>
+        <lastName>Paul</lastName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <identifiers>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <bioguideId>P000603</bioguideId>
+        <firstName>Rand</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <date>2019-01-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s147is/xml/BILLS-116s147is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <notes />
+    <titles>
+      <item>
+        <title>A bill to amend title 31, United States Code, to provide for automatic continuing resolutions.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Government Shutdown Prevention Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Government Shutdown Prevention Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Government Shutdown Prevention Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

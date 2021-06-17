@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2011-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000576", 
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000558", 
+      "district": "2", 
+      "name": "Guthrie, Brett", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-01", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000585", 
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-01", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001216", 
+      "district": "8", 
+      "name": "Schrier, Kim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-01", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-01", 
+  "number": "2011", 
+  "official_title": "To amend the Public Health Service Act with respect to the treatment under section 351(k)(7) of such Act (relating to exclusivity for reference products) of certain products deemed to have a biologics license pursuant to section 7002 of the Biologics Price Competition and Innovation Act of 2009.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1140-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Protecting Access to Biosimilars Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000197", 
+    "district": "1", 
+    "name": "DeGette, Diana", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-01", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Health", 
+    "Licensing and registrations", 
+    "Prescription drugs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act with respect to the treatment under section 351(k)(7) of such Act (relating to exclusivity for reference products) of certain products deemed to have a biologics license pursuant to section 7002 of the Biologics Price Competition and Innovation Act of 2009.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Access to Biosimilars Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Access to Biosimilars Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protecting Access to Biosimilars Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T07:15:55Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2011.xml"
+}

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <textVersions>
+      <item>
+        <date>2019-05-22T04:00:00Z</date>
+        <type>Reported to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1321rs/xml/BILLS-116s1321rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-05-06T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1321is/xml/BILLS-116s1321is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers>
+      <item>
+        <number>0095</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Graham without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <actionDate>2019-05-22</actionDate>
+        <text>Committee on the Judiciary. Reported by Senator Graham without amendment. Without written report.</text>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-06</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-05-06</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <billType>S</billType>
+    <updateDate>2019-05-29T20:30:06Z</updateDate>
+    <createDate>2019-05-07T04:27:09Z</createDate>
+    <title>Defending the Integrity of Voting Systems Act</title>
+    <congress>116</congress>
+    <notes />
+    <cosponsors>
+      <item>
+        <lastName>GRAHAM</lastName>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <firstName>LINDSEY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000359</bioguideId>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <middleName>O.</middleName>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+          <lisID>452</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Whitehouse</lastName>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <introducedDate>2019-05-06</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>Richard</firstName>
+        <state>CT</state>
+        <party>D</party>
+        <middleName />
+        <byRequestType />
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <lastName>Blumenthal</lastName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.</text>
+      <actionDate>2019-05-22</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend title 18, United States Code, to prohibit interference with voting systems under the Computer Fraud and Abuse Act.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Defending the Integrity of Voting Systems Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+        <title>Defending the Integrity of Voting Systems Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Defending the Integrity of Voting Systems Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+        <title>Defending the Integrity of Voting Systems Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Defending the Integrity of Voting Systems Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-05-22T15:26:31Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-05-17T02:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-06T20:10:54Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Defending American Security from Kremlin Aggression Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-13</actionDate>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        </latestAction>
+        <number>482</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>1321</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

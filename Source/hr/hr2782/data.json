@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2782-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000376", 
+      "district": "16", 
+      "name": "Kelly, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000563", 
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000258", 
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-16", 
+  "number": "2782", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to repeal the 30-hour threshold for classification as a full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act and replace it with 40 hours.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "W000813", 
+    "district": "2", 
+    "name": "Walorski, Jackie", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-16", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to repeal the 30-hour threshold for classification as a full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act and replace it with 40 hours.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to repeal the 30-hour threshold for classification as a full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act and replace it with 40 hours.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-17T13:01:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2782.xml"
+}

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-13T15:04:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <createDate>2019-02-14T08:10:17Z</createDate>
+    <billNumber>1197</billNumber>
+    <billType>HR</billType>
+    <title>Youth Access to American Jobs Act of 2019</title>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <actionDate>2019-02-13</actionDate>
+        <links />
+        <text>Referred to the House Committee on Education and Labor.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-02-13</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-02-13</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>L000560</bioguideId>
+        <state>WA</state>
+        <district>2</district>
+        <middleName />
+        <identifiers>
+          <gpoId>8206</gpoId>
+          <lisID>1675</lisID>
+          <bioguideId>L000560</bioguideId>
+        </identifiers>
+        <firstName>RICK</firstName>
+        <lastName>LARSEN</lastName>
+        <party>D</party>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-02-13</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001166</bioguideId>
+        <firstName>Jerry</firstName>
+        <district>9</district>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>McNerney</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001166</bioguideId>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000551</bioguideId>
+        <firstName>Raul</firstName>
+        <district>3</district>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>Grijalva</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <state>AZ</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <state>DC</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000469</bioguideId>
+        <firstName>Paul</firstName>
+        <district>20</district>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Tonko</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+          <lisID>1942</lisID>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000382</bioguideId>
+        <firstName>Ann</firstName>
+        <district>2</district>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>Kuster</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001185</bioguideId>
+        <firstName>Sean</firstName>
+        <district>18</district>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Patrick</middleName>
+        <lastName>Maloney</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2150</lisID>
+          <gpoId />
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001064</bioguideId>
+        <firstName>Denny</firstName>
+        <district>10</district>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Heck</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001064</bioguideId>
+          <lisID>2170</lisID>
+          <gpoId />
+        </identifiers>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000623</bioguideId>
+        <firstName>Mark</firstName>
+        <district>11</district>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>DeSaulnier</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000188</bioguideId>
+        <firstName>RON</firstName>
+        <district>3</district>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>KIND</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <state>WI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000298</bioguideId>
+        <firstName>Pramila</firstName>
+        <district>7</district>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Jayapal</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+        </identifiers>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000617</bioguideId>
+        <firstName>Suzan</firstName>
+        <district>1</district>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <lastName>DelBene</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>8374</gpoId>
+          <lisID>2096</lisID>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000381</bioguideId>
+        <firstName>Derek</firstName>
+        <district>6</district>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Kilmer</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000215</bioguideId>
+        <firstName>ANNA</firstName>
+        <district>18</district>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>G.</middleName>
+        <lastName>ESHOO</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000081</bioguideId>
+        <firstName>NYDIA</firstName>
+        <district>7</district>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>VELAZQUEZ</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000324</bioguideId>
+        <firstName>ALCEE</firstName>
+        <district>20</district>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <lastName>HASTINGS</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+        </identifiers>
+        <state>FL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000559</bioguideId>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <lastName>LANGEVIN</lastName>
+        <sponsorshipDate>2019-02-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <state>RI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000389</bioguideId>
+        <firstName>Ro</firstName>
+        <district>17</district>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Khanna</lastName>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000510</bioguideId>
+        <firstName>ADAM</firstName>
+        <district>9</district>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>SMITH</lastName>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <identifiers>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000559</bioguideId>
+        <firstName>John</firstName>
+        <district>3</district>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Garamendi</lastName>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <lisID>1973</lisID>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000468</bioguideId>
+        <firstName>Dina</firstName>
+        <district>1</district>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Titus</lastName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <state>NV</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LARSEN of Washington:H.R. 1197.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 1--All legislative powers hereingrantedshall be vested in a Congress of the United States, whichshall consist of a Senate and House of Representatives.[Page H1585]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To establish a pilot program to promote public-private partnerships among apprenticeships or other job training programs, local educational agencies, and community colleges, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Youth Access to American Jobs Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Youth Access to American Jobs Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Youth Access to American Jobs Act of 2019</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1197ih/xml/BILLS-116hr1197ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-23T07:15:47Z</updateDate>
+    <latestAction>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+      <actionDate>2019-02-13</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

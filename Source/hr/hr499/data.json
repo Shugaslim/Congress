@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr499-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001301", 
+      "district": "1", 
+      "name": "Bergman, Jack", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-11", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001110", 
+      "district": "46", 
+      "name": "Correa, J. Luis", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-11", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000630", 
+      "district": "19", 
+      "name": "Delgado, Antonio", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-11", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-11", 
+  "number": "499", 
+  "official_title": "To amend the Small Business Act to clarify the treatment of certain surviving spouses under the definition of small business concern owned and controlled by service-disabled veterans.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Service-Disabled Veterans Small Business Continuation Act", 
+  "sponsor": {
+    "bioguide_id": "C000266", 
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-11", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Disability and paralysis", 
+    "Public contracts and procurement", 
+    "Small business", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Small Business Act to clarify the treatment of certain surviving spouses under the definition of small business concern owned and controlled by service-disabled veterans.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Service-Disabled Veterans Small Business Continuation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Service-Disabled Veterans Small Business Continuation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Service-Disabled Veterans Small Business Continuation Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-11T15:40:32Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr499.xml"
+}

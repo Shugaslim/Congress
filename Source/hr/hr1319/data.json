@@ -1,0 +1,134 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-22", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-22", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1319-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000615", 
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-22", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000565", 
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-22", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000190", 
+      "district": "5", 
+      "name": "Norman, Ralph", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-22", 
+  "number": "1319", 
+  "official_title": "To repeal the wage rate requirements commonly known as the Davis-Bacon Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Davis-Bacon Repeal Act", 
+  "sponsor": {
+    "bioguide_id": "K000362", 
+    "district": "4", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-22", 
+  "subjects": [
+    "Building construction", 
+    "Government buildings, facilities, and property", 
+    "Labor and employment", 
+    "Labor standards", 
+    "Public contracts and procurement", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-02-22T05:00:00Z", 
+    "text": "Davis-Bacon Repeal Act\n\n This bill repeals the Davis-Bacon Act (which requires that the locally prevailing wage rate be paid to various classes of laborers and mechanics working under federally-financed or federally-assisted contracts for construction, alteration, and repair of public buildings or public works).\n\nThe bill states that references in any law to a wage requirement of the Davis-Bacon Act after enactment of this bill shall be null and void."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the wage rate requirements commonly known as the Davis-Bacon Act.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Davis-Bacon Repeal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Davis-Bacon Repeal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Davis-Bacon Repeal Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-06T16:30:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1319.xml"
+}

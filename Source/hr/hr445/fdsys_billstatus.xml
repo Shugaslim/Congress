@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>B001285</bioguideId>
+        <lastName>Brownley</lastName>
+        <identifiers>
+          <lisID>2106</lisID>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <firstName>Julia</firstName>
+        <district>26</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-01</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionDate>2019-01-10</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-10</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-10</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-01-11T08:10:15Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <date>2019-01-10T15:00:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Economic Opportunity Subcommittee</name>
+              <systemCode>hsvr10</systemCode>
+              <activities>
+                <item>
+                  <date>2019-02-01T17:15:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the VOW to Hire Heroes Act of 2011 to make permanent the Veterans Retraining Assistance Program, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Help Hire Our Heroes Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Help Hire Our Heroes Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Help Hire Our Heroes Act</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Help Hire Our Heroes Act</title>
+    <latestAction>
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <links />
+      <actionDate>2019-02-01</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>SCHAKOWSKY</lastName>
+        <middleName>D.</middleName>
+        <bioguideId>S001145</bioguideId>
+        <party>D</party>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>Grijalva</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>G000551</bioguideId>
+        <party>D</party>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <firstName>Gwen</firstName>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <lastName>Moore</lastName>
+        <middleName />
+        <bioguideId>M001160</bioguideId>
+        <party>D</party>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <firstName>Henry</firstName>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <lastName>Johnson</lastName>
+        <middleName>C. "Hank"</middleName>
+        <bioguideId>J000288</bioguideId>
+        <party>D</party>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <firstName>Frederica</firstName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <lastName>Wilson</lastName>
+        <middleName>S.</middleName>
+        <bioguideId>W000808</bioguideId>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>24</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <firstName>Ruben</firstName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <lastName>Gallego</lastName>
+        <middleName />
+        <bioguideId>G000574</bioguideId>
+        <party>D</party>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <firstName>ALCEE</firstName>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <lastName>HASTINGS</lastName>
+        <middleName>L.</middleName>
+        <bioguideId>H000324</bioguideId>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>20</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <firstName>Tulsi</firstName>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <lastName>Gabbard</lastName>
+        <middleName />
+        <bioguideId>G000571</bioguideId>
+        <party>D</party>
+        <state>HI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <firstName>Chellie</firstName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <lastName>Pingree</lastName>
+        <middleName />
+        <bioguideId>P000597</bioguideId>
+        <party>D</party>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+        </identifiers>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <firstName>Jefferson</firstName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <lastName>Van Drew</lastName>
+        <middleName />
+        <bioguideId>V000133</bioguideId>
+        <party>D</party>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000591</bioguideId>
+          <lisID>2453</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <firstName>Elaine</firstName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <lastName>Luria</lastName>
+        <middleName>G.</middleName>
+        <bioguideId>L000591</bioguideId>
+        <party>D</party>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7883</gpoId>
+          <lisID>1839</lisID>
+          <bioguideId>C001066</bioguideId>
+        </identifiers>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <firstName>Kathy</firstName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <lastName>Castor</lastName>
+        <middleName />
+        <bioguideId>C001066</bioguideId>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>14</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2127</lisID>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <firstName>Cheri</firstName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <lastName>Bustos</lastName>
+        <middleName />
+        <bioguideId>B001286</bioguideId>
+        <party>D</party>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <lastName>KIND</lastName>
+        <middleName />
+        <bioguideId>K000188</bioguideId>
+        <party>D</party>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <lastName>Higgins</lastName>
+        <middleName />
+        <bioguideId>H001038</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>26</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2229</lisID>
+          <gpoId />
+          <bioguideId>A000371</bioguideId>
+        </identifiers>
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <firstName>Pete</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Aguilar</lastName>
+        <middleName />
+        <bioguideId>A000371</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>31</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <firstName>Ann</firstName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <lastName>Kuster</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>K000382</bioguideId>
+        <party>D</party>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>A000378</bioguideId>
+          <lisID>2395</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <firstName>Cynthia</firstName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <lastName>Axne</lastName>
+        <middleName />
+        <bioguideId>A000378</bioguideId>
+        <party>D</party>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <firstName>ZOE</firstName>
+        <sponsorshipDate>2019-05-24</sponsorshipDate>
+        <lastName>LOFGREN</lastName>
+        <middleName />
+        <bioguideId>L000397</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2409</lisID>
+          <bioguideId>S001215</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Stevens, Haley M. [D-MI-11]</fullName>
+        <firstName>Haley</firstName>
+        <sponsorshipDate>2019-05-24</sponsorshipDate>
+        <lastName>Stevens</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>S001215</bioguideId>
+        <party>D</party>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-25T07:15:14Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-01-10</introducedDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr445ih/xml/BILLS-116hr445ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BROWNLEY of California:H.R. 445.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H464]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>445</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

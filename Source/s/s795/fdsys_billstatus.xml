@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2019-03-15T04:42:07Z</createDate>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-14T15:10:22Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <billType>S</billType>
+    <congress>116</congress>
+    <policyArea />
+    <titles>
+      <item>
+        <title>A bill for the relief of Alfredo Plascencia Lopez.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill for the relief of Alfredo Plascencia Lopez.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <billNumber>795</billNumber>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s795is/xml/BILLS-116s795is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1902</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1902</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1902; text: CR S1902)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-03-14</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <calendarNumbers />
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Private Legislation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <bioguideId>F000062</bioguideId>
+        <lastName>FEINSTEIN</lastName>
+        <firstName>DIANNE</firstName>
+        <identifiers>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1902; text: CR S1902)</text>
+      <links />
+      <actionDate>2019-03-14</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-03-15T08:01:42Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[Provides for the relief of Alfredo Plascencia Lopez.]]></text>
+          <updateDate>2019-03-14T04:00:00Z</updateDate>
+          <actionDate>2019-03-14</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2019-03-14</introducedDate>
+    <updateDate>2019-03-23T00:59:03Z</updateDate>
+    <amendments />
+    <cosponsors />
+    <title>A bill for the relief of Alfredo Plascencia Lopez.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

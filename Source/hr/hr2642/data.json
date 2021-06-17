@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2642-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-09", 
+  "number": "2642", 
+  "official_title": "To designate and expand wilderness areas in Olympic National Forest in the State of Washington, and to designate certain rivers in Olympic National Forest and Olympic National Park as wild and scenic rivers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1382-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Wild Olympics Wilderness and Wild and Scenic Rivers Act", 
+  "sponsor": {
+    "bioguide_id": "K000381", 
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-09", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate and expand wilderness areas in Olympic National Forest in the State of Washington, and to designate certain rivers in Olympic National Forest and Olympic National Park as wild and scenic rivers, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Wild Olympics Wilderness and Wild and Scenic Rivers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Wild Olympics Wilderness and Wild and Scenic Rivers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Wild Olympics Wilderness and Wild and Scenic Rivers Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T19:45:07Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2642.xml"
+}

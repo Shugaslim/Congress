@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-04", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2101-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution, Civil Rights, and Civil Liberties", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "J000288", 
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-01", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-04", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-04", 
+  "number": "2101", 
+  "official_title": "To provide for restrictions on recently appointed Federal employees and recently separated Federal employees with respect to lobbying activities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "H001068", 
+    "district": "2", 
+    "name": "Huffman, Jared", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-04", 
+  "subjects": [
+    "Congressional oversight", 
+    "Crime and law enforcement", 
+    "Federal officials", 
+    "Foreign and international corporations", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Public participation and lobbying"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for restrictions on recently appointed Federal employees and recently separated Federal employees with respect to lobbying activities, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To provide for restrictions on recently appointed Federal employees and recently separated Federal employees with respect to lobbying activities, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-22T07:13:02Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2101.xml"
+}

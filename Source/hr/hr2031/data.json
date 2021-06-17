@@ -1,0 +1,195 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-30", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee for Indigenous Peoples of the United States.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2031-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indigenous Peoples of the United States", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001053", 
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-02", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000571", 
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-02", 
+      "state": "HI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000574", 
+      "district": "7", 
+      "name": "Gallego, Ruben", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-02", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001064", 
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-02", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000033", 
+      "district": null, 
+      "name": "Young, Don", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-04-02", 
+      "state": "AK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-02", 
+  "number": "2031", 
+  "official_title": "To amend the Indian Self-Determination and Education Assistance Act to provide further self-governance by Indian Tribes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s209-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Practical Reforms and Other Goals to Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "H001080", 
+    "district": "1", 
+    "name": "Haaland, Debra A.", 
+    "state": "NM", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-04-02", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Civil actions and liability", 
+    "Department of the Interior", 
+    "Evidence and witnesses", 
+    "Federal-Indian relations", 
+    "Indian claims", 
+    "Indian lands and resources rights", 
+    "Indian social and development programs", 
+    "Judicial procedure and administration", 
+    "Judicial review and appeals", 
+    "Native Americans", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Indian Self-Determination and Education Assistance Act to provide further self-governance by Indian Tribes, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Practical Reforms and Other Goals to Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Practical Reforms and Other Goals to Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PROGRESS for Indian Tribes Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PROGRESS for Indian Tribes Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "PROGRESS for Indian Tribes Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-10T07:12:56Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2031.xml"
+}

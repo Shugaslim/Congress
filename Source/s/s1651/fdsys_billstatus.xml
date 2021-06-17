@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <createDate>2019-05-24T05:27:14Z</createDate>
+    <calendarNumbers />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T18:18:43Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <title>A bill to amend the Internal Revenue Code of 1986 to include foster care transition youth as members of targeted groups for purposes of the work opportunity credit.</title>
+    <notes />
+    <cboCostEstimates />
+    <billNumber>1651</billNumber>
+    <updateDate>2019-05-24T05:31:55Z</updateDate>
+    <congress>116</congress>
+    <actions>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <introducedDate>2019-05-23</introducedDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to include foster care transition youth as members of targeted groups for purposes of the work opportunity credit.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to include foster care transition youth as members of targeted groups for purposes of the work opportunity credit.</title>
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-05-23</actionDate>
+    </latestAction>
+    <billType>S</billType>
+    <textVersions />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000449</bioguideId>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <lastName>PORTMAN</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <firstName>ROB</firstName>
+        <middleName />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000141</bioguideId>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <sponsors>
+      <item>
+        <lastName>Casey</lastName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <state>PA</state>
+        <firstName>Bob</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <policyArea />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

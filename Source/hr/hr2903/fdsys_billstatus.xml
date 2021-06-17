@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <introducedDate>2019-05-22</introducedDate>
+    <laws />
+    <relatedBills />
+    <createDate>2019-05-23T07:12:08Z</createDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <cosponsors />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 5, United States Code, to prohibit the International Stock Index Investment Fund of the Thrift Savings Fund from investing in any entity in peer or near-peer competitor nations as outlined in the National Defense Strategy, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To amend title 5, United States Code, to prohibit the International Stock Index Investment Fund of the Thrift Savings Fund from investing in any entity in peer or near-peer competitor nations as outlined in the National Defense Strategy, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <billNumber>2903</billNumber>
+    <updateDate>2019-05-23T07:31:15Z</updateDate>
+    <textVersions />
+    <title>To amend title 5, United States Code, to prohibit the International Stock Index Investment Fund of the Thrift Savings Fund from investing in any entity in peer or near-peer competitor nations as outlined in the National Defense Strategy, and for other purposes.</title>
+    <congress>116</congress>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001299</bioguideId>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <party>R</party>
+        <district>3</district>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+          <lisID>2326</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Jim</firstName>
+        <lastName>Banks</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <latestAction>
+      <links />
+      <actionDate>2019-05-22</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-22T14:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

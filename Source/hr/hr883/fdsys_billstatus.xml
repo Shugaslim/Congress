@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>271</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Families Belong Together Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-01-30</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-30</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-30</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-30</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2019-01-30</introducedDate>
+    <latestAction>
+      <actionDate>2019-03-25</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>E000299</bioguideId>
+        <middleName />
+        <firstName>Veronica</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>16</district>
+        <fullName>Rep. Escobar, Veronica [D-TX-16]</fullName>
+        <identifiers>
+          <bioguideId>E000299</bioguideId>
+          <lisID>2448</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Escobar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+      </item>
+      <item>
+        <bioguideId>B001300</bioguideId>
+        <middleName>Diaz</middleName>
+        <firstName>Nanette</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>44</district>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <identifiers>
+          <bioguideId>B001300</bioguideId>
+          <lisID>2311</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Barragan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+      </item>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <middleName />
+        <firstName>Darren</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>9</district>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Soto</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+      </item>
+      <item>
+        <bioguideId>E000297</bioguideId>
+        <middleName />
+        <firstName>Adriano</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>13</district>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000297</bioguideId>
+          <lisID>2342</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Espaillat</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+      </item>
+      <item>
+        <bioguideId>G000585</bioguideId>
+        <middleName />
+        <firstName>Jimmy</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>34</district>
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000585</bioguideId>
+          <lisID>2362</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Gomez</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+      </item>
+      <item>
+        <bioguideId>V000130</bioguideId>
+        <middleName />
+        <firstName>Juan</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>51</district>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+          <lisID>2112</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Vargas</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <laws />
+    <billType>HR</billType>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <amendments />
+    <title>Families Belong Together Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <date>2019-01-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr883ih/xml/BILLS-116hr883ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CASTRO of Texas:H.R. 883.Congress has the power to enact this legislation pursuantto the following:The Necessary and Proper Clause (Art. I, Sec. 8, Clause 18)The Congress shall have power . . . To make all laws whichshall be necessary and proper for carrying into execution theforegoing powers, and all other powers vested by thisConstitution in the government of the United States, or inany department or officer thereof.[Page H1337]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2019-03-26T07:12:42Z</updateDate>
+    <createDate>2019-01-31T08:10:18Z</createDate>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <firstName>Joaquin</firstName>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001091</bioguideId>
+          <lisID>2163</lisID>
+        </identifiers>
+        <lastName>Castro</lastName>
+        <bioguideId>C001091</bioguideId>
+        <middleName />
+        <district>20</district>
+      </item>
+    </sponsors>
+    <notes />
+    <billNumber>883</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To grant lawful permanent resident status to certain eligible persons who were separated from immediate family members by the Department of Homeland Security.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Families Belong Together Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Families Belong Together Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Families Belong Together Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-25T14:59:01Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-30T14:03:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

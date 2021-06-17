@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <introducedDate>2019-04-30</introducedDate>
+    <laws />
+    <relatedBills />
+    <createDate>2019-05-01T04:27:09Z</createDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <middleName />
+        <state>OH</state>
+        <bioguideId>P000449</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROB</firstName>
+        <lastName>PORTMAN</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <middleName>Wood</middleName>
+        <state>NH</state>
+        <bioguideId>H001076</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Margaret</firstName>
+        <lastName>Hassan</lastName>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <updateDate>2019-05-25T04:42:13Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to improve and coordinate interagency Federal actions and provide assistance to States for responding to public health challenges posed by emerging contaminants, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Safe Drinking Water Assistance Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Safe Drinking Water Assistance Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Safe Drinking Water Assistance Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <billNumber>1251</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1251is/xml/BILLS-116s1251is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-30T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <title>Safe Drinking Water Assistance Act of 2019</title>
+    <congress>116</congress>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2019-04-30</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-04-30</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2019-04-30</actionDate>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Environment and Public Works Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-30T21:35:52Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssev00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

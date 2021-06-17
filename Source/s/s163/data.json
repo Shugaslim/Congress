@@ -1,0 +1,246 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Environment and Public Works. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "committee": "Environment and Public Works", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2019-02-05", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "19", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2019-02-25", 
+      "action_code": "", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-2.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-20", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2982", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2982", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2019-05-21", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-21T12:38:54-04:00", 
+      "action_code": "H14000", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s163-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 116-2"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001153", 
+      "district": null, 
+      "name": "Murkowski, Lisa", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-16", 
+      "state": "AK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-02-05", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2019-05-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-16", 
+  "number": "163", 
+  "official_title": "A bill to prevent catastrophic failure or shutdown of remote diesel power engines due to emission control devices, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr422-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Alaska Remote Generator Reliability and Protection Act", 
+  "sponsor": {
+    "bioguide_id": "S001198", 
+    "district": null, 
+    "name": "Sullivan, Dan", 
+    "state": "AK", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2019-05-20", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Alaska", 
+    "Congressional oversight", 
+    "Electric power generation and transmission", 
+    "Energy storage, supplies, demand", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Environmental technology", 
+    "Government studies and investigations", 
+    "Motor fuels"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Reported to Senate", 
+    "date": "2019-02-05T13:42:06Z", 
+    "text": "Alaska Remote Generator Reliability and Protection Act\n\nThis bill directs the Environmental Protection Agency (EPA) to revise certain regulations regarding particulate matter emissions standards for nonemergency stationary diesel engines in remote areas of Alaska. The EPA must report on methods for assisting remote areas of Alaska in meeting specified energy needs."
+  }, 
+  "titles": [
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Alaska Remote Generator Reliability and Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Alaska Remote Generator Reliability and Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Alaska Remote Generator Reliability and Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Alaska Remote Generator Reliability and Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Alaska Remote Generator Reliability and Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prevent catastrophic failure or shutdown of remote diesel power engines due to emission control devices, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Alaska Remote Generator Reliability and Protection Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-23T04:46:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s163.xml"
+}

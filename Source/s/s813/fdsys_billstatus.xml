@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-15T04:42:08Z</createDate>
+    <billNumber>813</billNumber>
+    <relatedBills />
+    <calendarNumbers />
+    <introducedDate>2019-03-14</introducedDate>
+    <updateDate>2019-03-23T00:59:50Z</updateDate>
+    <amendments />
+    <notes />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <lastName>Schatz</lastName>
+        <middleName />
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+        <bioguideId>S001194</bioguideId>
+        <party>D</party>
+        <state>HI</state>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-03-14</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <policyArea />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Private Legislation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-03-14T16:35:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <lastName>Hirono</lastName>
+        <byRequestType />
+        <middleName>K.</middleName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <party>D</party>
+        <state>HI</state>
+        <bioguideId>H001042</bioguideId>
+        <firstName>Mazie</firstName>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <date>2019-03-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s813is/xml/BILLS-116s813is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <recordedVotes />
+    <title>A bill for the relief of Vichai Sae Tung (also known as Chai Chaowasaree).</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill for the relief of Vichai Sae Tung (also known as Chai Chaowasaree).</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill for the relief of Vichai Sae Tung (also known as Chai Chaowasaree).</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-03-14</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-03-14</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Provides for the relief of Vichai Sae Tung (also known as Chai Chaowasaree).]]></text>
+          <lastSummaryUpdateDate>2019-03-15T08:01:42Z</lastSummaryUpdateDate>
+          <updateDate>2019-03-14T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

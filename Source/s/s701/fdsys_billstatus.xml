@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2019-03-07</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Federal Water Pollution Control Act to reauthorize the Chesapeake Bay Program, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Chesapeake Bay Program Reauthorization Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Chesapeake Bay Program Reauthorization Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Chesapeake Bay Program Reauthorization Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Chesapeake Bay Program Reauthorization Act</title>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2019-03-07</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <state>MD</state>
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <bioguideId>C000141</bioguideId>
+        <middleName>L.</middleName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <party>D</party>
+        <lastName>CARDIN</lastName>
+        <firstName>BENJAMIN</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-20T09:18:01Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-03-07T17:19:55Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-03-07</introducedDate>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <createDate>2019-03-08T05:42:07Z</createDate>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>MOORE</middleName>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <firstName>SHELLEY</firstName>
+        <lastName>CAPITO</lastName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <bioguideId>W000805</bioguideId>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <lastName>Warner</lastName>
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>V000128</bioguideId>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billNumber>701</billNumber>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Chesapeake Bay</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Watersheds</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s701is/xml/BILLS-116s701is.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <committeeReports />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

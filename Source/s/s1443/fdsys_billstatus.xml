@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-14</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-05-14</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Ernst</lastName>
+        <middleName />
+        <firstName>Joni</firstName>
+        <bioguideId>E000295</bioguideId>
+        <state>IA</state>
+        <party>R</party>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-05-15T04:42:16Z</createDate>
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <lastName>Bennet</lastName>
+        <bioguideId>B001267</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>CO</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <lastName>CAPITO</lastName>
+        <bioguideId>C001047</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <party>R</party>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>WV</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <bioguideId>W000817</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <lastName>Baldwin</lastName>
+        <bioguideId>B001230</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <firstName>Tammy</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>WI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+        <bioguideId>K000383</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+        </identifiers>
+        <firstName>Angus</firstName>
+        <party>I</party>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>ME</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>CT</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <bioguideId>T000464</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <firstName>Jon</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>MT</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <bioguideId>C001088</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>DE</state>
+      </item>
+    </cosponsors>
+    <textVersions />
+    <billNumber>1443</billNumber>
+    <notes />
+    <updateDate>2019-05-15T04:46:43Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <title>A bill to amend the Internal Revenue Code of 1986 to provide a nonrefundable credit for working family caregivers.</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide a nonrefundable credit for working family caregivers.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide a nonrefundable credit for working family caregivers.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-05-14</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2019-05-14</introducedDate>
+    <congress>116</congress>
+    <policyArea />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-14T16:08:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

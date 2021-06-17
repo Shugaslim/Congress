@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T16:49:01Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <middleName />
+        <state>KS</state>
+        <bioguideId>M000934</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8307</gpoId>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jerry</firstName>
+        <lastName>Moran</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <middleName />
+        <state>ND</state>
+        <bioguideId>H001061</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <lastName>Hoeven</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <middleName />
+        <state>ND</state>
+        <bioguideId>C001096</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>A bill to amend the Internal Revenue Code of 1986 to exclude from gross income interest received on certain loans secured by agricultural real property.</title>
+    <billType>S</billType>
+    <laws />
+    <amendments />
+    <createDate>2019-05-24T05:27:14Z</createDate>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <notes />
+    <policyArea />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+    </actions>
+    <billNumber>1641</billNumber>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2019-05-23</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to exclude from gross income interest received on certain loans secured by agricultural real property.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to exclude from gross income interest received on certain loans secured by agricultural real property.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <state>KS</state>
+        <byRequestType />
+        <firstName>PAT</firstName>
+        <lastName>ROBERTS</lastName>
+        <middleName />
+        <bioguideId>R000307</bioguideId>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-24T05:31:54Z</updateDate>
+    <introducedDate>2019-05-23</introducedDate>
+    <textVersions />
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

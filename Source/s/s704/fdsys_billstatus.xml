@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-08T05:42:07Z</createDate>
+    <introducedDate>2019-03-07</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-03-07</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2019-03-07</actionDate>
+    </latestAction>
+    <title>European Energy Security and Diversification Act of 2019</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>704</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+        </identifiers>
+        <bioguideId>M001169</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <state>CT</state>
+        <lastName>Murphy</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>116</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s704is/xml/BILLS-116s704is.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-07T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Collective security</name>
+          </item>
+          <item>
+            <name>Competition and antitrust</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Multilateral development programs</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestTitle>To prioritize the efforts of and enhance coordination among United States agencies to encourage countries in Europe and Eurasia to diversify their energy sources and supply routes, increase energy security in the region, and help the United States reach its global energy security goals, and for other purposes.</latestTitle>
+        <number>1616</number>
+        <latestAction>
+          <actionDate>2019-03-26</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestTitle>European Energy Security and Diversification Act of 2019</latestTitle>
+        <number>1453</number>
+        <latestAction>
+          <actionDate>2019-02-28</actionDate>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-07T18:39:56Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>J000293</bioguideId>
+        <lastName>Johnson</lastName>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <state>WI</state>
+        <firstName>Ron</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+      <item>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>C000141</bioguideId>
+        <lastName>CARDIN</lastName>
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <state>MD</state>
+        <firstName>BENJAMIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>R000595</bioguideId>
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Marco</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+      <item>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>S001181</bioguideId>
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <state>NH</state>
+        <firstName>Jeanne</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <bioguideId>G000562</bioguideId>
+        <lastName>Gardner</lastName>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <state>CO</state>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>A bill to prioritize the efforts of and enhance coordination among United States agencies to encourage countries in Central and Eastern Europe to diversify their energy sources and supply routes, increase Europe's energy security, and help the United States reach its global energy security goals, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>European Energy Security and Diversification Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>European Energy Security and Diversification Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>European Energy Security and Diversification Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2019-04-23T04:42:12Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

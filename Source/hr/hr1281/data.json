@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1281-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001195", 
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-14", 
+      "state": "WV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-14", 
+  "number": "1281", 
+  "official_title": "To repeal the Environmental Protection Agency's most recent rule for new residential wood heaters.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Stop EPA Overregulation of Rural Americans Act", 
+  "sponsor": {
+    "bioguide_id": "R000603", 
+    "district": "7", 
+    "name": "Rouzer, David", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-14", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Lighting, heating, cooling"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-02-14T05:00:00Z", 
+    "text": "Stop EPA Overregulation of Rural Americans Act\n\nThis bill nullifies the Environmental Protection Agency rule titled \"Standards of Performance for New Residential Wood Heaters, New Residential Hydronic Heaters and Forced-Air Furnaces,\" published on March 16, 2015."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the Environmental Protection Agency's most recent rule for new residential wood heaters.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop EPA Overregulation of Rural Americans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop EPA Overregulation of Rural Americans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Stop EPA Overregulation of Rural Americans Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-09T10:26:10Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1281.xml"
+}

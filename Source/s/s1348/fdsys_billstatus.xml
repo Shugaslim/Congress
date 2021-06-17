@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <textVersions />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <lastName>King</lastName>
+        <party>I</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Angus</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <bioguideId>R000605</bioguideId>
+        <state>SD</state>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kirsten</firstName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Sasse</lastName>
+        <state>NE</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+        </identifiers>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <middleName />
+        <byRequestType />
+        <bioguideId>S001197</bioguideId>
+        <party>R</party>
+        <firstName>Ben</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <item>
+        <actionDate>2019-05-07</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-05-07</actionDate>
+        <links />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <date>2019-05-07T19:07:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssas00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea />
+    <updateDate>2019-05-08T07:18:15Z</updateDate>
+    <billNumber>1348</billNumber>
+    <createDate>2019-05-08T04:42:09Z</createDate>
+    <introducedDate>2019-05-07</introducedDate>
+    <amendments />
+    <recordedVotes />
+    <relatedBills />
+    <cboCostEstimates />
+    <title>A bill to require the Secretary of Defense to conduct a study on cyberexploitation of members of the Armed Forces and their families, and for other purposes.</title>
+    <notes />
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to require the Secretary of Defense to conduct a study on cyberexploitation of members of the Armed Forces and their families, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to require the Secretary of Defense to conduct a study on cyberexploitation of members of the Armed Forces and their families, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <billType>S</billType>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <actionDate>2019-05-07</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

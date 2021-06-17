@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <bioguideId>K000362</bioguideId>
+        <district>4</district>
+        <firstName>Steve</firstName>
+        <middleName />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <state>IA</state>
+        <byRequestType />
+        <identifiers>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <lastName>King</lastName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-01-31T16:38:46Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-11T14:00:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-11T14:00:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <middleName />
+        <bioguideId>D000615</bioguideId>
+        <lastName>Duncan</lastName>
+        <district>3</district>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <middleName>X.</middleName>
+        <bioguideId>M001195</bioguideId>
+        <lastName>Mooney</lastName>
+        <district>2</district>
+        <firstName>Alexander</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <congress>116</congress>
+    <committeeReports />
+    <billType>HR</billType>
+    <introducedDate>2019-01-11</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of Iowa:H.R. 520.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1; Article I, Section 8,Clause 18[Page H520]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <billNumber>520</billNumber>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-11</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-11</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-01-11T05:00:00Z</updateDate>
+          <actionDate>2019-01-11</actionDate>
+          <lastSummaryUpdateDate>2019-04-08T13:52:49Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Protecting Life Until Natural Death Act</strong></p> <p>This bill excludes advanced care planning services from Medicare coverage,&nbsp;with the exception of&nbsp;certain hospice-related services that may include advising on end-of-life or advanced care planning.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to exclude coverage of advance care planning services under the Medicare program.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Protecting Life Until Natural Death Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Protecting Life Until Natural Death Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Protecting Life Until Natural Death Act</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <updateDate>2019-04-08T14:00:08Z</updateDate>
+    <originChamber>House</originChamber>
+    <title>Protecting Life Until Natural Death Act</title>
+    <amendments />
+    <createDate>2019-01-12T08:10:15Z</createDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr520ih/xml/BILLS-116hr520ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2019-01-31</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

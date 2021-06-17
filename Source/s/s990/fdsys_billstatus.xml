@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-02T20:20:01Z</date>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2019-04-02</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to authorize the Secretary of the Interior to participate in the implementation of the Platte River Recovery Implementation Program First Increment Extension for threatened and endangered species in the Central and Lower Platte River Basin, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Platte River Recovery Implementation Program Extension Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Platte River Recovery Implementation Program Extension Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Platte River Recovery Implementation Program Extension Act</title>
+      </item>
+    </titles>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-04-02</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000562</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Gardner</lastName>
+        <firstName>Cory</firstName>
+        <state>CO</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000463</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Fischer</lastName>
+        <firstName>Deb</firstName>
+        <state>NE</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001267</bioguideId>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Bennet</lastName>
+        <firstName>Michael</firstName>
+        <state>CO</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+          <lisID>1542</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000285</bioguideId>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>ENZI</lastName>
+        <firstName>MICHAEL</firstName>
+        <state>WY</state>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <recordedVotes />
+    <notes />
+    <billNumber>990</billNumber>
+    <updateDate>2019-04-17T09:17:58Z</updateDate>
+    <relatedBills />
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s990is/xml/BILLS-116s990is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-02T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2019-04-03T04:42:07Z</createDate>
+    <introducedDate>2019-04-02</introducedDate>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <middleName />
+        <bioguideId>B001261</bioguideId>
+        <lastName>Barrasso</lastName>
+        <state>WY</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+          <lisID>1881</lisID>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <title>Platte River Recovery Implementation Program Extension Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

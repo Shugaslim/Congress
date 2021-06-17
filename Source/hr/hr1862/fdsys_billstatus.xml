@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName>X.</middleName>
+        <state>WV</state>
+        <bioguideId>M001195</bioguideId>
+        <lastName>Mooney</lastName>
+        <identifiers>
+          <lisID>2277</lisID>
+          <bioguideId>M001195</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <firstName>Alexander</firstName>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-03-25</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-03-25</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-03-25</actionDate>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Financial Stability Oversight Council</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-03-26T07:12:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-25T16:00:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Federal Insurance Office Abolishment Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>To abolish the Federal Insurance Office of the Department of the Treasury, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Federal Insurance Office Abolishment Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Federal Insurance Office Abolishment Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <title>Federal Insurance Office Abolishment Act of 2019</title>
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2019-03-25</actionDate>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Budd</lastName>
+        <identifiers>
+          <lisID>2336</lisID>
+          <bioguideId>B001305</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>B001305</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <party>R</party>
+        <state>NC</state>
+        <firstName>Ted</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Biggs</lastName>
+        <identifiers>
+          <lisID>2307</lisID>
+          <gpoId />
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>B001302</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>Andy</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gaetz</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>G000578</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <party>R</party>
+        <state>FL</state>
+        <firstName>Matt</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Meadows</lastName>
+        <identifiers>
+          <lisID>2142</lisID>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>M001187</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <party>R</party>
+        <state>NC</state>
+        <firstName>Mark</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lesko</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2368</lisID>
+          <bioguideId>L000589</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>L000589</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>Debbie</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Banks</lastName>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+          <lisID>2326</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>B001299</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <party>R</party>
+        <state>IN</state>
+        <firstName>Jim</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Williams</lastName>
+        <identifiers>
+          <lisID>2165</lisID>
+          <bioguideId>W000816</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>25</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>W000816</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>Roger</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Norman</lastName>
+        <identifiers>
+          <lisID>2361</lisID>
+          <gpoId />
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>N000190</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <party>R</party>
+        <state>SC</state>
+        <firstName>Ralph</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Duncan</lastName>
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>D000615</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <party>R</party>
+        <state>SC</state>
+        <firstName>Jeff</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Walker</lastName>
+        <identifiers>
+          <lisID>2255</lisID>
+          <bioguideId>W000819</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>W000819</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <party>R</party>
+        <state>NC</state>
+        <firstName>Mark</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Davidson</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000626</bioguideId>
+          <lisID>2296</lisID>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <bioguideId>D000626</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <party>R</party>
+        <state>OH</state>
+        <firstName>Warren</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cloud</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001115</bioguideId>
+          <lisID>2369</lisID>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <bioguideId>C001115</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cloud, Michael [R-TX-27]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>Michael</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gonzalez-Colon</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2347</lisID>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>G000582</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <party>R</party>
+        <state>PR</state>
+        <firstName>Jenniffer</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brooks</lastName>
+        <identifiers>
+          <gpoId>7790</gpoId>
+          <lisID>1987</lisID>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>B001274</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <party>R</party>
+        <state>AL</state>
+        <firstName>Mo</firstName>
+        <middleName />
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gohmert</lastName>
+        <identifiers>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <bioguideId>G000552</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>Louie</firstName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <updateDate>2019-05-23T07:15:52Z</updateDate>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Federal Insurance Office Abolishment Act of 2019</b></p> <p>This bill eliminates the Federal Insurance Office (FIO) within the Department of the Treasury. The bill also removes the FIO director as a nonvoting member of the Financial Stability Oversight Council.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-05-09T20:15:50Z</lastSummaryUpdateDate>
+          <updateDate>2019-03-25T04:00:00Z</updateDate>
+          <actionDate>2019-03-25</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2019-03-25</introducedDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1862ih/xml/BILLS-116hr1862ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MOONEY of West Virginia:H.R. 1862.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution[Page H2796]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1862</billNumber>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

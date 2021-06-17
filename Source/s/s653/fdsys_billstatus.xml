@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <policyArea />
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-05T19:57:10Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <lastName>Menendez</lastName>
+        <byRequestType />
+        <firstName>Robert</firstName>
+        <party>D</party>
+        <state>NJ</state>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-03-05</actionDate>
+          <text><![CDATA[Provides for the relief of Malachy McAllister, Nicola McAllister, and Sean Ryan McAllister.]]></text>
+          <lastSummaryUpdateDate>2019-03-06T09:02:32Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2019-03-05T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2019-03-06T05:42:07Z</createDate>
+    <title>A bill for the relief of Malachy McAllister, Nicola McAllister, and Sean Ryan McAllister.</title>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s653is/xml/BILLS-116s653is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-03-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill for the relief of Malachy McAllister, Nicola McAllister, and Sean Ryan McAllister.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill for the relief of Malachy McAllister, Nicola McAllister, and Sean Ryan McAllister.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>653</billNumber>
+    <updateDate>2019-03-22T19:10:35Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Private Legislation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <actionDate>2019-03-05</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <notes />
+    <cosponsors />
+    <introducedDate>2019-03-05</introducedDate>
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-03-05</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

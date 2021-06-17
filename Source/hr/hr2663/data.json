@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2663-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-10", 
+  "number": "2663", 
+  "official_title": "To amend title II of the Social Security Act to repeal the retirement earnings test, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Senior Citizens' Freedom to Work Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "W000813", 
+    "district": "2", 
+    "name": "Walorski, Jackie", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-10", 
+  "subjects": [
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title II of the Social Security Act to repeal the retirement earnings test, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Senior Citizens' Freedom to Work Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Senior Citizens\u2019 Freedom to Work Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Senior Citizens' Freedom to Work Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-28T15:45:10Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2663.xml"
+}

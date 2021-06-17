@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <billNumber>1517</billNumber>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionDate>2019-03-05</actionDate>
+        <links />
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-03-05</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-03-05</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-03-05</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>654</number>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>COMMUTE Act</latestTitle>
+      </item>
+    </relatedBills>
+    <createDate>2019-03-06T08:12:09Z</createDate>
+    <version>1.0.0</version>
+    <amendments />
+    <cosponsors>
+      <item>
+        <lastName>Curtis</lastName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <state>UT</state>
+        <middleName>R.</middleName>
+        <firstName>John</firstName>
+        <fullName>Rep. Curtis, John R. [R-UT-3]</fullName>
+        <party>R</party>
+        <district>3</district>
+        <identifiers>
+          <lisID>2363</lisID>
+          <bioguideId>C001114</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001114</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>McAdams</lastName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <state>UT</state>
+        <middleName />
+        <firstName>Ben</firstName>
+        <fullName>Rep. McAdams, Ben [D-UT-4]</fullName>
+        <party>D</party>
+        <district>4</district>
+        <identifiers>
+          <lisID>2452</lisID>
+          <gpoId />
+          <bioguideId>M001209</bioguideId>
+        </identifiers>
+        <bioguideId>M001209</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <state>TX</state>
+        <middleName />
+        <firstName>SHEILA</firstName>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <party>D</party>
+        <district>18</district>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Dean</lastName>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <state>PA</state>
+        <middleName />
+        <firstName>Madeleine</firstName>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <party>D</party>
+        <district>4</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000631</bioguideId>
+          <lisID>2432</lisID>
+        </identifiers>
+        <bioguideId>D000631</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Brownley</lastName>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <state>CA</state>
+        <middleName />
+        <firstName>Julia</firstName>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <party>D</party>
+        <district>26</district>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001285</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Bacon</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <state>NE</state>
+        <middleName />
+        <firstName>Don</firstName>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <party>R</party>
+        <district>2</district>
+        <identifiers>
+          <lisID>2337</lisID>
+          <bioguideId>B001298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001298</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Himes</lastName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <state>CT</state>
+        <middleName>A.</middleName>
+        <firstName>James</firstName>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <party>D</party>
+        <district>4</district>
+        <identifiers>
+          <gpoId>7869</gpoId>
+          <bioguideId>H001047</bioguideId>
+          <lisID>1913</lisID>
+        </identifiers>
+        <bioguideId>H001047</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Kuster</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <state>NH</state>
+        <middleName>M.</middleName>
+        <firstName>Ann</firstName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <party>D</party>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Lipinski</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <state>IL</state>
+        <middleName>William</middleName>
+        <firstName>Daniel</firstName>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <party>D</party>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+          <lisID>1781</lisID>
+        </identifiers>
+        <bioguideId>L000563</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <introducedDate>2019-03-05</introducedDate>
+    <title>COMMUTE Act</title>
+    <updateDate>2019-05-01T07:16:23Z</updateDate>
+    <billType>HR</billType>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>DeSaulnier</lastName>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+        <bioguideId>D000623</bioguideId>
+        <state>CA</state>
+        <district>11</district>
+        <firstName>Mark</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeSAULNIER:H.R. 1517.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8.[Page H2369]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Food industry and services</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Housing supply and affordability</name>
+          </item>
+          <item>
+            <name>Regional and metropolitan planning</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1517ih/xml/BILLS-116hr1517ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Connecting Opportunities through Mobility Metrics and Unlocking Transportation Efficiencies Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>COMMUTE Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To require the Secretary of Transportation to carry out a pilot program to develop and provide to States and transportation planning organizations accessibility data sets, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Connecting Opportunities through Mobility Metrics and Unlocking Transportation Efficiencies Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>COMMUTE Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>COMMUTE Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-03-05</actionDate>
+      <links />
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-03-05T17:06:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

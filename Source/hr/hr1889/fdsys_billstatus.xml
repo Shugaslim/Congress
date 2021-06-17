@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-27T07:12:11Z</createDate>
+    <actions>
+      <item>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-03-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-03-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-26</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-26</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-26T14:04:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-26T14:04:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <middleName />
+        <bioguideId>S001200</bioguideId>
+        <lastName>Soto</lastName>
+        <district>9</district>
+        <firstName>Darren</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <middleName />
+        <bioguideId>E000297</bioguideId>
+        <lastName>Espaillat</lastName>
+        <district>13</district>
+        <firstName>Adriano</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+          <lisID>2342</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <middleName>J.</middleName>
+        <bioguideId>T000474</bioguideId>
+        <lastName>Torres</lastName>
+        <district>35</district>
+        <firstName>Norma</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2231</lisID>
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Escobar, Veronica [D-TX-16]</fullName>
+        <middleName />
+        <bioguideId>E000299</bioguideId>
+        <lastName>Escobar</lastName>
+        <district>16</district>
+        <firstName>Veronica</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>E000299</bioguideId>
+          <lisID>2448</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <middleName />
+        <bioguideId>R000486</bioguideId>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <district>40</district>
+        <firstName>LUCILLE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>997</lisID>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Garcia, Jesus G. "Chuy" [D-IL-4]</fullName>
+        <middleName>G.</middleName>
+        <bioguideId>G000586</bioguideId>
+        <lastName>Garcia</lastName>
+        <district>4</district>
+        <firstName>Jesus</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>G000586</bioguideId>
+          <lisID>2397</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <middleName>F.</middleName>
+        <bioguideId>N000179</bioguideId>
+        <lastName>NAPOLITANO</lastName>
+        <district>32</district>
+        <firstName>GRACE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <middleName />
+        <bioguideId>C001097</bioguideId>
+        <lastName>Cardenas</lastName>
+        <district>29</district>
+        <firstName>Tony</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SANCHEZ:H.R. 1889.Congress has the power to enact this legislation pursuantto the following:Art. I, Sec. 8, cl. 18[Page H2828]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-03-26</actionDate>
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1889</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea />
+    <relatedBills />
+    <updateDate>2019-04-08T22:45:08Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Escuadrón 201 Congressional Gold Medal Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To award a Congressional Gold Medal to the members of Escuadrón 201.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Escuadron 201 Congressional Gold Medal Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Escuadron 201 Congressional Gold Medal Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-03-26</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>SANCHEZ</lastName>
+        <state>CA</state>
+        <district>38</district>
+        <party>D</party>
+        <byRequestType />
+        <firstName>LINDA</firstName>
+        <bioguideId>S001156</bioguideId>
+        <middleName>T.</middleName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Escuadron 201 Congressional Gold Medal Act</title>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1889ih/xml/BILLS-116hr1889ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-26T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

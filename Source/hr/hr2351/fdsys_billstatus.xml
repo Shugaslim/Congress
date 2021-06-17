@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <relatedBills />
+    <recordedVotes />
+    <laws />
+    <createDate>2019-04-23T07:12:06Z</createDate>
+    <amendments />
+    <calendarNumbers />
+    <updateDate>2019-05-01T07:16:44Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-04-23</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-22</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-04-22</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-04-22</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <state>WA</state>
+        <party>D</party>
+        <bioguideId>S000510</bioguideId>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <lastName>SMITH</lastName>
+        <identifiers>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <district>9</district>
+        <firstName>ADAM</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <title>Protecting Airport Communities from Particle Emissions Act</title>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2019-04-23</actionDate>
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <billNumber>2351</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <name>Aviation Subcommittee</name>
+              <systemCode>hspw05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-23T13:33:38Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-22T13:31:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>Pramila</firstName>
+        <middleName />
+        <state>WA</state>
+        <lastName>Jayapal</lastName>
+        <bioguideId>J000298</bioguideId>
+        <identifiers>
+          <lisID>2354</lisID>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <district>7</district>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <middleName />
+        <state>CA</state>
+        <lastName>Lieu</lastName>
+        <bioguideId>L000582</bioguideId>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+          <lisID>2230</lisID>
+        </identifiers>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <district>33</district>
+      </item>
+      <item>
+        <firstName>JANICE</firstName>
+        <middleName>D.</middleName>
+        <state>IL</state>
+        <lastName>SCHAKOWSKY</lastName>
+        <bioguideId>S001145</bioguideId>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <district>9</district>
+      </item>
+      <item>
+        <firstName>Stephen</firstName>
+        <middleName>F.</middleName>
+        <state>MA</state>
+        <lastName>Lynch</lastName>
+        <bioguideId>L000562</bioguideId>
+        <identifiers>
+          <gpoId>7974</gpoId>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+        </identifiers>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <district>8</district>
+      </item>
+      <item>
+        <firstName>Thomas</firstName>
+        <middleName>R.</middleName>
+        <state>NY</state>
+        <lastName>Suozzi</lastName>
+        <bioguideId>S001201</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>SHEILA</firstName>
+        <middleName />
+        <state>TX</state>
+        <lastName>JACKSON LEE</lastName>
+        <bioguideId>J000032</bioguideId>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <district>18</district>
+      </item>
+      <item>
+        <firstName>Scott</firstName>
+        <middleName>H.</middleName>
+        <state>CA</state>
+        <lastName>Peters</lastName>
+        <bioguideId>P000608</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <district>52</district>
+      </item>
+      <item>
+        <firstName>Ilhan</firstName>
+        <middleName />
+        <state>MN</state>
+        <lastName>Omar</lastName>
+        <bioguideId>O000173</bioguideId>
+        <identifiers>
+          <bioguideId>O000173</bioguideId>
+          <gpoId />
+          <lisID>2414</lisID>
+        </identifiers>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <district>5</district>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of Washington:H.R. 2351.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the U.S. Constitution:The Congress shall have power to regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes[Page H3280]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2351ih/xml/BILLS-116hr2351ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-22T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <notes />
+    <policyArea />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To direct the Administrator of the Federal Aviation Administration to conduct a study relating to ultrafine particles, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Protecting Airport Communities from Particle Emissions Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Protecting Airport Communities from Particle Emissions Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Protecting Airport Communities from Particle Emissions Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-04-22</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

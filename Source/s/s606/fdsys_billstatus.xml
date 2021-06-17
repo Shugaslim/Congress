@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Television and film</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <createDate>2019-03-01T05:40:11Z</createDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Sponsor introductory remarks on measure. (CR H3349-3350)</text>
+          <actionDate>2019-05-01</actionDate>
+        </latestAction>
+        <latestTitle>Reach Every Veteran in Crisis Act</latestTitle>
+        <congress>116</congress>
+        <number>2184</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <party>R</party>
+        <firstName>John</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <state>AR</state>
+        <bioguideId>B001236</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Sullivan</lastName>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <party>R</party>
+        <firstName>Dan</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <state>AK</state>
+        <bioguideId>S001198</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Hirono</lastName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <party>D</party>
+        <firstName>Mazie</firstName>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <state>HI</state>
+        <bioguideId>H001042</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Brown</lastName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <party>D</party>
+        <firstName>Sherrod</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Gardner</lastName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <party>R</party>
+        <firstName>Cory</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>CO</state>
+        <bioguideId>G000562</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-28</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <title>Reach Every Veteran in Crisis Act</title>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>Richard</firstName>
+        <state>CT</state>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <middleName />
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2019-02-28</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to improve oversight and evaluation of the mental health and suicide prevention media outreach campaigns of the Department of Veterans Affairs, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Reach Every Veteran in Crisis Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Reach Every Veteran in Crisis Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Reach Every Veteran in Crisis Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-02-28T17:46:33Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <billType>S</billType>
+    <latestAction>
+      <links />
+      <actionDate>2019-02-28</actionDate>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </latestAction>
+    <recordedVotes />
+    <updateDate>2019-05-08T06:24:17Z</updateDate>
+    <billNumber>606</billNumber>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-28T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s606is/xml/BILLS-116s606is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

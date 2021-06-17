@@ -1,0 +1,181 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1062-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001063", 
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000399", 
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-11", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001073", 
+      "district": "23", 
+      "name": "Hurd, Will", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000614", 
+      "district": "21", 
+      "name": "Roy, Chip", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-11", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000800", 
+      "district": null, 
+      "name": "Welch, Peter", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-11", 
+      "state": "VT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-07", 
+  "number": "1062", 
+  "official_title": "To authorize the Secretary of Homeland Security to work with cybersecurity consortia for training, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Cybersecurity Preparedness Consortium Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001091", 
+    "district": "20", 
+    "name": "Castro, Joaquin", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-07", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Department of Homeland Security", 
+    "Emergency planning and evacuation", 
+    "First responders and emergency personnel", 
+    "Public-private cooperation", 
+    "Science, technology, communications", 
+    "State and local government operations", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Cybersecurity Preparedness Consortium Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Cybersecurity Preparedness Consortium Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of Homeland Security to work with cybersecurity consortia for training, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National Cybersecurity Preparedness Consortium Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-01T08:15:01Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1062.xml"
+}

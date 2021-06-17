@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2019-05-16</introducedDate>
+    <updateDate>2019-05-17T04:47:46Z</updateDate>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-16T15:07:08Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea />
+    <amendments />
+    <latestAction>
+      <links />
+      <actionDate>2019-05-16</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <notes />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>E000295</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <state>IA</state>
+        <lastName>Ernst</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <firstName>Joni</firstName>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1501</billNumber>
+    <title>A bill to modify the requirements for the longitudinal medical study of the Department of Defense on blast pressure exposure of members of the Armed Forces to assess the feasibility and advisability of uploading and sharing data, and for other purposes.</title>
+    <relatedBills />
+    <version>1.0.0</version>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-05-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <byRequestType />
+        <state>MA</state>
+        <lastName>Warren</lastName>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to modify the requirements for the longitudinal medical study of the Department of Defense on blast pressure exposure of members of the Armed Forces to assess the feasibility and advisability of uploading and sharing data, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to modify the requirements for the longitudinal medical study of the Department of Defense on blast pressure exposure of members of the Armed Forces to assess the feasibility and advisability of uploading and sharing data, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <textVersions />
+    <createDate>2019-05-17T04:42:08Z</createDate>
+    <laws />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

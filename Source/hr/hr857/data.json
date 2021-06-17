@@ -1,0 +1,100 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr857-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-29", 
+  "number": "857", 
+  "official_title": "To hold the salaries of Members of a House of Congress in escrow if the House of Congress does not pass regular appropriation bills on a timely basis during a Congress, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Inaction Has Consequences Act", 
+  "sponsor": {
+    "bioguide_id": "W000804", 
+    "district": "1", 
+    "name": "Wittman, Robert J.", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-29", 
+  "subjects": [
+    "Appropriations", 
+    "Budget process", 
+    "Congress", 
+    "Executive agency funding and structure", 
+    "Government employee pay, benefits, personnel management", 
+    "Legislative rules and procedure", 
+    "Members of Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To hold the salaries of Members of a House of Congress in escrow if the House of Congress does not pass regular appropriation bills on a timely basis during a Congress, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Inaction Has Consequences Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Inaction Has Consequences Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Inaction Has Consequences Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-04-09T10:26:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr857.xml"
+}

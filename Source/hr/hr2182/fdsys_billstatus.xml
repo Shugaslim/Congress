@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <createDate>2019-04-10T07:12:09Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2019-05-18T07:15:45Z</updateDate>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-04-09</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-04-09</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Family planning and birth control</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <firstName>CAROLYN</firstName>
+        <lastName>MALONEY</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+          <lisID>729</lisID>
+        </identifiers>
+        <middleName>B.</middleName>
+        <state>NY</state>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <bioguideId>M000087</bioguideId>
+        <byRequestType />
+        <district>12</district>
+      </item>
+    </sponsors>
+    <title>Access to Birth Control Act</title>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>S001175</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Speier</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>14</district>
+        <identifiers>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <middleName>M.</middleName>
+        <state>AZ</state>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Grijalva</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Raul</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>M001160</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moore</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Gwen</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <middleName>E.</middleName>
+        <state>VA</state>
+        <bioguideId>C001078</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Connolly</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>11</district>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Gerald</firstName>
+      </item>
+      <item>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <middleName>A.</middleName>
+        <state>OR</state>
+        <bioguideId>D000191</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <middleName />
+        <state>OR</state>
+        <bioguideId>B001278</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bonamici</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <identifiers>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Suzanne</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>BARBARA</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Kirkpatrick, Ann [D-AZ-2]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <middleName />
+        <state>AZ</state>
+        <bioguideId>K000368</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kirkpatrick</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <identifiers>
+          <gpoId>7220</gpoId>
+          <lisID>1907</lisID>
+          <bioguideId>K000368</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Ann</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>LOFGREN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>ZOE</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <middleName>H.</middleName>
+        <state>TN</state>
+        <bioguideId>C000754</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>COOPER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <identifiers>
+          <lisID>231</lisID>
+          <bioguideId>C000754</bioguideId>
+          <gpoId>8152</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JAMES</firstName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <billNumber>2182</billNumber>
+    <congress>116</congress>
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <latestTitle>Access to Birth Control Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-04-09</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <number>1086</number>
+        <type>S</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-09T14:06:50Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. CAROLYN B. MALONEY of New York:H.R. 2182.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H3219]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-04-09</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To establish certain duties for pharmacies to ensure provision of Food and Drug Administration-approved contraception, medication related to contraception, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Access to Birth Control Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Access to Birth Control Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Access to Birth Control Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <introducedDate>2019-04-09</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-04-09T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2182ih/xml/BILLS-116hr2182ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

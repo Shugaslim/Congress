@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2019-01-15T15:00:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Commodity Exchanges, Energy, and Credit Subcommittee</name>
+              <systemCode>hsag22</systemCode>
+              <activities>
+                <item>
+                  <date>2019-02-08T20:19:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Agriculture Committee</name>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <date>2019-01-15T15:00:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <createDate>2019-01-16T08:10:16Z</createDate>
+    <billNumber>562</billNumber>
+    <billType>HR</billType>
+    <title>Veterans' Agricultural Apprenticeship Act of 2019</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-08</actionDate>
+        <committee>
+          <systemCode>hsag22</systemCode>
+          <name>Commodity Exchanges, Energy, and Credit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR H1250)</text>
+        <actionDate>2019-01-29</actionDate>
+        <links>
+          <link>
+            <name>H1250</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1250</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-15</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-15</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>B001295</bioguideId>
+        <state>IL</state>
+        <district>12</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2243</lisID>
+          <bioguideId>B001295</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <lastName>Bost</lastName>
+        <party>R</party>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-01-15</introducedDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2317</lisID>
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <firstName>Al</firstName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Lawson</lastName>
+        <middleName />
+        <bioguideId>L000586</bioguideId>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <firstName>Rodney</firstName>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <lastName>Davis</lastName>
+        <middleName />
+        <bioguideId>D000619</bioguideId>
+        <party>R</party>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2275</lisID>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+        </identifiers>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <firstName>Dan</firstName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <lastName>Newhouse</lastName>
+        <middleName />
+        <bioguideId>N000189</bioguideId>
+        <party>R</party>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2269</lisID>
+          <bioguideId>H001073</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <firstName>Will</firstName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>Hurd</lastName>
+        <middleName />
+        <bioguideId>H001073</bioguideId>
+        <party>R</party>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>23</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>Stivers</lastName>
+        <middleName />
+        <bioguideId>S001187</bioguideId>
+        <party>R</party>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>15</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <firstName>John</firstName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <lastName>Rutherford</lastName>
+        <middleName>H.</middleName>
+        <bioguideId>R000609</bioguideId>
+        <party>R</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+        </identifiers>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <lastName>Johnson</lastName>
+        <middleName />
+        <bioguideId>J000292</bioguideId>
+        <party>R</party>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2430</lisID>
+          <gpoId />
+          <bioguideId>G000588</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gonzalez, Anthony [R-OH-16]</fullName>
+        <firstName>Anthony</firstName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <lastName>Gonzalez</lastName>
+        <middleName />
+        <bioguideId>G000588</bioguideId>
+        <party>R</party>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>16</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <firstName>TIM</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>RYAN</lastName>
+        <middleName />
+        <bioguideId>R000577</bioguideId>
+        <party>D</party>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+        </identifiers>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <firstName>SANFORD</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>BISHOP</lastName>
+        <middleName>D.</middleName>
+        <bioguideId>B000490</bioguideId>
+        <party>D</party>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <firstName>Debbie</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Wasserman Schultz</lastName>
+        <middleName />
+        <bioguideId>W000797</bioguideId>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>23</district>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <firstName>Gwen</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Moore</lastName>
+        <middleName />
+        <bioguideId>M001160</bioguideId>
+        <party>D</party>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <firstName>Ann</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Kuster</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>K000382</bioguideId>
+        <party>D</party>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <firstName>Yvette</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>Clarke</lastName>
+        <middleName>D.</middleName>
+        <bioguideId>C001067</bioguideId>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <lastName>KIND</lastName>
+        <middleName />
+        <bioguideId>K000188</bioguideId>
+        <party>D</party>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2377</lisID>
+          <bioguideId>H001090</bioguideId>
+        </identifiers>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <firstName>Josh</firstName>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>Harder</lastName>
+        <middleName />
+        <bioguideId>H001090</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2129</lisID>
+          <gpoId />
+          <bioguideId>B001284</bioguideId>
+        </identifiers>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <firstName>Susan</firstName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <lastName>Brooks</lastName>
+        <middleName>W.</middleName>
+        <bioguideId>B001284</bioguideId>
+        <party>R</party>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2378</lisID>
+          <bioguideId>C001124</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Cox, TJ [D-CA-21]</fullName>
+        <firstName>TJ</firstName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <lastName>Cox</lastName>
+        <middleName />
+        <bioguideId>C001124</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>21</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <firstName>Darren</firstName>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Soto</lastName>
+        <middleName />
+        <bioguideId>S001200</bioguideId>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <firstName>Peter</firstName>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <lastName>Welch</lastName>
+        <middleName />
+        <bioguideId>W000800</bioguideId>
+        <party>D</party>
+        <state>VT</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8040</gpoId>
+          <lisID>1860</lisID>
+          <bioguideId>S001172</bioguideId>
+        </identifiers>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <firstName>Adrian</firstName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <lastName>Smith</lastName>
+        <middleName />
+        <bioguideId>S001172</bioguideId>
+        <party>R</party>
+        <state>NE</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BOST:H.R. 562.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H602]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To establish a Department of Agriculture loan program to support mentorship and apprenticeship opportunities for veterans of the Armed Forces to become farmers or ranchers.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Veterans' Agricultural Apprenticeship Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Veterans' Agricultural Apprenticeship Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Veterans’ Agricultural Apprenticeship Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr562ih/xml/BILLS-116hr562ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-15T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural education</name>
+          </item>
+          <item>
+            <name>Armed Forces and National Security</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-23T07:15:38Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+      <links />
+      <actionDate>2019-02-08</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

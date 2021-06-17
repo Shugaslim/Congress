@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-13", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-13", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s473-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000449", 
+      "district": null, 
+      "name": "Portman, Rob", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-13", 
+      "state": "OH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-13", 
+  "number": "473", 
+  "official_title": "A bill to amend title 5, United States Code, to include certain Federal positions within the definition of law enforcement officer for retirement purposes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1195-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Law Enforcement Officers Equity Act", 
+  "sponsor": {
+    "bioguide_id": "B001288", 
+    "district": null, 
+    "name": "Booker, Cory A.", 
+    "state": "NJ", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-13", 
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation", 
+    "Customs enforcement", 
+    "Department of Homeland Security", 
+    "Department of Veterans Affairs", 
+    "Department of the Treasury", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Internal Revenue Service (IRS)", 
+    "Law enforcement officers", 
+    "Tax administration and collection, taxpayers"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 5, United States Code, to include certain Federal positions within the definition of law enforcement officer for retirement purposes, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Law Enforcement Officers Equity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Law Enforcement Officers Equity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Law Enforcement Officers Equity Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-03-22T19:11:10Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s473.xml"
+}

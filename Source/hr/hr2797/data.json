@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2797-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000619", 
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000385", 
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000171", 
+      "district": "1", 
+      "name": "O'Halleran, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000065", 
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-16", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-16", 
+  "number": "2797", 
+  "official_title": "To amend the Agricultural Act of 1961 to modify the limitations applicable to qualified conservation loan guarantees, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "BALE Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "B001295", 
+    "district": "12", 
+    "name": "Bost, Mike", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-16", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "BALE Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Beginning Agriculturalist Lifetime Employment Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Agricultural Act of 1961 to modify the limitations applicable to qualified conservation loan guarantees, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Agricultural Act of 1961 to modify the limitations applicable to qualified conservation loan guarantees, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-30T02:45:05Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2797.xml"
+}

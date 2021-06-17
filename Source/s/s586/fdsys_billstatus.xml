@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2019-02-27</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-27</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-27</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+    </actions>
+    <recordedVotes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-27T19:46:38Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <createDate>2019-02-28T05:40:12Z</createDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s586is/xml/BILLS-116s586is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-02-27T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-02-27T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-03-19T19:11:53Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Critical Access Hospital Relief Act of </b><b>2019</b></p> <p>This bill repeals the 96-hour physician-certification requirement for inpatient critical access hospital services under Medicare. Under current law, as a condition for Medicare payment for such services, a physician must certify that a patient may reasonably be expected to be discharged or transferred to a hospital within 96 hours after admission to the critical access hospital. </p>]]></text>
+          <actionDate>2019-02-27</actionDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2019-02-27</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-04-12T09:18:57Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Tester</lastName>
+        <middleName />
+        <state>MT</state>
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <party>R</party>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Barrasso</lastName>
+        <middleName />
+        <state>WY</state>
+      </item>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <party>D</party>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Bennet</lastName>
+        <middleName>F.</middleName>
+        <state>CO</state>
+      </item>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <firstName>Lisa</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Murkowski</lastName>
+        <middleName />
+        <state>AK</state>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <party>D</party>
+        <firstName>Tammy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Baldwin</lastName>
+        <middleName />
+        <state>WI</state>
+      </item>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <party>R</party>
+        <firstName>JIM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>INHOFE</lastName>
+        <middleName />
+        <state>OK</state>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Rounds</lastName>
+        <middleName />
+        <state>SD</state>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <party>R</party>
+        <firstName>Kevin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <lastName>Cramer</lastName>
+        <middleName />
+        <state>ND</state>
+      </item>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <party>R</party>
+        <firstName>Jerry</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <lastName>Moran</lastName>
+        <middleName />
+        <state>KS</state>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <state>SD</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend title XVIII of the Social Security Act to remove the 96-hour physician certification requirement for inpatient critical access hospital services.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Critical Access Hospital Relief Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Critical Access Hospital Relief Act of 2019</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Critical Access Hospital Relief Act of 2019</title>
+      </item>
+    </titles>
+    <notes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1041</number>
+        <type>HR</type>
+        <latestTitle>Critical Access Hospital Relief Act of 2019</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-02-07</actionDate>
+        </latestAction>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <title>Critical Access Hospital Relief Act of 2019</title>
+    <originChamber>Senate</originChamber>
+    <billNumber>586</billNumber>
+    <sponsors>
+      <item>
+        <lastName>ROBERTS</lastName>
+        <party>R</party>
+        <bioguideId>R000307</bioguideId>
+        <state>KS</state>
+        <middleName />
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <firstName>PAT</firstName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

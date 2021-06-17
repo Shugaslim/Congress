@@ -1,0 +1,78 @@
+<bill session="116" type="h" number="135" updated="2019-04-04T22:17:21Z">
+  <state datetime="2019-01-15T15:38:40-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-01-15T15:38:40-05:00"/>
+  </status>
+  <introduced datetime="2019-01-03"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 to strengthen Federal antidiscrimination laws enforced by the Equal Employment Opportunity Commission and expand accountability within the Federal Government, and for other purposes.</title>
+    <title type="short" as="passed house">Federal Employee Antidiscrimination Act of 2019</title>
+    <title type="short" as="passed house">Federal Employee Antidiscrimination Act of 2019</title>
+    <title type="short" as="introduced">Federal Employee Antidiscrimination Act of 2019</title>
+    <title type="short" as="introduced">Federal Employee Antidiscrimination Act of 2019</title>
+    <title type="display">Federal Employee Antidiscrimination Act of 2019</title>
+  </titles>
+  <sponsor bioguide_id="C000984"/>
+  <cosponsors>
+    <cosponsor bioguide_id="J000032" joined="2019-01-03"/>
+    <cosponsor bioguide_id="M001187" joined="2019-01-03"/>
+    <cosponsor bioguide_id="N000147" joined="2019-01-03"/>
+    <cosponsor bioguide_id="S000244" joined="2019-01-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-01-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-01-03" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </action>
+    <action datetime="2019-01-15T12:41:56-05:00">
+      <text>Mr. Cummings moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2019-01-15T12:42:04-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H558-562" label="consideration"/>
+    </action>
+    <action datetime="2019-01-15T12:42:05-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 135.</text>
+    </action>
+    <action datetime="2019-01-15T13:04:19-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2019-01-15T15:28:33-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H580" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="33" datetime="2019-01-15T15:38:40-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 33).</text>
+      <reference ref="CR H558-560" label="text"/>
+    </vote>
+    <action datetime="2019-01-15T15:38:41-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-01-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Employee performance"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Office of Special Counsel"/>
+    <term name="Personnel records"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

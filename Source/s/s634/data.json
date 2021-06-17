@@ -1,0 +1,191 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-28", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s634-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000360", 
+      "district": null, 
+      "name": "Alexander, Lamar", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "TN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001075", 
+      "district": null, 
+      "name": "Cassidy, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "LA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001095", 
+      "district": null, 
+      "name": "Cotton, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "AR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000295", 
+      "district": null, 
+      "name": "Ernst, Joni", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "IA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000575", 
+      "district": null, 
+      "name": "Lankford, James", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-11", 
+      "state": "OK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001184", 
+      "district": null, 
+      "name": "Scott, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "SC", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000461", 
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-28", 
+      "state": "PA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000064", 
+      "district": null, 
+      "name": "Young, Todd", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-10", 
+      "state": "IN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-28", 
+  "number": "634", 
+  "official_title": "A bill to amend the Internal Revenue Code of 1986 to establish tax credits to encourage individual and corporate taxpayers to contribute to scholarships for students through eligible scholarship-granting organizations and eligible workforce training organizations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1434-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Education Freedom Scholarships and Opportunity Act", 
+  "sponsor": {
+    "bioguide_id": "C001098", 
+    "district": null, 
+    "name": "Cruz, Ted", 
+    "state": "TX", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-02-28", 
+  "subjects": [
+    "Charitable contributions", 
+    "Elementary and secondary education", 
+    "Employment and training programs", 
+    "Government information and archives", 
+    "Higher education", 
+    "Income tax credits", 
+    "Social work, volunteer service, charitable organizations", 
+    "Student aid and college costs", 
+    "Taxation", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Internal Revenue Code of 1986 to establish tax credits to encourage individual and corporate taxpayers to contribute to scholarships for students through eligible scholarship-granting organizations and eligible workforce training organizations, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Education Freedom Scholarships and Opportunity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Education Freedom Scholarships and Opportunity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Education Freedom Scholarships and Opportunity Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-01T07:19:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s634.xml"
+}

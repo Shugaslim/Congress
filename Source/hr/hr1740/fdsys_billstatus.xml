@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2019-05-03</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-03-13</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-03-13</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-03-13</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-13</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-13</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-05-08T07:16:18Z</updateDate>
+    <latestAction>
+      <actionDate>2019-05-03</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1740ih/xml/BILLS-116hr1740ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>1740</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <party>R</party>
+        <firstName>Francis</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000607</bioguideId>
+        <lastName>Rooney</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2323</lisID>
+          <bioguideId>R000607</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>FL</state>
+        <district>19</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <party>R</party>
+        <firstName>W.</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001214</bioguideId>
+        <lastName>Steube</lastName>
+        <identifiers>
+          <lisID>2389</lisID>
+          <bioguideId>S001214</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <state>FL</state>
+        <district>17</district>
+        <middleName>Gregory</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <party>D</party>
+        <firstName>Susan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000826</bioguideId>
+        <lastName>Wild</lastName>
+        <identifiers>
+          <bioguideId>W000826</bioguideId>
+          <lisID>2374</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <state>PA</state>
+        <district>7</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <party>R</party>
+        <firstName>Rick</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000372</bioguideId>
+        <lastName>Allen</lastName>
+        <identifiers>
+          <lisID>2239</lisID>
+          <bioguideId>A000372</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <state>GA</state>
+        <district>12</district>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <party>D</party>
+        <firstName>Henry</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001063</bioguideId>
+        <lastName>Cuellar</lastName>
+        <identifiers>
+          <gpoId>8184</gpoId>
+          <lisID>1807</lisID>
+          <bioguideId>C001063</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>TX</state>
+        <district>28</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Smucker</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Lloyd</firstName>
+        <district>11</district>
+        <byRequestType />
+        <state>PA</state>
+        <bioguideId>S001199</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001199</bioguideId>
+          <lisID>2346</lisID>
+        </identifiers>
+        <fullName>Rep. Smucker, Lloyd [R-PA-11]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-03T17:55:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-13T14:01:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Oversight and Reform Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-13T14:01:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-13T14:01:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Immigration and Nationality Act to provide for an H-2C nonimmigrant classification, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Workforce for an Expanding Economy Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Workforce for an Expanding Economy Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Workforce for an Expanding Economy Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-03-14T07:12:09Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Workforce for an Expanding Economy Act</title>
+    <committeeReports />
+    <introducedDate>2019-03-13</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMUCKER:H.R. 1740.Congress has the power to enact this legislation pursuantto the following:Clause 3 of section 8 of article 1 of the Constitution[Page H2718]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

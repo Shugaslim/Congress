@@ -1,0 +1,164 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1618-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001103", 
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-07", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000385", 
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-07", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "U000031", 
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-02", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-07", 
+  "number": "1618", 
+  "official_title": "To encourage States to require the installation of residential carbon monoxide detectors in homes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s481-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Nicholas and Zachary Burt Carbon Monoxide Poisoning Prevention Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "K000382", 
+    "district": "2", 
+    "name": "Kuster, Ann M.", 
+    "state": "NH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-07", 
+  "subjects": [
+    "Air quality", 
+    "Child care and development", 
+    "Child safety and welfare", 
+    "Commerce", 
+    "Congressional agencies", 
+    "Educational facilities and institutions", 
+    "Emergency communications systems", 
+    "Government Publishing Office (GPO)", 
+    "Government buildings, facilities, and property", 
+    "Hazardous wastes and toxic substances", 
+    "Health facilities and institutions", 
+    "Housing for the elderly and disabled", 
+    "Housing industry and standards", 
+    "Low- and moderate-income housing", 
+    "Product safety and quality", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To encourage States to require the installation of residential carbon monoxide detectors in homes, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Nicholas and Zachary Burt Carbon Monoxide Poisoning Prevention Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Nicholas and Zachary Burt Carbon Monoxide Poisoning Prevention Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Nicholas and Zachary Burt Carbon Monoxide Poisoning Prevention Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-15T19:30:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1618.xml"
+}

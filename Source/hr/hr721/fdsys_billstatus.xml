@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-23T15:00:20Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-04-30T13:12:00Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-31T16:59:14Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif16</systemCode>
+              <name>Communications and Technology Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Message on Senate action sent to the House.</text>
+          <actionDate>2019-05-23</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <number>151</number>
+        <latestTitle>TRACED Act</latestTitle>
+        <type>S</type>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+          <actionDate>2019-04-01</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <number>2015</number>
+        <latestTitle>TRACED Act</latestTitle>
+        <type>HR</type>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+          <actionDate>2019-03-07</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <number>1602</number>
+        <latestTitle>TRACED Act</latestTitle>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <createDate>2019-01-24T08:10:12Z</createDate>
+    <billNumber>721</billNumber>
+    <billType>HR</billType>
+    <title>Spam Calls Task Force Act of 2019</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <prayer>1</prayer>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-30</actionDate>
+        <committee>
+          <name>Communications and Technology Subcommittee</name>
+          <systemCode>hsif16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-31</actionDate>
+        <committee>
+          <name>Communications and Technology Subcommittee</name>
+          <systemCode>hsif16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Communications and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2019-01-23</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-23</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-23</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <committeeReports />
+    <cboCostEstimates />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <bioguideId>C001111</bioguideId>
+        <state>FL</state>
+        <district>13</district>
+        <middleName />
+        <identifiers>
+          <lisID>2321</lisID>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <firstName>Charlie</firstName>
+        <lastName>Crist</lastName>
+        <party>D</party>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2019-01-23</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000577</bioguideId>
+        <firstName>Garret</firstName>
+        <district>6</district>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Graves</lastName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <identifiers>
+          <lisID>2245</lisID>
+          <gpoId />
+          <bioguideId>G000577</bioguideId>
+        </identifiers>
+        <state>LA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001090</bioguideId>
+        <firstName>Matt</firstName>
+        <district>8</district>
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Cartwright</lastName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <firstName>WALTER</firstName>
+        <district>3</district>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <lastName>JONES</lastName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <state>NC</state>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000193</bioguideId>
+        <firstName>BENNIE</firstName>
+        <district>2</district>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>THOMPSON</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>8020</gpoId>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <state>MS</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000472</bioguideId>
+        <firstName>Mark</firstName>
+        <district>41</district>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Takano</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <state>DC</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000381</bioguideId>
+        <firstName>Derek</firstName>
+        <district>6</district>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Kilmer</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001202</bioguideId>
+        <firstName>Stephanie</firstName>
+        <district>7</district>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>N.</middleName>
+        <lastName>Murphy</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <lisID>2318</lisID>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001123</bioguideId>
+        <firstName>Gilbert</firstName>
+        <district>39</district>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Ray</middleName>
+        <lastName>Cisneros</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001123</bioguideId>
+          <lisID>2380</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000808</bioguideId>
+        <firstName>Frederica</firstName>
+        <district>24</district>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <lastName>Wilson</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001047</bioguideId>
+        <firstName>James</firstName>
+        <district>4</district>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <lastName>Himes</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <lisID>1913</lisID>
+          <bioguideId>H001047</bioguideId>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001308</bioguideId>
+        <firstName>Anthony</firstName>
+        <district>22</district>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Brindisi</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <lisID>2429</lisID>
+          <gpoId />
+          <bioguideId>B001308</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000258</bioguideId>
+        <firstName>COLLIN</firstName>
+        <district>7</district>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <lastName>PETERSON</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000581</bioguideId>
+        <firstName>Vicente</firstName>
+        <district>15</district>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Gonzalez</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001199</bioguideId>
+        <firstName>Brian</firstName>
+        <district>18</district>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <lastName>Mast</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2322</lisID>
+          <bioguideId>M001199</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001150</bioguideId>
+        <firstName>ADAM</firstName>
+        <district>28</district>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <lastName>SCHIFF</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>7834</gpoId>
+          <bioguideId>S001150</bioguideId>
+          <lisID>1635</lisID>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001285</bioguideId>
+        <firstName>Julia</firstName>
+        <district>26</district>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Brownley</lastName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000378</bioguideId>
+        <firstName>Cynthia</firstName>
+        <district>3</district>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Axne</lastName>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2395</lisID>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <state>IA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000466</bioguideId>
+        <firstName>Brian</firstName>
+        <district>1</district>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001298</bioguideId>
+        <firstName>Don</firstName>
+        <district>2</district>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Bacon</lastName>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NE</state>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001201</bioguideId>
+        <firstName>Thomas</firstName>
+        <district>3</district>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <lastName>Suozzi</lastName>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001201</bioguideId>
+          <lisID>2341</lisID>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001260</bioguideId>
+        <firstName>Vern</firstName>
+        <district>16</district>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Buchanan</lastName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <identifiers>
+          <gpoId>7885</gpoId>
+          <bioguideId>B001260</bioguideId>
+          <lisID>1840</lisID>
+        </identifiers>
+        <state>FL</state>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000613</bioguideId>
+        <firstName>Max</firstName>
+        <district>11</district>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Rose</lastName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <identifiers>
+          <lisID>2426</lisID>
+          <bioguideId>R000613</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001194</bioguideId>
+        <firstName>John</firstName>
+        <district>4</district>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <lastName>Moolenaar</lastName>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2248</lisID>
+          <gpoId />
+          <bioguideId>M001194</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000592</bioguideId>
+        <firstName>Jared</firstName>
+        <district>2</district>
+        <fullName>Rep. Golden, Jared F. [D-ME-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <lastName>Golden</lastName>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2469</lisID>
+          <bioguideId>G000592</bioguideId>
+        </identifiers>
+        <state>ME</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001066</bioguideId>
+        <firstName>Kathy</firstName>
+        <district>14</district>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Castor</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <identifiers>
+          <lisID>1839</lisID>
+          <bioguideId>C001066</bioguideId>
+          <gpoId>7883</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000610</bioguideId>
+        <firstName>Theodore</firstName>
+        <district>22</district>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <lastName>Deutch</lastName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+        </identifiers>
+        <state>FL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000588</bioguideId>
+        <firstName>Conor</firstName>
+        <district>17</district>
+        <fullName>Rep. Lamb, Conor [D-PA-17]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Lamb</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000588</bioguideId>
+          <lisID>2367</lisID>
+        </identifiers>
+        <state>PA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000188</bioguideId>
+        <firstName>RON</firstName>
+        <district>3</district>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>KIND</lastName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <state>WI</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRIST:H.R. 721.Congress has the power to enact this legislation pursuantto the following:Article I, Section VIII[Page H1172]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To direct the Attorney General to convene an interagency working group to study the enforcement of section 227(b) of the Communications Act of 1934.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Spam Calls Task Force Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Spam Calls Task Force Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Spam Calls Task Force Act of 2019</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr721ih/xml/BILLS-116hr721ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-23T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-05-22T16:11:55Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-23T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Spam Calls Task Force Act of 2019</b></p> <p>This bill requires the Department of Justice to assemble an interagency working group to study and report to Congress on the enforcement of the prohibition of certain robocalls. Specifically, the working group will look into how to better enforce against robocalls by examining issues like the types of laws, policies, or constraints that could be inhibiting enforcement.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-01-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-05-24T07:15:37Z</updateDate>
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <links />
+      <actionDate>2019-04-30</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

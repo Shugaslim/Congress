@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2019-05-21</introducedDate>
+    <sponsors>
+      <item>
+        <lastName>Zeldin</lastName>
+        <bioguideId>Z000017</bioguideId>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <state>NY</state>
+        <district>1</district>
+        <firstName>Lee</firstName>
+        <middleName>M.</middleName>
+        <byRequestType />
+        <party>R</party>
+        <identifiers>
+          <lisID>2261</lisID>
+          <gpoId />
+          <bioguideId>Z000017</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <billType>HR</billType>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To include nonprofit and volunteer ground and air ambulance crew members and first responders for certain benefits.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To include nonprofit and volunteer ground and air ambulance crew members and first responders for certain benefits.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <title>To include nonprofit and volunteer ground and air ambulance crew members and first responders for certain benefits.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-21T14:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-05-22T07:12:08Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <lastName>Suozzi</lastName>
+        <bioguideId>S001201</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <state>NY</state>
+        <middleName>R.</middleName>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-05-21</actionDate>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <laws />
+    <relatedBills />
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-21</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-21</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <billNumber>2887</billNumber>
+    <congress>116</congress>
+    <notes />
+    <updateDate>2019-05-22T07:17:35Z</updateDate>
+    <version>1.0.0</version>
+    <policyArea />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <textVersions />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

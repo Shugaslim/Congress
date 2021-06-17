@@ -1,0 +1,134 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-15", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2609-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "T000484", 
+      "district": "2", 
+      "name": "Torres Small, Xochitl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-14", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-09", 
+  "number": "2609", 
+  "official_title": "To amend the Homeland Security Act of 2002 to establish the Acquisition Review Board in the Department of Homeland Security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "DHS Acquisition Review Board Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001120", 
+    "district": "2", 
+    "name": "Crenshaw, Dan", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-05-15", 
+  "subjects": [
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Executive agency funding and structure", 
+    "Government employee pay, benefits, personnel management", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to establish the Acquisition Review Board in the Department of Homeland Security, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Review Board Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Review Board Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Review Board Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-05-29T13:26:05Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2609.xml"
+}
